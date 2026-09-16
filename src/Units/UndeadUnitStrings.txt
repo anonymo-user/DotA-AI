@@ -1,525 +1,525 @@
 [Ucrl]
-Name=山岭巨人
-Propernames=小小
-Tip=山岭巨人
+Name="Stone Giant"
+Propernames="Tiny"
+Tip="Stone Giant"
 Hotkey=
-Ubertip=在艾森娜的岩石峭壁中的隐约可见的山岭巨人由大山孕育而生。山岭巨人小小是一个新生的巨人。身形虽小，却有着山一般的力量。拥有超强力量的他可以把任何东西都扔到空中，比如投掷起大量的泥石以造成山崩来包围他的敌人。他岩石般坚硬的外表，让攻击他的敌人反受其害。随着时间的推移，来自他花岗岩心脏深处的吸引力能够吸引四周的石头土块，让山岭巨人“发育长大”，成为名副其实的山岭巨人。|n|n|cffff0303力量|r - 24 + 3.0|n|cff0042ff敏捷|r - 9 + 0.9|n|cff0042ff智力|r - 14 + 1.6|n|n可以学习 山崩、投掷、崎岖外表和|cffff8000长大！|r。|n|n攻击距离 128（近程）|n移动速度 285
-Revivetip=复活 山岭巨人
-Awakentip=复活 山岭巨人
+Ubertip="Barely visible among the rocky cliffs of Aessina, Tiny the Stone Giant was born from the mountain itself. Tiny is a newborn giant. Small in stature, he nonetheless possesses the strength of a mountain. With his immense power he can hurl anything into the air, such as tossing great masses of earth and stone to trigger an avalanche that surrounds his enemies. His rock-hard exterior turns harm back upon those who attack him. As time goes by, the gravity deep within his granite heart draws in the surrounding rocks and soil, letting the Stone Giant grow up into a true mountain giant.|n|n|cffff0303Strength|r - 24 + 3.0|n|cff0042ffAgility|r - 9 + 0.9|n|cff0042ffIntelligence|r - 14 + 1.6|n|nCan learn Avalanche, Toss, Craggy Exterior and |cffff8000Grow!|r.|n|nAttack range of 128 (melee).|nMovement speed of 285."
+Revivetip="Revive Stone Giant"
+Awakentip="Revive Stone Giant"
 [uaco]
-Name=Acolyte
-Tip=Train A|cffffcc00c|rolyte
-Ubertip="Basic worker. Can summon structures, harvest gold, and Restore. Acolytes may be sacrificed at a Sacrificial Pit to create Shades. |n|n|cffffcc00Attacks land units.|r"
+Name="Acolyte"
+Tip="Train A|cffffcc00c|rolyte"
+Ubertip="Basic worker. Can summon structures, harvest gold, and Restore. Acolytes may be sacrificed at a Sacrificial Pit to create Shades.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=C
 [uabo]
-Name=Abomination
-Tip=Train |cffffcc00A|rbomination
-Ubertip=Heavy melee unit. Can learn the Disease Cloud ability and Cannibalize. |n|n|cffffcc00Attacks land units.|r
+Name="Abomination"
+Tip="Train |cffffcc00A|rbomination"
+Ubertip="Heavy melee unit. Can learn the Disease Cloud ability and Cannibalize.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=A
 [Udea]
-Name=地狱领主
-Propernames=亚巴顿
-Tip=地狱领主
-Ubertip=作为以前一名有名望的圣骑士，地狱领主在燃烧军团入侵期间跌入黑暗，被恶魔所占有之后他的灵魂和力量都被腐蚀了。现在作为一名死亡骑士，身居巫妖王治下高位的他驰骋在战场上，和各种难缠的对手战斗着，永不停止，直到到达世界之树。他时而用他黑暗能量所产生的盾来增强他的毅力，时而牺牲自己的生命力在战斗中治疗友军，地狱领主带领他的天灾部队稳步前进，永远将战斗的对象锁定在正义的力量上，而所谓的敌人正是他以前的战友。|n|n|cffff0303力量|r - 23 + 2.7|n|cff0042ff敏捷|r - 17 + 1.5|n|cff0042ff智力|r - 21 + 2.0|n|n可以学习 死亡缠绕、无光之盾、霜之哀伤和|cffff8000回光返照|r。|n|n攻击距离 128（近程）|n移动速度 310
-Revivetip=复活 地狱领主
-Awakentip=复活 地狱领主
+Name="Lord of Avernus"
+Propernames="Abaddon"
+Tip="Lord of Avernus"
+Ubertip="Once a renowned paladin, Abaddon the Lord of Avernus fell into darkness during the Burning Legion's invasion, and after being possessed by a demon both his soul and his power were corrupted. Now, as a death knight holding a high station under the Lich King, he charges across the battlefield, battling all manner of stubborn foes without ever ceasing, until he reaches the World Tree. At times he strengthens his resolve with a shield born of his dark energy, at others he sacrifices his own life force to heal allies in the midst of combat. Abaddon leads his Scourge forces steadily onward, forever fixing the target of his battle upon the forces of justice, whose so-called enemies are in fact his former comrades.|n|n|cffff0303Strength|r - 23 + 2.7|n|cff0042ffAgility|r - 17 + 1.5|n|cff0042ffIntelligence|r - 21 + 2.0|n|nCan learn Death Coil, Aphotic Shield, Frostmourne and |cffff8000Borrowed Time|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."
+Revivetip="Revive Lord of Avernus"
+Awakentip="Revive Lord of Avernus"
 Hotkey=
 [Udre]
-Name=暗夜魔王
-Propernames=巴拉那
-Tip=暗夜魔王
-Ubertip=你对夜晚感到好奇是么，那你当心了。你所向前迈出的每一步，都让你在黑暗的恐怖统治中越陷越深。暗夜魔王，作为向世界散播扭曲虚空绝对黑暗的恐惧领主中的精英，在黑暗中神出鬼没。你会心惊肉跳，你会双腿颤抖，你会不知所措地面对他在黑暗中的追猎。你没有反抗的机会，你没有逃跑的可能，你甚至没有藏身之处----黑暗无所不在！祈祷吧，哀号吧，但是黑暗不会过去，直到你最终死去。|n|n|c00ff0303力量|r - 23 + 2.8|n|c000042ff敏捷|r - 18 + 2.25|n|c000042ff智力|r - 16 + 1.6|n|n可以学习 虚空、伤残恐惧、黑夜猎手和|c00ff8000夜幕降临|r。|n|n攻击距离 128（近程）|n移动速度 295
-Revivetip=复活 暗夜魔王
-Awakentip=复活 暗夜魔王
+Name="Night Stalker"
+Propernames="Balanar"
+Tip="Night Stalker"
+Ubertip="So you are curious about the night? Then beware. Every step you take forward sinks you deeper into the terror of the dark's reign. The Night Stalker, elite among the dread lords who spread the absolute darkness of the twisted void across the world, comes and goes unseen in the dark. Your heart will pound, your legs will tremble, and you will be helpless before his hunt in the darkness. You have no chance to resist, no possibility of escape, not even a place to hide - the darkness is everywhere! Pray, wail, but the darkness will not pass until you finally die.|n|n|cffff0303Strength|r - 23 + 2.8|n|cff0042ffAgility|r - 18 + 2.25|n|cff0042ffIntelligence|r - 16 + 1.6|n|nCan learn Void, Crippling Fear, Hunter in the Night and |cffff8000Darkness|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
+Revivetip="Revive Night Stalker"
+Awakentip="Revive Night Stalker"
 Hotkey=
 [ugar]
-Name=Gargoyle
-Tip=召唤怨灵
-Ubertip=Flying attack creature. Can learn the Stone Form ability. |n|n|cffffcc00Attacks land and air units.|r
+Name="Gargoyle"
+Tip="Train G|cffffcc00a|rrgoyle"
+Ubertip="Flying attack creature. Can learn the Stone Form ability.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=A
 [ugrm]
-Name=Stone Form Gargoyle
-Tip=召唤怨灵
-Ubertip=飞行单位。|n|n|cffffcc00攻击地面与空中单位|r
+Name="Stone Form Gargoyle"
+Tip="Train G|cffffcc00a|rrgoyle"
+Ubertip="Flying unit.|n|n|cffffcc00Attacks ground and air units.|r"
 Hotkey=A
 [ugho]
-Name=食尸鬼
-Tip=训练 食尸鬼(|cffffcc00G|r)
-Ubertip=天灾军团近战兵种。
+Name="Ghoul"
+Tip="Train |cffffcc00G|rhoul"
+Ubertip="Scourge melee unit."
 Hotkey=G
 [Ulic]
-Name=巫妖
-Propernames=克尔苏加德
-Tip=巫妖
-Ubertip=身为被巫妖王的强力魔法复活过来的精英级守卫，克尔苏加德能够如臂使指地操纵诺森兰的严寒。他生前操控寒冰气流的天赋并没有因为他的死亡而消失。由于对寒冰魔法的极度精通，使得他能够将寒气聚集在一个球体上，并让它在敌军之中四处跳跃造成极大的杀伤力，令那些敌人体验到他复活时所遭受的巨大痛苦。他可以为了恢复魔力而不惜牺牲自己的盟友，是个不折不扣的冷血杀手。|n|n|cff0042ff力量|r - 18 + 1.55|n|cff0042ff敏捷|r - 15 + 2.0|n|cffff0303智力|r - 18 + 3.25|n|n可以学习 霜冻新星、霜冻护甲、黑暗仪式和|cffff8000连环霜冻|r。|n|n攻击距离 550（远程）|n移动速度 315
-Revivetip=复活 巫妖
-Awakentip=复活 巫妖
+Name="Lich"
+Propernames="Kel'Thuzad"
+Tip="Lich"
+Ubertip="As an elite guardian resurrected by the Lich King's mighty magic, Kel'Thuzad wields the bitter cold of Northrend as though it were an extension of his own arm. His gift for commanding icy currents in life did not vanish with his death. Through his utter mastery of frost magic he can gather the chill into a single orb and send it bouncing through the enemy ranks to deal enormous harm, letting his foes taste the immense agony he suffered upon his own resurrection. He will readily sacrifice his own allies to restore his mana, an utterly cold-blooded killer.|n|n|cff0042ffStrength|r - 18 + 1.55|n|cff0042ffAgility|r - 15 + 2.0|n|cffff0303Intelligence|r - 18 + 3.25|n|nCan learn Frost Nova, Frost Armor, Dark Ritual and |cffff8000Chain Frost|r.|n|nAttack range of 550 (ranged).|nMovement speed of 315."
+Revivetip="Revive Lich"
+Awakentip="Revive Lich"
 Hotkey=
-Description=巫妖
+Description="Lich"
 [unec]
-Name=亡灵法师
-Tip=训练 亡灵法师(|cffffcc00N|r)
-Ubertip=天灾远程单位。
+Name="Necromancer"
+Tip="Train |cffffcc00N|recromancer"
+Ubertip="Scourge ranged unit."
 Hotkey=N
 Casterupgradename=
 Casterupgradetip=
 [uske]
-Name=骷髅战士
-Tip=召唤 骷髅战士
+Name="Skeleton Warrior"
+Tip="Summon Skeleton Warrior"
 [uplg]
-Name=Disease Cloud
+Name="Disease Cloud"
 [uaod]
-Name=Altar of Darkness
-Tip=Summon |cffffcc00A|rltar of Darkness
-Ubertip=Summons Heroes. Revives slain Heroes.
+Name="Altar of Darkness"
+Tip="Summon |cffffcc00A|rltar of Darkness"
+Ubertip="Summons Heroes. Revives slain Heroes."
 Hotkey=A
 [unpl]
-Name=冰封王座
-Tip=建造 冰封王座(|cffffcc00N|r)
-Ubertip=天灾军团的终极建筑
+Name="The Frozen Throne"
+Tip="Summon |cffffcc00N|recropolis"
+Ubertip="The ultimate structure of the Scourge."
 Hotkey=N
 [unp1]
-Name=Halls of the Dead
-Tip=|cffffcc00U|rpgrade to Halls of the Dead
-Ubertip=Upgrade to Halls of the Dead to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land and air units.|r
+Name="Halls of the Dead"
+Tip="|cffffcc00U|rpgrade to Halls of the Dead"
+Ubertip="Upgrade to Halls of the Dead to enable the production of additional types of structures and units.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=U
 [unp2]
-Name=Black Citadel
-Tip=|cffffcc00U|rpgrade to Black Citadel
-Ubertip=Upgrade to Black Citadel to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land and air units.|r
+Name="Black Citadel"
+Tip="|cffffcc00U|rpgrade to Black Citadel"
+Ubertip="Upgrade to Black Citadel to enable the production of additional types of structures and units.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=U
 [usep]
-Name=地穴
+Name="Crypt"
 Tip=
 Ubertip=
 Hotkey=C
 [utod]
-Name=诅咒神庙
+Name="Temple of the Damned"
 Tip=
 Ubertip=
 Hotkey=T
 [utom]
-Name=崩碎之穴
+Name="Tomb of Relics"
 Hotkey=R
-Tip=Summon Tomb of |cffffcc00R|relics
+Tip="Summon Tomb of |cffffcc00R|relics"
 Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Necropolis has (Necropolis, Halls of the Dead, or Black Citadel) and which buildings you have."
 [ugol]
-Name=Haunted Gold Mine
-Tip=Haunt |cffffcc00G|rold Mine
-Ubertip=Haunts a gold mine so that Acolytes can mine. Use on gold mines to corrupt them.
+Name="Haunted Gold Mine"
+Tip="Haunt |cffffcc00G|rold Mine"
+Ubertip="Haunts a gold mine so that Acolytes can mine. Use on gold mines to corrupt them."
 Hotkey=G
 [uzig]
-Name=通灵塔
+Name="Ziggurat"
 Tip=
 Ubertip=
 Hotkey=Z
 [uzg1]
-Name=Spirit Tower
-Tip=Upgrade to Spirit |cffffcc00T|rower
-Ubertip=Upgrade to create a defensive structure. |n|n|cffffcc00Attacks land and air units.|r
+Name="Spirit Tower"
+Tip="Upgrade to Spirit |cffffcc00T|rower"
+Ubertip="Upgrade to create a defensive structure.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=T
 [umtw]
-Name=绞肉车
-Tip=制造 绞肉车(|cffffcc00M|r)
-Ubertip=储藏尸体的机器，同时也是远距离的攻城武器，对建筑有着显著的破坏效果。|n|n|cffffcc00攻击地面单位|r
+Name="Meat Wagon"
+Tip="Train |cffffcc00M|reat Wagon"
+Ubertip="A machine that stores corpses and also serves as a long-range siege weapon, dealing significant damage to buildings.|n|n|cffffcc00Attacks ground units.|r"
 Hotkey=M
 [ubon]
-Name=埋骨地
+Name="Boneyard"
 Tip=
 Ubertip=
 Hotkey=B
 [usap]
-Name=牺牲深渊
+Name="Sacrificial Pit"
 Tip=
 Ubertip=
 Hotkey=S
 [uslh]
-Name=Slaughterhouse
-Tip=Summon Slaughter|cffffcc00h|rouse
+Name="Slaughterhouse"
+Tip="Summon Slaughter|cffffcc00h|rouse"
 Ubertip="Produces Abominations, Obsidian Statues, and Meat Wagons. Also contains the Disease Cloud, and Destroyer Form upgrades."
 Hotkey=H
 [ushd]
-Name=Watcher
+Name="Watcher"
 Tip=
 Ubertip=
 [ugrv]
-Name=Graveyard
-Tip=Summon Gra|cffffcc00v|reyard
-Ubertip=Provides attack and armor upgrades for Undead units. Also produces corpses and serves as a drop-off point for harvested lumber.
+Name="Graveyard"
+Tip="Summon Gra|cffffcc00v|reyard"
+Ubertip="Provides attack and armor upgrades for Undead units. Also produces corpses and serves as a drop-off point for harvested lumber."
 Hotkey=V
 [uobs]
-Name=Obsidian Statue
-Tip=Create |cffffcc00O|rbsidian Statue
+Name="Obsidian Statue"
+Tip="Create |cffffcc00O|rbsidian Statue"
 Hotkey=O
-Ubertip="Fortified statue that can help replenish the life and mana of your army. Can initially cast Spirit Touch and Essence of Blight, and learn the Destroyer Form ability. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Fortified statue that can help replenish the life and mana of your army. Can initially cast Spirit Touch and Essence of Blight, and learn the Destroyer Form ability.|n|n|cffffcc00Attacks land and air units.|r"
 [ubsp]
-Name=黑曜毁灭者
-Tip=Morph into Des|cffffcc00t|rroyer
+Name="Destroyer"
+Tip="Morph into Des|cffffcc00t|rroyer"
 Hotkey=T
-Ubertip="Large flying unit that must consume magic to sustain its mana. Excellent at destroying enemy casters and clusters of ground forces. Initially has Spell Immunity, Devour Magic, Absorb Mana, and Orb of Annihilation. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Large flying unit that must consume magic to sustain its mana. Excellent at destroying enemy casters and clusters of ground forces. Initially has Spell Immunity, Devour Magic, Absorb Mana, and Orb of Annihilation.|n|n|cffffcc00Attacks land and air units.|r"
 [U00K]
-Name=沙王
-Propernames=克里瑟历斯
-Tip=沙王
+Name="Sand King"
+Propernames="Crixalis"
+Tip="Sand King"
 Hotkey=
-Ubertip=作为来自埃兹卓蜘蛛王国的一名守护者，沙王为躲避巫妖王的种族屠杀逃亡至卡里姆多的沙漠。当地干燥的气候将这个战士转变为操纵大地的专家，能够刮起有毒的沙尘暴使敌人体无完肤。那些不幸死在他手上的人，死亡时将无可避免得爆炸，变成一团剧毒气体。察觉到他日渐增长的能力后，巫妖王虽然无法从根本上动摇他的意志，最终还是将他收服。面对有沙王助阵的天灾军团，近卫众人的心也如同脚下的大地一样变得颤抖。|n|n|c00ff0303力量|r - 18 + 2.6|n|c000042ff敏捷|r - 19 + 2.1|n|c000042ff智力|r - 16 + 1.8|n|n可以学习 掘地穿刺、沙尘暴、腐尸毒和|c00ff8000地震|r。|n|n攻击距离 128（近程）|n移动速度 300
-Revivetip=复活 沙王
-Awakentip=复活 沙王
+Ubertip="As a guardian from the spider kingdom of Azjol-Nerub, the Sand King fled to the deserts of Kalimdor to escape the Lich King's genocide of his race. The region's arid climate transformed this warrior into a master of manipulating the earth, able to whip up venomous sandstorms that leave enemies torn to shreds. Those unlucky enough to die at his hands will inevitably explode upon death into a cloud of deadly toxic gas. Sensing his ever-growing power, the Lich King, though unable to shake his will at its root, finally brought him into servitude. Facing the Scourge with the Sand King at their side, the hearts of the Sentinel tremble like the very ground beneath their feet.|n|n|cffff0303Strength|r - 18 + 2.6|n|cff0042ffAgility|r - 19 + 2.1|n|cff0042ffIntelligence|r - 16 + 1.8|n|nCan learn Burrowstrike, Sand Storm, Caustic Finale and |cffff8000Epicenter|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Revivetip="Revive Sand King"
+Awakentip="Revive Sand King"
 [u004]
-Name=黑洞
+Name="Black Hole"
 Tip=
 Ubertip=
 Hotkey=A
 [u009]
-Name=怨灵
-Tip=召唤怨灵
-Ubertip=飞行单位。|n|n|cffffcc00攻击地面与空中单位|r
+Name="Revenant"
+Tip="Train G|cffffcc00a|rrgoyle"
+Ubertip="Flying unit.|n|n|cffffcc00Attacks ground and air units.|r"
 Hotkey=A
 [UC42]
-Name=末日使者
-Propernames=路西法
-Tip=末日使者
-Ubertip=末日使者曾经是黑暗领主萨格拉斯带领燃烧军团大举入侵时末日守卫的统领。旧主已逝，他将他不灭的忠诚献给天灾军团以完成主人未了的心愿。他在贪婪地吞噬那些弱小生命的同时，消散那些勉强能够抵御炙热焦土的灵魂。他从不留活口，即使是那些终于忍受住了他的愤怒的人也将一个个在他的末日诅咒下痛苦地死去。|n|n|cffff0303力量|r - 26 + 3.2|n|cff0042ff敏捷|r - 11 + 0.9|n|cff0042ff智力|r - 13 + 2.1|n|n可以学习 吞噬、焦土、死亡等级？和|cffff8000末日|r。|n|n攻击距离 150（近程）|n移动速度 290
-Revivetip=复活 末日使者
-Awakentip=复活 末日使者
+Name="Doom Bringer"
+Propernames="Lucifer"
+Tip="Doom Bringer"
+Ubertip="The Doombringer was once the commander of the doom guard during the Dark Titan Sargeras's great invasion at the head of the Burning Legion. With his old master gone, he offered his undying loyalty to the Scourge to fulfill his master's unfinished will. As he greedily devours weaker forms of life, he dispels the souls that barely manage to endure his scorching earth. He never leaves survivors; even those who at last withstand his fury will, one by one, die in agony under his curse of doom.|n|n|cffff0303Strength|r - 26 + 3.2|n|cff0042ffAgility|r - 11 + 0.9|n|cff0042ffIntelligence|r - 13 + 2.1|n|nCan learn Devour, Scorched Earth, LVL? Death and |cffff8000Doom|r.|n|nAttack range of 150 (melee).|nMovement speed of 290."
+Revivetip="Revive Doom Bringer"
+Awakentip="Revive Doom Bringer"
 Hotkey=
-Description=末日使者
+Description="Doom Bringer"
 [U006]
-Name=育母蜘蛛
-Propernames=布蕾克．艾拉齐娜
-Tip=育母蜘蛛
+Name="Broodmother"
+Propernames="Black Arachnia"
+Tip="Broodmother"
 Hotkey=
-Ubertip=她曾经是尼鲁布一族的女王，治下之臣民都对她感到恐惧。然而和变节的地穴刺客相爱无疑是她犯的一个致命错误，而她也因此被王国所流放。现在，她和她的真爱并肩投入到战场上，并生下两人的后代----小蜘蛛们作为他们不渝爱恋的象征。她是织网的高手，她的能力能使任何敢于攻击她的对手麻痹无力，她还会将卵产入这些可怜的牺牲品的体内，一旦他们死亡，那些幼虫就会破体而出。她对于战斗的渴望，支撑着她并使她变得更为强大。这使许多人相信，她对于血肉的欲望是永远不会满足的……|n|n|cff0042ff力量|r - 17 + 2.5|n|cffff0303敏捷|r - 18 + 2.2|n|cff0042ff智力|r - 18 + 2.0|n|n可以学习 孵化蜘蛛、织网、麻痹之咬和|cffff8000极度饥渴|r。|n|n攻击距离 128（近程）|n移动速度 295
-Revivetip=复活 育母蜘蛛
-Awakentip=复活 育母蜘蛛
+Ubertip="She was once the queen of the Nerubian people, and all the subjects under her rule dreaded her. Yet falling in love with the traitorous crypt assassin was undoubtedly a fatal mistake she made, and for it she was exiled from her kingdom. Now she and her true love throw themselves side by side into battle, and have borne their offspring - the spiderlings, as a token of their unyielding love. She is a master weaver, and her power can render helpless any foe who dares attack her; she also lays her eggs inside these pitiful victims, and once they die the larvae burst forth from their bodies. Her craving for battle sustains her and makes her ever stronger. This leads many to believe that her hunger for flesh can never be sated......|n|n|cff0042ffStrength|r - 17 + 2.5|n|cffff0303Agility|r - 18 + 2.2|n|cff0042ffIntelligence|r - 18 + 2.0|n|nCan learn Spawn Spiderlings, Spin Web, Incapacitating Bite and |cffff8000Insatiable Hunger|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
+Revivetip="Revive Broodmother"
+Awakentip="Revive Broodmother"
 [U007]
-Name=噬魂鬼
-Propernames=奈克斯
-Tip=召唤 噬魂鬼[|cffffcc00L|r]
-Ubertip=很久以前的洛丹伦，有一个极为贪婪的人，已不值得任何怜悯。终于，在试图偷取阿尔萨斯王子的圣戒时被抓获并被判绞刑。他因盗窃的欲望而腐蚀的身体后来以食尸鬼的形态复生。他已经不记得自己的名字了，只知道现在是奈克斯，欲望和贪婪的化身。他现在从他遇见的每一个生物那里贪婪的偷取生命。|n|n|cffff0303力量|r - 25 + 2.4|n|cff0042ff敏捷|r - 18 + 1.9|n|cff0042ff智力|r - 15 + 1.75|n|n可以学习 盛宴、代谢狂热、毒刺和|cffff8000狂怒|r。|n|n攻击距离 128（近程）|n移动速度 315
-Revivetip=复活 噬魂鬼[|cffffcc00L|r]
-Awakentip=复活 噬魂鬼[|cffffcc00L|r]
+Name="Lifestealer"
+Propernames="N'aix"
+Tip="Summon |cffffcc00L|rifestealer"
+Ubertip="Long ago in Lordaeron there was an exceedingly greedy man, no longer deserving of any pity. At last, while attempting to steal Prince Arthas's holy ring, he was caught and sentenced to hang. His body, corrupted by his lust for theft, later rose again in the form of a ghoul. He no longer remembers his own name, knowing only that he is now N'aix, the incarnation of desire and greed. He now greedily steals the life from every creature he encounters.|n|n|cffff0303Strength|r - 25 + 2.4|n|cff0042ffAgility|r - 18 + 1.9|n|cff0042ffIntelligence|r - 15 + 1.75|n|nCan learn Feast, Metabolism, Poison Sting and |cffff8000Rage|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
+Revivetip="Revive |cffffcc00L|rifestealer"
+Awakentip="Revive |cffffcc00L|rifestealer"
 Hotkey=
 [UC01]
-Name=痛苦女王
-Propernames=阿卡莎
-Tip=痛苦女王
-Ubertip=痛苦女王是死于霜之哀伤剑下的无数亡魂之一。在被巫妖王复活成女妖之后，她决定为自己寻找新的躯体。在森林深处，她成功地征服了一个魔女，并占据了她的肉身。她最喜欢用魔女的毒击和女妖的嚎叫折磨敌人，是名副其实的“痛苦女王”。痛苦女王刺耳的尖叫能震破敌人的耳膜，有些大声的尖叫甚至能产成强力的声波，使地表泛起波纹，将它们所经过的一切东西都震得粉碎。|n|n|cff0042ff力量|r - 16 + 1.7|n|cff0042ff敏捷|r - 18 + 2.0|n|cffff0303智力|r - 24 + 2.5|n|n可以学习 暗影突袭、闪烁、痛苦尖叫和|cffff8000超声冲击波|r。|n|n攻击距离 550（远程）|n移动速度 300
-Revivetip=复活 痛苦女王
-Awakentip=复活 痛苦女王
+Name="Queen of Pain"
+Propernames="Akasha"
+Tip="Queen of Pain"
+Ubertip="The Queen of Pain is one of the countless departed souls who fell beneath the blade of Frostmourne. After the Lich King raised her as a banshee, she resolved to find a new body for herself. Deep in the forest she successfully subdued a sorceress and took possession of her flesh. She most loves to torment her enemies with the sorceress's venomous strikes and the banshee's wail, a Queen of Pain in every sense. Her ear-splitting shrieks can rupture her foes' eardrums, and some of her loudest screams can even generate powerful sound waves that ripple across the earth's surface, shattering to pieces everything they pass over.|n|n|cff0042ffStrength|r - 16 + 1.7|n|cff0042ffAgility|r - 18 + 2.0|n|cffff0303Intelligence|r - 24 + 2.5|n|nCan learn Shadow Strike, Blink, Scream of Pain and |cffff8000Sonic Wave|r.|n|nAttack range of 550 (ranged).|nMovement speed of 300."
+Revivetip="Revive Queen of Pain"
+Awakentip="Revive Queen of Pain"
 Hotkey=
-Description=痛苦女王
+Description="Queen of Pain"
 [U008]
-Name=狼人
-Propernames=贝恩霍勒
-Tip=狼人
-Ubertip=狼人是天灾军团创造出来的狂兽魔神。他在世上的黑暗森林居住了好些年，猎杀在那里徘徊的无辜生灵。现在他被召去协助他的主人。他陶醉于鲜血和战争，用他的狼性吸引凶猛的野兽入伍并将他那能够撕碎血肉的强壮气魄渗透到盟友的身体中去。他是异乎寻常的快速、敏捷。有人说他甚至能变成一头巨狼，使他更具耐力和速度来毫无顾忌地追杀猎物。|n|n|cffff0303力量|r - 22 + 2.75|n|cff0042ff敏捷|r - 16 + 1.9|n|cff0042ff智力|r - 17 + 1.55|n|n可以学习 野性驱使、嗥叫、召狼和|cffff8000变狼|r。|n|n攻击距离 128（近程）|n移动速度 305
-Revivetip=复活 狼人
-Awakentip=复活 狼人
+Name="Lycanthrope"
+Propernames="Banehallow"
+Tip="Lycanthrope"
+Ubertip="Banehallow is an avatar of bestial fury created by the Scourge. For years he dwelled in the dark forests of the world, hunting the innocent creatures that wandered there. Now he is summoned to aid his master. Reveling in blood and war, he uses his wolfish nature to draw ferocious beasts into service and infuses his flesh-rending strength into the bodies of his allies. He is unusually fast and agile. Some say he can even turn into a giant wolf, granting him greater endurance and speed to hunt his prey without restraint.|n|n|cffff0303Strength|r - 22 + 2.75|n|cff0042ffAgility|r - 16 + 1.9|n|cff0042ffIntelligence|r - 17 + 1.55|n|nCan learn Feral Impulse, Howl, Summon Wolves and |cffff8000Shapeshift|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Revivetip="Revive Lycanthrope"
+Awakentip="Revive Lycanthrope"
 Hotkey=
 [U000]
-Name=地穴刺客
-Propernames=阿努巴拉克,阿努巴拉克,阿努巴拉克,阿努巴拉克,阿菜巴拉克,阿努巴拉克,阿努巴拉克,阿努巴拉克
-Tip=地穴刺客
+Name="Nerubian Assassin"
+Propernames=Anub'arak,Anub'arak,Anub'arak,Anub'arak,A'noob Arak,Anub'arak,Anub'arak,Anub'arak
+Tip="Nerubian Assassin"
 Hotkey=
-Ubertip=地穴刺客以前是尼鲁布蜘蛛人最伟大的战士，但是在第二次蜘蛛战争中战死。巫妖王耐奥祖给予了他重生和不死的肉体，来换取他永远不变的忠诚。当遇到威胁的时候，他会射出他的尖刺来让敌人残废并神志迷乱。他引导他的黑暗力量聚入一道让人松懈的负面能量中，而那些目击到他融合在冰封苔原阴影之中的人从来没有活着说出这个事情的机会。|n|n|cff0042ff力量|r - 18 + 2.0|n|cffff0303敏捷|r - 19 + 2.2|n|cff0042ff智力|r - 18 + 2.1|n|n可以学习 穿刺、法力燃烧、尖刺外壳和|cffff8000仇杀|r。|n|n攻击距离 128（近程）|n移动速度 300
-Revivetip=复活 地穴刺客
-Awakentip=复活 地穴刺客
+Ubertip="The crypt assassin was once the greatest warrior of the Nerubian spider people, but he fell in battle during the Second Nerubian War. The Lich King Ner'zhul granted him rebirth and an undying body in exchange for his forever-unchanging loyalty. When faced with a threat, he fires his spikes to cripple and derange his enemies. He channels his dark power into a debilitating current of negative energy, and those who witness him melting into the shadows of the frozen tundra never live to speak of it.|n|n|cff0042ffStrength|r - 18 + 2.0|n|cffff0303Agility|r - 19 + 2.2|n|cff0042ffIntelligence|r - 18 + 2.1|n|nCan learn Impale, Mana Burn, Spiked Carapace and |cffff8000Vendetta|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Revivetip="Revive Nerubian Assassin"
+Awakentip="Revive Nerubian Assassin"
 [u00H]
-Name=链节
+Name="Chain Link"
 Tip=
 Ubertip=
 [uC74]
-Name=黑市商人 雷拉格斯
+Name="Leragas The Vile"
 Tip=
 Ubertip=
 Hotkey=
 [u00J]
-Name=启明之球
+Name="Illuminate Orb"
 Tip=
 Ubertip=
 [U00A]
-Name=混沌骑士
-Propernames=涅沙
-Tip=混沌骑士
-Ubertip=作为混乱之神的弟子，混沌骑士极力运用他被赋予的力量散播混乱和邪恶。他竭尽全力对抗着秩序和正义。他可以通过召唤混乱能量来伤害并随机击晕对手，再配合他撕裂空间的能力，瞬间击倒一切敢于阻碍他的对手。他可怕力量的极致在于他可以制造三个自身的幻象，每个幻象都拥有本体全部的攻击力，在战场上制造大范围的混乱，给正义以迎头痛击。|n|n|cffff0303力量|r - 20 + 2.9|n|cff0042ff敏捷|r - 14 + 2.1|n|cff0042ff智力|r - 16 + 1.2|n|n可以学习 混乱之箭、实相裂隙、致命一击和|cffff8000幻象|r。|n|n攻击距离 128（近程）|n移动速度 325
-Revivetip=复活 混沌骑士
-Awakentip=复活 混沌骑士
+Name="Chaos Knight"
+Propernames="Nessaj"
+Tip="Chaos Knight"
+Ubertip="As a disciple of the god of chaos, the Chaos Knight strives to use the power bestowed upon him to spread chaos and evil. He fights with all his might against order and justice. By summoning chaotic energy he can harm and randomly stun his foes, and combined with his ability to tear through space he instantly strikes down all who dare stand in his way. The pinnacle of his terrifying power lies in his ability to create three illusions of himself, each possessing the full attack damage of the original, sowing widespread chaos across the battlefield and dealing a crushing blow to justice.|n|n|cffff0303Strength|r - 20 + 2.9|n|cff0042ffAgility|r - 14 + 2.1|n|cff0042ffIntelligence|r - 16 + 1.2|n|nCan learn Chaos Bolt, Reality Rift, Critical Strike and |cffff8000Phantasm|r.|n|nAttack range of 128 (melee).|nMovement speed of 325."
+Revivetip="Revive Chaos Knight"
+Awakentip="Revive Chaos Knight"
 Hotkey=
-Description=混沌骑士
+Description="Chaos Knight"
 [u002]
-Name=亡灵法师
-Tip=训练 亡灵法师(|cffffcc00N|r)
-Ubertip=天灾远程单位。
+Name="Necromancer"
+Tip="Train |cffffcc00N|recromancer"
+Ubertip="Scourge ranged unit."
 Hotkey=N
 Casterupgradename=
 Casterupgradetip=
 [U00E]
-Name=死灵法师
-Propernames=罗坦德吉利,罗坦德吉利,罗坦德吉利,罗坦德吉利,罗坦德吉利,罗坦德吉利,罗坦德吉利,罗坦德吉利,罗坦德吉利,老头子
-Tip=死灵法师
-Ubertip=在被一些自命神圣的人作为异端处决以后，死亡带给这位法师的，只有对生命的深沉恨意，他通过将恶灵送入敌人体内来表达这股恨意。每当一个生命在他手中终结的时候，他都感到无比的满足并因此变得更为强大。他走的每一步所散发出来的死亡的气息，使周围的生物随着他的出现而腐败枯萎。这位折磨和痛苦的大师僵硬的脸上始终挂着一副令人作呕的笑容，他毫不留情地杀死他所看到的任何弱小生命。|n|n|cff0042ff力量|r - 16 + 2.0|n|cff0042ff敏捷|r - 15 + 1.7|n|cffff0303智力|r - 22 + 2.5|n|n可以学习 死亡脉冲、施虐之心、竭心光环和|cffff8000死神镰刀|r。|n|n攻击距离 550（远程）|n移动速度 290
-Revivetip=复活 死灵法师
-Awakentip=复活 死灵法师
+Name="Necrolyte"
+Propernames=Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,A Phoe Gyi
+Tip="Necrolyte"
+Ubertip="After being executed as a heretic by certain self-righteous, self-proclaimed holy men, death brought this mage nothing but a profound hatred for life, which he expresses by sending evil spirits into his enemies' bodies. Each time a life ends in his hands, he feels boundless satisfaction and grows ever more powerful. The aura of death emanating from his every step causes the creatures around him to rot and wither at his coming. This master of torment and suffering wears a sickening grin fixed upon his rigid face, and mercilessly slays any weak life he lays eyes upon.|n|n|cff0042ffStrength|r - 16 + 2.0|n|cff0042ffAgility|r - 15 + 1.7|n|cffff0303Intelligence|r - 22 + 2.5|n|nCan learn Death Pulse, Sadist, Heartstopper Aura and |cffff8000Reaper's Scythe|r.|n|nAttack range of 550 (ranged).|nMovement speed of 290."
+Revivetip="Revive Necrolyte"
+Awakentip="Revive Necrolyte"
 Hotkey=
 [u005]
-Name=怨灵
-Tip=召唤怨灵
-Ubertip=飞行单位。|n|n|cffffcc00攻击地面与空中单位|r
+Name="Revenant"
+Tip="Train G|cffffcc00a|rrgoyle"
+Ubertip="Flying unit.|n|n|cffffcc00Attacks ground and air units.|r"
 Hotkey=A
 [u00D]
-Name=幽魂塔 - 等级2
+Name="Spirit Tower - level 2"
 Tip=
 Ubertip=
 Hotkey=T
 [UC91]
-Name=鱼人守卫
-Propernames=斯拉达
-Tip=鱼人守卫
-Ubertip=在困在大漩涡的激流之底千年之后，鱼人守卫从混乱的深处升起，和他的同胞一起为强大的恶魔伊利丹-怒风卖命。这个狂热投入到事业的娜迦族人在战场上勇猛战斗，直到因致命伤死于战场上最激烈的地方。他的重生看起来合情合理----那是直到他的命运和那有着冷酷无情的影响力的巫妖王所紧紧相连时候的事情。重生之后的鱼人守卫作为一个没有灵魂和情感的野兽，以野蛮的速度撕破敌人的队列，并用巨力击晕他们，从不气馁地试图去满足耐奥祖的每个心血来潮。|n|n|cffff0303力量|r - 21 + 2.8|n|cff0042ff敏捷|r - 17 + 2.4|n|cff0042ff智力|r - 15 + 1.5|n|n可以学习 冲刺、鱼人碎击、重击和|cffff8000伤害加深|r。|n|n攻击距离 128（近程）|n移动速度 300
-Revivetip=复活 鱼人守卫
-Awakentip=复活 鱼人守卫
+Name="Slithereen Guard"
+Propernames="Slardar"
+Tip="Slithereen Guard"
+Ubertip="After a thousand years trapped at the bottom of the Maelstrom's raging currents, the Slithereen Guard rose from the depths of chaos and, together with his kin, served the mighty demon Illidan Stormrage. This naga fanatically devoted to the cause fought valiantly on the battlefield until a mortal wound felled him in the fiercest part of the field. His rebirth seemed only fitting - until the moment his fate became bound tightly to the coldly ruthless influence of the Lich King. Reborn as a soulless, emotionless beast, the Slithereen Guard tears through the enemy ranks with savage speed and stuns them with tremendous force, never discouraged in his attempts to satisfy Ner'zhul's every whim.|n|n|cffff0303Strength|r - 21 + 2.8|n|cff0042ffAgility|r - 17 + 2.4|n|cff0042ffIntelligence|r - 15 + 1.5|n|nCan learn Sprint, Slithereen Crush, Bash and |cffff8000Amplify Damage|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Revivetip="Revive Slithereen Guard"
+Awakentip="Revive Slithereen Guard"
 Hotkey=
-Description=鱼人守卫
+Description="Slithereen Guard"
 [u003]
-Name=怨灵
-Tip=召唤怨灵
-Ubertip=飞行单位。|n|n|cffffcc00攻击地面与空中单位|r
+Name="Revenant"
+Tip="Train G|cffffcc00a|rrgoyle"
+Ubertip="Flying unit.|n|n|cffffcc00Attacks ground and air units.|r"
 Hotkey=A
 [u00G]
-Name=鬼魂
+Name="Ghosts"
 [u001]
-Name=食尸鬼
+Name="Ghoul"
 Tip=
 Ubertip=
 Hotkey=G
 [U00F]
-Name=屠夫
-Propernames=胖子
-Tip=胖子
+Name="Butcher"
+Propernames="Pudge"
+Tip="Pudge"
 Hotkey=
-Ubertip=一只庞大的亡灵巨兽，看起来即使最强大的魔法也奈他不何。这只饥饿的憎恶在战场上游荡着，不断地寻找着粗心大意的猎物。据说，在刚刚隐约瞧见屠夫这副庞大身型的时候，一个带锯齿的钩子就会随之而来，深深扎进猎物身体，血淋淋地被拖入阴影之中。他的大嘴会疯狂地撕碎猎物的身体，他的狂笑会淹没他们痛苦的悲鸣。难以言状的恐惧引起死一般的寂静，这是一个让人毛骨悚然的不祥之兆。|n|n|cffff0303力量|r - 25 + 3.2|n|cff0042ff敏捷|r - 14 + 1.5|n|cff0042ff智力|r - 14 + 1.5|n|n可以学习 肉钩、腐肉堆积、腐烂和|cffff8000肢解|r。|n|n攻击距离 128（近程）|n移动速度 285
-Revivetip=复活 屠夫
-Awakentip=复活 屠夫
+Ubertip="A colossal undead behemoth against whom even the most powerful magic seems useless. This hungering abomination roams the battlefield, forever seeking careless prey. It is said that the moment one catches a faint glimpse of the Butcher's massive frame, a barbed hook follows close behind, sinking deep into the prey's body and dragging it, bloodied, into the shadows. His huge maw frenziedly rends the prey's body, and his mad laughter drowns out their agonized wails. An indescribable terror brings on a deathly silence - a spine-chilling omen of doom.|n|n|cffff0303Strength|r - 25 + 3.2|n|cff0042ffAgility|r - 14 + 1.5|n|cff0042ffIntelligence|r - 14 + 1.5|n|nCan learn Meat Hook, Flesh Heap, Rot and |cffff8000Dismember|r.|n|nAttack range of 128 (melee).|nMovement speed of 285."
+Revivetip="Revive Pudge"
+Awakentip="Revive Pudge"
 [u00L]
-Name=时间结界
+Name="ChronoSphere"
 [u00M]
-Name=幽魂塔 - 等级1
+Name="Spirit Tower - level 1"
 Tip=
 Ubertip=
 Hotkey=T
 [u00N]
-Name=幽魂塔 - 等级3
+Name="Spirit Tower - level 3"
 Tip=
 Ubertip=
 Hotkey=T
 [u00T]
-Name=幽魂塔 - 等级4
+Name="Spirit Tower - level 4"
 Tip=
 Ubertip=
 Hotkey=T
 [u00I]
-Name=自然之助
+Name="Nature's Attendants"
 [u00B]
-Name=ObserverTruesight
+Name="ObserverTruesight"
 [u00Z]
-Name=地精实验室
+Name="Goblin Laboratory"
 Tip=
 Ubertip=
 Hotkey=
 [U00C]
-Name=噬魂鬼
-Propernames=奈克斯,奈克斯,奈克斯,奈克斯,咕噜,奈克斯,奈克斯,奈克斯
-Tip=噬魂鬼
-Ubertip=很久以前的洛丹伦，有一个极为贪婪的人，已不值得任何怜悯。终于，在试图偷取阿尔萨斯王子的圣戒时被抓获并被判绞刑。他因盗窃的欲望而腐蚀的身体后来以食尸鬼的形态复生。他已经不记得自己的名字了，只知道现在是N'aix，欲望和贪婪的化身。他现在从他遇见的每一个生物那里贪婪的偷取生命。|n|n|cffff0303力量|r - 25 + 2.4|n|cff0042ff敏捷|r - 18 + 1.9|n|cff0042ff智力|r - 15 + 1.75|n|n可以学习 狂暴、盛宴、撕裂伤口和|cffff8000感染|r。|n|n攻击距离 128（近程）|n移动速度 315
-Revivetip=复活 噬魂鬼
-Awakentip=复活 噬魂鬼
+Name="Lifestealer"
+Propernames=N'aix,N'aix,N'aix,N'aix,Gollum,N'aix,N'aix,N'aix
+Tip="Lifestealer"
+Ubertip="Long ago in Lordaeron there was an exceedingly greedy man, no longer deserving of any pity. At last, while attempting to steal Prince Arthas's holy ring, he was caught and sentenced to hang. His body, corrupted by his lust for theft, later rose again in the form of a ghoul. He no longer remembers his own name, knowing only that he is now N'aix, the incarnation of desire and greed. He now greedily steals the life from every creature he encounters.|n|n|cffff0303Strength|r - 25 + 2.4|n|cff0042ffAgility|r - 18 + 1.9|n|cff0042ffIntelligence|r - 15 + 1.75|n|nCan learn Frenzy, Feast, Open Wounds and |cffff8000Infest|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
+Revivetip="Revive Lifestealer"
+Awakentip="Revive Lifestealer"
 Hotkey=
 [u00O]
-Name=冰封路径
+Name="Icy Path"
 [u00Q]
-Name=崩碎之穴
+Name="Tomb of Relics"
 Tip=
 Ubertip=
 Hotkey=
 [u00R]
-Name=绞肉车
-Tip=制造 绞肉车(|cffffcc00M|r)
-Ubertip=储藏尸体的机器，同时也是远距离的攻城武器，对建筑有着显著的破坏效果。|n|n|cffffcc00攻击地面单位|r
+Name="Meat Wagon"
+Tip="Train |cffffcc00M|reat Wagon"
+Ubertip="A machine that stores corpses and also serves as a long-range siege weapon, dealing significant damage to buildings.|n|n|cffffcc00Attacks ground units.|r"
 Hotkey=M
 [u00S]
-Name=能量齿轮
+Name="Power Cog"
 Tip=
 Ubertip=
 Hotkey=Z
 [u00U]
-Name=Hookshot Head
+Name="Hookshot Head"
 Tip=
 Ubertip=
 [u00V]
-Name=Hookshot Link
+Name="Hookshot Link"
 Tip=
 Ubertip=
 [u00W]
-Name=Power Cog Effect
+Name="Power Cog Effect"
 Tip=
 Ubertip=
 Hotkey=Z
 [u00X]
-Name=电子涡流
+Name="Electric Vortex"
 Tip=
 Ubertip=
 [u00Y]
-Name=枷锁
+Name="Lasso"
 Tip=
 Ubertip=
 [u010]
-Name=地精商人
+Name="Goblin Merchant"
 Tip=
 Ubertip=
 Hotkey=
 [u011]
-Name=Watcher
+Name="Watcher"
 Tip=
 Ubertip=
 [u012]
-Name=Scarab
+Name="Scarab"
 [u013]
-Name=Scarab
+Name="Scarab"
 [u014]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u015]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u016]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u017]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [u018]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [u019]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [u01A]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [u01B]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [u01C]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [u01D]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u01E]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u01F]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u01G]
-Name=灵魂汲取马甲
+Name="Soulsteal Dummy"
 Tip=
 Ubertip=
 [u01H]
-Name=蝗虫 - 等级2
+Name="Beetle - Level 2"
 [u01I]
-Name=伤残恐惧
+Name="Crippling Fear"
 [u01J]
-Name=蝗虫 - 等级3
+Name="Beetle - Level 3"
 [u01K]
-Name=蝗虫 - 等级1
+Name="Beetle - Level 1"
 [u01L]
-Name=蝗虫 - 等级4
+Name="Beetle - Level 4"
 [u01M]
-Name=Rune
+Name="Rune"
 Tip=
 Ubertip=
 Hotkey=Z
 [u01N]
-Name=PreRune
+Name="PreRune"
 Tip=
 Ubertip=
 Hotkey=Z
 [u01O]
-Name=Rune
+Name="Rune"
 Tip=
 Ubertip=
 Hotkey=Z
 [u01P]
-Name=伐木链锯头
+Name="Timberchain Head"
 Tip=
 Ubertip=
 [u01Q]
-Name=伐木链锯连接
+Name="Timber Chain Link"
 Tip=
 Ubertip=
 [u01R]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u01S]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u01T]
-Name=佣兽
+Name="Familiar"
 Tip=
 Ubertip=
 Hotkey=A
 [u01U]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [u01V]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [u01W]
-Name=石像形态
+Name="Stone Form"
 Tip=
 Ubertip=
 Hotkey=A
 [U01X]
-Name=山岭巨人
-Propernames=小小
-Tip=山岭巨人
+Name="Stone Giant"
+Propernames="Tiny"
+Tip="Stone Giant"
 Hotkey=
-Ubertip=在艾森娜的岩石峭壁中的隐约可见的山岭巨人由大山孕育而生。山岭巨人小小是一个新生的巨人。身形虽小，却有着山一般的力量。拥有超强力量的他可以把任何东西都扔到空中，比如投掷起大量的泥石以造成山崩来包围他的敌人。他岩石般坚硬的外表，让攻击他的敌人反受其害。随着时间的推移，来自他花岗岩心脏深处的吸引力能够吸引四周的石头土块，让山岭巨人“发育长大”，成为名副其实的山岭巨人。|n|n|cffff0303力量|r - 24 + 3.0|n|cff0042ff敏捷|r - 9 + 0.9|n|cff0042ff智力|r - 14 + 1.6|n|n可以学习 山崩、投掷、崎岖外表和|cffff8000长大！|r。|n|n攻击距离 128（近程）|n移动速度 285
-Revivetip=复活 山岭巨人
-Awakentip=复活 山岭巨人
+Ubertip="Barely visible among the rocky cliffs of Aessina, Tiny the Stone Giant was born from the mountain itself. Tiny is a newborn giant. Small in stature, he nonetheless possesses the strength of a mountain. With his immense power he can hurl anything into the air, such as tossing great masses of earth and stone to trigger an avalanche that surrounds his enemies. His rock-hard exterior turns harm back upon those who attack him. As time goes by, the gravity deep within his granite heart draws in the surrounding rocks and soil, letting the Stone Giant grow up into a true mountain giant.|n|n|cffff0303Strength|r - 24 + 3.0|n|cff0042ffAgility|r - 9 + 0.9|n|cff0042ffIntelligence|r - 14 + 1.6|n|nCan learn Avalanche, Toss, Craggy Exterior and |cffff8000Grow!|r.|n|nAttack range of 128 (melee).|nMovement speed of 285."
+Revivetip="Revive Stone Giant"
+Awakentip="Revive Stone Giant"
 [u01Y]
-Name=阴影
+Name="Shade"

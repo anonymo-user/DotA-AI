@@ -1,334 +1,334 @@
-[Aall]
-Name=Shop Sharing, Allied Bldg.
+﻿[Aall]
+Name="Shop Sharing, Allied Bldg."
 [Abdt]
-Name=Burrow Detection
+Name="Burrow Detection"
 [Apit]
-Name=Shop Purchase Item
+Name="Shop Purchase Item"
 [Amou]
-Name=Mount
-Tip=Mo|cffffcc00r|rph
-Untip=De-Mo|cffffcc00r|rph
-Ubertip=Morphs the hero into an alternate form.
-Unubertip=Returns the hero to normal form.
+Name="Mount"
+Tip="Mo|cffffcc00r|rph"
+Untip="De-Mo|cffffcc00r|rph"
+Ubertip="Morphs the hero into an alternate form."
+Unubertip="Returns the hero to normal form."
 Hotkey=R
 Unhotkey=R
 [Ahar]
-Name=Harvest
-Tip=|cffffcc00G|rather
-Ubertip=Mines gold from gold mines and harvests lumber from trees.
-Untip=R|cffffcc00e|rturn Resources
-Unubertip=Return the carried resources to the nearest town hall.
+Name="Harvest"
+Tip="|cffffcc00G|rather"
+Ubertip="Mines gold from gold mines and harvests lumber from trees."
+Untip="R|cffffcc00e|rturn Resources"
+Unubertip="Return the carried resources to the nearest town hall."
 Hotkey=G
 Unhotkey=E
 [Ahrl]
-Name=Harvest
-Tip=|cffffcc00G|rather
-Ubertip=Harvests lumber from trees.
-Untip=R|cffffcc00e|rturn Resources
-Unubertip=Return the carried resources to the nearest Necropolis or Graveyard.
+Name="Harvest"
+Tip="|cffffcc00G|rather"
+Ubertip="Harvests lumber from trees."
+Untip="R|cffffcc00e|rturn Resources"
+Unubertip="Return the carried resources to the nearest Necropolis or Graveyard."
 Hotkey=G
 Unhotkey=E
 [Arev]
-Name=Revive Hero
+Name="Revive Hero"
 [Aawa]
-Name=Revive Hero Instantly
+Name="Revive Hero Instantly"
 [Adet]
-Name=Detector
+Name="Detector"
 [Adta]
-Name=Reveal
-Tip=|cffffcc00R|reveal
+Name="Reveal"
+Tip="|cffffcc00R|reveal"
 Hotkey=R
 [Bvul]
-Bufftip=Invulnerable
-Buffubertip=This unit is invulnerable; it will not take damage from attacks and cannot be targeted by spells.
+Bufftip="Invulnerable"
+Buffubertip="This unit is invulnerable; it will not take damage from attacks and cannot be targeted by spells."
 [Bspe]
-Bufftip=Speed Bonus
-Buffubertip=This unit has a speed bonus; it moves more quickly than it normally does.
+Bufftip="Speed Bonus"
+Buffubertip="This unit has a speed bonus; it moves more quickly than it normally does."
 [Bfro]
-Bufftip=缓慢
-Buffubertip=该单位被缓慢了，它移动的比平时要慢得多
+Bufftip="Slowed"
+Buffubertip="This unit has been slowed and moves much slower than usual."
 [Arep]
-Name=Repair
-Tip=|cffffcc00R|repair
-Ubertip=Repairs mechanical units and structures at the cost of resources.
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Name="Repair"
+Tip="|cffffcc00R|repair"
+Ubertip="Repairs mechanical units and structures at the cost of resources."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
 Hotkey=R
 Unhotkey=R
 [AEpa]
-Name=Poison Arrows
-Tip=Poison A|cffffcc00r|rrows - [|cffffcc00Level 1|r],Poison A|cffffcc00r|rrows  - [|cffffcc00Level 2|r],Poison A|cffffcc00r|rrows  - [|cffffcc00Level 3|r]
+Name="Poison Arrows"
+Tip="[|cff81BAFFW|r] Poison Arrows - [|cffffcc00Level 1|r]","[|cff81BAFFW|r] Poison Arrows - [|cffffcc00Level 2|r]","[|cff81BAFFW|r] Poison Arrows - [|cffffcc00Level 3|r]"
 Ubertip="Adds <AHfa,DataA1> bonus fire damage to an attack against enemies, but drains mana with each shot fired.","Adds <AHfa,DataA2> bonus fire damage to an attack, but drains mana with each shot fired.","Adds <AHfa,DataA3> bonus fire damage to an attack, but drains mana with each shot fired."
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=R
-Unhotkey=R
-Researchtip=Learn Poison A|cffffcc00r|rrows - [|cffffcc00Level %d|r]
-Researchubertip="Increases the damage of the Priestess' attack by adding fire. |n|n|cffffcc00Level 1|r - <AHfa,DataA1> bonus damage. |n|cffffcc00Level 2|r - <AHfa,DataA2> bonus damage. |n|cffffcc00Level 3|r - <AHfa,DataA3> bonus damage."
-Researchhotkey=R
-[AEbu]
-Name=Build (Night Elf)
-[AGbu]
-Name=Build (Naga)
-[AHbu]
-Name=Build (Human)
-[AHer]
-Name=Hero
-[ANbu]
-Name=Build (Neutral)
-[AObu]
-Name=Build (Orc)
-[ARal]
-Name=Rally
-[AUbu]
-Name=Build (Undead)
-[Aalr]
-Name=Alarm
-[Aatk]
-Name=Attack
-[Afih]
-Name=On Fire (Human)
-[Afin]
-Name=On Fire (Night Elf)
-[Afio]
-Name=On Fire (Orc)
-[Afir]
-Name=On Fire
-[Afiu]
-Name=On Fire (Undead)
-[Aloc]
-Name=Locust
-[Amov]
-Name=Move
-[BSTN]
-Bufftip=晕眩
-Buffubertip=该单位被晕眩，无法移动、攻击和施法
-[BPSE]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
-[Xbdt]
-EditorName=Reveal (Effect)
-[Xbli]
-EditorName=Blight (Effect)
-[Xdis]
-EditorName=Hero Dissipate (Effect)
-[A09V]
-Name=Poison Attack
-Tip=毒性攻击[|cffffcc00C|r] - [|cffffcc00等级 1|r],毒性攻击[|cffffcc00C|r] - [|cffffcc00等级 2|r],毒性攻击[|cffffcc00C|r] - [|cffffcc00等级 3|r],毒性攻击[|cffffcc00C|r] - [|cffffcc00等级 4|r]
-Ubertip=降低目标10/10%的攻击/移动速度，额外附加10点/秒的伤害，持续2秒。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,降低目标20/20%的攻击/移动速度，额外附加16点/秒的伤害，持续2秒。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,降低目标30/30%的攻击/移动速度，额外附加22点/秒的伤害，持续2秒。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,降低目标40/40%的攻击/移动速度，额外附加28点/秒的伤害，持续2秒。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=C
-Unhotkey=C
-Researchtip=学习 毒性攻击[|cffffcc00C|r] - [|cffffcc00等级 %d|r]|n(Poison Attack)
-Researchubertip=蝮蛇在普通攻击上附加剧毒，造成额外毒性伤害，同时降低目标的攻击速度和移动速度，持续2秒。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0|n|cff99ccff魔法消耗：|r20|n|n|cffffcc00等级 1|r - 降低10/10%的攻击/移动速度，造成10点/秒的伤害|n|cffffcc00等级 2|r - 降低20/20%的攻击/移动速度，造成16点/秒的伤害|n|cffffcc00等级 3|r - 降低30/30%的攻击/移动速度，造成22点/秒的伤害|n|cffffcc00等级 4|r - 降低40/40%的攻击/移动速度，造成28点/秒的伤害
-Researchhotkey=C
-[A0DY]
-Name=推进
-Tip=推进[|cffffcc00T|r] - [|cffffcc00等级 1|r],推进[|cffffcc00T|r] - [|cffffcc00等级 2|r],推进[|cffffcc00T|r] - [|cffffcc00等级 3|r],Impe|cffffcc00t|rus - [|cffffcc00Level 4|r]
-Ubertip=提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。造成相隔距离15%的伤害。|n|n|c00ff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0|n|n|c00fffc01神杖升级：增加165攻击距离|r,提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。造成相隔距离20%的伤害。|n|n|c00ff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0|n|n|c00fffc01神杖升级：增加165攻击距离|r,提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。造成相隔距离25%的伤害。|n|n|c00ff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0|n|n|c00fffc01神杖升级：增加165攻击距离|r,Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 16% of the distance in damage. Damage type is pure. |n|n|cff99ccffCooldown: |r none.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=T
-Unhotkey=T
-Researchtip=学习 推进[|cffffcc00T|r] - [|cffffcc00等级 %d|r]|n(Impetus)
-Researchubertip=提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0|n|cff99ccff魔法消耗：|r55/60/65|n|n|c00fffc01神杖升级：增加165攻击距离|r|n|n|cffffcc00等级 1|r - 造成相隔距离15%的伤害|n|cffffcc00等级 2|r - 造成相隔距离20%的伤害|n|cffffcc00等级 3|r - 造成相隔距离25%的伤害
-Researchhotkey=T
-[A0LZ]
-Name=智慧之刃
-Tip=智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 1|r],智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 2|r],智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 3|r],智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 4|r]
-Ubertip=攻击时附加智力值30%的额外伤害。如果你附近有敌方英雄死亡，你将偷取到2点智力。|n|n|cffff8000英雄攻击 魔法伤害|r|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,攻击时附加智力值50%的额外伤害。如果你附近有敌方英雄死亡，你将偷取到2点智力。|n|n|cffff8000英雄攻击 魔法伤害|r|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,攻击时附加智力值70%的额外伤害。如果你附近有敌方英雄死亡，你将偷取到2点智力。|n|n|cffff8000英雄攻击 魔法伤害|r|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,攻击时附加智力值90%的额外伤害。如果你附近有敌方英雄死亡，你将偷取到2点智力。|n|n|cffff8000英雄攻击 魔法伤害|r|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
 Hotkey=W
 Unhotkey=W
-Researchtip=学习 智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 %d|r]|n(Glaives of Wisdom)
-Researchubertip=沉默术士的剑刃经过法术的强化，攻击时会附加额外伤害。如果你附近有敌方英雄死亡，你将偷取到2点智力。|n|n|cffff8000英雄攻击 魔法伤害|r|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0|n|cff99ccff魔法消耗：|r15|n|n|cffffcc00等级 1|r - 附加智力值30%的额外伤害|n|cffffcc00等级 2|r - 附加智力值50%的额外伤害|n|cffffcc00等级 3|r - 附加智力值70%的额外伤害|n|cffffcc00等级 4|r - 附加智力值90%的额外伤害
+Researchtip="[|cff81BAFFW|r] Learn Poison Arrows - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the damage of the Priestess' attack by adding fire.|n|n|cffffcc00Level 1|r - <AHfa,DataA1> bonus damage.|n|cffffcc00Level 2|r - <AHfa,DataA2> bonus damage.|n|cffffcc00Level 3|r - <AHfa,DataA3> bonus damage."
+Researchhotkey=W
+[AEbu]
+Name="Build (Night Elf)"
+[AGbu]
+Name="Build (Naga)"
+[AHbu]
+Name="Build (Human)"
+[AHer]
+Name="Hero"
+[ANbu]
+Name="Build (Neutral)"
+[AObu]
+Name="Build (Orc)"
+[ARal]
+Name="Rally"
+[AUbu]
+Name="Build (Undead)"
+[Aalr]
+Name="Alarm"
+[Aatk]
+Name="Attack"
+[Afih]
+Name="On Fire (Human)"
+[Afin]
+Name="On Fire (Night Elf)"
+[Afio]
+Name="On Fire (Orc)"
+[Afir]
+Name="On Fire"
+[Afiu]
+Name="On Fire (Undead)"
+[Aloc]
+Name="Locust"
+[Amov]
+Name="Move"
+[BSTN]
+Bufftip="Stunned"
+Buffubertip="This unit is stunned and cannot move, attack, or cast spells."
+[BPSE]
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
+[Xbdt]
+EditorName="Reveal (Effect)"
+[Xbli]
+EditorName="Blight (Effect)"
+[Xdis]
+EditorName="Hero Dissipate (Effect)"
+[A09V]
+Name="Poison Attack"
+Tip="[|cff81BAFFQ|r] Poison Attack - [|cffffcc00Level 1|r]","[|cff81BAFFQ|r] Poison Attack - [|cffffcc00Level 2|r]","[|cff81BAFFQ|r] Poison Attack - [|cffffcc00Level 3|r]","[|cff81BAFFQ|r] Poison Attack - [|cffffcc00Level 4|r]"
+Ubertip="Reduces the target's attack/Movement Speed by 10/10% and deals an additional 10 damage per second for 2 seconds.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Reduces the target's attack/Movement Speed by 20/20% and deals an additional 16 damage per second for 2 seconds.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Reduces the target's attack/Movement Speed by 30/30% and deals an additional 22 damage per second for 2 seconds.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Reduces the target's attack/Movement Speed by 40/40% and deals an additional 28 damage per second for 2 seconds.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=Q
+Unhotkey=Q
+Researchtip="[|cff81BAFFQ|r] Learn Poison Attack - [|cffffcc00Level %d|r]"
+Researchubertip="Viper coats its normal attacks with deadly venom, dealing bonus poison damage while reducing the target's attack speed and Movement Speed for 2 seconds.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 20|n|n|cffffcc00Level 1|r - Reduces attack/Movement Speed by 10/10%, deals 10 damage per second.|n|cffffcc00Level 2|r - Reduces attack/Movement Speed by 20/20%, deals 16 damage per second.|n|cffffcc00Level 3|r - Reduces attack/Movement Speed by 30/30%, deals 22 damage per second.|n|cffffcc00Level 4|r - Reduces attack/Movement Speed by 40/40%, deals 28 damage per second."
+Researchhotkey=Q
+[A0DY]
+Name="Impetus"
+Tip="[|cff81BAFFR|r] Impetus - [|cffffcc00Level 1|r]","[|cff81BAFFR|r] Impetus - [|cffffcc00Level 2|r]","[|cff81BAFFR|r] Impetus - [|cffffcc00Level 3|r]","[|cff81BAFFR|r] Impetus - [|cffffcc00Level 4|r]"
+Ubertip="Empowers Enchantress's attacks to deal more damage the farther away the target is. Deals damage equal to 15% of the distance.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0|n|n|c00fffc01Aghanim's Scepter Upgrade: increases attack range by 165|r","Empowers Enchantress's attacks to deal more damage the farther away the target is. Deals damage equal to 20% of the distance.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0|n|n|c00fffc01Aghanim's Scepter Upgrade: increases attack range by 165|r","Empowers Enchantress's attacks to deal more damage the farther away the target is. Deals damage equal to 25% of the distance.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0|n|n|c00fffc01Aghanim's Scepter Upgrade: increases attack range by 165|r","Causes Aiushtha's attacks to deal more damage the further away the target is. Deals 16% of the distance in damage. Damage type is pure.|n|n|cff99ccffCooldown:|r none.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+Researchtip="[|cff81BAFFR|r] Learn Impetus - [|cffffcc00Level %d|r]"
+Researchubertip="Empowers Enchantress's attacks to deal more damage the farther away the target is.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 55/60/65|n|n|c00fffc01Aghanim's Scepter Upgrade: increases attack range by 165|r|n|n|cffffcc00Level 1|r - Deals 15% of the distance in damage.|n|cffffcc00Level 2|r - Deals 20% of the distance in damage.|n|cffffcc00Level 3|r - Deals 25% of the distance in damage."
+Researchhotkey=R
+[A0LZ]
+Name="Glaives of Wisdom"
+Tip="[|cff81BAFFW|r] Glaives of Wisdom - [|cffffcc00Level 1|r]","[|cff81BAFFW|r] Glaives of Wisdom - [|cffffcc00Level 2|r]","[|cff81BAFFW|r] Glaives of Wisdom - [|cffffcc00Level 3|r]","[|cff81BAFFW|r] Glaives of Wisdom - [|cffffcc00Level 4|r]"
+Ubertip="Adds bonus damage equal to 30% of your Intelligence on each attack. If an enemy hero dies near you, you steal 2 Intelligence.|n|n|cffff8000Hero attack, Magic damage|r|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Adds bonus damage equal to 50% of your Intelligence on each attack. If an enemy hero dies near you, you steal 2 Intelligence.|n|n|cffff8000Hero attack, Magic damage|r|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Adds bonus damage equal to 70% of your Intelligence on each attack. If an enemy hero dies near you, you steal 2 Intelligence.|n|n|cffff8000Hero attack, Magic damage|r|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Adds bonus damage equal to 90% of your Intelligence on each attack. If an enemy hero dies near you, you steal 2 Intelligence.|n|n|cffff8000Hero attack, Magic damage|r|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=W
+Unhotkey=W
+Researchtip="[|cff81BAFFW|r] Learn Glaives of Wisdom - [|cffffcc00Level %d|r]"
+Researchubertip="Nortrom's glaives are enhanced with magic, adding bonus damage on each attack. If an enemy hero dies near you, you steal 2 Intelligence.|n|n|cffff8000Hero attack, Magic damage|r|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 15|n|n|cffffcc00Level 1|r - Adds bonus damage equal to 30% of Intelligence.|n|cffffcc00Level 2|r - Adds bonus damage equal to 50% of Intelligence.|n|cffffcc00Level 3|r - Adds bonus damage equal to 70% of Intelligence.|n|cffffcc00Level 4|r - Adds bonus damage equal to 90% of Intelligence."
 Researchhotkey=W
 [A0OI]
-Name=秘法之球
-Tip=秘法天球[|cffffcc00R|r] - [|cffffcc00等级 1|r],秘法天球[|cffffcc00R|r] - [|cffffcc00等级 2|r],秘法天球[|cffffcc00R|r] - [|cffffcc00等级 3|r],秘法天球[|cffffcc00R|r] - [|cffffcc00等级 4|r]
-Ubertip=在攻击中附加相当于毁灭者[当前魔法值]6%的额外伤害，并且额外对镜像和召唤单位造成100点伤害。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0,在攻击中附加相当于毁灭者[当前魔法值]7%的额外伤害，并且额外对镜像和召唤单位造成200点伤害。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0,在攻击中附加相当于毁灭者[当前魔法值]8%的额外伤害，并且额外对镜像和召唤单位造成300点伤害。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0,在攻击中附加相当于毁灭者[当前魔法值]9%的额外伤害，并且额外对镜像和召唤单位造成400点伤害。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=R
-Unhotkey=R
-Researchtip=学习 秘法天球[|cffffcc00R|r] - [|cffffcc00等级 %d|r]|n(Arcane Orb)
-Researchubertip=毁灭者在攻击中附加和他当前的魔法值成正比的额外伤害，对镜像和召唤单位另有100/200/300/400点加成伤害。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0|n|cff99ccff魔法消耗：|r100|n|n|cffffcc00等级 1|r - 附加相当于6%当前魔法值的伤害。|n|cffffcc00等级 2|r - 附加相当于7%当前魔法值的伤害。|n|cffffcc00等级 3|r - 附加相当于8%当前魔法值的伤害。|n|cffffcc00等级 4|r - 附加相当于9%当前魔法值的伤害。
-Researchhotkey=R
+Name="Arcane Orb"
+Tip="[|cff81BAFFQ|r] Arcane Orb - [|cffffcc00Level 1|r]","[|cff81BAFFQ|r] Arcane Orb - [|cffffcc00Level 2|r]","[|cff81BAFFQ|r] Arcane Orb - [|cffffcc00Level 3|r]","[|cff81BAFFQ|r] Arcane Orb - [|cffffcc00Level 4|r]"
+Ubertip="Adds bonus damage on each attack equal to 6% of the Obsidian Destroyer's [current mana], and deals an additional 100 damage to illusions and summoned units.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0","Adds bonus damage on each attack equal to 7% of the Obsidian Destroyer's [current mana], and deals an additional 200 damage to illusions and summoned units.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0","Adds bonus damage on each attack equal to 8% of the Obsidian Destroyer's [current mana], and deals an additional 300 damage to illusions and summoned units.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0","Adds bonus damage on each attack equal to 9% of the Obsidian Destroyer's [current mana], and deals an additional 400 damage to illusions and summoned units.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=Q
+Unhotkey=Q
+Researchtip="[|cff81BAFFQ|r] Learn Arcane Orb - [|cffffcc00Level %d|r]"
+Researchubertip="The Obsidian Destroyer adds bonus damage proportional to its current mana on each attack, with an extra 100/200/300/400 bonus damage against illusions and summoned units.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 100|n|n|cffffcc00Level 1|r - Adds damage equal to 6% of current mana.|n|cffffcc00Level 2|r - Adds damage equal to 7% of current mana.|n|cffffcc00Level 3|r - Adds damage equal to 8% of current mana.|n|cffffcc00Level 4|r - Adds damage equal to 9% of current mana."
+Researchhotkey=Q
 [A0QN]
-Name=Burning Spear
-Tip=沸血之矛[|cffffcc00R|r] - [|cffffcc00等级 1|r],沸血之矛[|cffffcc00R|r] - [|cffffcc00等级 2|r],沸血之矛[|cffffcc00R|r] - [|cffffcc00等级 3|r],沸血之矛[|cffffcc00R|r] - [|cffffcc00等级 4|r]
-Ubertip=用自己的鲜血让矛燃烧，如附骨之蛆般使敌方单位受到每秒5点伤害，伤害可以无限次叠加，持续8秒。|n消耗自身15点生命|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,用自己的鲜血让矛燃烧，如附骨之蛆般使敌方单位受到每秒10点伤害，伤害可以无限次叠加，持续8秒。|n消耗自身15点生命|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,用自己的鲜血让矛燃烧，如附骨之蛆般使敌方单位受到每秒15点伤害，伤害可以无限次叠加，持续8秒。|n消耗自身15点生命|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0,用自己的鲜血让矛燃烧，如附骨之蛆般使敌方单位受到每秒20点伤害，伤害可以无限次叠加，持续8秒。|n消耗自身15点生命|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0
-Untip=|cffc3dbff右键单击以激活自动施放|r,|cffc3dbff右键单击以激活自动施放|r,|cffc3dbff右键单击以激活自动施放|r,|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r,|cffc3dbff右键单击以关闭自动施放|r,|cffc3dbff右键单击以关闭自动施放|r,|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=R
-Unhotkey=
-Researchtip=学习 沸血之矛[|cffffcc00R|r] - [|cffffcc00等级 %d|r]|n(Burning Spear)
-Researchubertip=用自己的鲜血让矛燃烧，如附骨之蛆般使敌方单位受到持续性伤害，持续8秒。|n消耗自身15点生命。|n可以无限次叠加。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|cff99ccff冷却时间：|r0|n|cff99ccff魔法消耗：|r0|n|n|cffffcc00等级 1|r - 对敌方单位造成5点/秒的伤害|n|cffffcc00等级 2|r - 对敌方单位造成10点/秒的伤害|n|cffffcc00等级 3|r - 对敌方单位造成15点/秒的伤害|n|cffffcc00等级 4|r - 对敌方单位造成20点/秒的伤害
-Researchhotkey=R
-[A0VV]
-Name=灼烧攻击
-Tip=灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r]
-Ubertip=灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=T
-Unhotkey=T
-Researchtip=学习 推进[|cffffcc00T|r] - [|cffffcc00等级 %d|r]|n(Impetus)
-Researchubertip=提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。|n|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r6/5/4/0秒|n|cff99ccff魔法消耗：|r40/45/50/55点|n|n|cffffcc00等级 1|r - 造成相隔距离4%的伤害|n|cffffcc00等级 2|r - 造成相隔距离8%的伤害|n|cffffcc00等级 3|r - 造成相隔距离12%的伤害|n|cffffcc00等级 4|r - 造成相隔距离16%的伤害
-Researchhotkey=T
-[A11J]
-Name=Orb of Dummy
-Tip=智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 1|r],智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 2|r],智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 3|r],智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 4|r]
-Ubertip=Deals 15% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 3 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,Deals 30% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 2 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,Deals 45% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 1 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,Deals 60% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Name="Burning Spear"
+Tip="[|cff81BAFFW|r] Burning Spear - [|cffffcc00Level 1|r]","[|cff81BAFFW|r] Burning Spear - [|cffffcc00Level 2|r]","[|cff81BAFFW|r] Burning Spear - [|cffffcc00Level 3|r]","[|cff81BAFFW|r] Burning Spear - [|cffffcc00Level 4|r]"
+Ubertip="Ignites the spear with his own blood, dealing 5 damage per second to enemy units like a clinging plague; the damage stacks infinitely and lasts 8 seconds.|nCosts 15 of his own health.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Ignites the spear with his own blood, dealing 10 damage per second to enemy units like a clinging plague; the damage stacks infinitely and lasts 8 seconds.|nCosts 15 of his own health.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Ignites the spear with his own blood, dealing 15 damage per second to enemy units like a clinging plague; the damage stacks infinitely and lasts 8 seconds.|nCosts 15 of his own health.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0","Ignites the spear with his own blood, dealing 20 damage per second to enemy units like a clinging plague; the damage stacks infinitely and lasts 8 seconds.|nCosts 15 of his own health.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0"
+Untip="|cffc3dbffRight-click to activate auto-cast|r","|cffc3dbffRight-click to activate auto-cast|r","|cffc3dbffRight-click to activate auto-cast|r","|cffc3dbffRight-click to activate auto-cast|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-cast|r","|cffc3dbffRight-click to deactivate auto-cast|r","|cffc3dbffRight-click to deactivate auto-cast|r","|cffc3dbffRight-click to deactivate auto-cast|r"
 Hotkey=W
 Unhotkey=W
-Researchtip=学习 智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 %d|r]|n(Glaives of Wisdom)
-Researchubertip="Nortrom's Glaives are enchanted by his experience in magic. If he kills a hero, he will permanently steal 1 intelligence from it. Damage type is pure. |n|n|cffffcc00Level 1|r - Deals 15% of your intelligence in bonus damage. |n|cffffcc00Level 2|r - Deals 30% of your intelligence in bonus damage. |n|cffffcc00Level 3|r - Deals 45% of your intelligence in bonus damage. |n|cffffcc00Level 4|r - Deals 60% of your intelligence in bonus damage.  |n|n|cff99ccffCooldown: |r 3/2/1/0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchtip="[|cff81BAFFW|r] Learn Burning Spear - [|cffffcc00Level %d|r]"
+Researchubertip="Ignites the spear with his own blood, dealing damage over time to enemy units like a clinging plague, lasting 8 seconds.|nCosts 15 of his own health.|nStacks infinitely.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 0|n|n|cffffcc00Level 1|r - Deals 5 damage per second to enemy units.|n|cffffcc00Level 2|r - Deals 10 damage per second to enemy units.|n|cffffcc00Level 3|r - Deals 15 damage per second to enemy units.|n|cffffcc00Level 4|r - Deals 20 damage per second to enemy units."
+Researchhotkey=W
+[A0VV]
+Name="Melting Strike"
+Tip="[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike"
+Ubertip="A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=Q
+Unhotkey=Q
+Researchtip="[|cff81BAFFQ|r] Learn Impetus - [|cffffcc00Level %d|r]"
+Researchubertip="Empowers Enchantress's attacks to deal more damage the farther away the target is.|n|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 6/5/4/0 seconds|n|cff99ccffManacost:|r 40/45/50/55|n|n|cffffcc00Level 1|r - Deals 4% of the distance in damage.|n|cffffcc00Level 2|r - Deals 8% of the distance in damage.|n|cffffcc00Level 3|r - Deals 12% of the distance in damage.|n|cffffcc00Level 4|r - Deals 16% of the distance in damage."
+Researchhotkey=Q
+[A11J]
+Name="Orb of Dummy"
+Tip="Glaives of |cffffcc00W|risdom - [|cffffcc00Level 1|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 2|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 3|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 4|r]"
+Ubertip="Deals 15% of your intelligence in bonus damage. Damage type is pure.|n|n|cff99ccffCooldown:|r 3 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 30% of your intelligence in bonus damage. Damage type is pure.|n|n|cff99ccffCooldown:|r 2 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 45% of your intelligence in bonus damage. Damage type is pure.|n|n|cff99ccffCooldown:|r 1 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 60% of your intelligence in bonus damage. Damage type is pure.|n|n|cff99ccffCooldown:|r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=W
+Unhotkey=W
+Researchtip="Learn Glaives of |cffffcc00W|risdom - [|cffffcc00Level %d|r]"
+Researchubertip="Nortrom's Glaives are enchanted by his experience in magic. If he kills a hero, he will permanently steal 1 intelligence from it. Damage type is pure.|n|n|cffffcc00Level 1|r - Deals 15% of your intelligence in bonus damage.|n|cffffcc00Level 2|r - Deals 30% of your intelligence in bonus damage.|n|cffffcc00Level 3|r - Deals 45% of your intelligence in bonus damage.|n|cffffcc00Level 4|r - Deals 60% of your intelligence in bonus damage.|n|n|cff99ccffCooldown:|r 3/2/1/0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
 Researchhotkey=W
 [A1E8]
-Name=黏性燃油
-Tip=黏性燃油[|cffffcc00C|r] - [|cffffcc00等级 1|r],黏性燃油[|cffffcc00C|r] - [|cffffcc00等级 2|r],黏性燃油[|cffffcc00C|r] - [|cffffcc00等级 3|r],黏性燃油[|cffffcc00C|r] - [|cffffcc00等级 4|r]
-Ubertip=text. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=C
-Unhotkey=C
-Researchtip=学习 黏性燃油[|cffffcc00C|r] - [|cffffcc00等级 %d|r]|n(Sticky Napalm)
-Researchubertip=text. |n|n|cffffcc00Level 1|r - 1 |n|cffffcc00Level 2|r - 2 |n|cffffcc00Level 3|r - 3 |n|cffffcc00Level 4|r - 4 |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 10 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
-Researchhotkey=C
+Name="Sticky Napalm"
+Tip="[|cff81BAFFQ|r] Sticky Napalm - [|cffffcc00Level 1|r]","[|cff81BAFFQ|r] Sticky Napalm - [|cffffcc00Level 2|r]","[|cff81BAFFQ|r] Sticky Napalm - [|cffffcc00Level 3|r]","[|cff81BAFFQ|r] Sticky Napalm - [|cffffcc00Level 4|r]"
+Ubertip="text.|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=Q
+Unhotkey=Q
+Researchtip="[|cff81BAFFQ|r] Learn Sticky Napalm - [|cffffcc00Level %d|r]"
+Researchubertip="text.|n|n|cffffcc00Level 1|r - 1|n|cffffcc00Level 2|r - 2|n|cffffcc00Level 3|r - 3|n|cffffcc00Level 4|r - 4|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 10|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey=Q
 [A1NG]
-Name=Breath of the Necro'lic
-Tip=Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level 1|r],Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level 2|r],Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level 3|r],Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level 4|r]
-Ubertip=text.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=E
-Unhotkey=E
-Researchtip=Learn Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level %d|r]
-Researchubertip=text. |n|n|cffffcc00Level 1|r - 1. |n|cffffcc00Level 2|r - 2. |n|cffffcc00Level 3|r - 3. |n|cffffcc00Level 4|r - 4.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
-Researchhotkey=E
+Name="Breath of the Necro'lic"
+Tip="[|cff81BAFFW|r] Breath of the Necro'lic - [|cffffcc00Level 1|r]","[|cff81BAFFW|r] Breath of the Necro'lic - [|cffffcc00Level 2|r]","[|cff81BAFFW|r] Breath of the Necro'lic - [|cffffcc00Level 3|r]","[|cff81BAFFW|r] Breath of the Necro'lic - [|cffffcc00Level 4|r]"
+Ubertip="text.|n|n|cff99ccffCooldown:|r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.|n|n|cff99ccffCooldown:|r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.|n|n|cff99ccffCooldown:|r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.|n|n|cff99ccffCooldown:|r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=W
+Unhotkey=W
+Researchtip="[|cff81BAFFW|r] Learn Breath of the Necro'lic - [|cffffcc00Level %d|r]"
+Researchubertip="text.|n|n|cffffcc00Level 1|r - 1.|n|cffffcc00Level 2|r - 2.|n|cffffcc00Level 3|r - 3.|n|cffffcc00Level 4|r - 4.|n|n|cff99ccffCooldown:|r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey=W
 [A1QY]
-Name=Swarm Strike
-Tip=灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r],灼烧攻击[|cffffcc00T|r]
-Ubertip=灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒,灼热的攻击，足以融化目标的铠甲。|n|n|cff99ccff冷却时间：|r0秒
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=T
-Unhotkey=T
-Researchtip=学习 推进[|cffffcc00T|r] - [|cffffcc00等级 %d|r]|n(Impetus)
-Researchubertip=提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。|n|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r6/5/4/0秒|n|cff99ccff魔法消耗：|r40/45/50/55点|n|n|cffffcc00等级 1|r - 造成相隔距离4%的伤害|n|cffffcc00等级 2|r - 造成相隔距离8%的伤害|n|cffffcc00等级 3|r - 造成相隔距离12%的伤害|n|cffffcc00等级 4|r - 造成相隔距离16%的伤害
-Researchhotkey=T
+Name="Swarm Strike"
+Tip="[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike","[|cff81BAFFQ|r] Melting Strike"
+Ubertip="A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds","A searing attack hot enough to melt the target's armor.|n|n|cff99ccffCooldown:|r 0 seconds"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=Q
+Unhotkey=Q
+Researchtip="[|cff81BAFFQ|r] Learn Impetus - [|cffffcc00Level %d|r]"
+Researchubertip="Empowers Enchantress's attacks to deal more damage the farther away the target is.|n|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 6/5/4/0 seconds|n|cff99ccffManacost:|r 40/45/50/55|n|n|cffffcc00Level 1|r - Deals 4% of the distance in damage.|n|cffffcc00Level 2|r - Deals 8% of the distance in damage.|n|cffffcc00Level 3|r - Deals 12% of the distance in damage.|n|cffffcc00Level 4|r - Deals 16% of the distance in damage."
+Researchhotkey=Q
 [A1WB]
-Name=推进
-Tip=推进[|cffffcc00T|r] - [|cffffcc00等级 1|r],推进[|cffffcc00T|r] - [|cffffcc00等级 2|r],推进[|cffffcc00T|r] - [|cffffcc00等级 3|r],Impe|cffffcc00t|rus - [|cffffcc00Level 4|r]
-Ubertip=提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。造成相隔距离15%的伤害。|n|n|c00ff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0,提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。造成相隔距离20%的伤害。|n|n|c00ff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0,提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。造成相隔距离25%的伤害。|n|n|c00ff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0,Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 16% of the distance in damage. Damage type is pure. |n|n|cff99ccffCooldown: |r none.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=T
-Unhotkey=T
-Researchtip=学习 推进[|cffffcc00T|r] - [|cffffcc00等级 %d|r]|n(Impetus)
-Researchubertip=提升魅惑魔女攻击的威力，目标距离越远造成的伤害越大。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff冷却时间：|r0|n|cff99ccff魔法消耗：|r55/60/65|n|n|cffffcc00等级 1|r - 造成相隔距离15%的伤害|n|cffffcc00等级 2|r - 造成相隔距离20%的伤害|n|cffffcc00等级 3|r - 造成相隔距离25%的伤害
-Researchhotkey=T
+Name="Impetus"
+Tip="[|cff81BAFFR|r] Impetus - [|cffffcc00Level 1|r]","[|cff81BAFFR|r] Impetus - [|cffffcc00Level 2|r]","[|cff81BAFFR|r] Impetus - [|cffffcc00Level 3|r]","[|cff81BAFFR|r] Impetus - [|cffffcc00Level 4|r]"
+Ubertip="Empowers Enchantress's attacks to deal more damage the farther away the target is. Deals damage equal to 15% of the distance.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0","Empowers Enchantress's attacks to deal more damage the farther away the target is. Deals damage equal to 20% of the distance.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0","Empowers Enchantress's attacks to deal more damage the farther away the target is. Deals damage equal to 25% of the distance.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0","Causes Aiushtha's attacks to deal more damage the further away the target is. Deals 16% of the distance in damage. Damage type is pure.|n|n|cff99ccffCooldown:|r none.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+Researchtip="[|cff81BAFFR|r] Learn Impetus - [|cffffcc00Level %d|r]"
+Researchubertip="Empowers Enchantress's attacks to deal more damage the farther away the target is.|n|n|cffff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r|n|cffff8000Hero attack, Magic damage|r|n|n|cff99ccffCooldown:|r 0|n|cff99ccffManacost:|r 55/60/65|n|n|cffffcc00Level 1|r - Deals 15% of the distance in damage.|n|cffffcc00Level 2|r - Deals 20% of the distance in damage.|n|cffffcc00Level 3|r - Deals 25% of the distance in damage."
+Researchhotkey=R
 [A201]
-Name=海象神拳
-Tip=海象神拳[|cffffcc00R|r] - [|cffffcc00等级 1|r],海象神拳[|cffffcc00R|r] - [|cffffcc00等级 2|r],海象神拳[|cffffcc00R|r] - [|cffffcc00等级 3|r],智慧之刃[|cffffcc00W|r] - [|cffffcc00等级 4|r]
-Ubertip=text.  |n|n|cff99ccffCooldown: |r 20,text.  |n|n|cff99ccffCooldown: |r 20,text.  |n|n|cff99ccffCooldown: |r 20,Deals 60% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
+Name="Walrus Punch"
+Tip="[|cff81BAFFR|r] Walrus Punch - [|cffffcc00Level 1|r]","[|cff81BAFFR|r] Walrus Punch - [|cffffcc00Level 2|r]","[|cff81BAFFR|r] Walrus Punch - [|cffffcc00Level 3|r]","[|cff81BAFFR|r] Glaives of Wisdom - [|cffffcc00Level 4|r]"
+Ubertip="text.|n|n|cff99ccffCooldown:|r 20","text.|n|n|cff99ccffCooldown:|r 20","text.|n|n|cff99ccffCooldown:|r 20","Deals 60% of your intelligence in bonus damage. Damage type is pure.|n|n|cff99ccffCooldown:|r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
 Untip=
 Unubertip=
 Hotkey=R
 Unhotkey=R
-Researchtip=学习 海象神拳[|cffffcc00R|r] - [|cffffcc00等级 |r]|n(Walrus Punch)
-Researchubertip=text.  |n|n|cffffcc00Level 1|r - 1. |n|cffffcc00Level 2|r - 2. |n|cffffcc00Level 3|r - 3. |n|cffffcc00Level 3|r - 4.  |n|n|cff99ccffCooldown: |r 20 |n|cff99ccffManacost: |r 150
+Researchtip="[|cff81BAFFR|r] Learn Walrus Punch - [|cffffcc00Level %d|r]"
+Researchubertip="text.|n|n|cffffcc00Level 1|r - 1.|n|cffffcc00Level 2|r - 2.|n|cffffcc00Level 3|r - 3.|n|cffffcc00Level 3|r - 4.|n|n|cff99ccffCooldown:|r 20|n|cff99ccffManacost:|r 150"
 Researchhotkey=R
 [A2N3]
-Name=严寒灼烧
-Tip=北极烧灼[|cffffcc00R|r] - [|cffffcc00等级 1|r],北极烧灼[|cffffcc00R|r] - [|cffffcc00等级 2|r],北极烧灼[|cffffcc00R|r] - [|cffffcc00等级 3|r],北极烧灼[|cffffcc00R|r] - [|cffffcc00等级 4|r]
-Ubertip=text,text,text,text
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以关闭自动施放|r
-Hotkey=R
-Unhotkey=R
-Researchtip=学习 北极烧灼[|cffffcc00R|r] - [|cffffcc00等级 %d|r]|n(Arctic Burn)
-Researchubertip=text
-Researchhotkey=R
-[A2UM]
-Name=液态火
-Tip=液态火[|cffffcc00Q|r] - [|cffffcc00等级 1|r],液态火[|cffffcc00Q|r] - [|cffffcc00等级 2|r],液态火[|cffffcc00Q|r] - [|cffffcc00等级 3|r],液态火[|cffffcc00Q|r] - [|cffffcc00等级 4|r]
-Ubertip=双头龙从腹中笔直地射出一团液态火焰，烧灼他选中的牺牲品。对敌方单位造成12点/秒的伤害并降低其20%的攻击速度，持续5秒。|n|n|cffff0303对建筑物有效|r|n|n|cff99ccff作用范围：|r300|n|cff99ccff冷却时间：|r20,双头龙从腹中笔直地射出一团液态火焰，烧灼他选中的牺牲品。对敌方单位造成16点/秒的伤害并降低其30%的攻击速度，持续5秒。|n|n|cffff0303对建筑物有效|r|n|n|cff99ccff作用范围：|r300|n|cff99ccff冷却时间：|r15,双头龙从腹中笔直地射出一团液态火焰，烧灼他选中的牺牲品。对敌方单位造成20点/秒的伤害并降低其40%的攻击速度，持续5秒。|n|n|cffff0303对建筑物有效|r|n|n|cff99ccff作用范围：|r300|n|cff99ccff冷却时间：|r10,双头龙从腹中笔直地射出一团液态火焰，烧灼他选中的牺牲品。对敌方单位造成24点/秒的伤害并降低其50%的攻击速度，持续5秒。|n|n|cffff0303对建筑物有效|r|n|n|cff99ccff作用范围：|r300|n|cff99ccff冷却时间：|r4
-Untip=|cffc3dbff右键单击以激活自动施放|r
-Unubertip=|cffc3dbff右键单击以激活自动施放|r
+Name="Arctic Burn"
+Tip="[|cff81BAFFQ|r] Arctic Burn - [|cffffcc00Level 1|r]","[|cff81BAFFQ|r] Arctic Burn - [|cffffcc00Level 2|r]","[|cff81BAFFQ|r] Arctic Burn - [|cffffcc00Level 3|r]","[|cff81BAFFQ|r] Arctic Burn - [|cffffcc00Level 4|r]"
+Ubertip="Winter Wyvern channels a deathly chill into her attacks, gaining 425 attack range while active. Each empowered attack costs mana and brands its target; every 4th attack she lands on the same enemy within 6 seconds drains 20% of her current mana and sets the victim ablaze with frost, burning 3.4% of that enemy's maximum health per second for 6 seconds.|n|n|cffc3dbffRight-click to activate auto-casting.|r|n|n|cff99ccffManacost:|r 25","Winter Wyvern channels a deathly chill into her attacks, gaining 550 attack range while active. Each empowered attack costs mana and brands its target; every 4th attack she lands on the same enemy within 6 seconds drains 20% of her current mana and sets the victim ablaze with frost, burning 3.6% of that enemy's maximum health per second for 6 seconds.|n|n|cffc3dbffRight-click to activate auto-casting.|r|n|n|cff99ccffManacost:|r 25","Winter Wyvern channels a deathly chill into her attacks, gaining 675 attack range while active. Each empowered attack costs mana and brands its target; every 4th attack she lands on the same enemy within 6 seconds drains 20% of her current mana and sets the victim ablaze with frost, burning 3.8% of that enemy's maximum health per second for 6 seconds.|n|n|cffc3dbffRight-click to activate auto-casting.|r|n|n|cff99ccffManacost:|r 25","Winter Wyvern channels a deathly chill into her attacks, gaining 800 attack range while active. Each empowered attack costs mana and brands its target; every 4th attack she lands on the same enemy within 6 seconds drains 20% of her current mana and sets the victim ablaze with frost, burning 4% of that enemy's maximum health per second for 6 seconds.|n|n|cffc3dbffRight-click to activate auto-casting.|r|n|n|cff99ccffManacost:|r 25"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
 Hotkey=Q
 Unhotkey=Q
-Researchtip=学习 液态火[|cffffcc00Q|r] - [|cffffcc00等级 %d|r]|n(Liquid Fire)
-Researchubertip=双头龙从腹中笔直地射出一团液态火焰，烧灼他选中的牺牲品。对敌方单位造成持续的伤害并降低其攻击速度，持续5秒。|n|n|cffff0303对建筑物有效|r|n|n|cff99ccff作用范围：|r300|n|cff99ccff冷却时间：|r20/15/10/4|n|n|cffffcc00等级 1|r - 造成15点/秒的伤害，降低20%的攻击速度|n|cffffcc00等级 2|r - 造成20点/秒的伤害，降低30%的攻击速度|n|cffffcc00等级 3|r - 造成25点/秒的伤害，降低40%的攻击速度|n|cffffcc00等级 4|r - 造成30点/秒的伤害，降低50%的攻击速度
+Researchtip="[|cff81BAFFQ|r] Learn Arctic Burn - [|cffffcc00Level %d|r]"
+Researchubertip="text"
 Researchhotkey=Q
+[A2UM]
+Name="Liquid Fire"
+Tip="[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 1|r]","[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 2|r]","[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 3|r]","[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 4|r]"
+Ubertip="Jakiro shoots a straight jet of liquid fire from its belly, scorching its chosen victim. Deals 12 damage per second to enemy units and reduces their attack speed by 20% for 5 seconds.|n|n|cffff0303Affects buildings|r|n|n|cff99ccffArea of Effect:|r 300|n|cff99ccffCooldown:|r 20","Jakiro shoots a straight jet of liquid fire from its belly, scorching its chosen victim. Deals 16 damage per second to enemy units and reduces their attack speed by 30% for 5 seconds.|n|n|cffff0303Affects buildings|r|n|n|cff99ccffArea of Effect:|r 300|n|cff99ccffCooldown:|r 15","Jakiro shoots a straight jet of liquid fire from its belly, scorching its chosen victim. Deals 20 damage per second to enemy units and reduces their attack speed by 40% for 5 seconds.|n|n|cffff0303Affects buildings|r|n|n|cff99ccffArea of Effect:|r 300|n|cff99ccffCooldown:|r 10","Jakiro shoots a straight jet of liquid fire from its belly, scorching its chosen victim. Deals 24 damage per second to enemy units and reduces their attack speed by 50% for 5 seconds.|n|n|cffff0303Affects buildings|r|n|n|cff99ccffArea of Effect:|r 300|n|cff99ccffCooldown:|r 4"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=E
+Unhotkey=E
+Researchtip="[|cff81BAFFE|r] Learn Liquid Fire - [|cffffcc00Level %d|r]"
+Researchubertip="Jakiro shoots a straight jet of liquid fire from its belly, scorching its chosen victim. Deals damage over time to enemy units and reduces their attack speed for 5 seconds.|n|n|cffff0303Affects buildings|r|n|n|cff99ccffArea of Effect:|r 300|n|cff99ccffCooldown:|r 20/15/10/4|n|n|cffffcc00Level 1|r - Deals 15 damage per second, reduces attack speed by 20%.|n|cffffcc00Level 2|r - Deals 20 damage per second, reduces attack speed by 30%.|n|cffffcc00Level 3|r - Deals 25 damage per second, reduces attack speed by 40%.|n|cffffcc00Level 4|r - Deals 30 damage per second, reduces attack speed by 50%."
+Researchhotkey=E
 [B01Y]
-Bufftip=暗影冲刺
-Buffubertip=该单位正在被追杀
+Bufftip="Charge of Darkness"
+Buffubertip="This unit is being hunted down."
 [B02S]
-Bufftip=死神镰刀
-Buffubertip=该单位转瞬即逝
-EditorName=死神镰刀
+Bufftip="Reaper's Scythe"
+Buffubertip="This unit is having its life flash before its eyes."
+EditorName="Reaper's Scythe"
 [B00Q]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
 [B03D]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
-EditorName=slardar stomp
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
+EditorName="slardar stomp"
 [B053]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
-EditorName=Time Walk Stun
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
+EditorName="Time Walk Stun"
 [B06C]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
-EditorName=Charge of Darkness Stun
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
+EditorName="Charge of Darkness Stun"
 [B06K]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
 [B06M]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
 [B06O]
-Bufftip=Haunt
-Buffubertip=This unit is being Haunted.
+Bufftip="Haunt"
+Buffubertip="This unit is being Haunted."
 [B06S]
-Bufftip=冰冻
-Buffubertip=该单位被冰冻住，无法移动, attack, or cast spells.
+Bufftip="Iced"
+Buffubertip="This unit is frozen and cannot move, attack, or cast spells."
 [B04V]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
 [B072]
-Bufftip=不稳定化合物
-Buffubertip=该单位被化学药品所麻醉，处于昏迷状态，并且无法移动
+Bufftip="Unstable Concoction"
+Buffubertip="This unit has been overdosed with chemicals. It cannot move."
 [B07A]
-Bufftip=Blow Dart
-Buffubertip=This unit is hit by the blowdart; It will be slowed for a brief period of time.
+Bufftip="Blow Dart"
+Buffubertip="This unit is hit by the blowdart; It will be slowed for a brief period of time."
 [B08S]
-Bufftip=撕裂伤口
-Buffubertip=此单位无法移动，对它造成的伤害会为攻击者恢复生命。
+Bufftip="Open Wounds"
+Buffubertip="This unit cannot move, and damage dealt to it restores health to the attacker."
 [B095]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
-EditorName=Battery Assault
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
+EditorName="Battery Assault"
 [B099]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
 [B0BM]
-Bufftip=回音重踏
-Buffubertip=该单位被击昏了，昏迷的敌人一旦受到敌方玩家单位的攻击就会被惊醒
+Bufftip="Echo Stomp"
+Buffubertip="Unit is knocked out. It will awaken if it takes any player based damage."
 [B0C2]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."
 [B0CF]
-Bufftip=寒霜之足
-Buffubertip=该单位被眩晕了，无法移动、攻击或施放技能
-EditorName=寒霜之足
+Bufftip="Cold Feet"
+Buffubertip="This unit is stunned and cannot move, attack, or cast spells."
+EditorName="Cold Feet"
 [B0GG]
-Bufftip=晕眩
-Buffubertip=该单位将无法移动。
+Bufftip="Stunned"
+Buffubertip="This unit cannot move."

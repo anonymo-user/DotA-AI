@@ -1300,3 +1300,12 @@ war3mapimported\fatesedict.mdx
 war3mapmisc.txt
 war3mappreview.tga
 war3mapskin.txt
+war3mapImported\StoneRockBig.mdx
+Units\Creeps\GolemStatue\GolemStatue.mdx
+Units\Creeps\GolemStatue\GolemStatue_portrait.mdx
+units\undead\Skeleton\Skeleton_portrait.mdx
+DekanModles\DekanGoku_Portrait.mdx
+LoadingScreenTL.tga
+LoadingScreenTR.tga
+LoadingScreenBL.tga
+LoadingScreenBR.tga
