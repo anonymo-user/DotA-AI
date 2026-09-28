@@ -1,0 +1,15 @@
+# Build outputs
+/build/
+*.w3x
+*.mpqtmp
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/

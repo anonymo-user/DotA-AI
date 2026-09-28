@@ -3,94 +3,94 @@ Name=A Hero
 [nbrg]
 Name=Brigand
 Tip=Hire Brigand
-Ubertip="Light ranged unit with Shadowmeld. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit with Shadowmeld.|n|n|cffffcc00Attacks land and air units.|r"
 [nbdk]
 Name=Black Drake
 Tip=Summon Black Dra|cffffcc00k|re
-Ubertip="Small ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Small ranged flying unit.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=K
 [nbwm]
 Name=Black Dragon
 Tip=Summon Black |cffffcc00D|rragon
-Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=D
 [ncen]
 Name=Centaur Outrunner
 Tip=Hire Centaur |cffffcc00O|rutrunner
-Ubertip="Medium melee attacker wielding a large axe. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Medium melee attacker wielding a large axe.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=O
 [ncnk]
 Name=Centaur Khan
 Tip=Hire Centaur Khan
-Ubertip="Heavy melee unit with Endurance Aura. Has the ability War Stomp. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy melee unit with Endurance Aura. Has the ability War Stomp.|n|n|cffffcc00Attacks land and air units.|r"
 [ndtw]
 Name=Dark Troll Warlord
 Hotkey=W
 Tip=Hire Dark Troll |cffffcc00W|rarlord
-Ubertip="Heavy ranged unit with Raise Dead and Ensnare. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy ranged unit with Raise Dead and Ensnare.|n|n|cffffcc00Attacks land and air units.|r"
 [ndtr]
 Name=Dark Troll
 Hotkey=T
 Tip=Hire Dark |cffffcc00T|rroll
-Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit.|n|n|cffffcc00Attacks land and air units.|r"
 [nfsh]
 Name=Forest Troll High Priest
 Hotkey=H
 Tip=Hire Forest Troll |cffffcc00H|righ Priest
-Ubertip="High Priest of healing magic. Hurls fiery missiles. Can cast Heal. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="High Priest of healing magic. Hurls fiery missiles. Can cast Heal.|n|n|cffffcc00Attacks land and air units.|r"
 [nftb]
 Name=Forest Troll Berserker
 Hotkey=B
 Tip=Hire Forest Troll |cffffcc00B|rerserker
-Ubertip="Rabid axe-thrower. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Rabid axe-thrower.|n|n|cffffcc00Attacks land and air units.|r"
 [ngst]
 Name=Rock Golem
 Tip=Summon Rock Golem
-Ubertip="Heavy melee unit that hurls boulders at opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Heavy melee unit that hurls boulders at opponents. Immune to spells.|n|n|cffffcc00Attacks land units.|r"
 [nggr]
 Name="Emerald Golem"
 Tip=Summon Granite Golem
-Ubertip="Heavy melee unit that can Slam opponents and hurl boulders. Immune to spells. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy melee unit that can Slam opponents and hurl boulders. Immune to spells.|n|n|cffffcc00Attacks land and air units.|r"
 [ngh1]
 Name=Ghost
 Tip=Summon Ghost
-Ubertip="Light ranged unit with Frost Attack. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit with Frost Attack.|n|n|cffffcc00Attacks land and air units.|r"
 [ngns]
 Name=Gnoll Assassin
 Tip=Hire Gnoll A|cffffcc00s|rsassin
 Hotkey=S
-Ubertip="Light ranged unit that fires envenomed bolts. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit that fires envenomed bolts.|n|n|cffffcc00Attacks land and air units.|r"
 [nkob]
 Name=Kobold
 Tip=Hire |cffffcc00K|robold
 Hotkey=K
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land units.|r"
 [nkol]
 Name=Kobold Taskmaster
 Tip=Hire Kobold Taskmaster
-Ubertip="Medium melee unit with Speed Aura. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Medium melee unit with Speed Aura.|n|n|cffffcc00Attacks land units.|r"
 [nkot]
 Name=Kobold Tunneler
 Tip=Hire Kobold Tunneler
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land units.|r"
 [nmrl]
 Name=Murloc Tiderunner
 Tip=Hire Murloc Tiderunner
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land units.|r"
 [nmrr]
 Name=Murloc Huntsman
 Tip=Hire Murloc |cffffcc00H|runtsman
 Hotkey=H
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land units.|r"
 [nmrm]
 Name=Murloc Nightcrawler
 Tip=Hire Murloc Nightcrawler
-Ubertip="Light melee unit that can use Shadowmeld and can Ensnare opponents. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit that can use Shadowmeld and can Ensnare opponents.|n|n|cffffcc00Attacks land units.|r"
 [nowb]
 Name=Wildkin
 Tip=Summon |cffffcc00W|rildkin
 Hotkey=W
-Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Medium melee unit.|n|n|cffffcc00Attacks land units.|r"
 [nowe]
 Name=Enraged Wildkin
 Tip=Summon Enraged Wildkin
@@ -105,26 +105,26 @@ Description=Regenerates the health of all non-mechanical units nearby.
 [nogm]
 Name=Ogre Mauler
 Tip=Hire Ogre |cffffcc00M|rauler
-Ubertip="Large brutal warrior of the Ogre Legion. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Large brutal warrior of the Ogre Legion.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=M
 [nomg]
 Name=Ogre Magi
 Tip=Hire O|cffffcc00g|rre Magi
-Ubertip="Spellcasting warriors of the Ogre Legion. Can cast Frost Armor. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Spellcasting warriors of the Ogre Legion. Can cast Frost Armor.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=G
 [nsat]
 Name=Satyr Trickster
 Tip=Hire Satyr Trickster
-Ubertip="Light ranged unit that hurls bolts of hellfire. Can cast Purge. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit that hurls bolts of hellfire. Can cast Purge.|n|n|cffffcc00Attacks land and air units.|r"
 [nsth]
 Name=Satyr Hellcaller
 Tip=Hire Satyr Hellcaller
-Ubertip="Heavy melee unit with Unholy Aura. Can also Shockwave. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Heavy melee unit with Unholy Aura. Can also Shockwave.|n|n|cffffcc00Attacks land units.|r"
 [nstl]
 Name=Satyr Soulstealer
 Tip=Hire Satyr |cffffcc00S|roulstealer
 Hotkey=S
-Ubertip="Medium melee unit that can cast Mana Burn. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Medium melee unit that can cast Mana Burn.|n|n|cffffcc00Attacks land units.|r"
 [nshe]
 Name=Sheep
 Tip=Invoke Sheep
@@ -148,11 +148,11 @@ Ubertip="Call upon the spirit of Vulture to save you."
 [nwlg]
 Name=Giant Wolf
 Tip=Summon Giant Wolf
-Ubertip="Medium melee unit with Critical Strike. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Medium melee unit with Critical Strike.|n|n|cffffcc00Attacks land units.|r"
 [nbal]
 Name=Doom Guard
 Tip=Summon Doom Guard
-Ubertip="Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire.|n|n|cffffcc00Attacks land and air units.|r"
 [nwgt]
 Name=Way Gate
 Tip=Build Way Gate
@@ -170,30 +170,30 @@ Name=Pandaren Brewmaster
 Propernames=Mangix
 Hotkey=
 Tip="Pandaren Brewmaster"
-Ubertip="Mangix originates from a deeply hidden and secret society located on the obscure island of Pandaria. He lived a sheltered life in his home within the Stonetalon Mountains, but even the far, golden reaches of Pandaria were affected by the dark hand of the Scourge. The elders heard the cries of the innocent, and saw the blood of the slain, and so, they agreed to send one elite warrior, hoping to turn the tides of battle and restore the Great Balance. What they did not know was that the local barkeep had trained for this very moment his entire life. |n|n|c00ff0303Strength|r - 23 + 2.9|n|c000042ffAgility|r - 22 + 1.95|n|c000042ffIntelligence|r - 14 + 1.25|n|nLearns Thunder Clap, Drunken Haze, Drunken Brawler, and |c00ff8000Primal Split|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Ubertip="Mangix originates from a deeply hidden and secret society located on the obscure island of Pandaria. He lived a sheltered life in his home within the Stonetalon Mountains, but even the far, golden reaches of Pandaria were affected by the dark hand of the Scourge. The elders heard the cries of the innocent, and saw the blood of the slain, and so, they agreed to send one elite warrior, hoping to turn the tides of battle and restore the Great Balance. What they did not know was that the local barkeep had trained for this very moment his entire life.|n|n|c00ff0303Strength|r - 23 + 2.9|n|c000042ffAgility|r - 22 + 1.95|n|c000042ffIntelligence|r - 14 + 1.25|n|nLearns Thunder Clap, Drunken Haze, Drunken Brawler, and |c00ff8000Primal Split|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
 Revivetip="Revive Pandaren Brewmaster"
 Awakentip="Revive Pandaren Brewmaster"
 [npn1]
 Name=Fire
 Tip=Summon |cffffcc00F|rire
-Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=F
 [npn2]
 Name="Storm Level 1"
 Tip=Summon S|cffffcc00t|rorm
-Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=T
 [npn3]
 Name=Earth
 Tip=Summon |cffffcc00E|rarth
-Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=E
 [Nbrn]
 Name="Drow Ranger"
 Propernames=Traxex
 Hotkey=
 Tip="Drow Ranger"
-Ubertip="Traxex was a skilled archer in her oppressive underground homeland, the Underdark, until she grew sick of her kin's evil ways and fled to the surface world. As a part of her resolution, she wanders alone in the wilds, bringing her excellent marksmanship to the fray. Some of her abilities include stripping magical beings of their voices, enchanting her arrows with an icy cold, and the ability to release each arrow with much greater precision. While such powers are valuable, her true origin will never cease to linger around in the judging eyes of others.  |n|n|c000042ffStrength|r - 17 + 1.9|n|c00ff0303Agility|r - 26 + 1.9|n|c000042ffIntelligence|r - 15 + 1.4|n|nLearns Gust, Trueshot Aura, Frost Arrows, and |c00ff8000Marksmanship|r.|n|nAttack range of 625.|nMovement speed of 300."
+Ubertip="Traxex was a skilled archer in her oppressive underground homeland, the Underdark, until she grew sick of her kin's evil ways and fled to the surface world. As a part of her resolution, she wanders alone in the wilds, bringing her excellent marksmanship to the fray. Some of her abilities include stripping magical beings of their voices, enchanting her arrows with an icy cold, and the ability to release each arrow with much greater precision. While such powers are valuable, her true origin will never cease to linger around in the judging eyes of others.|n|n|c000042ffStrength|r - 17 + 1.9|n|c00ff0303Agility|r - 26 + 1.9|n|c000042ffIntelligence|r - 15 + 1.4|n|nLearns Gust, Trueshot Aura, Frost Arrows, and |c00ff8000Marksmanship|r.|n|nAttack range of 625.|nMovement speed of 300."
 Revivetip="Revive Drow Ranger"
 Awakentip="Revive Drow Ranger"
 Description="Drow Ranger"
@@ -205,7 +205,7 @@ Name="Shadow Fiend"
 Propernames=Nevermore,Nevermore,Nevermore,Nevermore,Nevermore,Nevermore,Nevermore,Nevermore,Nevermore,Nevermore,|c00FFFF00YaphetS|r
 Hotkey=
 Tip="Shadow Fiend"
-Ubertip="A demon of the burning legion so abhorred that he makes the skin of even his fellow demons crawl, Nevermore is a creature of the shadows that consumes the souls of those around him. When the Shadow Fiend comes forth to battle, he augments his power with the souls he has consumed, bearing down on his enemies with spiritually enhanced attacks and powerful spiritual blasts. The Shadow Fiend is a terrifying opponent whom few have survived, and those who have perished under his tyranny have faced the most despicable fate of all. |n|n|c000042ffStrength|r - 15 + 2.0|n|c00ff0303Agility|r - 20 + 2.9|n|c000042ffIntelligence|r - 18 + 2.0|n|nLearns Presence of the Dark Lord, Necromastery, Shadowraze, and |c00ff8000Requiem of Souls|r.|n|nAttack range of 500.|nMovement speed of 305."
+Ubertip="A demon of the burning legion so abhorred that he makes the skin of even his fellow demons crawl, Nevermore is a creature of the shadows that consumes the souls of those around him. When the Shadow Fiend comes forth to battle, he augments his power with the souls he has consumed, bearing down on his enemies with spiritually enhanced attacks and powerful spiritual blasts. The Shadow Fiend is a terrifying opponent whom few have survived, and those who have perished under his tyranny have faced the most despicable fate of all.|n|n|c000042ffStrength|r - 15 + 2.0|n|c00ff0303Agility|r - 20 + 2.9|n|c000042ffIntelligence|r - 18 + 2.0|n|nLearns Presence of the Dark Lord, Necromastery, Shadowraze, and |c00ff8000Requiem of Souls|r.|n|nAttack range of 500.|nMovement speed of 305."
 Revivetip="Revive Shadow Fiend"
 Awakentip="Revive Shadow Fiend"
 [Ntin]
@@ -213,7 +213,7 @@ Name=Tinker
 Propernames=Boush,Boush,Boush,Boush,Boush,|c00FFFF00X!!|r,Boush
 Hotkey=
 Tip="Tinker"
-Ubertip="Goblin engineering was always innovative, but Boush brought it to such extreme that most refuse to believe that his powers lie in machines and rather think that he fights with magic. He can shoot focused light and homing projectiles as powerful and as flashy as most destructive Elven Arcane spells. It is said that not even best Necromancers can raise armies comparable to seemingly endless amount of clockwork goblins that Boush can easily summon. And while some refuse to believe in his machinery skills and other call him the master artist of engineering, none can deny the destructive force of this goblin.  |n|n|c000042ffStrength|r - 17 + 2.0|n|c000042ffAgility|r - 13 + 1.2|n|c00ff0303Intelligence|r - 27 + 2.2|n|nLearns Laser, Heat Seeking Missile, March of the Machines, and |c00ff8000Rearm|r.|n|nAttack range of 500.|nMovement speed of 305."
+Ubertip="Goblin engineering was always innovative, but Boush brought it to such extreme that most refuse to believe that his powers lie in machines and rather think that he fights with magic. He can shoot focused light and homing projectiles as powerful and as flashy as most destructive Elven Arcane spells. It is said that not even best Necromancers can raise armies comparable to seemingly endless amount of clockwork goblins that Boush can easily summon. And while some refuse to believe in his machinery skills and other call him the master artist of engineering, none can deny the destructive force of this goblin.|n|n|c000042ffStrength|r - 17 + 2.0|n|c000042ffAgility|r - 13 + 1.2|n|c00ff0303Intelligence|r - 27 + 2.2|n|nLearns Laser, Heat Seeking Missile, March of the Machines, and |c00ff8000Rearm|r.|n|nAttack range of 500.|nMovement speed of 305."
 Revivetip="Revive Tinker"
 Awakentip="Revive Tinker"
 [Nrob]
@@ -227,17 +227,17 @@ Awakentip=Revive Tinker (|cffffcc00Z|r)
 [ncgb]
 Name=Clockwerk Goblin
 Tip=Summon |cffffcc00C|rlockwerk Goblin
-Ubertip="Poorly engineered mechanical goblin melee warrior.  Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r"
+Ubertip="Poorly engineered mechanical goblin melee warrior. Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=C
 [ncg1]
 Name=Clockwerk Goblin
 Tip=Summon |cffffcc00C|rlockwerk Goblin
-Ubertip="Poorly engineered mechanical goblin melee warrior.  Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r"
+Ubertip="Poorly engineered mechanical goblin melee warrior. Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=C
 [ncg2]
 Name=Clockwerk Goblin
 Tip=Summon |cffffcc00C|rlockwerk Goblin
-Ubertip="Poorly engineered mechanical goblin melee warrior.  Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r"
+Ubertip="Poorly engineered mechanical goblin melee warrior. Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=C
 [nfac]
 Name=Pocket Factory
@@ -271,28 +271,28 @@ Name=Tornado
 [nbdo]
 Name=Blue Dragonspawn Overseer
 Tip=Hire Blue Dragonspawn Overseer
-Ubertip="Heavy melee unit with Breath of Frost, Devotion Aura, and Evasion. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Heavy melee unit with Breath of Frost, Devotion Aura, and Evasion.|n|n|cffffcc00Attacks land units.|r"
 [nbds]
 Name=Blue Dragonspawn Sorcerer
 Tip=Hire Blue Dragonspawn Sorcerer
-Ubertip="Medium ranged unit with Evasion and Frost Nova. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Medium ranged unit with Evasion and Frost Nova.|n|n|cffffcc00Attacks land and air units.|r"
 [nanm]
 Name=Barbed Arachnathid
 Tip=Hire |cffffcc00B|rarbed Arachnathid
 Hotkey=B
-Ubertip="Light ranged unit that has the Burrow ability. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit that has the Burrow ability.|n|n|cffffcc00Attacks land and air units.|r"
 [nbnb]
 Name=Burrowed Barbed Arachnathid
 Tip=Hire Barbed Arachnathid
-Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit.|n|n|cffffcc00Attacks land and air units.|r"
 [nfpc]
 Name=Polar Furbolg Champion
 Tip=Hire Polar Furbolg Champion
-Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Heavy melee unit.|n|n|cffffcc00Attacks land units.|r"
 [nfpu]
 Name=Polar Furbolg Ursa Warrior
 Tip=Hire Polar Furbolg Ursa Warrior
-Ubertip="Heavy melee unit with War Stomp. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Heavy melee unit with War Stomp.|n|n|cffffcc00Attacks land units.|r"
 [npng]
 Name=Penguin
 Tip=Invoke Penguin
@@ -309,19 +309,19 @@ Ubertip="Call upon the spirit of Snowy Owl to save you."
 Name=Fel Beast
 Tip=Summon |cffffcc00F|rel Beast
 Hotkey=F
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land units.|r"
 [njga]
 Name=Elder Jungle Stalker
 Tip=Summon Elder Jungle Stalker
-Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Heavy melee unit.|n|n|cffffcc00Attacks land units.|r"
 [njg1]
 Name=Jungle Stalker
 Tip=Summon Jungle Stalker
-Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Medium melee unit.|n|n|cffffcc00Attacks land units.|r"
 [n00H]
 Name="Necronomicon Archer 1"
 Tip=Hire Skeleton Archer
-Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n00Q]
 Name=Goblin Land Mine
 [n005]
@@ -331,7 +331,7 @@ Description=Allows you to hire various Heroes.
 [n006]
 Name="Necronomicon Warrior 3"
 Tip=Hire Skeleton Warrior
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n008]
 Name="Intelligence (Sentinel - 1)"
 Tip=Build Tavern
@@ -347,7 +347,7 @@ Description=Allows you to hire various Heroes.
 [n019]
 Name="Spiderling"
 Tip=Summon Spider
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land units.|r"
 [n00E]
 Name="Scary Fish"
 Tip=""
@@ -357,7 +357,7 @@ Name="Lone Druid"
 Propernames=Syllabear,Syllabear,Syllabear,Syllabear,Syllabear,Syllabear,Syllabear,Syllabear
 Hotkey=
 Tip="Lone Druid"
-Ubertip="Syllabear was spared a time of great strife due to the deeds of his people. Sensing their settlement’s impending destruction they turned their child into a bear and sent him into the wild. Syllabear grew up strong and savage, like the bears that inhabited the forests of his home. Using druidic powers, he can enter a state of almost rabid frenzy, and even call powerful bear companions to aid him. Awakened into his elven heritage by Furion the Prophet, Syllabear has regained his true elven form, and brings the bestial spirit of the bear to the battlefield. |n|n|c000042ffStrength|r - 17 + 2.1|n|c00ff0303Agility|r - 24 + 2.7|n|c000042ffIntelligence|r - 13 + 1.4|n|nLearns Summon Spirit Bear, Synergy, Rabid, and |c00ff8000True Form|r.|n|nAttack range of 550.|nMovement speed of 325."
+Ubertip="Syllabear was spared a time of great strife due to the deeds of his people. Sensing their settlement’s impending destruction they turned their child into a bear and sent him into the wild. Syllabear grew up strong and savage, like the bears that inhabited the forests of his home. Using druidic powers, he can enter a state of almost rabid frenzy, and even call powerful bear companions to aid him. Awakened into his elven heritage by Furion the Prophet, Syllabear has regained his true elven form, and brings the bestial spirit of the bear to the battlefield.|n|n|c000042ffStrength|r - 17 + 2.1|n|c00ff0303Agility|r - 24 + 2.7|n|c000042ffIntelligence|r - 13 + 1.4|n|nLearns Summon Spirit Bear, Synergy, Rabid, and |c00ff8000True Form|r.|n|nAttack range of 550.|nMovement speed of 325."
 Revivetip="Revive Lone Druid"
 Awakentip="Revive Lone Druid"
 Description="Lone Druid"
@@ -389,7 +389,7 @@ Name=Goblin Land Mine
 [n00A]
 Name="Necronomicon Warrior 2"
 Tip=Hire Skeleton Warrior
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n00I]
 Name=Chicken
 Tip=Invoke Chicken
@@ -401,7 +401,7 @@ Ubertip=""
 [n01E]
 Name="Spiderite"
 Tip=Summon Spider
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land units.|r"
 [n007]
 Name="Agility (Sentinel - 2)"
 Tip=Build Tavern
@@ -441,15 +441,15 @@ Description="Lone Druid"
 [n00J]
 Name="Necronomicon Warrior 1"
 Tip="Necronomicon Warrior"
-Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light melee unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n00K]
 Name="Necronomicon Archer 3"
 Tip=Hire Skeleton Archer
-Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n00G]
 Name="Necronomicon Archer 2"
 Tip=Hire Skeleton Archer
-Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Light ranged unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n01N]
 Name="Agility (Sentinel - 1)"
 Tip=Build Tavern
@@ -473,15 +473,15 @@ Ubertip=""
 [n00U]
 Name=Infernal
 Tip=Summon Infernal
-Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic.|n|n|cffffcc00Attacks land and air units.|r"
 [n00Y]
 Name=Infernal
 Tip=Summon Infernal
-Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic.|n|n|cffffcc00Attacks land and air units.|r"
 [n00Z]
 Name=Infernal
 Tip=Summon Infernal
-Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic.|n|n|cffffcc00Attacks land and air units.|r"
 [N01H]
 Name=Alchemist
 Propernames=Razzil Darkbrew
@@ -495,7 +495,7 @@ Name=Alchemist
 Propernames=Razzil Darkbrew
 Hotkey=
 Tip="Alchemist"
-Ubertip="Having enlisted under the ranks of the Sentinel for mere personal gain, the Alchemist's quest for amassing wealth to fund his research is a tireless and relentless one. Both sadistic and cruel in his methods, this heartless Goblin cares not for the means he must resort to for a sizeable bounty. Whether he chooses to paralyze his foes with toxic concoctions or drench them in corrosive acids, Razzil Darkbrew remains steadfast in his calm, calculated approach, despite their constant wails of agony. Though notoriously famed to be inhumane and savage in his actions, he succeeds in crippling the mighty Scourge with the vilest of elixirs.  |n|n|c00ff0303Strength|r - 25 + 1.8|n|c000042ffAgility|r - 11 + 1.2|n|c000042ffIntelligence|r - 25 + 1.8|n|nLearns Acid Spray, Unstable Concoction, Goblin’s Greed and |c00ff8000Chemical Rage|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
+Ubertip="Having enlisted under the ranks of the Sentinel for mere personal gain, the Alchemist's quest for amassing wealth to fund his research is a tireless and relentless one. Both sadistic and cruel in his methods, this heartless Goblin cares not for the means he must resort to for a sizeable bounty. Whether he chooses to paralyze his foes with toxic concoctions or drench them in corrosive acids, Razzil Darkbrew remains steadfast in his calm, calculated approach, despite their constant wails of agony. Though notoriously famed to be inhumane and savage in his actions, he succeeds in crippling the mighty Scourge with the vilest of elixirs.|n|n|c00ff0303Strength|r - 25 + 1.8|n|c000042ffAgility|r - 11 + 1.2|n|c000042ffIntelligence|r - 25 + 1.8|n|nLearns Acid Spray, Unstable Concoction, Goblin’s Greed and |c00ff8000Chemical Rage|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
 Revivetip="Revive Alchemist"
 Awakentip="Revive Alchemist"
 [N01J]
@@ -519,7 +519,7 @@ Name="Priestess of the Moon"
 Propernames=Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Mirana Nightshade,Jumong
 Hotkey=
 Tip="Priestess of the Moon"
-Ubertip="A matriarch and high priestess of Elune's blessed order, Mirana Nightshade serves as a light in darkness for the front line of the Sentinel ranks, raining arrows and falling stars alike upon the shambling undead masses of the Undead Scourge, while her very presence is said to be so holy that it melts away the fatigue of nearby allies, giving them greater haste on the battlefield. In times of need however, she can fade herself and others around her into the safety of invisibility, making her a potent supporter matched by few. |n|n|c000042ffStrength|r - 17 + 1.85|n|c00ff0303Agility|r - 20 + 2.75|n|c000042ffIntelligence|r - 17 + 1.65 |n|nLearns Starfall, Elune's Arrow, Leap, and |c00ff8000Moonlight Shadow|r.|n|nAttack range of 600.|nMovement speed of 300."
+Ubertip="A matriarch and high priestess of Elune's blessed order, Mirana Nightshade serves as a light in darkness for the front line of the Sentinel ranks, raining arrows and falling stars alike upon the shambling undead masses of the Undead Scourge, while her very presence is said to be so holy that it melts away the fatigue of nearby allies, giving them greater haste on the battlefield. In times of need however, she can fade herself and others around her into the safety of invisibility, making her a potent supporter matched by few.|n|n|c000042ffStrength|r - 17 + 1.85|n|c00ff0303Agility|r - 20 + 2.75|n|c000042ffIntelligence|r - 17 + 1.65|n|nLearns Starfall, Elune's Arrow, Leap, and |c00ff8000Moonlight Shadow|r.|n|nAttack range of 600.|nMovement speed of 300."
 Revivetip="Revive Priestess of the Moon"
 Awakentip="Revive Priestess of the Moon"
 [n01Y]
@@ -535,7 +535,7 @@ Name=Pit Lord
 Propernames=Azgalor
 Hotkey=
 Tip="Pit Lord"
-Ubertip="One of the many regents of Lord Archimonde who became stranded on the physical plane after the Legion fell in Kalimdor, the devil Azgalor's love of destruction allowed him to accept the Lich King's invitation to help lead the Scourge in conquest with few regrets. After all, this Pit Lord is happiest when he conjures fire to scour his opponents from above, roasting them slowly as the dead literally explode from beneath their feet. With such hateful power in the hands of a monster such as this, it's no wonder he inspires so much terror as he roams across the battlefield. |n|n|c00ff0303Strength|r - 25 + 2.6|n|c000042ffAgility|r - 12 + 1.3|n|c000042ffIntelligence|r - 17 + 2.6|n|nLearns Firestorm, Pit of Malice, Atrophy Aura, and |c00ff8000Dark Rift|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Ubertip="One of the many regents of Lord Archimonde who became stranded on the physical plane after the Legion fell in Kalimdor, the devil Azgalor's love of destruction allowed him to accept the Lich King's invitation to help lead the Scourge in conquest with few regrets. After all, this Pit Lord is happiest when he conjures fire to scour his opponents from above, roasting them slowly as the dead literally explode from beneath their feet. With such hateful power in the hands of a monster such as this, it's no wonder he inspires so much terror as he roams across the battlefield.|n|n|c00ff0303Strength|r - 25 + 2.6|n|c000042ffAgility|r - 12 + 1.3|n|c000042ffIntelligence|r - 17 + 2.6|n|nLearns Firestorm, Pit of Malice, Atrophy Aura, and |c00ff8000Dark Rift|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
 Revivetip="Revive Pit Lord"
 Awakentip="Revive Pit Lord"
 [n020]
@@ -573,7 +573,7 @@ Name="Faerie Dragon"
 Propernames=Puck,Puck,Puck,Puck,Puck,Puck,Puck,Kupu-Kupu
 Hotkey=
 Tip="Faerie Dragon "
-Ubertip="In Sentinel's search for heroes to aid them in the war against the Scourge, they discovered the lost lands of the mystical Faerie Dragons. Upon explaining the conflict to the Faerie Queen of Agrace, she sent forth Puck, a personal guardian, to turn the tides of war. Despite his small size and mischievous personality, the little dragon soon proved to pack more than his fair share of power on the battlefield, blasting through the enemy ranks with balls of magic, faerie dust, and the capability to stupefy an entire army with nothing more than his imagination. His foes all learned the hard way that size matters not in combat, and that appearances are, ultimately, deceiving. |n|n|c000042ffStrength|r - 15 + 1.7|n|c000042ffAgility|r - 22 + 1.7|n|c00ff0303Intelligence|r - 25 + 2.4 |n|nLearns Illusory Orb, Waning Rift, Phase Shift, and |c00ff8000Dream Coil|r.|n|nAttack range of 550.|nMovement speed of 295."
+Ubertip="In Sentinel's search for heroes to aid them in the war against the Scourge, they discovered the lost lands of the mystical Faerie Dragons. Upon explaining the conflict to the Faerie Queen of Agrace, she sent forth Puck, a personal guardian, to turn the tides of war. Despite his small size and mischievous personality, the little dragon soon proved to pack more than his fair share of power on the battlefield, blasting through the enemy ranks with balls of magic, faerie dust, and the capability to stupefy an entire army with nothing more than his imagination. His foes all learned the hard way that size matters not in combat, and that appearances are, ultimately, deceiving.|n|n|c000042ffStrength|r - 15 + 1.7|n|c000042ffAgility|r - 22 + 1.7|n|c00ff0303Intelligence|r - 25 + 2.4|n|nLearns Illusory Orb, Waning Rift, Phase Shift, and |c00ff8000Dream Coil|r.|n|nAttack range of 550.|nMovement speed of 295."
 Revivetip="Revive Faerie Dragon "
 Awakentip="Revive Faerie Dragon "
 [n00M]
@@ -591,7 +591,7 @@ Description=A small pedestal that glows with energy.
 [n00S]
 Name="Alpha Wolf"
 Tip=Summon Giant Wolf
-Ubertip="Medium melee unit with Critical Strike. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Medium melee unit with Critical Strike.|n|n|cffffcc00Attacks land units.|r"
 [n01L]
 Name=Goblin Land Mine
 [n01U]
@@ -603,19 +603,19 @@ Name="Forged Spirit"
 [n001]
 Name="Ancestral Spirit"
 Tip=""
-Ubertip="Melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Melee unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n00F]
 Name="Ancestral Spirit"
 Tip=""
-Ubertip="Melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Melee unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n028]
 Name="Ancestral Spirit"
 Tip=""
-Ubertip="Melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Melee unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n029]
 Name="Ancestral Spirit"
 Tip=""
-Ubertip="Melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Melee unit.|n|n|cffffcc00Attacks land and air units.|r"
 [n02A]
 Name="Hero Selector"
 Tip=Build Circle of Power
@@ -625,7 +625,7 @@ Name="Windrunner"
 Propernames=Alleria
 Hotkey=
 Tip="Windrunner"
-Ubertip="In the valleys of Winterspring, deep within the verdant glades of the Forest of Trees, an elf with the power of the wind makes her home. She joined the Sentinel as a free agent shortly after the War of the Magi. Favored by the Goddess of Wind, Alleria received many blessings. Her arrows fly straight and true, piercing all enemies in a line. She can lace her arrow with wind and bind enemies together by creating ethereal shackles. Her footsteps are hastened by the currents of air. It is known that she can dispatch enemies at blinding speed by releasing a flurry of arrows. She is indeed a worthy enemy of the Scourge.  |n|n|c000042ffStrength|r - 15 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Shackleshot, Powershot, Windrunner, and |c00ff8000Focus Fire|r.|n|nAttack range of 600.|nMovement speed of 295."
+Ubertip="In the valleys of Winterspring, deep within the verdant glades of the Forest of Trees, an elf with the power of the wind makes her home. She joined the Sentinel as a free agent shortly after the War of the Magi. Favored by the Goddess of Wind, Alleria received many blessings. Her arrows fly straight and true, piercing all enemies in a line. She can lace her arrow with wind and bind enemies together by creating ethereal shackles. Her footsteps are hastened by the currents of air. It is known that she can dispatch enemies at blinding speed by releasing a flurry of arrows. She is indeed a worthy enemy of the Scourge.|n|n|c000042ffStrength|r - 15 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Shackleshot, Powershot, Windrunner, and |c00ff8000Focus Fire|r.|n|nAttack range of 600.|nMovement speed of 295."
 Revivetip="Revive Windrunner"
 Awakentip="Revive Windrunner"
 Description="Windrunner"
@@ -634,7 +634,7 @@ Name="Windrunner"
 Propernames=Alleria
 Hotkey=
 Tip="Summon |cffffcc00W|rindrunner"
-Ubertip="story.  |n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
+Ubertip="story.|n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
 Revivetip="Revive |cffffcc00W|rindrunner"
 Awakentip="Revive |cffffcc00W|rindrunner"
 Description="Windrunner"
@@ -643,7 +643,7 @@ Name="Windrunner"
 Propernames=Alleria
 Hotkey=
 Tip="Summon |cffffcc00W|rindrunner"
-Ubertip="story.  |n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
+Ubertip="story.|n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
 Revivetip="Revive |cffffcc00W|rindrunner"
 Awakentip="Revive |cffffcc00W|rindrunner"
 Description="Windrunner"
@@ -652,7 +652,7 @@ Name="Windrunner"
 Propernames=Alleria
 Hotkey=
 Tip="Summon |cffffcc00W|rindrunner"
-Ubertip="story.  |n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
+Ubertip="story.|n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
 Revivetip="Revive |cffffcc00W|rindrunner"
 Awakentip="Revive |cffffcc00W|rindrunner"
 Description="Windrunner"
@@ -661,7 +661,7 @@ Name="Windrunner"
 Propernames=Alleria
 Hotkey=
 Tip="Summon |cffffcc00W|rindrunner"
-Ubertip="story.  |n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
+Ubertip="story.|n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
 Revivetip="Revive |cffffcc00W|rindrunner"
 Awakentip="Revive |cffffcc00W|rindrunner"
 Description="Windrunner"
@@ -714,7 +714,7 @@ Name="Ancient Apparition"
 Propernames=Kaldr
 Hotkey=
 Tip="Ancient Apparition"
-Ubertip="Defeated in a battle long forgotten, this once great mage was banished to a tomb of ice for all eternity. For countless ages he lay in unbearable anguish until he was discovered by minions of the Lich King. In a vain attempt to gain favour with this ancient soul for his own purposes, the Lich King released him. But this soul no longer knew gratitude, it no longer knew friend from foe, it knew only pain. With its body long since decayed, the soul took up the only form it knew. Consumed with hatred, even a touch from this monstrosity causes agony. Able to conjure devastating ice storms with a mere thought and hurl soul-shattering bolts of frost seemingly impossible distances, this creature punishes all who dare to stand their ground against it. |n|n|c000042ffStrength|r - 18 + 1.4|n|c000042ffAgility|r - 20 + 2.2|n|c00ff0303Intelligence|r - 25 + 2.6|n|nLearns Cold Feet, Ice Vortex, Chilling Touch, and |c00ff8000Ice Blast|r.|n|nAttack range of 600 (range).|nMovement speed of 295."
+Ubertip="Defeated in a battle long forgotten, this once great mage was banished to a tomb of ice for all eternity. For countless ages he lay in unbearable anguish until he was discovered by minions of the Lich King. In a vain attempt to gain favour with this ancient soul for his own purposes, the Lich King released him. But this soul no longer knew gratitude, it no longer knew friend from foe, it knew only pain. With its body long since decayed, the soul took up the only form it knew. Consumed with hatred, even a touch from this monstrosity causes agony. Able to conjure devastating ice storms with a mere thought and hurl soul-shattering bolts of frost seemingly impossible distances, this creature punishes all who dare to stand their ground against it.|n|n|c000042ffStrength|r - 18 + 1.4|n|c000042ffAgility|r - 20 + 2.2|n|c00ff0303Intelligence|r - 25 + 2.6|n|nLearns Cold Feet, Ice Vortex, Chilling Touch, and |c00ff8000Ice Blast|r.|n|nAttack range of 600.|nMovement speed of 295."
 Revivetip="Ancient Apparition"
 Awakentip="Revive Ancient Apparition"
 Description="Ancient Apparition"
@@ -745,15 +745,15 @@ Ubertip=""
 [n0KU]
 Name=Infernal
 Tip=Summon Infernal
-Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic.|n|n|cffffcc00Attacks land and air units.|r"
 [n0KV]
 Name=Infernal
 Tip=Summon Infernal
-Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic.|n|n|cffffcc00Attacks land and air units.|r"
 [n0KW]
 Name=Infernal
 Tip=Summon Infernal
-Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic.|n|n|cffffcc00Attacks land and air units.|r"
 [n0KY]
 Name="Zoidberg"
 Tip="Invoke Zoidberg"
@@ -774,12 +774,12 @@ Ubertip="Call upon the spirit of the fearsome Dog to save you."
 Name=Thunder Lizard
 Tip=Summon |cffffcc00T|rhunder Lizard
 Hotkey=T
-Ubertip="Heavy ranged unit that hurls bolts of lightning. Can Slam opponents. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy ranged unit that hurls bolts of lightning. Can Slam opponents.|n|n|cffffcc00Attacks land and air units.|r"
 [n0LD]
 Name=Thunder Lizard
 Tip=Summon |cffffcc00T|rhunder Lizard
 Hotkey=T
-Ubertip="Heavy ranged unit that hurls bolts of lightning. Can Slam opponents. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Heavy ranged unit that hurls bolts of lightning. Can Slam opponents.|n|n|cffffcc00Attacks land and air units.|r"
 [n0LE]
 Name="Rabbit"
 Tip="Invoke Rabbit"
@@ -813,7 +813,7 @@ Name="Sissy"
 Propernames=Dragonhawk
 Hotkey=
 Tip="Dragonhawk"
-Ubertip="text. |n|n|c000042ffStrength|r - 20 + 2.0|n|c000042ffAgility|r - 14 + 1.3|n|c00ff0303Intelligence|r - 22 + 2.4 |n|nLearns text, text, text, and |c00ff8000text|r.|n|nAttack range of 450.|nMovement speed of 300."
+Ubertip="text.|n|n|c000042ffStrength|r - 20 + 2.0|n|c000042ffAgility|r - 14 + 1.3|n|c00ff0303Intelligence|r - 22 + 2.4|n|nLearns text, text, text, and |c00ff8000text|r.|n|nAttack range of 450.|nMovement speed of 300."
 Revivetip="Revive Dragonhawk"
 Awakentip="Revive Dragonhawk"
 [n0M4]
@@ -825,7 +825,7 @@ Name="Winter Wyvern"
 Propernames=Auroth
 Hotkey=
 Tip="Winter Wyvern"
-Ubertip="Reanimated as a skeletal Dragon by a powerful undead necromancer from Northrend, Winter Wyvern posthumously retains cold energies. Seeking to annihilate any being radiating the warmth of the living, Winter Wyvern has turned his focus against the Sentinel. Equipped with pure glacial elemental power, his ice can breathe vitality into his own allies or drive hordes of enemies into a locked state of cold insanity that turns them into mortal enemies against their own allies. Able to project this ice into splinters and blast them to cripple entire armies, Winter Wyvern is a wickedly powerful being possessing icy lethality. Many, including the Scourge themselves, have come to wonder how this wintry beast even perished in the first place.  |n|n|c000042ffStrength|r - 24 + 2.1|n|c000042ffAgility|r - 16 + 1.9|n|c00ff0303Intelligence|r - 25 + 3.1 |n|nLearns Arctic Burn, Splinter Blast, Cold Embrace, and |c00ff8000Winter's Curse|r.|n|nAttack range of 425.|nMovement speed of 285."
+Ubertip="Reanimated as a skeletal Dragon by a powerful undead necromancer from Northrend, Winter Wyvern posthumously retains cold energies. Seeking to annihilate any being radiating the warmth of the living, Winter Wyvern has turned his focus against the Sentinel. Equipped with pure glacial elemental power, his ice can breathe vitality into his own allies or drive hordes of enemies into a locked state of cold insanity that turns them into mortal enemies against their own allies. Able to project this ice into splinters and blast them to cripple entire armies, Winter Wyvern is a wickedly powerful being possessing icy lethality. Many, including the Scourge themselves, have come to wonder how this wintry beast even perished in the first place.|n|n|c000042ffStrength|r - 24 + 2.1|n|c000042ffAgility|r - 16 + 1.9|n|c00ff0303Intelligence|r - 25 + 3.1|n|nLearns Arctic Burn, Splinter Blast, Cold Embrace, and |c00ff8000Winter's Curse|r.|n|nAttack range of 425.|nMovement speed of 285."
 Revivetip="Revive Winter Wyvern"
 Awakentip="Revive Winter Wyvern"
 [N0M9]
@@ -849,7 +849,7 @@ Name="Oracle"
 Propernames=Nerif
 Hotkey=
 Tip="Oracle"
-Ubertip="Few have the knack for plucking the strings of fate, let alone seeing them for what they are. Fate is as mysterious as it is fickle, but for Nerif it has always been a burden. Those chosen must answer the call, and since boyhood he has been raised into the hallowed role of Oracle, proclaiming destiny's path to those worthy to hear of it. Though many of his ilk have chosen more peaceful routes to serving fate, he never felt that the future must be passively proclaimed. With the view of fate before him, his powers were suited by nudging and pulling threads and, where needed, severing them to better the life of all. It was inevitable that his abilities would culminate in deadly battle -  he knew would come to pass, and he is ready to cut lives short to lengthen others.  |n|n|c000042ffStrength|r - 18 + 1.9|n|c000042ffAgility|r - 15 + 1.7|n|c00ff0303Intelligence|r - 23 + 2.9|n|nLearns Fortune's End, Fate's Edict, Purifying Flames, and |c00ff8000False Promise|r.|n|nAttack range of 620. |nMovement speed of 305."
+Ubertip="Few have the knack for plucking the strings of fate, let alone seeing them for what they are. Fate is as mysterious as it is fickle, but for Nerif it has always been a burden. Those chosen must answer the call, and since boyhood he has been raised into the hallowed role of Oracle, proclaiming destiny's path to those worthy to hear of it. Though many of his ilk have chosen more peaceful routes to serving fate, he never felt that the future must be passively proclaimed. With the view of fate before him, his powers were suited by nudging and pulling threads and, where needed, severing them to better the life of all. It was inevitable that his abilities would culminate in deadly battle - he knew would come to pass, and he is ready to cut lives short to lengthen others.|n|n|c000042ffStrength|r - 18 + 1.9|n|c000042ffAgility|r - 15 + 1.7|n|c00ff0303Intelligence|r - 23 + 2.9|n|nLearns Fortune's End, Fate's Edict, Purifying Flames, and |c00ff8000False Promise|r.|n|nAttack range of 620.|nMovement speed of 305."
 Revivetip="Revive Oracle"
 Awakentip="Revive Oracle"
 [N0MK]
@@ -857,7 +857,7 @@ Name="Arc Warden"
 Propernames=Zet
 Hotkey=
 Tip="Arc Warden"
-Ubertip="In the magnetic and ether touched lands of the far south a perpetual storm rages. In this strange, barren land, only an isolated tribe of nomads know to exist. These nomads worship the very nether storms that plague the land, and born out of this bizarre energy and intense faith, a chaotic god emerges. Sensing the calamity of the approaching battle of the ancients, the infant deity imbues his most trusted prophet with avataric powers and sends him to quell the forces of order and good that impede his growth. Wielding the ether touched powers of lightning, magnetism, and the ability to reverberate an exact duplicate of himself into being, Arc Warden is a force to be reckoned with.|n |n|c000042ffStrength|r - 24 + 1.9|n|c00ff0303Agility|r - 15 + 1.8|n|c000042ffIntelligence|r - 24 + 2.1|n|nLearns Flux, Magnetic Field, Spark Wraith, and |c00ff8000Tempest Double|r.|n|nAttack range of 625. |nMovement speed of 295."
+Ubertip="In the magnetic and ether touched lands of the far south a perpetual storm rages. In this strange, barren land, only an isolated tribe of nomads know to exist. These nomads worship the very nether storms that plague the land, and born out of this bizarre energy and intense faith, a chaotic god emerges. Sensing the calamity of the approaching battle of the ancients, the infant deity imbues his most trusted prophet with avataric powers and sends him to quell the forces of order and good that impede his growth. Wielding the ether touched powers of lightning, magnetism, and the ability to reverberate an exact duplicate of himself into being, Arc Warden is a force to be reckoned with.|n|n|c000042ffStrength|r - 24 + 1.9|n|c00ff0303Agility|r - 15 + 1.8|n|c000042ffIntelligence|r - 24 + 2.1|n|nLearns Flux, Magnetic Field, Spark Wraith, and |c00ff8000Tempest Double|r.|n|nAttack range of 625.|nMovement speed of 295."
 Revivetip="Revive Arc Warden"
 Awakentip="Revive Arc Warden"
 [N0MM]
@@ -897,7 +897,7 @@ Name="Earth Spirit"
 Propernames=Kaolin
 Hotkey=
 Tip="Earth Spirit"
-Ubertip="When the blight of the Scourge threatened the isolated peak villages of the Crag Lands, their pleas for aid went unanswered. The strong villagers climbing ever higher up the mountains to seek refuge, leaving those too young or old to their fates. When the forces of evil fed upon the helpless, their innocent blood wet the stones of the foothills. Seeing this, the heart of the mountains wept, and forged it's own champion to face off against the teeming hordes. Hewed from the cliff face, Kaolin was born into our world. Wielding the strength of the mountain, he bends stone and metal to his fierce will.  |n|n|c00ff0303Strength|r - 21 + 2.9|n|c000042ffAgility|r - 17 + 1.5|n|c000042ffIntelligence|r - 18 + 2.4|n|nLearns Rolling Boulder, Boulder Smash, Geomagnetic Grip, and |c00ff8000Magnetize|r.|n|nAttack range of 128 (melee). |nMovement speed of 305."
+Ubertip="When the blight of the Scourge threatened the isolated peak villages of the Crag Lands, their pleas for aid went unanswered. The strong villagers climbing ever higher up the mountains to seek refuge, leaving those too young or old to their fates. When the forces of evil fed upon the helpless, their innocent blood wet the stones of the foothills. Seeing this, the heart of the mountains wept, and forged it's own champion to face off against the teeming hordes. Hewed from the cliff face, Kaolin was born into our world. Wielding the strength of the mountain, he bends stone and metal to his fierce will.|n|n|c00ff0303Strength|r - 21 + 2.9|n|c000042ffAgility|r - 17 + 1.5|n|c000042ffIntelligence|r - 18 + 2.4|n|nLearns Rolling Boulder, Boulder Smash, Geomagnetic Grip, and |c00ff8000Magnetize|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
 Revivetip="Revive Earth Spirit"
 Awakentip="Revive Earth Spirit"
 [N0MW]
@@ -911,7 +911,7 @@ Awakentip=""
 [n0N6]
 Name="Sun Wukong"
 Tip=Summon Sasquatch
-Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Medium melee unit.|n|n|cffffcc00Attacks land units.|r"
 [n0NI]
 Name="Gust"
 [n0NM]

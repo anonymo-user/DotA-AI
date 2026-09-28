@@ -142,7 +142,7 @@ Name=Item Damage Bonus
 [AIcy]
 Name=Cyclone
 Tip=|cffffcc00C|ryclone
-Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it.|nLasts <AIcy,Dur1> seconds."
 Hotkey=C
 [AId1]
 Name=Item Armor Bonus
@@ -165,7 +165,7 @@ Name=Item Life Bonus
 Name=Item Healing
 [AIsw]
 Name=Sentry Ward
-Ubertip="Summons an invisible and immovable ward that provides vision in an area. |nCan see invisible units. |nLasts <AIsw,Dur1> seconds."
+Ubertip="Summons an invisible and immovable ward that provides vision in an area.|nCan see invisible units.|nLasts <AIsw,Dur1> seconds."
 [AIv1]
 Name=Item Temporary Invisibility
 [AIm1]
@@ -173,7 +173,7 @@ Name=Item Mana Regain
 [AIrn]
 [AIad]
 [AIcd]
-Researchubertip="A 900 range aura that makes the might of an enemy leak out in the presence of Pit Lord. If an enemy unit dies under this aura, you gain temporarily gain 5 bonus damage. 30 for heroes. |n|n|cffffcc00Level 1|r - 18% damage reduction. |n|cffffcc00Level 2|r - 26% damage reduction. |n|cffffcc00Level 3|r - 34% damage reduction. |n|cffffcc00Level 4|r - 42% damage reduction. "
+Researchubertip="A 900 range aura that makes the might of an enemy leak out in the presence of Pit Lord. If an enemy unit dies under this aura, you gain temporarily gain 5 bonus damage. 30 for heroes.|n|n|cffffcc00Level 1|r - 18% damage reduction.|n|cffffcc00Level 2|r - 26% damage reduction.|n|cffffcc00Level 3|r - 34% damage reduction.|n|cffffcc00Level 4|r - 42% damage reduction."
 Researchtip="Learn At|cffffcc00r|rophy Aura- [|cffffcc00Level %d|r]"
 Name="Atrophy Aura"
 Researchhotkey="R"
@@ -186,7 +186,7 @@ Name="Yasha"
 Name="Headdress of Rejuvenation Aura"
 [AIrr]
 Name=Roar
-Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage.|nLasts <AIrr,Dur1> seconds."
 [AIev]
 Name=Evasion
 Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
@@ -281,7 +281,7 @@ Name=Orb of Lightning (new)
 [AIos]
 Name="Maim"
 Tip=Slo|cffffcc00w|r
-Ubertip="Slows a target enemy unit's attack rate by <AIos,DataB1,%>% and movement speed by <AIos,DataA1,%>%. |nLasts <AIos,Dur1> seconds."
+Ubertip="Slows a target enemy unit's attack rate by <AIos,DataB1,%>% and movement speed by <AIos,DataA1,%>%.|nLasts <AIos,Dur1> seconds."
 [AIxs]
 Name=Item Anti-Magic Shell
 [AIpg]
@@ -335,9 +335,9 @@ Name="Land Mines"
 Researchhotkey="E"
 Hotkey=E
 Researchtip="Learn Land Min|cffffcc00e|rs - [|cffffcc00Level %d|r]"
-Researchubertip="Plants an invisible mine that explodes when an enemy nears.  The explosion deals less damage if the target is farther away.  You may only have 20 mines placed at a time. |n|n|cffffcc00Level 1|r - Deals 300 damage.|n|cffffcc00Level 2|r - Deals 400 damage.|n|cffffcc00Level 3|r - Deals 500 damage.|n|cffffcc00Level 4|r - Deals 600 damage. |n|n|cff99ccffCooldown: |r 25/20/15/10 seconds."
+Researchubertip="Plants an invisible mine that explodes when an enemy nears. The explosion deals less damage if the target is farther away. You may only have 20 mines placed at a time.|n|n|cffffcc00Level 1|r - Deals 300 damage.|n|cffffcc00Level 2|r - Deals 400 damage.|n|cffffcc00Level 3|r - Deals 500 damage.|n|cffffcc00Level 4|r - Deals 600 damage.|n|n|cff99ccffCooldown: |r 25/20/15/10|n|cff99ccffManacost: |r 125/150/175/205"
 Tip="Land Min|cffffcc00e|rs - [|cffffcc00Level 1|r]","Land Min|cffffcc00e|rs - [|cffffcc00Level 2|r]","Land Min|cffffcc00e|rs - [|cffffcc00Level 3|r]","Land Min|cffffcc00e|rs - [|cffffcc00Level 4|r]"
-Ubertip="Plants an invisible land mine that waits indefinitely for an enemy unit.  The explosion deals 300 damage.  You may only have 20 placed at one time. |n|n|cff99ccffCooldown: |r 25 seconds.","Plants an invisible land mine that waits indefinitely for an enemy unit.  The explosion deals 400 damage.  You may only have 20 placed at one time.   |n|n|cff99ccffCooldown: |r 20 seconds.","Plants an invisible land mine that waits indefinitely for an enemy unit.  The explosion deals 500 damage.  You may only have 20 placed at one time.  |n|n|cff99ccffCooldown: |r 15 seconds.","Plants an invisible land mine that waits indefinitely for an enemy unit.  The explosion deals 600 damage.  You may only have 20 placed at one time.  |n|n|cff99ccffCooldown: |r 10 seconds."
+Ubertip="Plants an invisible land mine that waits indefinitely for an enemy unit. The explosion deals 300 damage. You may only have 20 placed at one time.|n|n|cff99ccffCooldown: |r 25|n|cff99ccffManacost: |r 125","Plants an invisible land mine that waits indefinitely for an enemy unit. The explosion deals 400 damage. You may only have 20 placed at one time.|n|n|cff99ccffCooldown: |r 20|n|cff99ccffManacost: |r 150","Plants an invisible land mine that waits indefinitely for an enemy unit. The explosion deals 500 damage. You may only have 20 placed at one time.|n|n|cff99ccffCooldown: |r 15|n|cff99ccffManacost: |r 175","Plants an invisible land mine that waits indefinitely for an enemy unit. The explosion deals 600 damage. You may only have 20 placed at one time.|n|n|cff99ccffCooldown: |r 10|n|cff99ccffManacost: |r 205"
 [A008]
 Name="Bash 10%"
 [A00D]
@@ -365,9 +365,9 @@ Name="Metamorph Image"
 Researchhotkey="C"
 Hotkey=C
 Researchtip="Learn |cffffcc00C|ronjure Image - [|cffffcc00Level %d|r]"
-Researchubertip="Creates a copy of Terrorblade which deals damage.  Lasts 30 seconds.  |n|n|cffffcc00Level 1|r - Images deal 25% damage. |n|cffffcc00Level 2|r - Images deal 35% damage. |n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
+Researchubertip="Creates a copy of Terrorblade which deals damage. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - Images deal 25% damage.|n|cffffcc00Level 2|r - Images deal 35% damage.|n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
 Tip="|cffffcc00C|ronjure Image - [|cffffcc00Level 1|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 2|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 3|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 4|r]"
-Ubertip="Creates a copy of Terrorblade which deals 25% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage.  The images take 300% damage.|nLasts 30 seconds."
+Ubertip="Creates a copy of Terrorblade which deals 25% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage. The images take 300% damage.|nLasts 30 seconds."
 [A099]
 Name="Item Mana Regen 100%"
 [A09B]
@@ -422,20 +422,20 @@ Name="Item Attack Speed 25%"
 [A09Y]
 Name="Entangle"
 Tip="Entangle","Entangle - [|cffffcc00Level 2|r]","Entangle - [|cffffcc00Level 3|r]","Entangle - [|cffffcc00Level 4|r]"
-Ubertip="Each attack has a 20% chance of Entangling an enemy.  It takes 60 damage per second and holds them immobile for 3 seconds.","Each attack has a 8% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds.","Each attack has a 12% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds.","Each attack has a 16% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds."
+Ubertip="Each attack has a 20% chance of Entangling an enemy. It takes 60 damage per second and holds them immobile for 3 seconds.","Each attack has a 8% chance of Entangling an enemy. It takes 40 damage per second and holds them immobile for 3 seconds.","Each attack has a 12% chance of Entangling an enemy. It takes 40 damage per second and holds them immobile for 3 seconds.","Each attack has a 16% chance of Entangling an enemy. It takes 40 damage per second and holds them immobile for 3 seconds."
 [A0BK]
 Name="Incapacitating Bite"
 Researchtip="Learn Inca|cffffcc00p|racitating Bite - [|cffffcc00Level %d|r]"
-Researchubertip="Gives the Broodmother venoms which will greatly reduce the target's ability to function.|n|n|cffffcc00Level 1|r - Gives a 30% chance to miss and slows movement speed by 10%|n|cffffcc00Level 2|r - Gives a 40% chance to miss and slows movement speed by 20% |n|cffffcc00Level 3|r - Gives a 50% chance to miss and slows movement speed by 30%  |n|cffffcc00Level 4|r - Gives a 60% chance to miss and slows movement speed by 40%|n|n|c00ff0303Orb effect.|r|n|cff99ccffBuff placers do not stack|r"
+Researchubertip="Gives the Broodmother venoms which will greatly reduce the target's ability to function.|n|n|cffffcc00Level 1|r - Gives a 30% chance to miss and slows movement speed by 10%|n|cffffcc00Level 2|r - Gives a 40% chance to miss and slows movement speed by 20%|n|cffffcc00Level 3|r - Gives a 50% chance to miss and slows movement speed by 30%|n|cffffcc00Level 4|r - Gives a 60% chance to miss and slows movement speed by 40%|n|n|c00ff0303Orb effect.|r|n|n|cff99ccffBuff placers do not stack|r"
 Researchhotkey="P"
 [A0BP]
 Name="Insatiable Hunger"
 Hotkey=T
 Researchhotkey="T"
 Researchtip="Learn Insa|cffffcc00t|riable Hunger - [|cffffcc00Level %d|r]"
-Researchubertip="The Broodmother develops a violent thirst for vital fluids. This lust greatly increases her attack damage and gives her a vampiric attack.|nLasts 20 seconds. |n|n|cffffcc00Level 1|r - 60 bonus damage, 40% life steal. |n|cffffcc00Level 2|r - 75 bonus damage, 50% life steal. |n|cffffcc00Level 3|r - 90 bonus damage, 60% life steal.|n|n|cff99ccffCooldown: |r 60 seconds."
+Researchubertip="The Broodmother develops a violent thirst for vital fluids. This lust greatly increases her attack damage and gives her a vampiric attack.|nLasts 20 seconds.|n|n|cffffcc00Level 1|r - 60 bonus damage, 40% life steal.|n|cffffcc00Level 2|r - 75 bonus damage, 50% life steal.|n|cffffcc00Level 3|r - 90 bonus damage, 60% life steal.|n|n|cff99ccffCooldown: |r 60"
 Tip="Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 1|r]","Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 2|r]","Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 3|r]"
-Ubertip="Gives the Broodmother 60 bonus damage and 40% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.","Gives the Broodmother 75 bonus damage and 60% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.","Gives the Broodmother 90 bonus damage and 80% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds."
+Ubertip="Gives the Broodmother 60 bonus damage and 40% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60","Gives the Broodmother 75 bonus damage and 60% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60","Gives the Broodmother 90 bonus damage and 80% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60"
 [A04S]
 Name=Orb of Lightning (new)
 [A03K]
@@ -443,9 +443,9 @@ Name="Darkness"
 Researchtip="Learn Da|cffffcc00r|rkness - [|cffffcc00Level %d|r]"
 Researchhotkey="R"
 Hotkey=R
-Researchubertip="Creates a period of darkness for the Night Stalker to thrive in. Reduces enemy vision by 25% |n|n|cffffcc00Level 1|r - Turns day into a 25 second night.|n|cffffcc00Level 2|r - Turns day into a 50 second night.|n|cffffcc00Level 3|r - Turns day into a 80 second night. |n|n|cff99ccffCooldown: |r 180/150/120  |n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r"
+Researchubertip="Creates a period of darkness for the Night Stalker to thrive in. Reduces enemy vision by 25%|n|n|cffffcc00Level 1|r - Turns day into a 25 second night.|n|cffffcc00Level 2|r - Turns day into a 50 second night.|n|cffffcc00Level 3|r - Turns day into a 80 second night.|n|n|cff99ccffCooldown: |r 180/150/120|n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r"
 Tip="Da|cffffcc00r|rkness - [|cffffcc00Level 1|r]","Da|cffffcc00r|rkness - [|cffffcc00Level 2|r]","Da|cffffcc00r|rkness - [|cffffcc00Level 3|r]"
-Ubertip="Turns day into night for 25 seconds. Reduces enemy vision by 25% |n|n|cff99ccffCooldown: |r 180  |n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r","Turns day into night for 50 seconds. Reduces enemy vision by 25% |n|n|cff99ccffCooldown: |r 150  |n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r","Turns day into night for 80 seconds. Reduces enemy vision by 25%|n|n|cff99ccffCooldown: |r 120  |n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r"
+Ubertip="Turns day into night for 25 seconds. Reduces enemy vision by 25%|n|n|cff99ccffCooldown: |r 180|n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r","Turns day into night for 50 seconds. Reduces enemy vision by 25%|n|n|cff99ccffCooldown: |r 150|n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r","Turns day into night for 80 seconds. Reduces enemy vision by 25%|n|n|cff99ccffCooldown: |r 120|n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r"
 [A03A]
 Name="Gargoyle Spell Damage Reduction"
 [A00B]
@@ -454,7 +454,7 @@ Name="Item Damage Bonus (+25)"
 Name="Item Damage Bonus (+40)"
 [A02X]
 Name="Observer Ward"
-Ubertip="Summons an invisible and immovable ward that provides vision in an area. |nCan see invisible units. |nLasts <AIsw,Dur1> seconds."
+Ubertip="Summons an invisible and immovable ward that provides vision in an area.|nCan see invisible units.|nLasts <AIsw,Dur1> seconds."
 [A05U]
 Name="Item Move Power Treads"
 [A05P]
@@ -469,9 +469,10 @@ Name="DoppelWalk Illusion"
 Name="JuxtaposeIllusions"
 [A0BR]
 Name="Necromastery"
+Ubertip="Whenever the Shadow Fiend kills a target, he stores the unfortunate soul inside of him. For each stored soul he gains 2 bonus damage until his own death releases half of them from bondage.|n|n12 souls limit.","Whenever the Shadow Fiend kills a target, he stores the unfortunate soul inside of him. For each stored soul he gains 2 bonus damage until his own death releases half of them from bondage.|n|n20 souls limit.","Whenever the Shadow Fiend kills a target, he stores the unfortunate soul inside of him. For each stored soul he gains 2 bonus damage until his own death releases half of them from bondage.|n|n28 souls limit.","Whenever the Shadow Fiend kills a target, he stores the unfortunate soul inside of him. For each stored soul he gains 2 bonus damage until his own death releases half of them from bondage.|n|n36 souls limit."
 Researchhotkey="N"
 Researchtip="Learn |cffffcc00N|recromastery - [|cffffcc00Level %d|r]"
-Researchubertip="Whenever the Shadow Fiend kills a target, he stores the unfortunate soul inside of him. For each stored soul he gains 2 bonus damage until his own death releases half of them from bondage. |n|n|cffffcc00Level 1|r - 12 souls limit. |n|cffffcc00Level 2|r - 20 souls limit. |n|cffffcc00Level 3|r - 28 souls limit. |n|cffffcc00Level 4|r - 36 souls limit."
+Researchubertip="Whenever the Shadow Fiend kills a target, he stores the unfortunate soul inside of him. For each stored soul he gains 2 bonus damage until his own death releases half of them from bondage.|n|n|cffffcc00Level 1|r - 12 souls limit.|n|cffffcc00Level 2|r - 20 souls limit.|n|cffffcc00Level 3|r - 28 souls limit.|n|cffffcc00Level 4|r - 36 souls limit."
 [A0C2]
 Name="Grow! speed"
 [A0DV]
@@ -481,7 +482,7 @@ Name="Item Attack Speed 5%"
 [A0E5]
 Name="Disentangle"
 Researchtip="Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]"
-Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.|n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
 Tip="Disentangle - [|cffffcc00Level 1|r]","Disentangle - [|cffffcc00Level 2|r]","Disentangle - [|cffffcc00Level 3|r]","Disentangle - [|cffffcc00Level 4|r]"
 Researchhotkey="L"
 Ubertip="Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds."
@@ -497,15 +498,16 @@ Name="Item Hero Stat Bonus +20 all"
 Name="Stoneform Armor"
 [A0EW]
 Name=Roar
-Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage.|nLasts <AIrr,Dur1> seconds."
 [A0EX]
 Name=Item Life Regeneration
 [A0EK]
 Name="Maim"
 [A0CG]
 Name="Geminate Attack"
+Ubertip="Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this.|n|n6 second cooldown.","Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this.|n|n5 second cooldown","Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this.|n|n4 second cooldown","Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this.|n|n2.5 second cooldown|n|n|c00ff0303Orb effect.|r"
 Researchtip="Learn Geminate Attac|cffffcc00k|r - [|cffffcc00Level %d|r]"
-Researchubertip="Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this. |n|n|cffffcc00Level 1|r - 6 second cooldown.|n|cffffcc00Level 2|r - 5 second cooldown|n|cffffcc00Level 3|r - 4 second cooldown|n|cffffcc00Level 4|r - 2.5 second cooldown|n|n|c00ff0303Orb effect.|r"
+Researchubertip="Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this.|n|n|cffffcc00Level 1|r - 6 second cooldown.|n|cffffcc00Level 2|r - 5 second cooldown|n|cffffcc00Level 3|r - 4 second cooldown|n|cffffcc00Level 4|r - 2.5 second cooldown|n|n|c00ff0303Orb effect.|r"
 Researchhotkey="K"
 [A0CU]
 Name="Sange and Yasha"
@@ -516,7 +518,7 @@ Name="Item Hero Stat Bonus S & Y"
 [A01G]
 Name="Sand Storm"
 Researchtip="Learn Sand Stor|cffffcc00m|r - [|cffffcc00Level %d|r]"
-Researchubertip="Gives the Sand King the ability to kick up dust in the face of his enemies, causing them to miss 35% of the time.  Also grants bonus damage.|nLasts 2 seconds. |n|n|cffffcc00Level 1|r - 10% chance, 8 bonus damage.|n|cffffcc00Level 2|r - 18% chance, 16 bonus damage.|n|cffffcc00Level 3|r - 25% chance, 24 bonus damage.|n|cffffcc00Level 4|r - 35% chance, 32 bonus damage.|n|n|c00ff0303Orb effect.|r"
+Researchubertip="Gives the Sand King the ability to kick up dust in the face of his enemies, causing them to miss 35% of the time. Also grants bonus damage.|nLasts 2 seconds.|n|n|cffffcc00Level 1|r - 10% chance, 8 bonus damage.|n|cffffcc00Level 2|r - 18% chance, 16 bonus damage.|n|cffffcc00Level 3|r - 25% chance, 24 bonus damage.|n|cffffcc00Level 4|r - 35% chance, 32 bonus damage.|n|n|c00ff0303Orb effect.|r"
 Researchhotkey="M"
 [A05H]
 Name="Shadow Weave friendly"
@@ -546,7 +548,7 @@ Name="Item Skeleton Summon lvl 2"
 Name="Item Skeleton Summon lvl 3"
 [A0F5]
 Name="Naix Lifesteal NEW"
-Researchubertip="N'aix restores some of his life force by eating flesh. |n|n|cffffcc00Level 1|r - Regains 15% of attack damage. |n|cffffcc00Level 2|r - Regains 30% of attack damage.  |n|cffffcc00Level 3|r - Regains 40% of attack damage.  |n|cffffcc00Level 4|r - Regains 50% of attack damage. "
+Researchubertip="N'aix restores some of his life force by eating flesh.|n|n|cffffcc00Level 1|r - Regains 15% of attack damage.|n|cffffcc00Level 2|r - Regains 30% of attack damage.|n|cffffcc00Level 3|r - Regains 40% of attack damage.|n|cffffcc00Level 4|r - Regains 50% of attack damage."
 Researchtip="Learn |cffffcc00F|reast - [|cffffcc00Level %d|r]"
 Tip="Feast - [|cffffcc00Level 1|r]","Feast - [|cffffcc00Level 2|r]","Feast - [|cffffcc00Level 3|r]","Feast - [|cffffcc00Level 4|r]"
 Ubertip="N'aix regains part of his hit points with each attack, gaining 15% of his damage with each attack.","N'aix regains part of his hit points with each attack, gaining 30% of his damage with each attack.","N'aix regains part of his hit points with each attack, gaining 40% of his damage with each attack.","N'aix regains part of his hit points with each attack, gaining 50% of his damage with each attack."
@@ -554,7 +556,7 @@ Ubertip="N'aix regains part of his hit points with each attack, gaining 15% of h
 Name="Feast"
 Researchtip="Learn |cffffcc00F|reast - [|cffffcc00Level %d|r]"
 Researchhotkey="F"
-Researchubertip="N'aix restores some of his life force by eating flesh. |n|n|cffffcc00Level 1|r - Regains 15% of attack damage. |n|cffffcc00Level 2|r - Regains 30% of attack damage.  |n|cffffcc00Level 3|r - Regains 40% of attack damage.  |n|cffffcc00Level 4|r - Regains 50% of attack damage. |n|n|c00ff0303Orb effect.|r"
+Researchubertip="N'aix restores some of his life force by eating flesh.|n|n|cffffcc00Level 1|r - Regains 15% of attack damage.|n|cffffcc00Level 2|r - Regains 30% of attack damage.|n|cffffcc00Level 3|r - Regains 40% of attack damage.|n|cffffcc00Level 4|r - Regains 50% of attack damage.|n|n|c00ff0303Orb effect.|r"
 Tip="Feast - [|cffffcc00Level 1|r]","Feast - [|cffffcc00Level 2|r]","Feast - [|cffffcc00Level 3|r]","Feast - [|cffffcc00Level 4|r]"
 Ubertip="N'aix regains part of his hit points with each attack, gaining 15% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 30% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 40% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 50% of his damage with each attack.|n|n|c00ff0303Orb effect.|r"
 [A0FJ]
@@ -562,14 +564,14 @@ Name="Maelstrom"
 [A0FP]
 Name="linken sphere"
 Researchtip="Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]"
-Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.|n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
 Tip="Disentangle - [|cffffcc00Level 1|r]","Disentangle - [|cffffcc00Level 2|r]","Disentangle - [|cffffcc00Level 3|r]","Disentangle - [|cffffcc00Level 4|r]"
 Researchhotkey="L"
 Ubertip="Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds."
 [A0FQ]
 Name="Disentangle (item2)"
 Researchtip="Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]"
-Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.|n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
 Tip="Disentangle - [|cffffcc00Level 1|r]","Disentangle - [|cffffcc00Level 2|r]","Disentangle - [|cffffcc00Level 3|r]","Disentangle - [|cffffcc00Level 4|r]"
 Researchhotkey="L"
 Ubertip="Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds."
@@ -581,7 +583,7 @@ Name="Spell Damage Reduction Greater"
 Name="Item Int Bonus"
 [A0GO]
 Name="Armor (item)"
-Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage.|nLasts <AIrr,Dur1> seconds."
 [A0GQ]
 Name=Holy Light
 [A0GR]
@@ -617,7 +619,7 @@ Name="Item Attack Speed 3%"
 [A0L4]
 Name="Mute"
 Researchtip="Learn Mu|cffffcc00t|re - [|cffffcc00Level %d|r]"
-Researchubertip="Nortrom is able to mute most spell targeting him from having any effect.  |n|n|cffffcc00Level 1|r - 120 second cooldown. |n|cffffcc00Level 2|r - 60 second cooldown.|n|cffffcc00Level 3|r - 30 second cooldown.|n|cffffcc00Level 4|r - 15 second cooldown."
+Researchubertip="Nortrom is able to mute most spell targeting him from having any effect.|n|n|cffffcc00Level 1|r - 120 second cooldown.|n|cffffcc00Level 2|r - 60 second cooldown.|n|cffffcc00Level 3|r - 30 second cooldown.|n|cffffcc00Level 4|r - 15 second cooldown."
 Tip="Mute - [|cffffcc00Level 1|r]","Mute - [|cffffcc00Level 2|r]","Mute - [|cffffcc00Level 3|r]","Mute - [|cffffcc00Level 4|r]"
 Researchhotkey="T"
 Ubertip="Mutes an offensive spell cast on Nortrom every 120 seconds.","Mutes an offensive spell cast on Nortrom every 60 seconds.","Mutes an offensive spell cast on Nortrom every 30 seconds.","Mutes an offensive spell cast on Nortrom every 15 seconds."
@@ -637,14 +639,14 @@ Name="Item Agility Bonus"
 Name="Item Strength Bonus"
 [A0MB]
 Name="Permanent Invisibility"
-Ubertip="Rikimaru becomes permanently invisible when not attacking.  Takes 3 seconds to re-cloak.","Rikimaru becomes permanently invisible when not attacking.  Takes 2 seconds to re-cloak.","Rikimaru becomes permanently invisible when not attacking.  Takes 1 second to re-cloak."
+Ubertip="Rikimaru becomes permanently invisible when not attacking. Takes 3 seconds to re-cloak.","Rikimaru becomes permanently invisible when not attacking. Takes 2 seconds to re-cloak.","Rikimaru becomes permanently invisible when not attacking. Takes 1 second to re-cloak."
 Tip="Permanent Invisibility - [|cffffcc00Level 1|r]","Permanent Invisibility - [|cffffcc00Level 2|r]","Permanent Invisibility - [|cffffcc00Level 3|r]"
 [A0MK]
 Name="Borrowed Time"
 Ubertip="Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 3 seconds. This ability can only happen once every minute maximum.","Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 4 qeconds. This ability can only happen once every minute maximum.","Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 5 seconds. This ability can only happen once every minute maximum."
 Researchtip="Learn |cffffcc00B|rorrowed Time - [|cffffcc00Level %d|r]"
 Tip="Borrowed Time - [|cffffcc00Level 1|r]","Borrowed Time - [|cffffcc00Level 2|r]","Borrowed Time - [|cffffcc00Level 3|r]"
-Researchubertip="Whenever you take damage and your hitpoints drop below 400 you will no longer lose hitpoints. This ability will only go off once every minute max. |n|n|cffffcc00Level 1|r - Lasts 3 seconds.  |n|cffffcc00Level 2|r - Lasts 4 seconds.  |n|cffffcc00Level 3|r - Lasts 5 seconds. "
+Researchubertip="Whenever you take damage and your hitpoints drop below 400 you will no longer lose hitpoints. This ability will only go off once every minute max.|n|n|cffffcc00Level 1|r - Lasts 3 seconds.|n|cffffcc00Level 2|r - Lasts 4 seconds.|n|cffffcc00Level 3|r - Lasts 5 seconds."
 Researchhotkey="B"
 [A0MR]
 Name="Mekansm Aura"
@@ -660,7 +662,7 @@ Name="Item Int Bonus"
 Name="Static Field"
 Ubertip="Shocks all enemy units within 1000 AOE for 5% of their current hit points whenever you cast a spell.","Shocks all enemy units within 1000 AOE for 7% of their current hit points whenever you cast a spell.","Shocks all enemy units within 1000 AOE for 9% of their current hit points whenever you cast a spell.","Shocks all enemy units within 1000 AOE for 11% of their current hit points whenever you cast a spell."
 Researchtip="Learn Static |cffffcc00F|rield - [|cffffcc00Level %d|r]"
-Researchubertip="Whenever Zeus casts a spell,  he shocks all nearby enemy units for a percentage of their current hit points as damage.|nAffects an area of effect of 1000.|n|n|cffffcc00Level 1|r - Shocks for 5% of current hit points.|n|cffffcc00Level 2|r - Shocks for 7% of current hit points.|n|cffffcc00Level 3|r - Shocks for 9% of current hit points.|n|cffffcc00Level 4|r - Shocks for 11% of current hit points."
+Researchubertip="Whenever Zeus casts a spell, he shocks all nearby enemy units for a percentage of their current hit points as damage.|nAffects an area of effect of 1000.|n|n|cffffcc00Level 1|r - Shocks for 5% of current hit points.|n|cffffcc00Level 2|r - Shocks for 7% of current hit points.|n|cffffcc00Level 3|r - Shocks for 9% of current hit points.|n|cffffcc00Level 4|r - Shocks for 11% of current hit points."
 Tip="Static Field - [|cffffcc00Level 1|r]","Static Field - [|cffffcc00Level 2|r]","Static Field - [|cffffcc00Level 3|r]","Static Field - [|cffffcc00Level 4|r]"
 Researchhotkey="F"
 [A0N9]
@@ -670,7 +672,7 @@ Name="Dispersion"
 Ubertip="Deflects 10% of damage taken onto a 1000 AoE. Damage dealt depends on how close the enemies are to you.","Deflects 14% of damage taken onto a 1000 AoE. Damage dealt depends on how close the enemies are to you.","Deflects 18% of damage taken onto a 1000 AoE. Damage dealt depends on how close the enemies are to you.","Deflects 22% of damage taken onto a 1000 AoE. Damage dealt depends on how close the enemies are to you."
 Researchhotkey="I"
 Researchtip="Learn D|cffffcc00i|rspersion - [|cffffcc00Level %d|r]"
-Researchubertip="Causes any damage taken by Mercurial to be reflected onto all enemies in a 1000 AoE. The further away the enemy is the less damage is dealt. |n|n|cffffcc00Level 1|r - 10% of damage. |n|cffffcc00Level 2|r - 14% of damage. |n|cffffcc00Level 3|r - 18% of damage. |n|cffffcc00Level 4|r - 22% of damage."
+Researchubertip="Causes any damage taken by Mercurial to be reflected onto all enemies in a 1000 AoE. The further away the enemy is the less damage is dealt.|n|n|cffffcc00Level 1|r - 10% of damage.|n|cffffcc00Level 2|r - 14% of damage.|n|cffffcc00Level 3|r - 18% of damage.|n|cffffcc00Level 4|r - 22% of damage."
 Tip="Dispersion - [|cffffcc00Level 1|r]","Dispersion - [|cffffcc00Level 2|r]","Dispersion - [|cffffcc00Level 3|r]","Dispersion - [|cffffcc00Level 4|r]"
 [A0NZ]
 Name="Beast Rage"
@@ -687,9 +689,9 @@ Name="Creep next waypoint"
 [A0G8]
 Name="Replicate"
 Researchtip="Learn |cffffcc00R|replicate - [|cffffcc00Level %d|r]"
-Researchubertip="The Morphling has the unique ability to replicate any target friendly or enemy hero. Although it only deals 50% damage, the hero can morph into his replication, instantly taking its position.  |n|n|cffffcc00Level 1|r - Lasts 30 seconds. 700 cast range. |n|cffffcc00Level 2|r - Lasts 45 seconds. 1100 cast range. |n|cffffcc00Level 3|r - Lasts 60 seconds. 1500 cast range. |n|n|cff99ccffCooldown: |r 80 seconds."
+Researchubertip="The Morphling has the unique ability to replicate any target friendly or enemy hero. Although it only deals 50% damage, the hero can morph into his replication, instantly taking its position.|n|n|cffffcc00Level 1|r - Lasts 30 seconds. 700 cast range.|n|cffffcc00Level 2|r - Lasts 45 seconds. 1100 cast range.|n|cffffcc00Level 3|r - Lasts 60 seconds. 1500 cast range.|n|n|cff99ccffCooldown: |r 80|n|cff99ccffManacost: |r 25"
 Tip="|cffffcc00R|replicate - [|cffffcc00Level 1|r]","|cffffcc00R|replicate - [|cffffcc00Level 2|r]","|cffffcc00R|replicate - [|cffffcc00Level 3|r]"
-Ubertip="The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 30 seconds. 700 cast range.  |n|n|cff99ccffCooldown: |r 80 seconds.","The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 45 seconds. 1100 cast range. |n|n|cff99ccffCooldown: |r 80 seconds.","The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 60 seconds. 1500 cast range. |n|n|cff99ccffCooldown: |r 80 seconds."
+Ubertip="The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 30 seconds. 700 cast range.|n|n|cff99ccffCooldown: |r 80|n|cff99ccffManacost: |r 25","The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 45 seconds. 1100 cast range.|n|n|cff99ccffCooldown: |r 80|n|cff99ccffManacost: |r 25","The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 60 seconds. 1500 cast range.|n|n|cff99ccffCooldown: |r 80|n|cff99ccffManacost: |r 25"
 Hotkey=R
 Researchhotkey="R"
 [A0FC]
@@ -711,7 +713,7 @@ Name="Strygwyr's Thirst"
 Ubertip="For each enemy hero below 50% hp, Strygwyr gains vision of the unit, 5% movement speed bonus and +5 damage. Bonus stacks per low hp enemy hero. Removes movement speed limit when active.","For each enemy hero below 50% hp, Strygwyr gains vision of the unit, 15% movement speed bonus and +15 damage. Bonus stacks per low hp enemy hero. Removes movement speed limit when active.","For each enemy hero below 50% hp, Strygwyr gains vision of the unit, 25% movement speed bonus and +25 damage. Bonus stacks per low hp enemy hero. Removes movement speed limit when active.","For each enemy hero below 50% hp, Strygwyr gains vision of the unit, 35% movement speed bonus and +35 damage. Bonus stacks per low hp enemy hero. Removes movement speed limit when active."
 Researchhotkey="T"
 Researchtip="Learn Strygwyr's |cffffcc00T|rhirst - [|cffffcc00Level %d|r]"
-Researchubertip="Enables Strygwyr to sense the bleeding of any low hp enemy hero. If it finds one, Strygwyr gains vision of that unit and increased move speed and damage for each enemy found. Bonus stacks per low hp enemy hero. Removes movement speed limit when active. |n|n|cffffcc00Level 1|r - 5% movement increase, +5 damage, 50% HP threshold. |n|cffffcc00Level 2|r - 15% movement increase, +15 damage, 50% HP threshold. |n|cffffcc00Level 3|r - 25% movement increase, +25 damage, 50% HP threshold. |n|cffffcc00Level 4|r - 35% movement increase, +35 damage, 50% HP threshold."
+Researchubertip="Enables Strygwyr to sense the bleeding of any low hp enemy hero. If it finds one, Strygwyr gains vision of that unit and increased move speed and damage for each enemy found. Bonus stacks per low hp enemy hero. Removes movement speed limit when active.|n|n|cffffcc00Level 1|r - 5% movement increase, +5 damage, 50% HP threshold.|n|cffffcc00Level 2|r - 15% movement increase, +15 damage, 50% HP threshold.|n|cffffcc00Level 3|r - 25% movement increase, +25 damage, 50% HP threshold.|n|cffffcc00Level 4|r - 35% movement increase, +35 damage, 50% HP threshold."
 Tip="Strygwyr's Thirst - [|cffffcc00Level 1|r]","Strygwyr's Thirst - [|cffffcc00Level 2|r]","Strygwyr's Thirst - [|cffffcc00Level 3|r]","Strygwyr's Thirst - [|cffffcc00Level 4|r]"
 [A0IA]
 Name=Item Mana Regeneration
@@ -767,9 +769,9 @@ Name="Satanic"
 Hotkey=T
 Researchhotkey="T"
 Researchtip="Learn Insa|cffffcc00t|riable Hunger - [|cffffcc00Level %d|r]"
-Researchubertip="The Broodmother develops a violent thirst for vital fluids. This lust greatly increases her attack damage and gives her a vampiric attack.|nLasts 20 seconds. |n|n|cffffcc00Level 1|r - 60 bonus damage, 40% life steal. |n|cffffcc00Level 2|r - 75 bonus damage, 50% life steal. |n|cffffcc00Level 3|r - 90 bonus damage, 60% life steal.|n|n|cff99ccffCooldown: |r 60 seconds."
+Researchubertip="The Broodmother develops a violent thirst for vital fluids. This lust greatly increases her attack damage and gives her a vampiric attack.|nLasts 20 seconds.|n|n|cffffcc00Level 1|r - 60 bonus damage, 40% life steal.|n|cffffcc00Level 2|r - 75 bonus damage, 50% life steal.|n|cffffcc00Level 3|r - 90 bonus damage, 60% life steal.|n|n|cff99ccffCooldown: |r 60"
 Tip="Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 1|r]","Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 2|r]","Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 3|r]"
-Ubertip="Gives the Broodmother 60 bonus damage and 40% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.","Gives the Broodmother 75 bonus damage and 50% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.","Gives the Broodmother 90 bonus damage and 60% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds."
+Ubertip="Gives the Broodmother 60 bonus damage and 40% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60","Gives the Broodmother 75 bonus damage and 50% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60","Gives the Broodmother 90 bonus damage and 60% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60"
 [A0PI]
 Name="Item Agility Bonus"
 [A0PJ]
@@ -829,7 +831,7 @@ Name="Berserker's Blood Attack Speed"
 [A0S4]
 Name="Maim"
 Tip=Slo|cffffcc00w|r
-Ubertip="Slows a target enemy unit's attack rate by <AIos,DataB1,%>% and movement speed by <AIos,DataA1,%>%. |nLasts <AIos,Dur1> seconds."
+Ubertip="Slows a target enemy unit's attack rate by <AIos,DataB1,%>% and movement speed by <AIos,DataA1,%>%.|nLasts <AIos,Dur1> seconds."
 [A0FY]
 Name="Magic Immunity Container"
 [A0I5]
@@ -853,9 +855,9 @@ Name="Rage"
 Researchhotkey="R"
 Hotkey=R
 Researchtip="Learn |cffffcc00R|rage - [|cffffcc00Level %d|r]"
-Researchubertip="N'aix goes into a maddened rage, becoming immune to magic spells and gaining increased attack speed. |n|n|cffffcc00Level 1|r - 30% Increased Attack Speed and Magic Immunity. Lasts for 3 seconds. |n|cffffcc00Level 2|r - 45% Increased Attack Speed and Magic Immunity. Lasts for 4 seconds. |n|cffffcc00Level 3|r - 60% Increased Attack Speed and Magic Immunity. Lasts for 5 seconds. |n|cffffcc00Level 4|r - 80% Increased Attack Speed and Magic Immunity. Lasts for 6 seconds.   |n|n|cff99ccffCooldown: |r 19 seconds. |n|cff99ccffManacost: |r 75"
+Researchubertip="N'aix goes into a maddened rage, becoming immune to magic spells and gaining increased attack speed.|n|n|cffffcc00Level 1|r - 30% Increased Attack Speed and Magic Immunity. Lasts for 3 seconds.|n|cffffcc00Level 2|r - 45% Increased Attack Speed and Magic Immunity. Lasts for 4 seconds.|n|cffffcc00Level 3|r - 60% Increased Attack Speed and Magic Immunity. Lasts for 5 seconds.|n|cffffcc00Level 4|r - 80% Increased Attack Speed and Magic Immunity. Lasts for 6 seconds.|n|n|cff99ccffCooldown: |r 19|n|cff99ccffManacost: |r 75"
 Tip="|cffffcc00R|rage - [|cffffcc00Level 1|r]","|cffffcc00R|rage - [|cffffcc00Level 2|r]","|cffffcc00R|rage - [|cffffcc00Level 3|r]","|cffffcc00R|rage - [|cffffcc00Level 4|r]"
-Ubertip="N'aix goes into a maddened rage, becoming immune to magic spells and gaining 30% increased attack speed for 3 seconds. |n|n|cff99ccffCooldown: |r 19 seconds.","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 45% increased attack speed for 4 seconds. |n|n|cff99ccffCooldown: |r 19 seconds.","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 60% increased attack speed for 5 seconds. |n|n|cff99ccffCooldown: |r 19 seconds.","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 80% increased attack speed for 6 seconds. |n|n|cff99ccffCooldown: |r 19 seconds."
+Ubertip="N'aix goes into a maddened rage, becoming immune to magic spells and gaining 30% increased attack speed for 3 seconds.|n|n|cff99ccffCooldown: |r 19|n|cff99ccffManacost: |r 75","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 45% increased attack speed for 4 seconds.|n|n|cff99ccffCooldown: |r 19|n|cff99ccffManacost: |r 75","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 60% increased attack speed for 5 seconds.|n|n|cff99ccffCooldown: |r 19|n|cff99ccffManacost: |r 75","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 80% increased attack speed for 6 seconds.|n|n|cff99ccffCooldown: |r 19|n|cff99ccffManacost: |r 75"
 [A0T3]
 Name=Item Attack Speed Bonus
 [A0T4]
@@ -925,7 +927,7 @@ Name="FrogSphere"
 [A0UU]
 Name="Invoker Sphere"
 Researchtip="Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]"
-Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.|n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
 Tip="","Disentangle - [|cffffcc00Level 2|r]","Disentangle - [|cffffcc00Level 3|r]","Disentangle - [|cffffcc00Level 4|r]"
 Researchhotkey="L"
 Ubertip="","Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds."
@@ -982,7 +984,7 @@ Name="Rampage Effect"
 [A0XK]
 Name="Invoke Tornado Cyclone"
 Tip=|cffffcc00C|ryclone
-Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it.|nLasts <AIcy,Dur1> seconds."
 Hotkey=C
 [A0XO]
 Name="Quas - Regen Book"
@@ -1034,17 +1036,17 @@ Name="Item Mana Bonus (400)"
 Name="Melting Strike - Armor Reduction"
 [A0VX]
 Name="Gravekeeper's Cloak"
-Ubertip="Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 1 Armor and 3% Magic Resistance per layer. Recovers in 12 seconds. ","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 2 Armor and 6% Magic Resistance per layer. Recovers in 10 seconds.  ","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 4 Armor and 12% Magic Resistance per layer. Recovers in 8 seconds.  ","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 5 Armor and 16% Magic Resistance per layer. Recovers in 6 seconds.  "
+Ubertip="Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 1 Armor and 3% Magic Resistance per layer. Recovers in 12 seconds.","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 2 Armor and 6% Magic Resistance per layer. Recovers in 10 seconds.","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 4 Armor and 12% Magic Resistance per layer. Recovers in 8 seconds.","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 5 Armor and 16% Magic Resistance per layer. Recovers in 6 seconds."
 Researchhotkey="V"
 Researchtip="Learn Gra|cffffcc00v|rekeeper's Cloak - [|cffffcc00Level %d|r]"
-Researchubertip="Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers. |n|n|cffffcc00Level 1|r - 1 Armor and 3% Magic Resistance per layer. Recovers in 12 seconds. |n|cffffcc00Level 2|r - 2 Armor and 6% Magic Resistance per layer. Recovers in 10 seconds. |n|cffffcc00Level 3|r - 4 Armor and 12% Magic Resistance per layer. Recovers in 8 seconds. |n|cffffcc00Level 4|r - 5 Armor and 16% Magic Resistance per layer. Recovers in 6 seconds."
-Tip="Gravekeeper's Cloak  - [|cffffcc00Level 1|r]","Gravekeeper's Cloak  - [|cffffcc00Level 2|r]","Gravekeeper's Cloak  - [|cffffcc00Level 3|r]","Gravekeeper's Cloak  - [|cffffcc00Level 4|r]"
+Researchubertip="Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers.|n|n|cffffcc00Level 1|r - 1 Armor and 3% Magic Resistance per layer. Recovers in 12 seconds.|n|cffffcc00Level 2|r - 2 Armor and 6% Magic Resistance per layer. Recovers in 10 seconds.|n|cffffcc00Level 3|r - 4 Armor and 12% Magic Resistance per layer. Recovers in 8 seconds.|n|cffffcc00Level 4|r - 5 Armor and 16% Magic Resistance per layer. Recovers in 6 seconds."
+Tip="Gravekeeper's Cloak - [|cffffcc00Level 1|r]","Gravekeeper's Cloak - [|cffffcc00Level 2|r]","Gravekeeper's Cloak - [|cffffcc00Level 3|r]","Gravekeeper's Cloak - [|cffffcc00Level 4|r]"
 [A0VY]
 Name="Soul Assumption"
 Ubertip="Units that die near Visage regenerate him for 4 HP and give him 6 bonus damage with a max of 2 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption - [|cffffcc00Level 1|r]","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A0XM]
 Name="Soul Assumption - Effect"
@@ -1139,7 +1141,7 @@ Name="Item Strength Bonus"
 [A12L]
 Name="Windrunner Cyclone"
 Tip=|cffffcc00C|ryclone
-Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it.|nLasts <AIcy,Dur1> seconds."
 Hotkey=C
 [A12O]
 Name="Windrunner Container - 2"
@@ -1182,12 +1184,12 @@ Name="Sange and Yasha"
 [A13V]
 Name=Cyclone
 Tip=|cffffcc00C|ryclone
-Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it.|nLasts <AIcy,Dur1> seconds."
 Hotkey=C
 [A13W]
 Name="Torrent"
 Tip=|cffffcc00C|ryclone
-Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it.|nLasts <AIcy,Dur1> seconds."
 Hotkey=C
 [A13Y]
 Name="Gargoyle Spell Damage Reduction Greater"
@@ -1342,9 +1344,9 @@ Name="Darkness upgrade"
 Researchtip="Learn Da|cffffcc00r|rkness - [|cffffcc00Level %d|r]"
 Researchhotkey="R"
 Hotkey=R
-Researchubertip="Creates a period of darkness for the Night Stalker to thrive in. Reduces enemy vision by 25%. Passively grants unobstructed vision at night. |n|n|cffffcc00Level 1|r - Turns day into a 25 second night.|n|cffffcc00Level 2|r - Turns day into a 50 second night.|n|cffffcc00Level 3|r - Turns day into a 80 second night. |n|n|cff99ccffCooldown: |r 180/150/120"
+Researchubertip="Creates a period of darkness for the Night Stalker to thrive in. Reduces enemy vision by 25%. Passively grants unobstructed vision at night.|n|n|cffffcc00Level 1|r - Turns day into a 25 second night.|n|cffffcc00Level 2|r - Turns day into a 50 second night.|n|cffffcc00Level 3|r - Turns day into a 80 second night.|n|n|cff99ccffCooldown: |r 180/150/120"
 Tip="Da|cffffcc00r|rkness - [|cffffcc00Level 1|r]","Da|cffffcc00r|rkness - [|cffffcc00Level 2|r]","Da|cffffcc00r|rkness - [|cffffcc00Level 3|r]"
-Ubertip="Turns day into night for 25 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night. |n|n|cff99ccffCooldown: |r 180","Turns day into night for 50 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night. |n|n|cff99ccffCooldown: |r 150","Turns day into night for 80 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night. |n|n|cff99ccffCooldown: |r 120"
+Ubertip="Turns day into night for 25 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night.|n|n|cff99ccffCooldown: |r 180","Turns day into night for 50 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night.|n|n|cff99ccffCooldown: |r 150","Turns day into night for 80 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night.|n|n|cff99ccffCooldown: |r 120"
 [A1B8]
 Name="Aghanim's Scepter (Sniper)"
 [A1B9]
@@ -1471,7 +1473,7 @@ Name="Static Link Damage Negative 32"
 [A1EB]
 Name="Autofire"
 Researchtip="Learn Geminate Attac|cffffcc00k|r - [|cffffcc00Level %d|r]"
-Researchubertip="Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this. |n|n|cffffcc00Level 1|r - 6 second cooldown.|n|cffffcc00Level 2|r - 5 second cooldown|n|cffffcc00Level 3|r - 4 second cooldown|n|cffffcc00Level 4|r - 2.5 second cooldown|n|n|c00ff0303Orb effect.|r"
+Researchubertip="Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this.|n|n|cffffcc00Level 1|r - 6 second cooldown.|n|cffffcc00Level 2|r - 5 second cooldown|n|cffffcc00Level 3|r - 4 second cooldown|n|cffffcc00Level 4|r - 2.5 second cooldown|n|n|c00ff0303Orb effect.|r"
 Researchhotkey="K"
 [A1F3]
 Name="Warcry Container - Level 3"
@@ -1803,7 +1805,7 @@ Name="Spirit Echo"
 Ubertip="text.","text.","text.","text."
 Researchhotkey="I"
 Researchtip="Learn Sp|cffffcc00i|rrit Echo - [|cffffcc00Level %d|r]"
-Researchubertip="text. |n|n|cffffcc00Level 1|r - text. |n|cffffcc00Level 2|r - text. |n|cffffcc00Level 3|r - text. |n|cffffcc00Level 4|r - text. "
+Researchubertip="text.|n|n|cffffcc00Level 1|r - text.|n|cffffcc00Level 2|r - text.|n|cffffcc00Level 3|r - text.|n|cffffcc00Level 4|r - text."
 Tip="Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 1|r]","Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 2|r]","Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 3|r]","Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 4|r]"
 [A1IP]
 Name="Chilling Touch"
@@ -1826,70 +1828,70 @@ Name="Soul Assumption"
 Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1NY]
 Name="Soul Assumption"
 Ubertip="Charges: 4","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1NZ]
 Name="Soul Assumption"
 Ubertip="Charges: 2","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1O0]
 Name="Soul Assumption"
 Ubertip="Charges: 5","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1O1]
 Name="Soul Assumption"
 Ubertip="Charges: 0","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1O2]
 Name="Soul Assumption"
 Ubertip="Charges: 1","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1O3]
 Name="Soul Assumption"
 Ubertip="Charges: 6","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1O6]
 Name="Soul Assumption"
 Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1O7]
 Name="Soul Assumption"
 Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1O8]
 Name="Soul Assumption"
 Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
 Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
 [A1O9]
 Name="Spell Damage Reduction almost FULL"
@@ -1907,7 +1909,7 @@ Name="Scorched Earth Container - 3"
 Name="Frost Attack (Lucy)"
 [A1PA]
 Name="Frost Attack"
-Ubertip="Induces a freezing effect to the Ghost's attacks.  Each attack slows the enemy's movement and attack rates. "
+Ubertip="Induces a freezing effect to the Ghost's attacks. Each attack slows the enemy's movement and attack rates."
 Tip="Frost Attack"
 [A1PV]
 Name="Capture Point - Ability HP 3a"
@@ -1982,7 +1984,7 @@ Name="Puck Effect"
 [A1RL]
 Name="Phoenix Cyclone"
 Tip=|cffffcc00C|ryclone
-Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it.|nLasts <AIcy,Dur1> seconds."
 Hotkey=C
 [A1RV]
 Name="Phoenix Smash 4"
@@ -2313,9 +2315,9 @@ Name="Reflection Image"
 Researchhotkey="C"
 Hotkey=C
 Researchtip="Learn |cffffcc00C|ronjure Image - [|cffffcc00Level %d|r]"
-Researchubertip="Creates a copy of Terrorblade which deals damage.  Lasts 30 seconds.  |n|n|cffffcc00Level 1|r - Images deal 25% damage. |n|cffffcc00Level 2|r - Images deal 35% damage. |n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
+Researchubertip="Creates a copy of Terrorblade which deals damage. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - Images deal 25% damage.|n|cffffcc00Level 2|r - Images deal 35% damage.|n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
 Tip="|cffffcc00C|ronjure Image - [|cffffcc00Level 1|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 2|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 3|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 4|r]"
-Ubertip="Creates a copy of Terrorblade which deals 25% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage.  The images take 300% damage.|nLasts 30 seconds."
+Ubertip="Creates a copy of Terrorblade which deals 25% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage. The images take 300% damage.|nLasts 30 seconds."
 [A24P]
 Name="Sentinel Container"
 [A24X]
@@ -2481,9 +2483,9 @@ Name="Requiem of Souls"
 Researchhotkey="R"
 Hotkey=R
 Researchtip="|cffffcc00R|requiem of Souls - [|cffffcc00Level %d|r]"
-Researchubertip="Summons evil spirits around you dealing damage to units in the area. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. |n|n|cff99ccffCooldown: |r 120/110/100 seconds. "
+Researchubertip="Summons evil spirits around you dealing damage to units in the area. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage.|n|n|cff99ccffCooldown: |r 120/110/100|n|cff99ccffManacost: |r 150/175/200"
 Tip="|cffffcc00R|requiem of Souls - [|cffffcc00Level 1|r]","|cffffcc00R|requiem of Souls - [|cffffcc00Level 2|r]","|cffffcc00R|requiem of Souls - [|cffffcc00Level 3|r]"
-Ubertip="Summons evil spirits around you dealing 80 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 120 seconds.","Summons evil spirits around you dealing 120 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 110 seconds. ","Summons evil spirits around you dealing 160 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 100 seconds."
+Ubertip="Summons evil spirits around you dealing 80 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 120|n|cff99ccffManacost: |r 150","Summons evil spirits around you dealing 120 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 110|n|cff99ccffManacost: |r 175","Summons evil spirits around you dealing 160 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 100|n|cff99ccffManacost: |r 200"
 [A29N]
 Name="Courier Reincarnation Container"
 [A29T]
@@ -2681,7 +2683,7 @@ Name="Blade of the Reaper "
 Researchhotkey="C"
 Hotkey=C
 Tip="","|cffffcc00C|ronjure Image - [|cffffcc00Level 2|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 3|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 4|r]"
-Ubertip="","Creates a copy of Terrorblade which deals 35% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage.  The images take 300% damage.|nLasts 30 seconds."
+Ubertip="","Creates a copy of Terrorblade which deals 35% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage. The images take 300% damage.|nLasts 30 seconds."
 [A2E8]
 Name="Iron Boots Container"
 [A2E9]
@@ -2725,7 +2727,7 @@ Name="Prevailing Winds Container Haste 3"
 [A2FI]
 Name="Prevailing Winds Cyclone"
 Tip=|cffffcc00C|ryclone
-Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it.|nLasts <AIcy,Dur1> seconds."
 Hotkey=C
 [A2FJ]
 Name="Item Attack Speed 120%"
@@ -2858,9 +2860,9 @@ Name="Conjure Image"
 Researchhotkey="C"
 Hotkey=C
 Researchtip="Learn |cffffcc00C|ronjure Image - [|cffffcc00Level %d|r]"
-Researchubertip="Creates a copy of Terrorblade which deals damage.  Lasts 30 seconds.  |n|n|cffffcc00Level 1|r - Images deal 25% damage. |n|cffffcc00Level 2|r - Images deal 35% damage. |n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
+Researchubertip="Creates a copy of Terrorblade which deals damage. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - Images deal 25% damage.|n|cffffcc00Level 2|r - Images deal 35% damage.|n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
 Tip="|cffffcc00C|ronjure Image - [|cffffcc00Level 1|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 2|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 3|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 4|r]"
-Ubertip="Creates a copy of Terrorblade which deals 25% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage.  The images take 300% damage.|nLasts 30 seconds."
+Ubertip="Creates a copy of Terrorblade which deals 25% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage. The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage. The images take 300% damage.|nLasts 30 seconds."
 [A2JW]
 Name="Fire Barrier FX"
 [A2JX]
@@ -3137,43 +3139,43 @@ Name="Stone Rock"
 Ubertip="Charges: 2","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
-Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
+Tip="Stone Remnant"
 [A2SB]
 Name="Stone Rock"
 Ubertip="Charges: 1","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
-Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
+Tip="Stone Remnant"
 [A2SC]
 Name="Stone Rock"
 Ubertip="Charges: 4","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
-Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
+Tip="Stone Remnant"
 [A2SD]
 Name="Stone Rock"
 Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
-Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
+Tip="Stone Remnant"
 [A2SE]
 Name="Stone Rock"
 Ubertip="Charges: 5","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
-Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
+Tip="Stone Remnant"
 [A2SF]
 Name="Stone Rock"
 Ubertip="Charges: 0","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
-Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
+Tip="Stone Remnant"
 [A2SK]
 Name="Thirst Armor - 4"
 [A2SL]
@@ -3195,8 +3197,8 @@ Name="Stone Rock"
 Ubertip="Charges: 6","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
 Researchhotkey="T"
 Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
-Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
-Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds.|n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max.|n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max.|n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max.|n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max."
+Tip="Stone Remnant"
 [A2TN]
 Name="Purge - Bloodrage"
 [A2TO]

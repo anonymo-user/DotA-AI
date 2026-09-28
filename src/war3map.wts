@@ -1,40 +1,43 @@
-﻿STRING 39999
+STRING 39999
 {
-Statement: This new release of AI was made by |cffFF0000JoyJ|r. The original release was in Chinese but was ported by |cff0000FFJames Druid|r in english. This map is originally based in DotA v6.78 AI map.
+This release of the AI was made by |cffFF0000JoyJ|r. The original release was in Chinese and was ported to English by |cff0000FFJames Druid|r. This map is based on the DotA v6.78 AI map.
 }
 STRING 49998
 {
-You can use the corresponding AI gold / exp bonus adjustment command mode to control mode selection when computers get money and experience rate, money and experience to adjust the adjustment can be invoked simultaneously.
+Use the AI gold and experience bonus commands below to control how much money and experience computer players earn. The gold and experience adjustments can be used at the same time.
 
-Experience plus adjustments:
-|c00dd8dff Default |r: According to the difficulty, AI would be +20% / 45% / 80% extra experience.
-|c00dd8dff-normexp (-ne) |r: AI will no longer get any extra experience bonus.
-|c00dd8dff-highexp (-he) |r: Depending on the degree of difficulty, AI will get an extra bonus of a different experience, an increase of +40% default / 70% / 110%.
-|c00dd8dff-dynaexp (-de) |r: Dynamic AI is empirical mode --- each kill, their experience will get access to additional rate (50 +5 * Number of main enemy players)% increase every three minutes if. AI do not kill enemy heroes is the experience gained by its extra rate will be increased by 17.5%, while each time the AI get kill / assists, additional experience gained will reduce the rate of 33% / 25%. AI can get a total of up to 200% of the additional experience.
-Money Bonus adjustment:
-|c00dd8dff Default |r: According to the difficulty, AI will get bonus every 7 seconds, and a small amount of extra money 0/4/8 initial money.
-|c00dd8dff-normgold (-ng) |r: AI no longer get any extra money.
-|c00dd8dff-highgold (-hg) |r: Every seven seconds to get extra money 8, the initial money to +10%.
-|c00dd8dff-dynagold (-dg) |r: Dynamic Money Mode --- each AI has been killed, it will enhance the speed of money to get 5/7 seconds every three minutes if not kill the enemy AI heroes enhance +2.5. when / 7 seconds (from the start of the game the first five minutes counting), while AI get every kill / assists, extra money to get the lower rate of 33% / 25%. AI can get the maximum total of 72 gold every 7 seconds extra money .
-The manner described above is called mixed mode command:
-|c00dd8dff-beginnermode (-bm) Novice Mode |r: equivalent to normexp + normgold
-|c00dd8dff-advancedmode (-am) Advanced Mode |r: equivalent to normexp + normgold + dynaexp + dynagold
-|c00dd8dff-xtrememode (-xm) play off |r: equivalent to normexp + normgold + dynaexp + dynagold, but the dynamic part of the increase will be higher. 
+Experience adjustments:
+|c00dd8dff Default |r: Based on difficulty, AI gains +20% / 45% / 80% extra experience.
+|c00dd8dff-normexp (-ne) |r: AI no longer gains any extra experience.
+|c00dd8dff-highexp (-he) |r: Based on difficulty, AI gains a higher experience bonus: +40% / 70% / 110%.
+|c00dd8dff-dynaexp (-de) |r: Dynamic experience mode. Each AI's experience bonus grows over time, starting at (50 + 5 * number of human enemy players)% and rising every 3 minutes. If an AI has not killed an enemy hero, its bonus rate rises by an extra 17.5%. Each time an AI gets a kill or assist, its bonus rate drops by 33% / 25%. An AI can gain up to +200% extra experience in total.
+Money adjustments:
+|c00dd8dff Default |r: Based on difficulty, AI gains bonus gold every 7 seconds, plus a small amount of starting gold (0 / 4 / 8).
+|c00dd8dff-normgold (-ng) |r: AI no longer gains any extra gold.
+|c00dd8dff-highgold (-hg) |r: AI gains +8 gold every 7 seconds, and +10% starting gold.
+|c00dd8dff-dynagold (-dg) |r: Dynamic gold mode. Each AI's gold rate grows over time, rising by +5 per 7 seconds every 3 minutes; if the AI has not killed an enemy hero, it rises by an extra +2.5 per 7 seconds (counting from the first 5 minutes of the game). Each time an AI gets a kill or assist, its gold rate drops by 33% / 25%. An AI can earn up to a maximum of 72 gold every 7 seconds.
+The commands below combine several of the modes above:
+|c00dd8dff-beginnermode (-bm) Novice Mode |r: same as normexp + normgold
+|c00dd8dff-advancedmode (-am) Advanced Mode |r: same as normexp + normgold + dynaexp + dynagold
+|c00dd8dff-xtrememode (-xm) Extreme Mode |r: same as normexp + normgold + dynaexp + dynagold, but the dynamic bonuses scale even higher.
 }
 STRING 49999
 {
-This map AI script was mainly made by Cloud_str, RGB and BuffMePlz. Pbmn and PlayDota.com production team is committed to improving the AI to constantly update AI Dota map, but the main part is done by the former. For
-AI map update and development progress, please refer to http://dota-pbmn.blogspot.com/(Status: |cffFF0000Unknown\Missing in Action|r). Note: Since 2014, The Current AI Maintainers are listed below. You can visit the PlayDota forum and go to the AI thread or you can visit this site for updates: http://jamesdruid.blogspot.com/
+The AI script for this map was created mainly by Cloud_str, RGB and BuffMePlz. The PBMN and PlayDotA.com team have worked to improve and regularly update the DotA AI map, though most of the work was done by the original authors.
 
-The New AI Map Maintainers: |cffFF0000JoyJ|r and |cff0000FFJames Druid|r
+For AI map updates and development progress, see http://dota-pbmn.blogspot.com/ (Status: |cffFF0000Unknown / Missing in Action|r).
 
-The AI Map(V6.78) was made by PleaseBugMeNot (PBMN), Cloud_str, Ciel & the AITeam 
+Note: Since 2014, the current AI maintainers are listed below. Visit the PlayDotA forums and open the AI thread, or check this site for updates: http://jamesdruid.blogspot.com/
 
-Very Big Thanks to |cffFF0000JoyJ|r for continuing the development of the AI map. He completely restructured the map(from 6.78) and turned it into the latest DotA version(6.81). 
+Current AI Map Maintainers: |cffFF0000JoyJ|r and |cff0000FFJames Druid|r
+
+The AI Map (v6.78) was made by PleaseBugMeNot (PBMN), Cloud_str, Ciel and the AI Team.
+
+Very big thanks to |cffFF0000JoyJ|r for continuing development of the AI map. He completely restructured the map (from 6.78) and updated it to the latest DotA version (6.81).
 }
 STRING 50000
 {
-DotA v6.81b AI 1.2 Rev 3
+DotA v6.81b |c00dd8dffAI @@VERSION@@|r
 }
 STRING 50001
 {
@@ -52,55 +55,55 @@ STRING 50003
 }
 STRING 50005
 {
-You can |c000042ffPlayDotA.com|r private messages (PM) me, or to contact me by mail (IceFrog@gmail.com).
+You can send me a private message (PM) on |c000042ffPlayDotA.com|r, or contact me by email (IceFrog@gmail.com).
 
-My blog: IceFrog.com.
-My Chinese microblogging: http://t.qq.com/icefrogdev.
+My blog: IceFrog.com
+My Chinese microblog: http://t.qq.com/icefrogdev
 
-If you have any suggestions, ideas or questions, you can tell me through the above ways.
+If you have any suggestions, ideas or questions, feel free to reach me through any of the ways above.
 }
 STRING 50007
 {
-For a complete list:
+For the complete list, visit:
 |c000042ffPlayDotA.com/learn/commands|r
 
-Game modes:
--allpick(-ap), -allrandom(-ar), -randomdraft (-rd), -extendedleague (-xl), -singledraft(-sd), -deathmatch(-dm), -captainsmode(-cm), -leaguemode(-lm), -mirrormatch(-mm), -teamrandom(-tr),  -moderandom(-mr), -voterandom(-vr), -reverse(-rv), -duplicatemode(-du), -shuffleplayers(-sp), -samehero(-sh), -allagility(-aa), -allintelligence(-ai), -allstrength(-as), -itemdrop(-id), -easymode(-em), -nopowerups(-np), -supercreeps(-sc), -onlymid(-om), -notop(-nt), -nomid(-nm), -nobot(-nb), -noswap(-ns), -norepick(-nr), -poolingmode(-pm), -observerinfo(-oi), -miniheroes(-mi), -fastrespawn(-fr), -meleeonly(-mo), -rangeonly(-ro), -experimentalrunes(-er), -showachievements(-sa)
+|c00dd8dffGame modes:|r
+-allpick(-ap), -allrandom(-ar), -randomdraft(-rd), -extendedleague(-xl), -singledraft(-sd), -deathmatch(-dm), -captainsmode(-cm), -leaguemode(-lm), -mirrormatch(-mm), -teamrandom(-tr), -moderandom(-mr), -voterandom(-vr), -reverse(-rv), -duplicatemode(-du), -shuffleplayers(-sp), -samehero(-sh), -allagility(-aa), -allintelligence(-ai), -allstrength(-as), -itemdrop(-id), -easymode(-em), -nopowerups(-np), -supercreeps(-sc), -onlymid(-om), -notop(-nt), -nomid(-nm), -nobot(-nb), -noswap(-ns), -norepick(-nr), -poolingmode(-pm), -observerinfo(-oi), -miniheroes(-mi), -fastrespawn(-fr), -meleeonly(-mo), -rangeonly(-ro), -experimentalrunes(-er), -showachievements(-sa)
 
-Game commands:
--ma, -ms, -cs, -cson, -csoff, -disablehelp, -enablehelp, -unstuck, -recreate, -swaphero, -showmsg, -hidemsg, -showdeny, -hidedeny, -weather rain, -weather snow, -weather moonlight, -weather wind, -weather random, -weather off, -denyinfo (-di), -deathon(-don), -deathoff(-doff), -roll, -hideheronames(-hhn), -test, -mute, -gameinfo, -kickafk, -afkinfo, -apm, -clear, -swapall, -courier, -ah, -list, -rolloff, -rollon, -music, -water, -itemswap, -quote, -bonus, -switch, -terrain
+|c00dd8dffGame commands:|r
+-ma, -ms, -cs, -cson, -csoff, -disablehelp, -enablehelp, -unstuck, -recreate, -swaphero, -showmsg, -hidemsg, -showdeny, -hidedeny, -weather rain, -weather snow, -weather moonlight, -weather wind, -weather random, -weather off, -denyinfo(-di), -deathon(-don), -deathoff(-doff), -roll, -hideheronames(-hhn), -test, -mute, -gameinfo, -kickafk, -afkinfo, -apm, -clear, -swapall, -courier, -ah, -list, -rolloff, -rollon, -music, -water, -itemswap, -quote, -bonus, -switch, -terrain
 }
 STRING 50009
 {
-First, and most importantly, thanks to all the players continue to provide feedback and support to me this map.
+First and most importantly, thank you to all the players who continue to provide feedback and support for this map.
 
-Some people provide various forms of assistance, including but not limited to : Ki-Hunterkiller, arthur5863, Neichus, MYM | Merlini, coL.Warr1ck, Zetta, Plastic.Angel, TheRandomDude, Naz, IEatDeadPeoples, MYM | Maelk, RodOfNod, DamnNoHtml , Jazradel, Mercurial, Trystero, Philip.J.Fry, Cottontop, Minotaar, Switch, Terrorblaze, Ro-Coco, unHOLYdoNUTS, Akuryou, Sejr, Sledgehmr, eva00r, TheMantis, Ska_Goblin, ~ PGRu-Unexpect3D, PitzerMike, snork, M3Th0dz, Jazradel, War-Mage, Malle, seerTneerGevoLI, Vexorian, MetallibaN, sSerenity, Mago-Merlino, Vodoun, antiweltteilchen, coldlikehell, iNCQRiT, Infrisios, BeamCannon, LulaLula, Beast_Pete, Wedge, p0c, jmesch04, tinfoiltank, Guyoverthere, SetzerGabbiani, Danat, Pipedream, Rubadub, UTDC.Justin, ArcheKleine, eldorquo, Chairraider, Slam, Toadcop and Lordshinjo. There are many people in this or that form of help , thank you .
+Many people have provided various forms of assistance, including but not limited to: Ki-Hunterkiller, arthur5863, Neichus, MYM.Merlini, coL.Warr1ck, Zetta, Plastic.Angel, TheRandomDude, Naz, IEatDeadPeoples, MYM.Maelk, RodOfNod, DamnNoHtml, Jazradel, Mercurial, Trystero, Philip.J.Fry, Cottontop, Minotaar, Switch, Terrorblaze, Ro-Coco, unHOLYdoNUTS, Akuryou, Sejr, Sledgehmr, eva00r, TheMantis, Ska_Goblin, ~PGRu-Unexpect3D, PitzerMike, snork, M3Th0dz, War-Mage, Malle, seerTneerGevoLI, Vexorian, MetallibaN, sSerenity, Mago-Merlino, Vodoun, antiweltteilchen, coldlikehell, iNCQRiT, Infrisios, BeamCannon, LulaLula, Beast_Pete, Wedge, p0c, jmesch04, tinfoiltank, Guyoverthere, SetzerGabbiani, Danat, Pipedream, Rubadub, UTDC.Justin, ArcheKleine, eldorquo, Chairraider, Slam, Toadcop and Lordshinjo. Many others have helped in one way or another - thank you all.
 
-This map is completely made ​​out of scratch . Although she has been reborn as compared to the early run , but many ideas should be grateful to AoS on StarCraft , in the Reign of Chaos DotA produced the earliest Euls, and subsequently on the Frozen Throne continue making Meian / Guinsoo.
+This map was built completely from scratch. Although it has been reborn compared to its early days, many ideas owe thanks to AoS on StarCraft, to Eul who created the earliest DotA in Reign of Chaos, and to Meian / Guinsoo who continued it on The Frozen Throne.
 
-Due to limited space here , I can not put everyone's names are listed. Want to know other people and to provide resources to contribute , please visit getdota.com / ResourceCredits.txt.
+Due to limited space, I cannot list everyone here. To learn about the other people and resources that contributed, please visit getdota.com/ResourceCredits.txt.
 
-Speaking of thanks :
-Speaking to thank friends involved in the map , thanks to all the recommendations for the finished version , pointing out problems and friends, thanks to all DotA players long-term support .
+Special thanks:
+Thanks to all the friends involved in the map, to everyone who gave recommendations for the final version and pointed out problems, and to all DotA players for their long-term support.
 
-Chinese group predecessors : Heintje, Aegis, Harreke, xyf890228
-Speaking : Hippovic, outskirts
+Chinese community predecessors: Heintje, Aegis, Harreke, xyf890228
+Commentary: Hippovic, outskirts
 }
 STRING 50011
 {
-Please visit http://www.getdota.com get the latest version maps.
+Please visit http://www.getdota.com to get the latest map versions.
 
-If you are looking for the latest Warcraft 3 patch, please visit http://www.getdota.com/patch.
+If you are looking for the latest Warcraft III patch, please visit http://www.getdota.com/patch.
 }
 STRING 50013
 {
-If you want to help test the new version, please apply here:
+If you would like to help test the new version, please apply here:
 
 http://www.getdota.com/beta
 }
 STRING 50015
 {
-Please submit BUG in http://www.getdota.com/bugs.
+Please report bugs at http://www.getdota.com/bugs.
 
 You can also send an email to IceFrog@gmail.com.
 }

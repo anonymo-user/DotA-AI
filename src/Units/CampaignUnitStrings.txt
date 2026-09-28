@@ -4,7 +4,7 @@ Hotkey=
 Propernames=Purist Thunderwrath
 Revivetip="Revive Omniknight"
 Awakentip="Revive Omniknight"
-Ubertip="A former member of the Order of the Silver Hand, Purist has joined the Sentinel to avenge the death of the Order's leader, Uther the Lightbringer. Trained by Uther himself in the ways of the Paladin, Purist brings the power of the Holy Light to the battlefield. He can purify the souls of allies, harming any nearby Scourge in the process. Able to protect allies from harmful unholy magic, the mere presence of a man of the Holy Light atrophies any nearby enemies. In times of dire need, Purist can call upon God himself to protect him and his allies. |n|n|c00ff0303Strength|r - 20 + 2.65|n|c000042ffAgility|r - 15 + 1.75|n|c000042ffIntelligence|r - 17 + 1.8|n|nLearns Purification, Repel, Degen Aura, and |c00ff8000Guardian Angel|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Ubertip="A former member of the Order of the Silver Hand, Purist has joined the Sentinel to avenge the death of the Order's leader, Uther the Lightbringer. Trained by Uther himself in the ways of the Paladin, Purist brings the power of the Holy Light to the battlefield. He can purify the souls of allies, harming any nearby Scourge in the process. Able to protect allies from harmful unholy magic, the mere presence of a man of the Holy Light atrophies any nearby enemies. In times of dire need, Purist can call upon God himself to protect him and his allies.|n|n|c00ff0303Strength|r - 20 + 2.65|n|c000042ffAgility|r - 15 + 1.75|n|c000042ffIntelligence|r - 17 + 1.8|n|nLearns Purification, Repel, Degen Aura, and |c00ff8000Guardian Angel|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
 Tip="Omniknight"
 [Huth]
 Name="Ursa Warrior"
@@ -20,21 +20,21 @@ Hotkey=L
 Propernames=Lord Nicholas Buzan
 Revivetip=Revive Pa|cffffcc00l|radin
 Awakentip=Revive Pa|cffffcc00l|radin
-Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection.|n|n|cffffcc00Attacks land units.|r"
 [Hhkl]
 Name=Paladin
 Hotkey=L
 Propernames=Halahk the Lifebringer
 Revivetip=Revive Pa|cffffcc00l|radin
 Awakentip=Revive Pa|cffffcc00l|radin
-Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection.|n|n|cffffcc00Attacks land units.|r"
 [Hjai]
 Name="Crystal Maiden"
 Hotkey=
 Propernames=Rylai Crestfall
 Revivetip="Revive Crystal Maiden"
 Awakentip="Revive Crystal Maiden"
-Ubertip="Adept in the manipulation of frost and ice, Rylai is the very image of elegeance and grace. Trained by a renegade wizard deep in the heart of Winterspring, Rylai brings to the Sentinel her prowess in the arts of magic. With a vast arsenal of spells, she wreaks havoc upon her foes - be it with powerful blasts of frost to send them fleeing in panic, or be it by rendering them immobile in ice. Her foes tremble in fear as the ground beneath implodes in mighty novas of frost in a dazzling array, obliterating all who dare oppose her. |n|n|c000042ffStrength|r - 16 + 1.7|n|c000042ffAgility|r - 16 + 1.6|n|c00ff0303Intelligence|r - 16 + 2.9|n|nLearns Crystal Nova, Frostbite, Brilliance Aura, and |c00ff8000Freezing Field|r.|n|nAttack range of 600. |nMovement speed of 280."
+Ubertip="Adept in the manipulation of frost and ice, Rylai is the very image of elegeance and grace. Trained by a renegade wizard deep in the heart of Winterspring, Rylai brings to the Sentinel her prowess in the arts of magic. With a vast arsenal of spells, she wreaks havoc upon her foes - be it with powerful blasts of frost to send them fleeing in panic, or be it by rendering them immobile in ice. Her foes tremble in fear as the ground beneath implodes in mighty novas of frost in a dazzling array, obliterating all who dare oppose her.|n|n|c000042ffStrength|r - 16 + 1.7|n|c000042ffAgility|r - 16 + 1.6|n|c00ff0303Intelligence|r - 16 + 2.9|n|nLearns Crystal Nova, Frostbite, Brilliance Aura, and |c00ff8000Freezing Field|r.|n|nAttack range of 600.|nMovement speed of 280."
 Tip="Crystal Maiden"
 [Hmbr]
 Name="Lord of Olympus"
@@ -52,14 +52,14 @@ Revivetip="Revive Vengeful Spirit"
 Awakentip="Revive Vengeful Spirit"
 Tip="Vengeful Spirit"
 Description="Vengeful Spirit"
-Ubertip="Once a mighty warden and sister of Mortred, the maniacal laughter of her sibling and the chakram of hers covered in her own just drawn blood is a sight that even today still haunts Shendelzare. Hearing the laments of her loyal daughter, Elune decided to not forsake her, and she graced her with a new body along with the ability to harness powers from the nether-world and a fighting spirit only owned by those who have met death itself. Shendelzare now dedicates herself for vengeance, fearless of what could come at her, an avatar of the dreadful emotions within the soul of her former self. |n|n|c000042ffStrength|r - 18 + 2.6|n|c00ff0303Agility|r - 27 + 2.8|n|c000042ffIntelligence|r - 15 + 1.75|n|nLearns Magic Missile, Command Aura, Wave of Terror, and |c00ff8000Nether Swap|r.|n|nAttack range of 400.|nMovement speed of 295."
+Ubertip="Once a mighty warden and sister of Mortred, the maniacal laughter of her sibling and the chakram of hers covered in her own just drawn blood is a sight that even today still haunts Shendelzare. Hearing the laments of her loyal daughter, Elune decided to not forsake her, and she graced her with a new body along with the ability to harness powers from the nether-world and a fighting spirit only owned by those who have met death itself. Shendelzare now dedicates herself for vengeance, fearless of what could come at her, an avatar of the dreadful emotions within the soul of her former self.|n|n|c000042ffStrength|r - 18 + 2.6|n|c00ff0303Agility|r - 27 + 2.8|n|c000042ffIntelligence|r - 15 + 1.75|n|nLearns Magic Missile, Command Aura, Wave of Terror, and |c00ff8000Nether Swap|r.|n|nAttack range of 400.|nMovement speed of 295."
 [Hvsh]
 Name="Bloodseeker"
 Hotkey=
 Propernames=Strygwyr
 Revivetip="Revive Bloodseeker"
 Awakentip="Revive Bloodseeker"
-Ubertip="An unusual hybrid of Demon and Orc, Strygwyr is an outcast amongst all mortal creatures. By thriving on and bathing himself with the blood of those he slays, Strygwyr can heal his wounds - even those that could prove fatal. Beware the fool who dares venturing alone, for Strygwyr can sense his blood miles away and gain vision through his helpless prey's eyes. Having ruptured the enemy with mighty blows in his bloodthirsty frenzies, Strygwyr corners his foe into making the impossible decision - bleed to death by trying to outrun the hasty demon, or be ripped to shreds in its awesome fury. |n|n|c000042ffStrength|r - 23 + 2.0|n|c00ff0303Agility|r - 24 + 3.0|n|c000042ffIntelligence|r - 18 + 1.7|n|nLearns Bloodrage, Blood Bath, Strygwyr's Thirst and |c00ff8000Rupture|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Ubertip="An unusual hybrid of Demon and Orc, Strygwyr is an outcast amongst all mortal creatures. By thriving on and bathing himself with the blood of those he slays, Strygwyr can heal his wounds - even those that could prove fatal. Beware the fool who dares venturing alone, for Strygwyr can sense his blood miles away and gain vision through his helpless prey's eyes. Having ruptured the enemy with mighty blows in his bloodthirsty frenzies, Strygwyr corners his foe into making the impossible decision - bleed to death by trying to outrun the hasty demon, or be ripped to shreds in its awesome fury.|n|n|c000042ffStrength|r - 23 + 2.0|n|c00ff0303Agility|r - 24 + 3.0|n|c000042ffIntelligence|r - 18 + 1.7|n|nLearns Bloodrage, Blood Bath, Strygwyr's Thirst and |c00ff8000Rupture|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
 Tip="Bloodseeker"
 [Hlgr]
 Name="Dragon Knight"
@@ -67,7 +67,7 @@ Hotkey=
 Propernames=Knight Davion,Knight Davion,Knight Davion,Knight Davion,Knight Davion,Trogdor,Knight Davion
 Revivetip="Revive Dragon Knight"
 Awakentip="Revive Dragon Knight"
-Ubertip="Abandoned and forsaken as a child, the Half-bred Dragon Davion sought refuge from the evils of the world, and from the uncontrollable power growing within himself. His search led him to the doorstep of a mighty Druid, who taught him to tap into the massive energies that lay concealed in his blood - a tribute to his ancient Draconian heritage. A master swordsman, Davion smites his foes in his raging frenzy - transforming at will into an Elder Dragon of destructive fiery rage to crush all those that threaten to vanquish his new home. |n|n|c00ff0303Strength|r - 19 + 2.8|n|c000042ffAgility|r - 19 + 2.2|n|c000042ffIntelligence|r - 15 + 1.7|n|nLearns Breathe Fire, Dragon's Blood, Dragon Tail, and |c00ff8000Elder Dragon Form|r.|n|nAttack range of 128 (melee).|nMovement speed of 290."
+Ubertip="Abandoned and forsaken as a child, the Half-bred Dragon Davion sought refuge from the evils of the world, and from the uncontrollable power growing within himself. His search led him to the doorstep of a mighty Druid, who taught him to tap into the massive energies that lay concealed in his blood - a tribute to his ancient Draconian heritage. A master swordsman, Davion smites his foes in his raging frenzy - transforming at will into an Elder Dragon of destructive fiery rage to crush all those that threaten to vanquish his new home.|n|n|c00ff0303Strength|r - 19 + 2.8|n|c000042ffAgility|r - 19 + 2.2|n|c000042ffIntelligence|r - 15 + 1.7|n|nLearns Breathe Fire, Dragon's Blood, Dragon Tail, and |c00ff8000Elder Dragon Form|r.|n|nAttack range of 128 (melee).|nMovement speed of 290."
 Tip="Dragon Knight"
 [Hapm]
 Name=Paladin
@@ -75,14 +75,14 @@ Hotkey=L
 Propernames=Admiral Proudmoore
 Revivetip=Revive Pa|cffffcc00l|radin
 Awakentip=Revive Pa|cffffcc00l|radin
-Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection.|n|n|cffffcc00Attacks land units.|r"
 [Ogrh]
 Name="Phantom Lancer"
 Hotkey=
 Propernames=Azwraith
 Revivetip="Revive Phantom Lancer"
 Awakentip="Revive Phantom Lancer"
-Ubertip="Although his true name is unknown to his allies, Azwraith's assigned name tells you enough. Like the Angel of Death, Azrael, he fights to rid the world of those who choose to embrace undeath. He is able to appear and disappear at will like a wraith, often appearing in many places at once. Azwraith is more than capable of dispatching the undead using his lance, each blow sending them closer to the spirit-realm. This lance is the source of his astounding ability to duplicate himself, whenever it draws blood he can use their life to create weaker copies of himself. |n|n|c000042ffStrength|r - 18 + 1.7|n|c00ff0303Agility|r - 23 + 4.2|n|c000042ffIntelligence|r - 21 + 2.0|n|nLearns Juxtapose, Spirit Lance, Doppelwalk, and |c00ff8000Phantom Edge|r.|n|nAttack range of 128 (melee).|nMovement speed of 290."
+Ubertip="Although his true name is unknown to his allies, Azwraith's assigned name tells you enough. Like the Angel of Death, Azrael, he fights to rid the world of those who choose to embrace undeath. He is able to appear and disappear at will like a wraith, often appearing in many places at once. Azwraith is more than capable of dispatching the undead using his lance, each blow sending them closer to the spirit-realm. This lance is the source of his astounding ability to duplicate himself, whenever it draws blood he can use their life to create weaker copies of himself.|n|n|c000042ffStrength|r - 18 + 1.7|n|c00ff0303Agility|r - 23 + 4.2|n|c000042ffIntelligence|r - 21 + 2.0|n|nLearns Juxtapose, Spirit Lance, Doppelwalk, and |c00ff8000Phantom Edge|r.|n|nAttack range of 128 (melee).|nMovement speed of 290."
 Tip="Phantom Lancer"
 [Opgh]
 Name="Axe"
@@ -97,7 +97,7 @@ Name=Far Seer
 Propernames=Drek'Thar'
 Hotkey=F
 Tip=Summon |cffffcc00F|rar Seer
-Ubertip="Mystical Hero, effective at ranged attacks and scouting. Can learn Chain Lightning, Far Sight, Feral Spirit and Earthquake. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Mystical Hero, effective at ranged attacks and scouting. Can learn Chain Lightning, Far Sight, Feral Spirit and Earthquake.|n|n|cffffcc00Attacks land and air units.|r"
 Revivetip=Revive |cffffcc00F|rar Seer
 Awakentip=Revive |cffffcc00F|rar Seer
 [Orkn]
@@ -105,7 +105,7 @@ Name="Shadow Shaman"
 Propernames=Rhasta
 Hotkey=
 Tip="Shadow Shaman"
-Ubertip="Once a gifted troll witch doctor, young Rhasta was well versed with the secrets of voodoo magic. When the war between the Sentinel and the Scourge began, Rhasta, then a Shadow Hunter, offered his allegiance to the Sentinels to vanquish the Scourge once and for all. While he was gifted as a witch doctor, Rhasta is a genius as a shadow hunter, exceeding his master by mastering the art of summoning multiple serpent wards, binding enemies for a short time and casting elemental lightning to several units. |n|n|c000042ffStrength|r - 19 + 1.6|n|c000042ffAgility|r - 16 + 1.6|n|c00ff0303Intelligence|r - 21 + 3.0|n|nLearns Shackles, Voodoo, Ether Shock, and |c00ff8000Mass Serpent Ward|r.|n|nAttack range of 500.|nMovement speed of 285."
+Ubertip="Once a gifted troll witch doctor, young Rhasta was well versed with the secrets of voodoo magic. When the war between the Sentinel and the Scourge began, Rhasta, then a Shadow Hunter, offered his allegiance to the Sentinels to vanquish the Scourge once and for all. While he was gifted as a witch doctor, Rhasta is a genius as a shadow hunter, exceeding his master by mastering the art of summoning multiple serpent wards, binding enemies for a short time and casting elemental lightning to several units.|n|n|c000042ffStrength|r - 19 + 1.6|n|c000042ffAgility|r - 16 + 1.6|n|c00ff0303Intelligence|r - 21 + 3.0|n|nLearns Shackles, Voodoo, Ether Shock, and |c00ff8000Mass Serpent Ward|r.|n|nAttack range of 500.|nMovement speed of 285."
 Revivetip="Revive Shadow Shaman"
 Awakentip="Revive Shadow Shaman"
 [osp4]
@@ -113,17 +113,17 @@ Name=Serpent Ward
 [npn4]
 Name=Fire
 Tip=Summon |cffffcc00F|rire
-Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=F
 [npn5]
 Name="Storm Level 2"
 Tip=Summon S|cffffcc00t|rorm
-Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=T
 [npn6]
 Name=Earth
 Tip=Summon |cffffcc00E|rarth
-Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=E
 [Uktl]
 Name="Enigma"
@@ -131,7 +131,7 @@ Hotkey=
 Propernames=Darchrow
 Revivetip="Revive Enigma"
 Awakentip="Revive Enigma"
-Ubertip="The result of a collapsed star entombed within a field of elemental magic, Darchrow is one of the most dangerous beings in existence, consuming hundreds of worlds into the void of his hate and hunger. He is not above using his own allies as portals for his own servants to come through. Capable of manipulating both void and shadow in combat, his greatest pleasure is to release the oblivion within him upon the world, creating an abyss that draws enemies ever closer to destruction. |n|n|c000042ffStrength|r - 17 + 2.1|n|c000042ffAgility|r - 14 + 1.0|n|c00ff0303Intelligence|r - 20 + 3.4|n|nLearns Malefice, Demonic Conversion, Midnight Pulse, and |c00ff8000Black Hole|r.|n|nAttack range of 500.|nMovement speed of 300."
+Ubertip="The result of a collapsed star entombed within a field of elemental magic, Darchrow is one of the most dangerous beings in existence, consuming hundreds of worlds into the void of his hate and hunger. He is not above using his own allies as portals for his own servants to come through. Capable of manipulating both void and shadow in combat, his greatest pleasure is to release the oblivion within him upon the world, creating an abyss that draws enemies ever closer to destruction.|n|n|c000042ffStrength|r - 17 + 2.1|n|c000042ffAgility|r - 14 + 1.0|n|c00ff0303Intelligence|r - 20 + 3.4|n|nLearns Malefice, Demonic Conversion, Midnight Pulse, and |c00ff8000Black Hole|r.|n|nAttack range of 500.|nMovement speed of 300."
 Tip="Enigma"
 [Ubal]
 Name="Nerubian Weaver"
@@ -139,7 +139,7 @@ Hotkey=
 Propernames=Anub'seran
 Revivetip="Revive Nerubian Weaver"
 Awakentip="Revive Nerubian Weaver"
-Ubertip="Anub'seran. The name of this creature strikes fear into all of those who have seen the Nerubians. Even the famed assassin Anub'arak is hesitant to fight this beast, which comes from the plane of the spirit world. He can swiftly walk through his enemies, bending their bodies to his will, causing pain while he strides through them. With his powers over the timeless plane, he can also step inside and throw himself into the past to keep himself from death. He can call an attack from the future to strike his foes, making his onslaught more deadly. Anub'seran. Only the fools do not fear his name. |n|n|c000042ffStrength|r - 15 + 1.5|n|c00ff0303Agility|r - 14 + 2.5|n|c000042ffIntelligence|r - 15 + 1.8|n|nLearns The Swarm, Shukuchi, Geminate Attack, and |c00ff8000Time Lapse|r.|n|nAttack range of 425.|nMovement speed of 290."
+Ubertip="Anub'seran. The name of this creature strikes fear into all of those who have seen the Nerubians. Even the famed assassin Anub'arak is hesitant to fight this beast, which comes from the plane of the spirit world. He can swiftly walk through his enemies, bending their bodies to his will, causing pain while he strides through them. With his powers over the timeless plane, he can also step inside and throw himself into the past to keep himself from death. He can call an attack from the future to strike his foes, making his onslaught more deadly. Anub'seran. Only the fools do not fear his name.|n|n|c000042ffStrength|r - 15 + 1.5|n|c00ff0303Agility|r - 14 + 2.5|n|c000042ffIntelligence|r - 15 + 1.8|n|nLearns The Swarm, Shukuchi, Geminate Attack, and |c00ff8000Time Lapse|r.|n|nAttack range of 425.|nMovement speed of 290."
 Tip="Nerubian Weaver"
 [Usyl]
 Name="Dwarven Sniper"
@@ -148,7 +148,7 @@ Hotkey=
 Tip="Dwarven Sniper"
 Revivetip="Revive Dwarven Sniper"
 Awakentip="Revive Dwarven Sniper"
-Ubertip="Kardel Sharpeye is a testament to his name and race. Using only his finely honed skills of marksmanship and his trusty rifle, he sytematically destroys his opponents from afar. Taking great care to aim for the most vulnerable of areas, he is capable of severely injuring an opponent, and with a little extra time, has been known to simply dispose of an enemy in a single shot. His rifle is equipped with a secondary barrel, capable of launching a short burst of shrapnel at close range, causing massive damage. |n|n|c000042ffStrength|r - 16 + 1.7|n|c00ff0303Agility|r - 21 + 2.9|n|c000042ffIntelligence|r - 15 + 2.6|n|nLearns Take Aim, Headshot, Shrapnel, and |c00ff8000Assassinate|r.|n|nAttack range of 550.|nMovement speed of 290."
+Ubertip="Kardel Sharpeye is a testament to his name and race. Using only his finely honed skills of marksmanship and his trusty rifle, he sytematically destroys his opponents from afar. Taking great care to aim for the most vulnerable of areas, he is capable of severely injuring an opponent, and with a little extra time, has been known to simply dispose of an enemy in a single shot. His rifle is equipped with a secondary barrel, capable of launching a short burst of shrapnel at close range, causing massive damage.|n|n|c000042ffStrength|r - 16 + 1.7|n|c00ff0303Agility|r - 21 + 2.9|n|c000042ffIntelligence|r - 15 + 2.6|n|nLearns Take Aim, Headshot, Shrapnel, and |c00ff8000Assassinate|r.|n|nAttack range of 550.|nMovement speed of 290."
 Description="Dwarven Sniper"
 [Emns]
 Name="Prophet"
@@ -156,7 +156,7 @@ Hotkey=
 Propernames=Furion
 Revivetip="Revive Prophet"
 Awakentip="Revive Prophet"
-Ubertip="The land is never safe. Furion, therefore, never rests. The leader of all Night Elves, Furion tirelessly works to protect the sanctity of his woods. It comes as no surprise that he who helped defeat Archimonde would be called upon once more in the Sentinel's hour of need. The fury of nature is at his disposal, the trees come to life at his command, the wind carries him to lands far away, and nature itself strikes all who defy his will. He is more than just a Keeper or a Prophet, he is a savior. |n|n|c000042ffStrength|r - 19 + 1.8|n|c000042ffAgility|r - 18 + 1.9|n|c00ff0303Intelligence|r - 21 + 2.9|n|nLearns Sprout, Teleportation, Force of Nature, and |c00ff8000Wrath of Nature|r.|n|nAttack range of 600. |nMovement speed of 295."
+Ubertip="The land is never safe. Furion, therefore, never rests. The leader of all Night Elves, Furion tirelessly works to protect the sanctity of his woods. It comes as no surprise that he who helped defeat Archimonde would be called upon once more in the Sentinel's hour of need. The fury of nature is at his disposal, the trees come to life at his command, the wind carries him to lands far away, and nature itself strikes all who defy his will. He is more than just a Keeper or a Prophet, he is a savior.|n|n|c000042ffStrength|r - 19 + 1.8|n|c000042ffAgility|r - 18 + 1.9|n|c00ff0303Intelligence|r - 21 + 2.9|n|nLearns Sprout, Teleportation, Force of Nature, and |c00ff8000Wrath of Nature|r.|n|nAttack range of 600.|nMovement speed of 295."
 Tip="Prophet"
 [Eevi]
 Name="Soul Keeper"
@@ -194,7 +194,7 @@ Revivetip="Revive Bounty Hunter"
 Awakentip="Revive Bounty Hunter"
 Hotkey=
 Tip="Bounty Hunter"
-Ubertip="Gondar is a Draenei that is often called upon for his superior skills. Not much is known about his past, but his capabilities are extraordinary. Some believe he learned from a ninja clan while others say he was born with his amazing abilities. He is able to throw shurikens with extreme accuracy and has the strength to strike down any foe with his two swift blades. His agility is matched by none, and his stealth is inferior only to few. He is interested in the conflict for money alone, and is promised a large reward.|n|n|c000042ffStrength|r - 17 + 1.8|n|c00ff0303Agility|r - 21 + 3.0|n|c000042ffIntelligence|r - 19 + 1.4|n|nLearns Jinada, Wind Walk, Shuriken Toss, and |c00ff8000Track|r.|n|nAttack range of 128 (melee). |nMovement speed of 315."
+Ubertip="Gondar is a Draenei that is often called upon for his superior skills. Not much is known about his past, but his capabilities are extraordinary. Some believe he learned from a ninja clan while others say he was born with his amazing abilities. He is able to throw shurikens with extreme accuracy and has the strength to strike down any foe with his two swift blades. His agility is matched by none, and his stealth is inferior only to few. He is interested in the conflict for money alone, and is promised a large reward.|n|n|c000042ffStrength|r - 17 + 1.8|n|c00ff0303Agility|r - 21 + 3.0|n|c000042ffIntelligence|r - 19 + 1.4|n|nLearns Jinada, Wind Walk, Shuriken Toss, and |c00ff8000Track|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
 [EC57]
 Name="Venomancer"
 Hotkey=
@@ -210,7 +210,7 @@ Hotkey=
 Propernames=Jah'rakal
 Revivetip="Revive Troll Warlord"
 Awakentip="Revive Troll Warlord"
-Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world. |n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
+Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world.|n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
 Tip="Troll Warlord"
 Description="Troll Warlord"
 [NC00]
@@ -221,14 +221,14 @@ Awakentip="Revive Skeleton King"
 Hotkey=
 Tip="Skeleton King"
 Description="Skeleton King"
-Ubertip="Once a noble knight protecting his kingdom, the man was thrown into Hell, where he was ripped apart over and over for centuries. Now, Lucifer has thrown him back onto the soil, corrupted and mindless, as King Leoric, the Skeleton King. He marches on, leading his minions with an unfaltering gaze, knowing only one thing: the orders given to him by the dark lord himself. Able to cripple his opponents by drawing power from the fiery depths of hell itself, King Leoric is a major threat on the battlefield. His mighty blade allows him and others in his presence to drain the blood of their enemies. It is said that he is unkillable, and those who are struck down by his hellfire don't wake up again. |n|n|c00ff0303Strength|r - 22 + 2.9|n|c000042ffAgility|r - 18 + 1.7|n|c000042ffIntelligence|r - 18 + 1.6|n|nLearns Hellfire Blast, Mortal Strike, Vampiric Aura, and |c00ff8000Reincarnation|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Ubertip="Once a noble knight protecting his kingdom, the man was thrown into Hell, where he was ripped apart over and over for centuries. Now, Lucifer has thrown him back onto the soil, corrupted and mindless, as King Leoric, the Skeleton King. He marches on, leading his minions with an unfaltering gaze, knowing only one thing: the orders given to him by the dark lord himself. Able to cripple his opponents by drawing power from the fiery depths of hell itself, King Leoric is a major threat on the battlefield. His mighty blade allows him and others in his presence to drain the blood of their enemies. It is said that he is unkillable, and those who are struck down by his hellfire don't wake up again.|n|n|c00ff0303Strength|r - 22 + 2.9|n|c000042ffAgility|r - 18 + 1.7|n|c000042ffIntelligence|r - 18 + 1.6|n|nLearns Hellfire Blast, Mortal Strike, Vampiric Aura, and |c00ff8000Reincarnation|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
 [UC18]
 Name="Demon Witch"
 Hotkey=
 Propernames=Lion
 Revivetip="Revive Demon Witch"
 Awakentip="Revive Demon Witch"
-Ubertip="A renegade wizard who delved deeper in studying demonic arts, this old aged archmagus was sentenced to damnation by the Dalaran council. As a last resort of escaping death, he performed a forbidden ritual and sold his soul to Archimonde's bidding. Without trace of compassion and with a twisted mind, he seeks retribution to his comrades. He commands earth to stagger those who hinders his path with sharp spikes or siphons their will out. Never hesitating to transmogrify others to impunity nor doubtful of ripping his enemy inward out with his fatal touch, Lion like a predator loves doing it all over again.  |n|n|c000042ffStrength|r - 16 + 1.7|n|c000042ffAgility|r - 15 + 1.5|n|c00ff0303Intelligence|r - 22 + 3.0|n|nLearns Impale, Voodoo, Mana Drain, and |c00ff8000Finger of Death|r.|n|nAttack range of 600.|nMovement speed of 290."
+Ubertip="A renegade wizard who delved deeper in studying demonic arts, this old aged archmagus was sentenced to damnation by the Dalaran council. As a last resort of escaping death, he performed a forbidden ritual and sold his soul to Archimonde's bidding. Without trace of compassion and with a twisted mind, he seeks retribution to his comrades. He commands earth to stagger those who hinders his path with sharp spikes or siphons their will out. Never hesitating to transmogrify others to impunity nor doubtful of ripping his enemy inward out with his fatal touch, Lion like a predator loves doing it all over again.|n|n|c000042ffStrength|r - 16 + 1.7|n|c000042ffAgility|r - 15 + 1.5|n|c00ff0303Intelligence|r - 22 + 3.0|n|nLearns Impale, Voodoo, Mana Drain, and |c00ff8000Finger of Death|r.|n|nAttack range of 600.|nMovement speed of 290."
 Tip="Demon Witch"
 Description="Demon Witch"
 [N016]
@@ -237,7 +237,7 @@ Hotkey=
 Propernames=Jah'rakal
 Revivetip="Revive Troll Warlord"
 Awakentip="Revive Troll Warlord"
-Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world. |n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
+Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world.|n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
 Tip="Troll Warlord"
 Description="Troll Warlord"
 [o008]
@@ -245,7 +245,7 @@ Name=Serpent Ward
 [n011]
 Name=Fire
 Tip=Summon |cffffcc00F|rire
-Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=F
 [H00K]
 Name="Goblin Techies"
@@ -271,7 +271,7 @@ Hotkey=
 Propernames=Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Riki Martin
 Revivetip="Revive Stealth Assassin"
 Awakentip="Revive Stealth Assassin"
-Ubertip="Born as the heir to the satyr dominion, Rikimaru was trained by the mightiest warriors of his race. However, the power of the Burning Legion managed to corrupt many of his kind, leaving them as mindless beasts in the forest. Vowing revenge against the Scourge, he sharpened his skills for battle. Using his small size to his advantage, he can render himself invisible, enabling him to stab his enemies in the back.  He can also use thick smoke as a cover, to silence his enemies and become nearly untouchable. |n|n|c000042ffStrength|r - 17 + 2.0|n|c00ff0303Agility|r - 34 + 2.9|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Backstab, Blink Strike, Smoke Screen, and |c00ff8000Permanent Invisibility|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Ubertip="Born as the heir to the satyr dominion, Rikimaru was trained by the mightiest warriors of his race. However, the power of the Burning Legion managed to corrupt many of his kind, leaving them as mindless beasts in the forest. Vowing revenge against the Scourge, he sharpened his skills for battle. Using his small size to his advantage, he can render himself invisible, enabling him to stab his enemies in the back. He can also use thick smoke as a cover, to silence his enemies and become nearly untouchable.|n|n|c000042ffStrength|r - 17 + 2.0|n|c00ff0303Agility|r - 34 + 2.9|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Backstab, Blink Strike, Smoke Screen, and |c00ff8000Permanent Invisibility|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
 Tip="Stealth Assassin"
 Description="Stealth Assassin"
 [o009]
@@ -287,7 +287,7 @@ Name="Sena The Accessorizer"
 [n010]
 Name="Earth Level 3"
 Tip=Summon |cffffcc00E|rarth
-Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=E
 [H000]
 Name="Centaur Warchief"
@@ -295,7 +295,7 @@ Hotkey=
 Propernames=Bradwarden
 Revivetip="Revive Centaur Warchief"
 Awakentip="Revive Centaur Warchief"
-Ubertip="Gifted with a tremendous body and an ever-growing fortitude, Bradwarden's courage is only matched by the size of his heart. Prophesized as a savior by the oracles of his tribe, Bradwarden is the living token of the allegiance of the centaurs to the Sentinel. He swings his axe with massive force, sometimes even hurting himself when doing so. The ground trembles every time he slams his hoof and his reflexes are impossible to surpass; allowing him to retaliate just after being attacked. Bradwarden is decided to fulfill his destiny, and he knows that the upcoming battle will become his ultimate challenge.  |n|n|c00ff0303Strength|r - 23 + 3.8|n|c000042ffAgility|r - 15 + 2.0|n|c000042ffIntelligence|r - 15 + 1.6|n|nLearns Double Edge, Return, Hoof Stomp, and |c00ff8000Stampede|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Ubertip="Gifted with a tremendous body and an ever-growing fortitude, Bradwarden's courage is only matched by the size of his heart. Prophesized as a savior by the oracles of his tribe, Bradwarden is the living token of the allegiance of the centaurs to the Sentinel. He swings his axe with massive force, sometimes even hurting himself when doing so. The ground trembles every time he slams his hoof and his reflexes are impossible to surpass; allowing him to retaliate just after being attacked. Bradwarden is decided to fulfill his destiny, and he knows that the upcoming battle will become his ultimate challenge.|n|n|c00ff0303Strength|r - 23 + 3.8|n|c000042ffAgility|r - 15 + 2.0|n|c000042ffIntelligence|r - 15 + 1.6|n|nLearns Double Edge, Return, Hoof Stomp, and |c00ff8000Stampede|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
 Tip="Centaur Warchief"
 [O00P]
 Name="Morphling"
@@ -303,7 +303,7 @@ Hotkey=
 Propernames=Morphling
 Revivetip="Revive Morphling"
 Awakentip="Revive Morphling"
-Ubertip="The Morphling, nature's magnum opus, the pinnacle of evolution, can force his liquid body to flow over opponents in a massive wave, forcibly moving himself as well as injuring his enemies. At a whim he may change the composition of his body, trading strength for agility and vice versa. Capable of manipulating his energy into either disable or damage based on his strongest attribute, the Morphling's most disturbing ability creates a literal clone of a chosen target, forcing them to face their own reflection as he crushes them in their confusion. |n|n|c000042ffStrength|r - 19 + 2.0|n|c00ff0303Agility|r - 24 + 3.0|n|c000042ffIntelligence|r - 17 + 1.5|n|nLearns Waveform, Adaptive Strike, Morph, and |c00ff8000Replicate|r.|n|nAttack range of 350.|nMovement speed of 285."
+Ubertip="The Morphling, nature's magnum opus, the pinnacle of evolution, can force his liquid body to flow over opponents in a massive wave, forcibly moving himself as well as injuring his enemies. At a whim he may change the composition of his body, trading strength for agility and vice versa. Capable of manipulating his energy into either disable or damage based on his strongest attribute, the Morphling's most disturbing ability creates a literal clone of a chosen target, forcing them to face their own reflection as he crushes them in their confusion.|n|n|c000042ffStrength|r - 19 + 2.0|n|c00ff0303Agility|r - 24 + 3.0|n|c000042ffIntelligence|r - 17 + 1.5|n|nLearns Waveform, Adaptive Strike, Morph, and |c00ff8000Replicate|r.|n|nAttack range of 350.|nMovement speed of 285."
 Tip="Morphling"
 Description="Morphling"
 [UC11]
@@ -321,7 +321,7 @@ Hotkey=
 Propernames=Visage
 Revivetip="Revive Necro'lic"
 Awakentip="Revive Necro'lic"
-Ubertip="A terrifying spirit created by uniting a thousand of souls of the warriors fell in the War of the Magi; Visage roams this world with never-ending thirst for souls. This restless ghost consumes the essence of the enemies he slays, and the death moan of his victims is what he enjoys the most. The weakening power of his wrath puts even the greatest warriors in misery, and the sight of sky filled with Visage and his undead minions is unimaginable. He is a nightmare in its worst, most sickening form, a true living horror, the Necro'lic.  |n|n|c000042ffStrength|r - 22 + 2.4|n|c000042ffAgility|r - 11 + 1.3|n|c00ff0303Intelligence|r - 24 + 2.5|n|nLearns Grave Chill, Gravekeeper's Cloak, Soul Assumption and |c00ff8000Summon Familiars|r.|n|nAttack range of 600.|nMovement speed of 285."
+Ubertip="A terrifying spirit created by uniting a thousand of souls of the warriors fell in the War of the Magi; Visage roams this world with never-ending thirst for souls. This restless ghost consumes the essence of the enemies he slays, and the death moan of his victims is what he enjoys the most. The weakening power of his wrath puts even the greatest warriors in misery, and the sight of sky filled with Visage and his undead minions is unimaginable. He is a nightmare in its worst, most sickening form, a true living horror, the Necro'lic.|n|n|c000042ffStrength|r - 22 + 2.4|n|c000042ffAgility|r - 11 + 1.3|n|c00ff0303Intelligence|r - 24 + 2.5|n|nLearns Grave Chill, Gravekeeper's Cloak, Soul Assumption and |c00ff8000Summon Familiars|r.|n|nAttack range of 600.|nMovement speed of 285."
 Tip="Necro'lic"
 Description="Necro'lic"
 [E015]
@@ -330,7 +330,7 @@ Hotkey=D
 Propernames=Banehallow
 Revivetip="Revive L|cffffcc00y|rcanthrope"
 Awakentip="Revive L|cffffcc00y|rcanthrope"
-Ubertip="Banehallow is an avatar of bestial fury created by the scourge. For years he has dwelled in the dark forests of the world, hunting innocents that wander therein. Now he is called to aid his masters. He revels in blood and battle, using his wolfish persona to draw the feral beasts to his side and imbue his allies with his flesh-shredding strength. He is also unnaturally quick and agile. Some say he can even transform into a giant wolf, giving him more durability and the speed to gouge and maim with near impunity. |n|n|c00ff0303Strength|r - 22 + 2.75|n|c000042ffAgility|r - 16 + 1.9|n|c000042ffIntelligence|r - 15 + 1.55|n|nLearns Feral Heart, Howl, Summon Wolves, and |c00ff8000Shapeshift|r.|n|nAttack range of 100 (melee).|nMovement speed of 295."
+Ubertip="Banehallow is an avatar of bestial fury created by the scourge. For years he has dwelled in the dark forests of the world, hunting innocents that wander therein. Now he is called to aid his masters. He revels in blood and battle, using his wolfish persona to draw the feral beasts to his side and imbue his allies with his flesh-shredding strength. He is also unnaturally quick and agile. Some say he can even transform into a giant wolf, giving him more durability and the speed to gouge and maim with near impunity.|n|n|c00ff0303Strength|r - 22 + 2.75|n|c000042ffAgility|r - 16 + 1.9|n|c000042ffIntelligence|r - 15 + 1.55|n|nLearns Feral Heart, Howl, Summon Wolves, and |c00ff8000Shapeshift|r.|n|nAttack range of 100 (melee).|nMovement speed of 295."
 Tip="Summon L|cffffcc00y|rcanthrope"
 [H00H]
 Name="Oblivion"
@@ -351,7 +351,7 @@ Hotkey=
 Propernames=Krobelus
 Revivetip="Revive Death Prophet"
 Awakentip="Revive Death Prophet"
-Ubertip="Krobelus spent her living days as a fervent member of a cult of Death Sayers. Her belief in the ways of death and the perfect harmony it brings has given her dead spirit a chance to wreak havoc among the chaotic living. She uses her abilities to call upon carnivorous bats and long dead spirits to lay to rest all who still pump blood through their veins. She augments her powers through the use of witchcraft, and she is able to make opponents gape in fear, losing the focus needed to cast spells. She is devoted to death in all it's aspects, and would see all turned to ash. |n|n|c000042ffStrength|r - 19 + 2.2|n|c000042ffAgility|r - 14 + 1.4|n|c00ff0303Intelligence|r - 20 + 3.0|n|nLearns Witchcraft, Carrion Swarm, Silence, and |c00ff8000Exorcism|r.|n|nAttack range of 600.|nMovement speed of 280."
+Ubertip="Krobelus spent her living days as a fervent member of a cult of Death Sayers. Her belief in the ways of death and the perfect harmony it brings has given her dead spirit a chance to wreak havoc among the chaotic living. She uses her abilities to call upon carnivorous bats and long dead spirits to lay to rest all who still pump blood through their veins. She augments her powers through the use of witchcraft, and she is able to make opponents gape in fear, losing the focus needed to cast spells. She is devoted to death in all it's aspects, and would see all turned to ash.|n|n|c000042ffStrength|r - 19 + 2.2|n|c000042ffAgility|r - 14 + 1.4|n|c00ff0303Intelligence|r - 20 + 3.0|n|nLearns Witchcraft, Carrion Swarm, Silence, and |c00ff8000Exorcism|r.|n|nAttack range of 600.|nMovement speed of 280."
 Tip="Death Prophet"
 Description="Death Prophet"
 [n018]
@@ -359,7 +359,7 @@ Name="Spirit Bear"
 [n012]
 Name="Storm Level 3"
 Tip=Summon S|cffffcc00t|rorm
-Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=T
 [E005]
 Name="Moon Rider"
@@ -367,7 +367,7 @@ Hotkey=
 Propernames=Luna Moonfang
 Revivetip="Revive Moon Rider"
 Awakentip="Revive Moon Rider"
-Ubertip="Luna Moonfang is a stalwart and devout follower of the Moon Goddess, Elune. She fights alongside the Sentinel in the neverending battle to cleanse the land of the unholy Scourge. Through her valiant efforts, she has been granted small portions of Elune's mystical power. Luna uses this gift to cut a swath through her enemies. It has been said that Luna is able to call down the very light of the moon, and is always surrounded by a glowing aura, as though in moonlight herself. Luna is a shining beacon for the Sentinel, an ever vigilant protector. |n|n|c000042ffStrength|r - 15 + 1.9|n|c00ff0303Agility|r - 18 + 2.8|n|c000042ffIntelligence|r - 16 + 1.85|n|nLearns Lunar Blessing, Lucent Beam, Moon Glaive, and |c00ff8000Eclipse|r.|n|nAttack range of 330.|nMovement speed of 330."
+Ubertip="Luna Moonfang is a stalwart and devout follower of the Moon Goddess, Elune. She fights alongside the Sentinel in the neverending battle to cleanse the land of the unholy Scourge. Through her valiant efforts, she has been granted small portions of Elune's mystical power. Luna uses this gift to cut a swath through her enemies. It has been said that Luna is able to call down the very light of the moon, and is always surrounded by a glowing aura, as though in moonlight herself. Luna is a shining beacon for the Sentinel, an ever vigilant protector.|n|n|c000042ffStrength|r - 15 + 1.9|n|c00ff0303Agility|r - 18 + 2.8|n|c000042ffIntelligence|r - 16 + 1.85|n|nLearns Lunar Blessing, Lucent Beam, Moon Glaive, and |c00ff8000Eclipse|r.|n|nAttack range of 330.|nMovement speed of 330."
 Tip="Moon Rider"
 Description="Moon Rider"
 [H001]
@@ -376,7 +376,7 @@ Hotkey=
 Propernames=Sven
 Revivetip="Revive Rogue Knight"
 Awakentip="Revive Rogue Knight"
-Ubertip="A follower of the great God of Order, Paladine, Sven has sworn to uphold the rights of all. Born of a Knight and a Night Elf and ostracized since birth, Sven has lead a solitary existence of meditation and training. He has come out of his wanderings determined to guard the innocent against evil.  Armed with his blessed cleaving blade Justice, and harnessing the power to strike down his enemies with the might of God's Strength, Sven's wrath toward the unjust is a sight to behold.|n|n|c00ff0303Strength|r - 23 + 2.7|n|c000042ffAgility|r - 21 + 2.0|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Storm Bolt, Great Cleave, Warcry, and |c00ff8000God's Strength|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
+Ubertip="A follower of the great God of Order, Paladine, Sven has sworn to uphold the rights of all. Born of a Knight and a Night Elf and ostracized since birth, Sven has lead a solitary existence of meditation and training. He has come out of his wanderings determined to guard the innocent against evil. Armed with his blessed cleaving blade Justice, and harnessing the power to strike down his enemies with the might of God's Strength, Sven's wrath toward the unjust is a sight to behold.|n|n|c00ff0303Strength|r - 23 + 2.7|n|c000042ffAgility|r - 21 + 2.0|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Storm Bolt, Great Cleave, Warcry, and |c00ff8000God's Strength|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
 Tip="Rogue Knight"
 Description="Rogue Knight"
 [H00V]
@@ -385,7 +385,7 @@ Hotkey=
 Propernames=Medusa
 Revivetip="Revive Medusa"
 Awakentip="Revive Medusa"
-Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path.|n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
 Tip="Medusa"
 Description="Gorgon"
 [N01A]
@@ -394,7 +394,7 @@ Hotkey=
 Propernames=Nortrom
 Revivetip="Revive Silencer"
 Awakentip="Revive Silencer"
-Ubertip="Hailing from the magical community of Quel'Thalas, Nortrom is one of the strongest Elven warriors defending the integrity of the lands. Mastering the ancient art of glaive-throwing, and combining it with the volatile nature of the Blood Elves' arcane magic, he is able to disrupt the magical energies in his enemies. By binding his magical powers to his glaive, he is able to cause damage beyond devastation, gaining intelligence from every kill. Concentrating all his energies, he can cause chaos within his enemies' magical pools, making them unable to cast spells. He is determined to fend off the Scourge and their demon magic until he has breathed his last. |n|n|c000042ffStrength|r - 17 + 2.2|n|c000042ffAgility|r - 16 + 3|n|c00ff0303Intelligence|r - 27 + 2.5|n|nLearns Curse of the Silent, Glaives of Wisdom, Last Word and |c00ff8000Global Silence|r.|n|nAttack range of 600.|nMovement speed of 300."
+Ubertip="Hailing from the magical community of Quel'Thalas, Nortrom is one of the strongest Elven warriors defending the integrity of the lands. Mastering the ancient art of glaive-throwing, and combining it with the volatile nature of the Blood Elves' arcane magic, he is able to disrupt the magical energies in his enemies. By binding his magical powers to his glaive, he is able to cause damage beyond devastation, gaining intelligence from every kill. Concentrating all his energies, he can cause chaos within his enemies' magical pools, making them unable to cast spells. He is determined to fend off the Scourge and their demon magic until he has breathed his last.|n|n|c000042ffStrength|r - 17 + 2.2|n|c000042ffAgility|r - 16 + 3|n|c00ff0303Intelligence|r - 27 + 2.5|n|nLearns Curse of the Silent, Glaives of Wisdom, Last Word and |c00ff8000Global Silence|r.|n|nAttack range of 600.|nMovement speed of 300."
 Tip="Silencer"
 Description="Silencer"
 [H004]
@@ -403,7 +403,7 @@ Hotkey=
 Propernames=Lina Inverse
 Revivetip="Revive Slayer"
 Awakentip="Revive Slayer"
-Ubertip="A renowned pyromancer roaming the lands, Lina Inverse originally joined the Sentinel for monetary purposes. However, weeks turned into months, and fighting alongside the many holy warriors with fearless souls inspired her with the responsibility of protecting the sanctity of the World Tree. With her devastating abilities to summon vaporizing flames, she wreaks havoc among the enemy ranks. In dire situations, she would imbue herself with an ultimate fervor, or even call forth a massive beam of lightning which is said to instantly slay any single foe. A most feared enemy of the Scourge, a most unswerving defender of the Sentinel. |n|n|c000042ffStrength|r - 18 + 1.5|n|c000042ffAgility|r - 16 + 1.5|n|c00ff0303Intelligence|r - 27 + 3.2|n|nLearns Dragon Slave, Light Strike Array, Fiery Soul, and |c00ff8000Laguna Blade|r.|n|nAttack range of 670.|nMovement speed of 295."
+Ubertip="A renowned pyromancer roaming the lands, Lina Inverse originally joined the Sentinel for monetary purposes. However, weeks turned into months, and fighting alongside the many holy warriors with fearless souls inspired her with the responsibility of protecting the sanctity of the World Tree. With her devastating abilities to summon vaporizing flames, she wreaks havoc among the enemy ranks. In dire situations, she would imbue herself with an ultimate fervor, or even call forth a massive beam of lightning which is said to instantly slay any single foe. A most feared enemy of the Scourge, a most unswerving defender of the Sentinel.|n|n|c000042ffStrength|r - 18 + 1.5|n|c000042ffAgility|r - 16 + 1.5|n|c00ff0303Intelligence|r - 27 + 3.2|n|nLearns Dragon Slave, Light Strike Array, Fiery Soul, and |c00ff8000Laguna Blade|r.|n|nAttack range of 670.|nMovement speed of 295."
 Tip="Slayer"
 Description="Slayer"
 [nC35]
@@ -415,7 +415,7 @@ Ubertip=""
 Name="Holy Knight"
 Hotkey=
 Propernames=Jackie Chen,Chen,Chen,Chen,Chen,Chen,Chen,Chechen
-Ubertip="Prophesying a new dawn, a new world cleansed of the old evils, the Holy Knight's entrance into the war against the Scourge forever changed the course of history. A crusader riding under the banner of Hextar, the Holy Knight promises ever-lasting glory and redemption for those who march with him, and obstacles ahead to test the faith of all those sworn to forever cleanse evil from the land. Fanatically devoted to his cause, his followers come from every race, every background, and will stop at nothing to see the Scourge destroyed. If ever the redeeming hand of God touched earth, its name was Chen, the Holy Knight. |n|n|c000042ffStrength|r - 20 + 1.5|n|c000042ffAgility|r - 15 + 2.1|n|c00ff0303Intelligence|r - 21 + 2.8|n|nLearns Penitence, Test of Faith, Holy Persuasion and |c00ff8000Hand of God|r.|n|nAttack range of 600.|nMovement speed of 300."
+Ubertip="Prophesying a new dawn, a new world cleansed of the old evils, the Holy Knight's entrance into the war against the Scourge forever changed the course of history. A crusader riding under the banner of Hextar, the Holy Knight promises ever-lasting glory and redemption for those who march with him, and obstacles ahead to test the faith of all those sworn to forever cleanse evil from the land. Fanatically devoted to his cause, his followers come from every race, every background, and will stop at nothing to see the Scourge destroyed. If ever the redeeming hand of God touched earth, its name was Chen, the Holy Knight.|n|n|c000042ffStrength|r - 20 + 1.5|n|c000042ffAgility|r - 15 + 2.1|n|c00ff0303Intelligence|r - 21 + 2.8|n|nLearns Penitence, Test of Faith, Holy Persuasion and |c00ff8000Hand of God|r.|n|nAttack range of 600.|nMovement speed of 300."
 Revivetip="Revive Holy Knight"
 Awakentip="Revive Holy Knight"
 Tip="Holy Knight"
@@ -443,7 +443,7 @@ Hotkey=
 Propernames=Harbinger
 Revivetip="Revive Obsidian Destroyer"
 Awakentip="Revive Obsidian Destroyer"
-Ubertip="An obsidian construct brought to life through the ill conceived necromancy of the Lich King, Harbinger craves magic to make up for the emptiness brought on by the incomplete nature of its summoning.  Ironically however, to devour the magic that it so desires, Harbinger must tap into his own pool of mana time and time again, expending to the point where it ends up with even less than it began with.  Yet despite this, the Obsidian Destroyer is a proud servant of the Undead Scourge, and takes great pleasure in annihilating the foolish Sentinels it encounters through psionic exploitation.  |n|n|c000042ffStrength|r - 19 + 1.85|n|c000042ffAgility|r - 24 + 2.0|n|c00ff0303Intelligence|r - 26 + 3.3|n|nLearns Arcane Orb, Astral Imprisonment, Essence Aura and |c00ff8000Sanity's Eclipse|r.|n|nAttack range of 450.|nMovement speed of 315."
+Ubertip="An obsidian construct brought to life through the ill conceived necromancy of the Lich King, Harbinger craves magic to make up for the emptiness brought on by the incomplete nature of its summoning. Ironically however, to devour the magic that it so desires, Harbinger must tap into his own pool of mana time and time again, expending to the point where it ends up with even less than it began with. Yet despite this, the Obsidian Destroyer is a proud servant of the Undead Scourge, and takes great pleasure in annihilating the foolish Sentinels it encounters through psionic exploitation.|n|n|c000042ffStrength|r - 19 + 1.85|n|c000042ffAgility|r - 24 + 2.0|n|c00ff0303Intelligence|r - 26 + 3.3|n|nLearns Arcane Orb, Astral Imprisonment, Essence Aura and |c00ff8000Sanity's Eclipse|r.|n|nAttack range of 450.|nMovement speed of 315."
 Tip="Obsidian Destroyer"
 Description="Obsidian Destroyer"
 [N01W]
@@ -452,7 +452,7 @@ Hotkey=
 Propernames=Dazzle
 Revivetip="Revive Shadow Priest"
 Awakentip="Revive Shadow Priest"
-Ubertip="Little is known to the Shadowtooth Clan, likely because this group of shadowy trolls never unveil the secrets of their mystifying sacrament. Nevertheless, the Loa they worship is much more powerful than most elementals, thus their favors must be kept in confidentiality. In return, these Primal Gods granted these trolls the power over paralyzing toxins, life-bending voodoo, and even endowment of life beyond the grave. A living eternity of death and misery, Dazzle now marches within the ranks of the undead, announcing the apocalypse of the Scourge that may lead them to much anticipated ascendancy. |n|n|c000042ffStrength|r - 16 + 1.85|n|c000042ffAgility|r - 21 + 1.7|n|c00ff0303Intelligence|r - 27 + 3.4|n|nLearns Poison Touch, Shallow Grave, Shadow Wave, and |c00ff8000Weave|r.|n|nAttack range of 500.|nMovement speed of 305."
+Ubertip="Little is known to the Shadowtooth Clan, likely because this group of shadowy trolls never unveil the secrets of their mystifying sacrament. Nevertheless, the Loa they worship is much more powerful than most elementals, thus their favors must be kept in confidentiality. In return, these Primal Gods granted these trolls the power over paralyzing toxins, life-bending voodoo, and even endowment of life beyond the grave. A living eternity of death and misery, Dazzle now marches within the ranks of the undead, announcing the apocalypse of the Scourge that may lead them to much anticipated ascendancy.|n|n|c000042ffStrength|r - 16 + 1.85|n|c000042ffAgility|r - 21 + 1.7|n|c00ff0303Intelligence|r - 27 + 3.4|n|nLearns Poison Touch, Shallow Grave, Shadow Wave, and |c00ff8000Weave|r.|n|nAttack range of 500.|nMovement speed of 305."
 Tip="Shadow Priest"
 Description="Shadow Priest"
 [N02B]
@@ -461,14 +461,14 @@ Hotkey=
 Propernames=Jah'rakal
 Revivetip="Revive Troll Warlord"
 Awakentip="Revive Troll Warlord"
-Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world. |n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
+Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world.|n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
 Tip="Troll Warlord"
 Description="Troll Warlord"
 [H00S]
 Name="Storm Spirit"
 Hotkey=
 Propernames=Raijin Thunderkeg
-Ubertip="A celestial being summoned to aid the Sentinel in their darkest hour; the Storm Spirit chose to manifest itself in the life essence of a humble elementalist, Raijin Thunderkeg. Though the Pandaren's soul perished during the profound surge of pure electrical essence, the divine entity even now seeks refuge in Raijin's body, unable to thrive on its own. However, despite its mortal imprisonment, the Storm Spirit is far from being limited of its tremendous powers. Able of manipulating vast, inexhaustible sources of energy in mysterious ways, it swiftly hails destructive sparks of lightning upon the Sentinel's adversaries, eradicating all that dared to cross its path.  |n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 22 + 1.8|n|c00ff0303Intelligence|r - 23 + 2.6|n|nLearns Static Remnant, Electric Vortex, Overload, and |c00ff8000Ball Lightning|r.|n|nAttack range of 480.|nMovement speed of 290."
+Ubertip="A celestial being summoned to aid the Sentinel in their darkest hour; the Storm Spirit chose to manifest itself in the life essence of a humble elementalist, Raijin Thunderkeg. Though the Pandaren's soul perished during the profound surge of pure electrical essence, the divine entity even now seeks refuge in Raijin's body, unable to thrive on its own. However, despite its mortal imprisonment, the Storm Spirit is far from being limited of its tremendous powers. Able of manipulating vast, inexhaustible sources of energy in mysterious ways, it swiftly hails destructive sparks of lightning upon the Sentinel's adversaries, eradicating all that dared to cross its path.|n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 22 + 1.8|n|c00ff0303Intelligence|r - 23 + 2.6|n|nLearns Static Remnant, Electric Vortex, Overload, and |c00ff8000Ball Lightning|r.|n|nAttack range of 480.|nMovement speed of 290."
 Revivetip="Revive Storm Spirit"
 Awakentip="Revive Storm Spirit"
 Tip="Storm Spirit"
@@ -478,7 +478,7 @@ Hotkey=
 Propernames=Rattletrap
 Revivetip="Revive Clockwerk Goblin"
 Awakentip="Revive Clockwerk Goblin"
-Ubertip="The by-product of Goblin technological weapon research during the old War, Rattletrap the Clockwerk Goblin was shut away into storage for countless decades until the Sentinel found and reactivated him. Combat-wise, this goblin's capabilities know few bounds; his body is stocked with a huge array of armaments that destroy targets both near and far with ease. His trademark wrench can even extend itself like a grappling hook, allowing him to pick off individual targets with pin-point accuracy. |n|n|c00ff0303Strength|r - 24 + 2.7|n|c000042ffAgility|r - 13 + 2.3|n|c000042ffIntelligence|r - 17 + 1.3|n|nLearns Battery Assault, Power Cog, Rocket Flare, and |c00ff8000Hookshot|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
+Ubertip="The by-product of Goblin technological weapon research during the old War, Rattletrap the Clockwerk Goblin was shut away into storage for countless decades until the Sentinel found and reactivated him. Combat-wise, this goblin's capabilities know few bounds; his body is stocked with a huge array of armaments that destroy targets both near and far with ease. His trademark wrench can even extend itself like a grappling hook, allowing him to pick off individual targets with pin-point accuracy.|n|n|c00ff0303Strength|r - 24 + 2.7|n|c000042ffAgility|r - 13 + 2.3|n|c000042ffIntelligence|r - 17 + 1.3|n|nLearns Battery Assault, Power Cog, Rocket Flare, and |c00ff8000Hookshot|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
 Tip="Clockwerk Goblin"
 Description="Clockwerk Goblin"
 [n02C]
@@ -2656,7 +2656,7 @@ Hotkey=
 Propernames=Daelin Proudmoore,Daelin Proudmoore,Kunkka,CoCo,Daelin Proudmoore,Captain Obvious,Kunkka,Kunkka,Daelin Proudmoore
 Revivetip="Revive Admiral"
 Awakentip="Revive Admiral"
-Ubertip="Of all the allies in the Sentinel's ranks, only one, is known by as many names and is feared in as many lands. Called Capt. CoCo by his mates, Jacksparrow by others, The Legendary Mariner by some. but only a select few, know his real name and what it stands for. He can harness the powers of the depths to conjure torrential geysers that blast his enemies into the air. His elegant blade is sworn to the Seas and with each mighty swing it ebbs like the tides. Using a watery form of spacial magic, he can bring you back to your original destination. The Captain now sails towards the Scourge lands, aboard his Phantom vessel boosting the spirits of his comrades with his fabled Rum, paving the way for the victory of the Sentinel. He is Kunkka, Master and Commander of the seven seas. |n|n|c00ff0303Strength|r - 24 + 3.0|n|c000042ffAgility|r - 14 + 1.3|n|c000042ffIntelligence|r - 18 + 1.5|n|nLearns Torrent, Tidebringer, X Marks The Spot, and |c00ff8000Ghost Ship|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Ubertip="Of all the allies in the Sentinel's ranks, only one, is known by as many names and is feared in as many lands. Called Capt. CoCo by his mates, Jacksparrow by others, The Legendary Mariner by some. but only a select few, know his real name and what it stands for. He can harness the powers of the depths to conjure torrential geysers that blast his enemies into the air. His elegant blade is sworn to the Seas and with each mighty swing it ebbs like the tides. Using a watery form of spacial magic, he can bring you back to your original destination. The Captain now sails towards the Scourge lands, aboard his Phantom vessel boosting the spirits of his comrades with his fabled Rum, paving the way for the victory of the Sentinel. He is Kunkka, Master and Commander of the seven seas.|n|n|c00ff0303Strength|r - 24 + 3.0|n|c000042ffAgility|r - 14 + 1.3|n|c000042ffIntelligence|r - 18 + 1.5|n|nLearns Torrent, Tidebringer, X Marks The Spot, and |c00ff8000Ghost Ship|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
 Tip="Admiral"
 Description="Admiral"
 [n0EE]
@@ -2670,7 +2670,7 @@ Hotkey=
 Propernames=Slark
 Revivetip="Revive Murloc Nightcrawler"
 Awakentip="Revive Murloc Nightcrawler"
-Ubertip="In the deepest, blackest pits of the ocean a fearsome and terrifying creature lurks. Bending the shadows to his will, few have seen his true form and none have lived to speak of it. For the shadows are his sanctuary, a place of empowerment and revitalisation. Bathed in this inpenetrable darkness he strikes unseen, every attack making him swifter and more powerful whilst weakening his enemy. An unbreakable leash awaits all who try to escape, leaving them at mercy of this horrifying phantom. By sacrificing a fraction of his soul, his pact with darkness allows him break even the most powerful bonds and curses. |n|nWith echoes of the Great War reaching every corner of the earth, this creature, known only as Slark, has emerged from the depths to search for an ancient relic... |n|n|c000042ffStrength|r - 21 + 1.8|n|c00ff0303Agility|r - 21 + 1.5|n|c000042ffIntelligence|r - 16 + 1.9|n|nLearns Dark Pact, Pounce, Essence Shift, and |c00ff8000Shadow Dance|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Ubertip="In the deepest, blackest pits of the ocean a fearsome and terrifying creature lurks. Bending the shadows to his will, few have seen his true form and none have lived to speak of it. For the shadows are his sanctuary, a place of empowerment and revitalisation. Bathed in this inpenetrable darkness he strikes unseen, every attack making him swifter and more powerful whilst weakening his enemy. An unbreakable leash awaits all who try to escape, leaving them at mercy of this horrifying phantom. By sacrificing a fraction of his soul, his pact with darkness allows him break even the most powerful bonds and curses.|n|nWith echoes of the Great War reaching every corner of the earth, this creature, known only as Slark, has emerged from the depths to search for an ancient relic...|n|n|c000042ffStrength|r - 21 + 1.8|n|c00ff0303Agility|r - 21 + 1.5|n|c000042ffIntelligence|r - 16 + 1.9|n|nLearns Dark Pact, Pounce, Essence Shift, and |c00ff8000Shadow Dance|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
 Tip="Murloc Nightcrawler"
 Description="Murloc Nightcrawler"
 [n0EF]
@@ -3019,7 +3019,7 @@ Hotkey=
 Propernames=Medusa
 Revivetip="Revive Medusa"
 Awakentip="Revive Medusa"
-Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path.|n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
 Tip="Medusa"
 Description="Gorgon"
 [n0GR]
@@ -3065,17 +3065,17 @@ Ubertip=""
 [n0GZ]
 Name="Earth Level 4"
 Tip=Summon |cffffcc00E|rarth
-Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=E
 [n0H0]
 Name=Fire
 Tip=Summon |cffffcc00F|rire
-Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin.|n|n|cffffcc00Attacks land units.|r"
 Hotkey=F
 [n0H1]
 Name="Storm Level 4"
 Tip=Summon S|cffffcc00t|rorm
-Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk.|n|n|cffffcc00Attacks land and air units.|r"
 Hotkey=T
 [n0H2]
 Name="Your turn to ban 1 hero"
@@ -3138,7 +3138,7 @@ Hotkey=
 Propernames=Medusa
 Revivetip="Revive Medusa"
 Awakentip="Revive Medusa"
-Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path.|n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
 Tip="Medusa"
 Description="Gorgon"
 [H08C]
@@ -3147,7 +3147,7 @@ Hotkey=
 Propernames=Medusa
 Revivetip="Revive Medusa"
 Awakentip="Revive Medusa"
-Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path.|n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
 Tip="Medusa"
 Description="Gorgon"
 [H08D]
@@ -3156,7 +3156,7 @@ Hotkey=
 Propernames=Medusa
 Revivetip="Revive Medusa"
 Awakentip="Revive Medusa"
-Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path.|n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
 Tip="Medusa"
 Description="Gorgon"
 [n0HD]
@@ -3751,7 +3751,7 @@ Hotkey=
 Propernames=Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Santelmo,Weird Ball
 Revivetip="Revive Guardian Wisp"
 Awakentip="Revive Guardian Wisp"
-Ubertip="Originally nothing more than a lowly spirit of the trees, Io dwelt peacefully amongst his kind in the Great Forest. As the Great War spread across the land the creatures of the forest were forced to defend their home. The desire to protect his kin awoke power in Io he had not known he possessed. He discovered he was able to connect his life force to another creature to strengthen them or help them flee by instantly transporting them out of harm. Io became known amongst his people as the Guardian Wisp, a protector of the Spirits. All other spirits swore to assist him and can be summoned to his side to aid him in his battle. Uninterested in the battle between the Sentinel and the Scourge, Io fights only to protect his people.  |n|n|c00ff0303Strength|r - 17 + 1.9|n|c000042ffAgility|r - 14 + 1.6|n|c000042ffIntelligence|r - 23 + 1.7|n|nLearns Tether, Spirits, Overcharge, and |c00ff8000Relocate|r.|n|nAttack range of 575.|nMovement speed of 295."
+Ubertip="Originally nothing more than a lowly spirit of the trees, Io dwelt peacefully amongst his kind in the Great Forest. As the Great War spread across the land the creatures of the forest were forced to defend their home. The desire to protect his kin awoke power in Io he had not known he possessed. He discovered he was able to connect his life force to another creature to strengthen them or help them flee by instantly transporting them out of harm. Io became known amongst his people as the Guardian Wisp, a protector of the Spirits. All other spirits swore to assist him and can be summoned to his side to aid him in his battle. Uninterested in the battle between the Sentinel and the Scourge, Io fights only to protect his people.|n|n|c00ff0303Strength|r - 17 + 1.9|n|c000042ffAgility|r - 14 + 1.6|n|c000042ffIntelligence|r - 23 + 1.7|n|nLearns Tether, Spirits, Overcharge, and |c00ff8000Relocate|r.|n|nAttack range of 575.|nMovement speed of 295."
 Tip="Guardian Wisp"
 Description="Guardian Wisp"
 [n0KS]
@@ -3846,7 +3846,7 @@ Hotkey=
 Propernames=Sven
 Revivetip="Revive Rogue Knight"
 Awakentip="Revive Rogue Knight"
-Ubertip="A follower of the great God of Order, Paladine, Sven has sworn to uphold the rights of all. Born of a Knight and a Night Elf and ostracized since birth, Sven has lead a solitary existence of meditation and training. He has come out of his wanderings determined to guard the innocent against evil.  Armed with his blessed cleaving blade Justice, and harnessing the power to strike down his enemies with the might of God's Strength, Sven's wrath toward the unjust is a sight to behold.|n|n|c00ff0303Strength|r - 23 + 2.7|n|c000042ffAgility|r - 21 + 2.0|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Storm Bolt, Great Cleave, Warcry, and |c00ff8000God's Strength|r.|n|nAttack range of 125 (melee).|nMovement speed of 295."
+Ubertip="A follower of the great God of Order, Paladine, Sven has sworn to uphold the rights of all. Born of a Knight and a Night Elf and ostracized since birth, Sven has lead a solitary existence of meditation and training. He has come out of his wanderings determined to guard the innocent against evil. Armed with his blessed cleaving blade Justice, and harnessing the power to strike down his enemies with the might of God's Strength, Sven's wrath toward the unjust is a sight to behold.|n|n|c00ff0303Strength|r - 23 + 2.7|n|c000042ffAgility|r - 21 + 2.0|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Storm Bolt, Great Cleave, Warcry, and |c00ff8000God's Strength|r.|n|nAttack range of 125 (melee).|nMovement speed of 295."
 Tip="Rogue Knight"
 Description="Rogue Knight"
 [n0LF]
@@ -3865,7 +3865,7 @@ Hotkey=
 Propernames=Rubick
 Revivetip="Revive Grand Magus"
 Awakentip="Revive Grand Magus"
-Ubertip="Rubick, the son of Aghanim, is a force to be reckoned with. Crowds marvel in wonder at his effortless ability to hurl objects through the air, using nothing but his mind. Many wizards have challenged him yet none have surpassed his powerful and debilitating magics. The Grand Magus, with his endless talent, will stop at nothing to bewilder and outsmart his enemies, even if it means turning their own magic against them. Renowned for his unique ability to steal magics with a mere thought, he is undeniably a favorable asset to the Sentinel in their fight against the Scourge.   |n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 14 + 1.6|n|c00ff0303Intelligence|r - 27 + 2.4|n|nLearns Telekinesis, Fade Bolt, Null Field, and |c00ff8000Spell Steal|r.|n|nAttack range of 600. |nMovement speed of 290."
+Ubertip="Rubick, the son of Aghanim, is a force to be reckoned with. Crowds marvel in wonder at his effortless ability to hurl objects through the air, using nothing but his mind. Many wizards have challenged him yet none have surpassed his powerful and debilitating magics. The Grand Magus, with his endless talent, will stop at nothing to bewilder and outsmart his enemies, even if it means turning their own magic against them. Renowned for his unique ability to steal magics with a mere thought, he is undeniably a favorable asset to the Sentinel in their fight against the Scourge.|n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 14 + 1.6|n|c00ff0303Intelligence|r - 27 + 2.4|n|nLearns Telekinesis, Fade Bolt, Null Field, and |c00ff8000Spell Steal|r.|n|nAttack range of 600.|nMovement speed of 290."
 Tip="Grand Magus"
 [n0LK]
 Name="Rubick"
@@ -3939,7 +3939,7 @@ Revivetip="Revive Ember Spirit"
 Awakentip="Revive Ember Spirit"
 Hotkey=
 Tip="Ember Spirit"
-Ubertip="In sword forging furnaces of war, something powerful was taking shape. In a desperate bid to make superior weapons a sword smith by the name of Xin captured and bound a fire spirit to his forge. After countless hours of toil, a single pair of swords were born of the enchanted furnace. While holding and admiring the mystical blades the fire spirit was able to pass into Xin’s body creating a being born of flesh and flame. Xin became more powerful than the soldiers he was tasked to outfit, and march out himself to dispatch the enemies of warmth and life. Equipped with burning steel and blazing speed, Xin tears through his enemies leaving nothing but a cinder.    |n|n|c000042ffStrength|r - 19 + 2.0|n|c00ff0303Agility|r - 22 + 1.8|n|c000042ffIntelligence|r - 20 + 1.8|n|nLearns Searing Chains, Sleight of Fist, Flame Guard, and |c00ff8000Fire Remnant|r.|n|nAttack range of 128 (melee). |nMovement speed of 310."
+Ubertip="In sword forging furnaces of war, something powerful was taking shape. In a desperate bid to make superior weapons a sword smith by the name of Xin captured and bound a fire spirit to his forge. After countless hours of toil, a single pair of swords were born of the enchanted furnace. While holding and admiring the mystical blades the fire spirit was able to pass into Xin’s body creating a being born of flesh and flame. Xin became more powerful than the soldiers he was tasked to outfit, and march out himself to dispatch the enemies of warmth and life. Equipped with burning steel and blazing speed, Xin tears through his enemies leaving nothing but a cinder.|n|n|c000042ffStrength|r - 19 + 2.0|n|c00ff0303Agility|r - 22 + 1.8|n|c000042ffIntelligence|r - 20 + 1.8|n|nLearns Searing Chains, Sleight of Fist, Flame Guard, and |c00ff8000Fire Remnant|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."
 [n0M1]
 Name="Ember Spirit"
 Hotkey=
@@ -3961,7 +3961,7 @@ Hotkey=
 Propernames=Dragonus
 Revivetip="Revive Skywrath Mage"
 Awakentip="Revive Skywrath Mage"
-Ubertip="Dragonus is a sky-bound sorcerer astute in the arts of arcane warfare. Mystical in nature and veiled in secret motives he joined the sentinel to battle the scourge. He is said to come from the ancient bloodline of blood elves that has ascended to unknown heights in the arts of mystical magic. It's suspected that Invoker and Dragonus were prodigy's of ancient time and were fighting for the prestige title of the supreme mage. The art of his supreme knowledge of magic enables him to seal any magic and his Mystic Flare is capable of burning any foe in matter of seconds.  Many allies are proud to have strode alongside this mythical being, but few enemies have lived to survive the full extent of his mystical arsenal.   |n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 18 + 0.8|n|c00ff0303Intelligence|r - 27 + 3.6|n|nLearns Arcane Bolt, Concussive Shot, Ancient Seal, and |c00ff8000Mystic Flare|r.|n|nAttack range of 600.|nMovement speed of 325."
+Ubertip="Dragonus is a sky-bound sorcerer astute in the arts of arcane warfare. Mystical in nature and veiled in secret motives he joined the sentinel to battle the scourge. He is said to come from the ancient bloodline of blood elves that has ascended to unknown heights in the arts of mystical magic. It's suspected that Invoker and Dragonus were prodigy's of ancient time and were fighting for the prestige title of the supreme mage. The art of his supreme knowledge of magic enables him to seal any magic and his Mystic Flare is capable of burning any foe in matter of seconds. Many allies are proud to have strode alongside this mythical being, but few enemies have lived to survive the full extent of his mystical arsenal.|n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 18 + 0.8|n|c00ff0303Intelligence|r - 27 + 3.6|n|nLearns Arcane Bolt, Concussive Shot, Ancient Seal, and |c00ff8000Mystic Flare|r.|n|nAttack range of 600.|nMovement speed of 325."
 Tip="Skywrath Mage"
 Description="Skywrath Mage"
 [n0M6]
@@ -4141,7 +4141,7 @@ Hotkey=
 Propernames=Slark
 Revivetip="Revive Murloc Nightcrawler"
 Awakentip="Revive Murloc Nightcrawler"
-Ubertip="In the deepest, blackest pits of the ocean a fearsome and terrifying creature lurks. Bending the shadows to his will, few have seen his true form and none have lived to speak of it. For the shadows are his sanctuary, a place of empowerment and revitalisation. Bathed in this inpenetrable darkness he strikes unseen, every attack making him swifter and more powerful whilst weakening his enemy. An unbreakable leash awaits all who try to escape, leaving them at mercy of this horrifying phantom. By sacrificing a fraction of his soul, his pact with darkness allows him break even the most powerful bonds and curses. |n|nWith echoes of the Great War reaching every corner of the earth, this creature, known only as Slark, has emerged from the depths to search for an ancient relic... |n|n|c000042ffStrength|r - 21 + 1.8|n|c00ff0303Agility|r - 21 + 1.5|n|c000042ffIntelligence|r - 16 + 1.9|n|nLearns Dark Pact, Pounce, Essence Shift, and |c00ff8000Shadow Dance|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Ubertip="In the deepest, blackest pits of the ocean a fearsome and terrifying creature lurks. Bending the shadows to his will, few have seen his true form and none have lived to speak of it. For the shadows are his sanctuary, a place of empowerment and revitalisation. Bathed in this inpenetrable darkness he strikes unseen, every attack making him swifter and more powerful whilst weakening his enemy. An unbreakable leash awaits all who try to escape, leaving them at mercy of this horrifying phantom. By sacrificing a fraction of his soul, his pact with darkness allows him break even the most powerful bonds and curses.|n|nWith echoes of the Great War reaching every corner of the earth, this creature, known only as Slark, has emerged from the depths to search for an ancient relic...|n|n|c000042ffStrength|r - 21 + 1.8|n|c00ff0303Agility|r - 21 + 1.5|n|c000042ffIntelligence|r - 16 + 1.9|n|nLearns Dark Pact, Pounce, Essence Shift, and |c00ff8000Shadow Dance|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
 Tip="Murloc Nightcrawler"
 Description="Murloc Nightcrawler"
 [n0N7]

@@ -61,7 +61,6 @@ Units\NightElfUnitFunc.txt
 ReplaceableTextures\CommandButtonsDisabled\DISBTNINV_ThrowingKnife_04.blp
 ReplaceableTextures\CommandButtons\BTNDeathNova.blp
 ReplaceableTextures\CommandButtons\BTNNothing.blp
-loadingscreentr.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNSkeletonCriticalStrike.blp
 ReplaceableTextures\PassiveButtons\BTNGreaterBash.blp
 war3map.w3b
@@ -406,6 +405,7 @@ ReplaceableTextures\CommandButtons\BTNAncestralCharge.blp
 war3mapImported\ConjureForceAoE.mdx
 ReplaceableTextures\CommandButtonsDisabled\DISBTNINV_Hammer_10.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNEmpower.blp
+units\undead\Necromancer\NecromancerCreep.mdx
 ReplaceableTextures\CommandButtonsDisabled\DISBTNIllusory.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNINV_Chest_Plate06.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNWhirlingAxesRanged.blp
@@ -484,6 +484,7 @@ ReplaceableTextures\CommandButtonsDisabled\DISBTNAutoFlamingArrows.blp
 war3mapImported\FadeBoltTarget.mdx
 ReplaceableTextures\CommandButtonsDisabled\DISBTNTidebringer.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNLeshLightStorm.blp
+units\undead\Ghoul\GhoulCreep.mdx
 ReplaceableTextures\CommandButtons\BTNHalberd.blp
 ReplaceableTextures\CommandButtons\BTNINV_ThrowingKnife_03.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNJaunt.blp
@@ -510,6 +511,7 @@ Fonts\U.blp
 ReplaceableTextures\CommandButtons\BTNDrowSilence.blp
 effects\LifeBreak.mdx
 ReplaceableTextures\CommandButtons\BTNHaunt.blp
+units\Undead\Ghoul\GhoulCreep.blp
 ReplaceableTextures\CommandButtons\BTNStorm.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNMalefice.blp
 war3mapImported\fortunesendtarget.mdx
@@ -554,7 +556,6 @@ fonts\6.blp
 war3mapImported\NewGroundEX.mdx
 ReplaceableTextures\PassiveButtons\BTNBloodBath.blp
 ReplaceableTextures\CommandButtons\BTNRikiINV.blp
-loadingscreentl.BLP
 war3mapImported\TeleportTarget_Teal.mdx
 ReplaceableTextures\PassiveButtons\BTNAftershock.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNBasilHeroesOnly.blp
@@ -654,6 +655,7 @@ ReplaceableTextures\CommandButtonsDisabled\DISBTNDemonicPurge.blp
 war3mapImported\ThunderStorm_Groundeffect.mdx
 ReplaceableTextures\CommandButtons\BTNSobiMask_Borrowed.blp
 ReplaceableTextures\CommandButtons\BTNSpell_Shadow_GatherShadows.blp
+war3mapImported\SpiderWeb.mdx
 war3mapImported\EpiPulse_5_8.mdx
 ReplaceableTextures\CommandButtons\BTNRealityRift.blp
 ReplaceableTextures\CommandButtons\BTNTidebringer.blp
@@ -717,6 +719,7 @@ war3mapImported\DarkMending.mdx
 ReplaceableTextures\CommandButtonsDisabled\DISDISBTNBelt.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNSoulAssumption_4.blp
 ReplaceableTextures\CommandButtons\BTNWirtsLegBlue.blp
+war3mapImported\StoneRockBig.mdx
 ReplaceableTextures\CommandButtons\BTNBottle1_Borrowed.blp
 war3mapImported\JinadaFX.mdx
 ReplaceableTextures\PassiveButtons\BTNHumanMissileUpTwo.blp
@@ -762,6 +765,7 @@ war3mapImported\import_00000821.blp
 effects\Linkens_Main.mdx
 ReplaceableTextures\CommandButtonsDisabled\DISDISBTNUnholyStrength.blp
 ReplaceableTextures\CommandButtons\BTNReleasePoison.blp
+units\undead\Skeleton\SkeletonWarrior.mdx
 Fonts\O.blp
 ReplaceableTextures\CommandButtons\BTNTorrent.blp
 ReplaceableTextures\CommandButtons\BTNVorpal.blp
@@ -816,7 +820,6 @@ ReplaceableTextures\CommandButtonsDisabled\DISBTNFlamingFists.blp
 ReplaceableTextures\PassiveButtons\BTNAnchorSmash.blp
 war3mapImported\AxeUltiMSFX_01.mdx
 war3mapImported\PhoenixDown_2.mdx
-loadingscreenbr.blp
 war3mapimported\gnollmissile.mdx
 ReplaceableTextures\CommandButtons\BTNRepel.blp
 war3mapimported\timberchainhead.mdx
@@ -1166,7 +1169,6 @@ ReplaceableTextures\CommandButtonsDisabled\DISDISBTNStaffOfTeleportation.blp
 ReplaceableTextures\CommandButtons\BTNFireRemnant.blp
 war3mapImported\treasurechest_Standonly.mdx
 war3mapImported\SuperDarkFlash.mdx
-loadingscreenbl.blp
 Units\abilitydata.slk
 units\neutralupgradestrings.txt
 war3mapImported\corruptionaura.mdx
@@ -1181,12 +1183,17 @@ ReplaceableTextures\CommandButtons\BTNIceVortex.blp
 war3mapimported\orchid.mdx
 ReplaceableTextures\CommandButtons\BTNBoulderSmash.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNBoulderSmash.blp
+Units\Undead\Skeleton\SkeletonWarrior.blp
 effects\Chronospher_FX_mediumQ.mdx
 war3mapimported\sparkwraith2.mdx
 ReplaceableTextures\CommandButtonsDisabled\DISBTNCrystalNova.blp
 ReplaceableTextures\CommandButtons\BTNINV_Chest_Plate13.blp
 Fonts\X.blp
 loadingscreen.mdx
+LoadingScreenTL.tga
+LoadingScreenTR.tga
+LoadingScreenBL.tga
+LoadingScreenBR.tga
 ReplaceableTextures\CommandButtons\BTNCripplingFear.blp
 ReplaceableTextures\CommandButtonsDisabled\DISBTNDividedWeStand.blp
 ReplaceableTextures\CommandButtons\BTNOrb of Water.blp

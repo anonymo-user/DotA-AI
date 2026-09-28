@@ -9,30 +9,30 @@ Name=Ancestral Guardian
 Name=Barracks
 Hotkey=B
 Tip=Build |cffffcc00B|rarracks
-Ubertip="Primary troop production building. Trains Grunts, Headhunters and Demolishers. |nAlso contains the Berserker Strength, Berserker, Troll Regeneration, and Burning Oil upgrades."
+Ubertip="Primary troop production building. Trains Grunts, Headhunters and Demolishers.|nAlso contains the Berserker Strength, Berserker, Troll Regeneration, and Burning Oil upgrades."
 [obea]
 Name=Beastiary
 Hotkey=E
 Tip=Build B|cffffcc00e|rastiary
-Ubertip="Trains Raiders, Kodo Beasts, Troll Batriders, and Wind Riders. |nAlso contains the Ensnare, Envenomed Spears, Liquid Fire and War Drums upgrades."
+Ubertip="Trains Raiders, Kodo Beasts, Troll Batriders, and Wind Riders.|nAlso contains the Ensnare, Envenomed Spears, Liquid Fire and War Drums upgrades."
 [Obla]
 Name=Blademaster
 Propernames=Tojara,Nikoro,Kajind,Mikasa,Samuro,Akinos,Mazuru,Yozshura,Daisho,Kigami,Arashicage,Moogul the Sly,Jubei
 Hotkey=B
 Tip=Summon |cffffcc00B|rlademaster
-Ubertip="Cunning Hero, adept at quickly killing individual units and creating confusion among enemies. Can learn Mirror Image, Wind Walk, Critical Strike and Bladestorm. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Cunning Hero, adept at quickly killing individual units and creating confusion among enemies. Can learn Mirror Image, Wind Walk, Critical Strike and Bladestorm.|n|n|cffffcc00Attacks land units.|r"
 Revivetip=Revive |cffffcc00B|rlademaster
 Awakentip=Revive |cffffcc00B|rlademaster
 [ocat]
 Name=Demolisher
 Hotkey=D
 Tip=Train |cffffcc00D|remolisher
-Ubertip="Long-range siege weaponry. Effective against buildings but slow and vulnerable. Can learn the Burning Oil ability. |n|n|cffffcc00Attacks land units and trees.|r"
+Ubertip="Long-range siege weaponry. Effective against buildings but slow and vulnerable. Can learn the Burning Oil ability.|n|n|cffffcc00Attacks land units and trees.|r"
 [odoc]
 Name=Troll Witch Doctor
 Hotkey=W
 Tip=Train Troll |cffffcc00W|ritch Doctor
-Ubertip="Supporting spellcaster. Can initially cast Sentry Ward, which summons an invisible detector. Can also learn Stasis Trap and Healing Ward. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Supporting spellcaster. Can initially cast Sentry Ward, which summons an invisible detector. Can also learn Stasis Trap and Healing Ward.|n|n|cffffcc00Attacks land and air units.|r"
 Casterupgradename=Initiate, Adept, Master
 Casterupgradetip="- Sentry Ward","- Sentry Ward|n- Stasis Trap","- Sentry Ward|n- Stasis Trap|n- Healing Ward"
 [otot]
@@ -44,14 +44,14 @@ Name="Tidehunter"
 Propernames=Leviathan
 Hotkey=
 Tip="Tidehunter"
-Ubertip="Formerly considered by the Old Gods as an oeuvre of the cosmos, Leviathan was thrown into the watery abyss after an alleged connivance with the Titans whom they have fought against. Chained to an anchor and guarded by a virtually indomitable kraken, the Tidehunter had lain dormant in the unfathomable depths for eons until he finally mustered enough strength to break away. He killed his enslaver, took its shell as armor and the once loathed anchor became his weapon. Unforgiving and frigid as the sea, Leviathan had sworn to disembowel everyone who would dare disturb his much valued freedom as he knocks them out with ravaging force. The terror of the tides had come at last and all those who will try to stop him shall be swept away. |n|n|c00ff0303Strength|r - 22 + 3.0|n|c000042ffAgility|r - 15 + 1.5|n|c000042ffIntelligence|r - 16 + 1.7|n|nLearns Anchor Smash, Gush, Kraken Shell, and |c00ff8000Ravage|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."
+Ubertip="Formerly considered by the Old Gods as an oeuvre of the cosmos, Leviathan was thrown into the watery abyss after an alleged connivance with the Titans whom they have fought against. Chained to an anchor and guarded by a virtually indomitable kraken, the Tidehunter had lain dormant in the unfathomable depths for eons until he finally mustered enough strength to break away. He killed his enslaver, took its shell as armor and the once loathed anchor became his weapon. Unforgiving and frigid as the sea, Leviathan had sworn to disembowel everyone who would dare disturb his much valued freedom as he knocks them out with ravaging force. The terror of the tides had come at last and all those who will try to stop him shall be swept away.|n|n|c00ff0303Strength|r - 22 + 3.0|n|c000042ffAgility|r - 15 + 1.5|n|c000042ffIntelligence|r - 16 + 1.7|n|nLearns Anchor Smash, Gush, Kraken Shell, and |c00ff8000Ravage|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."
 Revivetip="Revive Tidehunter"
 Awakentip="Revive Tidehunter"
 [ofor]
 Name=War Mill
 Hotkey=M
 Tip=Build War |cffffcc00M|rill
-Ubertip="Serves as a drop-off point for harvested lumber. |nAlso contains upgrades for improved armor, melee weapons, ranged weapons, Reinforced Defenses, and Spiked Barricades."
+Ubertip="Serves as a drop-off point for harvested lumber.|nAlso contains upgrades for improved armor, melee weapons, ranged weapons, Reinforced Defenses, and Spiked Barricades."
 [ofrt]
 Name=Fortress
 Hotkey=U
@@ -66,44 +66,44 @@ Ubertip="Primary structure, used to train Peons and receive gathered resources. 
 Name=Grunt
 Hotkey=G
 Tip=Train |cffffcc00G|rrunt
-Ubertip="Brutish Orc warrior. Can learn Berserker Strength. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Brutish Orc warrior. Can learn Berserker Strength.|n|n|cffffcc00Attacks land units.|r"
 [ohun]
 Name=Troll Headhunter
 Hotkey=T
 Tip=Train |cffffcc00T|rroll Headhunter
-Ubertip="Versatile spear-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Troll Berserker, which has the Berserk ability. |n|n|cffffcc00Attacks land and air units.|r "
+Ubertip="Versatile spear-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Troll Berserker, which has the Berserk ability.|n|n|cffffcc00Attacks land and air units.|r "
 [otbk]
 Name=Troll Berserker
 Hotkey=T
 Tip=Train |cffffcc00T|rroll Berserker
-Ubertip="Versatile spear-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration. |n|n|cffffcc00Attacks land and air units.|r "
+Ubertip="Versatile spear-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration.|n|n|cffffcc00Attacks land and air units.|r "
 [ohwd]
 Name=Healing Ward
 [okod]
 Name=Kodo Beast
 Hotkey=K
 Tip=Train |cffffcc00K|rodo Beast
-Ubertip="Lumbering war beast, mounted by an Orcish drummer. Has the abilities War Drums, and Devour. War Drums gives friendly units nearby a bonus to attack damage. Devour allows the Kodo to eat a target enemy unit. Can gain the War Drums Upgrade. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Lumbering war beast, mounted by an Orcish drummer. Has the abilities War Drums, and Devour. War Drums gives friendly units nearby a bonus to attack damage. Devour allows the Kodo to eat a target enemy unit. Can gain the War Drums Upgrade.|n|n|cffffcc00Attacks land and air units.|r"
 [osld]
 Name=Spirit Lodge
 Hotkey=S
 Tip=Build |cffffcc00S|rpirit Lodge
-Ubertip="Spellcaster production building. Trains Shaman, Witch Doctors, and Spirit Walkers. |nAlso contains spell upgrades for Shaman, Witch Doctors, and Spirit Walkers."
+Ubertip="Spellcaster production building. Trains Shaman, Witch Doctors, and Spirit Walkers.|nAlso contains spell upgrades for Shaman, Witch Doctors, and Spirit Walkers."
 [opeo]
 Name=Peon
 Hotkey=P
 Tip=Train |cffffcc00P|reon
-Ubertip="Basic worker unit. Can harvest gold and lumber, build structures, and Repair. Can also go inside Orc Burrows to give it an attack. |n|n|cffffcc00Attacks land units and trees.|r"
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures, and Repair. Can also go inside Orc Burrows to give it an attack.|n|n|cffffcc00Attacks land units and trees.|r"
 [orai]
 Name=Raider
 Hotkey=R
 Tip=Train |cffffcc00R|raider
-Ubertip="Highly mobile wolf rider. Effective against buildings. Can learn the Ensnare ability. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Highly mobile wolf rider. Effective against buildings. Can learn the Ensnare ability.|n|n|cffffcc00Attacks land units.|r"
 [oshm]
 Name=Shaman
 Hotkey=S
 Tip=Train |cffffcc00S|rhaman
-Ubertip="Primary spellcaster. Can initially cast Purge, which slows and dispels positive and negative buffs. Can also learn Lightning Shield and Bloodlust. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Primary spellcaster. Can initially cast Purge, which slows and dispels positive and negative buffs. Can also learn Lightning Shield and Bloodlust.|n|n|cffffcc00Attacks land and air units.|r"
 Casterupgradename=Initiate, Adept, Master
 Casterupgradetip="- Purge","- Purge|n- Lightning Shield","- Purge|n- Lightning Shield|n- Bloodlust"
 [ostr]
@@ -127,12 +127,12 @@ Name=Serpent Ward
 Name=Tauren
 Hotkey=T
 Tip=Train |cffffcc00T|rauren
-Ubertip="Mighty warrior. Can learn the Pulverize ability. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Mighty warrior. Can learn the Pulverize ability.|n|n|cffffcc00Attacks land units.|r"
 [otbr]
 Name=Troll Batrider
 Hotkey=B
 Tip=Train Troll |cffffcc00B|ratrider
-Ubertip="Light flying unit with incredible perception. Good at destroying buildings. Has the Unstable Concoction ability, which allows the Troll Batrider to explode, dealing damage to nearby enemy air units. Can learn Liquid Fire, and Troll Regeneration. |n|n|cffffcc00Attacks land units.|r"
+Ubertip="Light flying unit with incredible perception. Good at destroying buildings. Has the Unstable Concoction ability, which allows the Troll Batrider to explode, dealing damage to nearby enemy air units. Can learn Liquid Fire, and Troll Regeneration.|n|n|cffffcc00Attacks land units.|r"
 [Oshd]
 Name="Bane Elemental"
 Propernames=Atropos
@@ -146,24 +146,24 @@ Name="Earthshaker"
 Propernames=Raigor Stonehoof
 Hotkey=
 Tip="Earthshaker"
-Ubertip="In the barren-lands, tales spoke of tauren sages reaping the essence of dirt. Their consciousness melds with the brown beneath them. The loam becomes the conduit of their mental thought and reality. These warriors were feared for they could summon massive ruptures at their mere whim. So tremendous was their power that their magic leaks out of the earth violently with every spell. Sadly these sages mysteriously faded from the land. When the World Tree was threatened, couriers searched these mighty ones but found just one. A young adept, Raigor Stonehoof, seeks battle to weave new tales of these shamans. |n|n|c00ff0303Strength|r - 22 + 2.9|n|c000042ffAgility|r - 12 + 1.4|n|c000042ffIntelligence|r - 16 + 1.8|n|nLearns Enchant Totem, Fissure, Aftershock, and |c00ff8000Echo Slam|r.|n|nAttack range of 128 (melee). |nMovement speed of 310."
+Ubertip="In the barren-lands, tales spoke of tauren sages reaping the essence of dirt. Their consciousness melds with the brown beneath them. The loam becomes the conduit of their mental thought and reality. These warriors were feared for they could summon massive ruptures at their mere whim. So tremendous was their power that their magic leaks out of the earth violently with every spell. Sadly these sages mysteriously faded from the land. When the World Tree was threatened, couriers searched these mighty ones but found just one. A young adept, Raigor Stonehoof, seeks battle to weave new tales of these shamans.|n|n|c00ff0303Strength|r - 22 + 2.9|n|c000042ffAgility|r - 12 + 1.4|n|c000042ffIntelligence|r - 16 + 1.8|n|nLearns Enchant Totem, Fissure, Aftershock, and |c00ff8000Echo Slam|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."
 Revivetip="Revive Earthshaker"
 Awakentip="Revive Earthshaker"
 [otrb]
 Name=Orc Burrow
 Hotkey=O
 Tip=Build |cffffcc00O|rrc Burrow
-Ubertip="Provides food, which increases the maximum number of units that can be trained. Peons can garrison inside to attack enemy units. Can learn the Reinforced Defenses upgrade. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Provides food, which increases the maximum number of units that can be trained. Peons can garrison inside to attack enemy units. Can learn the Reinforced Defenses upgrade.|n|n|cffffcc00Attacks land and air units.|r"
 [orbr]
 Name=Reinforced Orc Burrow
 Hotkey=O
 Tip=Build Reinforced |cffffcc00O|rrc Burrow
-Ubertip="Provides food, which increases the maximum number of units that can be trained. Peons can garrison inside to attack enemy units. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Provides food, which increases the maximum number of units that can be trained. Peons can garrison inside to attack enemy units.|n|n|cffffcc00Attacks land and air units.|r"
 [otto]
 Name=Tauren Totem
 Hotkey=T
 Tip=Build |cffffcc00T|rauren Totem
-Ubertip="Trains Tauren. |nAlso contains the Pulverize upgrade."
+Ubertip="Trains Tauren.|nAlso contains the Pulverize upgrade."
 [ovln]
 Name=Voodoo Lounge
 Hotkey=V
@@ -173,25 +173,25 @@ Ubertip="Creates a shop with purchasable items. The items available depend upon 
 Name=Wind Rider
 Hotkey=W
 Tip=Train |cffffcc00W|rind Rider
-Ubertip="Highly mobile flying creature. Excellent at scouting. Can learn Envenomed Spears. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Highly mobile flying creature. Excellent at scouting. Can learn Envenomed Spears.|n|n|cffffcc00Attacks land and air units.|r"
 [owtw]
 Name=Watch Tower
 Hotkey=W
 Tip=Build |cffffcc00W|ratch Tower
-Ubertip="Defensive structure. Can learn the Reinforced Defenses upgrade. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Defensive structure. Can learn the Reinforced Defenses upgrade.|n|n|cffffcc00Attacks land and air units.|r"
 [ospw]
 DependencyOr=ospm
 Name=Spirit Walker
 Hotkey=T
 Tip=Train Spiri|cffffcc00t|r Walker
-Ubertip="Mystical Tauren caster. Has Ethereal Form, which allows him to avoid physical damage. Also has Spirit Link, which allows units to distribute incoming damage. Can learn Disenchant, and Ancestral Spirit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Mystical Tauren caster. Has Ethereal Form, which allows him to avoid physical damage. Also has Spirit Link, which allows units to distribute incoming damage. Can learn Disenchant, and Ancestral Spirit.|n|n|cffffcc00Attacks land and air units.|r"
 Casterupgradename=Initiate, Adept, Master
 Casterupgradetip="- Ethereal Form|n- Spirit Link","- Ethereal Form|n- Spirit Link|n- Disenchant","- Ethereal Form|n- Spirit Link|n- Disenchant|n- Ancestral Spirit"
 [ospm]
 Name=Spirit Walker
 Hotkey=T
 Tip=Train Spiri|cffffcc00t|r Walker
-Ubertip="Mystical Tauren caster. Has Ethereal Form, which allows him to avoid physical damage. Also has Spirit Link, which allows units to distribute incoming damage. Can learn Disenchant, and Ancestral Spirit. |n|n|cffffcc00Attacks land and air units.|r"
+Ubertip="Mystical Tauren caster. Has Ethereal Form, which allows him to avoid physical damage. Also has Spirit Link, which allows units to distribute incoming damage. Can learn Disenchant, and Ancestral Spirit.|n|n|cffffcc00Attacks land and air units.|r"
 Casterupgradename=Initiate, Adept, Master
 Casterupgradetip="- Ethereal Form|n- Spirit Link","- Ethereal Form|n- Spirit Link|n- Disenchant","- Ethereal Form|n- Spirit Link|n- Disenchant|n- Ancestral Spirit"
 [o003]
@@ -204,7 +204,7 @@ Name="Lycanthropy Wolf"
 Name="Poison Nova Attack 1"
 Hotkey=T
 Tip=Train |cffffcc00T|rroll Headhunter
-Ubertip="Versatile spear-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Troll Berserker, which has the Berserk ability. |n|n|cffffcc00Attacks land and air units.|r "
+Ubertip="Versatile spear-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Troll Berserker, which has the Berserk ability.|n|n|cffffcc00Attacks land and air units.|r "
 [o005]
 Name="Lycanthropy Wolf"
 [o004]
@@ -281,7 +281,7 @@ Name=Tauren Chieftain
 Propernames=Taur Thunderhorn,Kaz Stonebul,Cairne Bloodhoof,Cairne Bloodhoof,Cairne Bloodhoof,Cairne Bloodhoof,Cairne Bloodhoof,Cairne Bloodhoof,Cairne Bloodhoof,Cairne Bloodhoof,Cairne Bloodhoof,Cairne Bloodhoof
 Hotkey=
 Tip="Tauren Chieftain"
-Ubertip="Since ancient times it has been prophesized by the Tauren elders that a Chieftain will come, strong as the mightiest warriors and wise as the eldest shamans. After many years of wandering the sacred lands, seeking wisdom from his forefathers, Cairne Bloodhoof has proven himself as the long awaited hero. Cairne carries with him the spirit of his mightiest ancestor, and now the ground shakes with the combined strength of the Chieftan and his guardian spirit.  No physical nor magical barrier can reduce the power of his enchanted halberd, the weapon used by his guardian in ancient times. Such is the power of this axe that it can split the very earth itself. Seeking revenge for the ravaging of his homeland, Cairne will soon bring his wrath upon the Scourge. |n|n|c00ff0303Strength|r - 24 + 2.3|n|c000042ffAgility|r - 14 + 1.5|n|c000042ffIntelligence|r - 23 + 1.6|n|nLearns Echo Stomp, Ancestral Spirit, Natural Order, and |c00ff8000Earth Splitter|r.|n|nAttack range of 150 (melee). |nMovement speed of 315."
+Ubertip="Since ancient times it has been prophesized by the Tauren elders that a Chieftain will come, strong as the mightiest warriors and wise as the eldest shamans. After many years of wandering the sacred lands, seeking wisdom from his forefathers, Cairne Bloodhoof has proven himself as the long awaited hero. Cairne carries with him the spirit of his mightiest ancestor, and now the ground shakes with the combined strength of the Chieftan and his guardian spirit. No physical nor magical barrier can reduce the power of his enchanted halberd, the weapon used by his guardian in ancient times. Such is the power of this axe that it can split the very earth itself. Seeking revenge for the ravaging of his homeland, Cairne will soon bring his wrath upon the Scourge.|n|n|c00ff0303Strength|r - 24 + 2.3|n|c000042ffAgility|r - 14 + 1.5|n|c000042ffIntelligence|r - 23 + 1.6|n|nLearns Echo Stomp, Ancestral Spirit, Natural Order, and |c00ff8000Earth Splitter|r.|n|nAttack range of 150 (melee).|nMovement speed of 315."
 Revivetip="Revive Tauren Chieftain"
 Awakentip="Revive Tauren Chieftain"
 [O016]
@@ -289,7 +289,7 @@ Name="Batrider"
 Propernames=Jin'zakk,Jin'zakk,Jin'zakk,Jin'zakk,Jin'zakk,Jin'zakk,Jin'zakk,Jin'zakk,Jin'zakk
 Hotkey=
 Tip="Batrider"
-Ubertip="Once an expendable spy, Jin'zakk has outlived the suicidal tendencies of other Bat Riders to create a unique style, one that favours control and precision instead of wanton destruction. His years of battle experience have allowed him to innovate creative uses for his fiery arts: He can douse enemies in a bath of sticky oil that restricts their movements before igniting it, fire an explosive that blows enemies away, or take flight to leave behind a trail of flame. However, his most deadly skill involves lassoing his opponent and dragging the unfortunate foe into the arms of his allies. |n|n|c000042ffStrength|r - 23 + 2.4|n|c000042ffAgility|r - 15 + 1.5|n|c00ff0303Intelligence|r - 24 + 2.5|n|nLearns Sticky Napalm, Flamebreak, Firefly, and |c00ff8000Flaming Lasso|r.|n|nAttack range of 375.|nMovement speed of 290."
+Ubertip="Once an expendable spy, Jin'zakk has outlived the suicidal tendencies of other Bat Riders to create a unique style, one that favours control and precision instead of wanton destruction. His years of battle experience have allowed him to innovate creative uses for his fiery arts: He can douse enemies in a bath of sticky oil that restricts their movements before igniting it, fire an explosive that blows enemies away, or take flight to leave behind a trail of flame. However, his most deadly skill involves lassoing his opponent and dragging the unfortunate foe into the arms of his allies.|n|n|c000042ffStrength|r - 23 + 2.4|n|c000042ffAgility|r - 15 + 1.5|n|c00ff0303Intelligence|r - 24 + 2.5|n|nLearns Sticky Napalm, Flamebreak, Firefly, and |c00ff8000Flaming Lasso|r.|n|nAttack range of 375.|nMovement speed of 290."
 Revivetip="Revive Batrider"
 Awakentip="Revive Batrider"
 [O017]

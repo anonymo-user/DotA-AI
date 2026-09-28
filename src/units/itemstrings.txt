@@ -22,7 +22,7 @@ Description=Attacks also do fire damage.
 Name=Orb of Lightning
 Hotkey=L
 Tip=Purchase Orb of |cffffcc00L|rightning
-Ubertip="Adds <AIll,DataA1> bonus damage to the attack of a Hero when carried. The Hero's attacks also become ranged when attacking air, and have a chance to dispel magic and slow the movement speed of the enemy for <AIlp,Dur1> seconds. |n|cffffcc00Deals <AIpg,DataC1> bonus damage to summoned units."
+Ubertip="Adds <AIll,DataA1> bonus damage to the attack of a Hero when carried. The Hero's attacks also become ranged when attacking air, and have a chance to dispel magic and slow the movement speed of the enemy for <AIlp,Dur1> seconds.|n|n|cffffcc00Deals <AIpg,DataC1> bonus damage to summoned units."
 Description=Attacks cause lightning damage.
 [oven]
 Name=Orb of Venom
@@ -64,7 +64,7 @@ Description=Transports troops to friendly town hall.
 Name=Rod of Necromancy
 Hotkey=R
 Tip=Purchase |cffffcc00R|rod of Necromancy
-Ubertip="Creates two Skeleton Warriors from a corpse. |nContains <rnec,uses> charges."
+Ubertip="Creates two Skeleton Warriors from a corpse.|nContains <rnec,uses> charges."
 Description=Creates two Skeleton Warriors from a corpse.
 [pams]
 Name=Anti-magic Potion
@@ -76,7 +76,7 @@ Description=Renders Hero immune to magic.
 Name=Healing Salve
 Hotkey=H
 Tip=Purchase |cffffcc00H|realing Salve
-Ubertip="|cff87ceebNon-Combat Consumable|r|nRegenerates a target unit's hit points by <AIrl,DataA1> over <AIrl,Dur1> seconds when used. |nContains <hslv,uses> charges."
+Ubertip="|cff87ceebNon-Combat Consumable|r|nRegenerates a target unit's hit points by <AIrl,DataA1> over <AIrl,Dur1> seconds when used.|nContains <hslv,uses> charges."
 Description=Regenerates lost hit points over time.
 [plcl]
 Name=Lesser Clarity Potion
@@ -106,7 +106,7 @@ Description=Creates Blight at a target location.
 Name=Moonstone
 Hotkey=N
 Tip=Purchase Moo|cffffcc00n|rstone
-Ubertip="Causes an eclipse that blocks out the sun and creates an artificial night. |nLasts <AIct,Dur1> seconds."
+Ubertip="Causes an eclipse that blocks out the sun and creates an artificial night.|nLasts <AIct,Dur1> seconds."
 Description=Makes it night time.
 [tgrh]
 Name=Tiny Great Hall
@@ -142,13 +142,13 @@ Description=Heals and teleports a unit.
 Name=Scroll of Speed
 Hotkey=S
 Tip=Purchase Scroll of |cffffcc00S|rpeed
-Ubertip="Increases the movement speed of the Hero and nearby allied units to the maximum movement speed. |nLasts <AIsa,Dur1> seconds."
+Ubertip="Increases the movement speed of the Hero and nearby allied units to the maximum movement speed.|nLasts <AIsa,Dur1> seconds."
 Description=Increases movement speed of units.
 [dust]
 Name=Dust of Appearance
 Hotkey=D
 Tip=Purchase |cffffcc00D|rust of Appearance
-Ubertip="Reveals enemy invisible units in an area around the Hero. |nContains <dust,uses> charges. |nLasts <AItb,Dur1> seconds."
+Ubertip="Reveals enemy invisible units in an area around the Hero.|nContains <dust,uses> charges.|nLasts <AItb,Dur1> seconds."
 Description=Reveals invisible units.
 [I007]
 Name="|c00fffc01Illusion|r"
@@ -185,22 +185,22 @@ Description=""
 [I02O]
 Name="Boots of Speed"
 Tip=""
-Ubertip="+50 Movement Speed |n|n|c00ff0303Movement Speed does not stack with other boot items.|r |n|n|c00838B8BGeneric sneakers"
+Ubertip=" +50 Movement Speed|n|n|c00ff0303Movement Speed does not stack with other boot items.|r|n|n|c00838B8BGeneric sneakers"
 Description=""
 [I02P]
 Name="Gloves of Haste"
 Tip=""
-Ubertip="+15 Attack Speed |n|n|c00838B8BA pair of magical gloves that seems to render weapons weightless"
+Ubertip=" +15 Attack Speed|n|n|c00838B8BA pair of magical gloves that seems to render weapons weightless"
 Description=""
 [I02R]
 Name="Boots of Elvenskin"
 Tip=""
-Ubertip="+6 Agility |n|n|c00838B8BA pair of boots often used for moonwalking|r"
+Ubertip=" +6 Agility|n|n|c00838B8BA pair of boots often used for moonwalking|r"
 Description=""
 [I02T]
 Name="Power Treads (Agility)"
 Tip=""
-Ubertip="Name brand sneakers. Increases movement speed by 50, agility by 8 and attack speed by 30. Click to change form. |n|n|c00ff0303Movement Speed does not stack with other boot items.|r |n|n|c00ff0303Cannot carry more than one|r"
+Ubertip="Name brand sneakers. Increases movement speed by 50, agility by 8 and attack speed by 30. Click to change form.|n|n|c00ff0303Movement Speed does not stack with other boot items.|r|n|n|c00ff0303Cannot carry more than one|r"
 Description=""
 [I02V]
 Name="Power Treads Recipe"
@@ -210,7 +210,7 @@ Description=""
 [I02W]
 Name="Power Treads Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +60 movement speed |n +7 Str or +9 Int or +11 Agi |n +25 Attack Speed  |n|n|cffffcc00Requires:|r |n Boots of Speed - 500 |n Gloves of Haste - 500 |n  Boots of Elvenskin - 450 |n   |c00fffc01or|r |n  Robe of the Magi - 450|n   |c00fffc01or|r |n  Belt of Giant Strength - 450 |n|n|c00838B8B Total Cost: 1450  |n|n|c00ff0303Movement Speed does not stack with other boot items.|r |n|n|c00ff0303Cannot carry more than one|r"
+Ubertip="|cffffcc00Gives:|r|n +60 Movement Speed|n +7 Strength or +9 Intelligence or +11 Agility|n +25 Attack Speed|n|n|cffffcc00Requires:|r|n Boots of Speed - 500|n Gloves of Haste - 500|n Boots of Elvenskin - 450|n|n|c00fffc01or|r|n Robe of the Magi - 450|n|n|c00fffc01or|r|n Belt of Giant Strength - 450|n|n|c00838B8B Total Cost: 1450|n|n|c00ff0303Movement Speed does not stack with other boot items.|r|n|n|c00ff0303Cannot carry more than one|r"
 Description=""
 [I02N]
 Name="Boots of Elvenskin"
@@ -235,7 +235,7 @@ Description=""
 [I02Y]
 Name="Circlet of Nobility"
 Tip=""
-Ubertip="+2 All Attributes |n|n|c00838B8BAn elegant circlet designed for human princesses"
+Ubertip=" +2 All Attributes|n|n|c00838B8BAn elegant circlet designed for human princesses"
 Description=""
 [I02Z]
 Name="Belt of Giant Strength"
@@ -435,77 +435,77 @@ Description=""
 [I043]
 Name="Belt of Giant Strength"
 Tip=""
-Ubertip="+6 Strength |n|n|c00838B8BNot recommended for use by children or pregnant women"
+Ubertip=" +6 Strength|n|n|c00838B8BNot recommended for use by children or pregnant women"
 Description=""
 [I044]
 Name="Blade of Alacrity"
 Tip=""
-Ubertip="+10 Agility. |n|n|c00838B8BA long blade imbued with time magic"
+Ubertip=" +10 Agility|n|n|c00838B8BA long blade imbued with time magic"
 Description=""
 [I045]
 Name="Blades of Attack"
 Tip=""
-Ubertip="+9 Damage |n|n|c00838B8BA weapon of choice among sadists"
+Ubertip=" +9 Damage|n|n|c00838B8BA weapon of choice among sadists"
 Description=""
 [I046]
 Name="Broadsword"
 Tip=""
-Ubertip="+18 Damage |n|n|c00838B8BAny knight worth a damn should have one of these"
+Ubertip=" +18 Damage|n|n|c00838B8BAny knight worth a damn should have one of these"
 Description=""
 [I047]
 Name="Chainmail"
 Tip=""
-Ubertip="+5 Armor |n|n|c00838B8BA medium weave of metal chains"
+Ubertip=" +5 Armor|n|n|c00838B8BA medium weave of metal chains"
 Description=""
 [I048]
 Name="Claymore"
 Tip=""
-Ubertip="+21 Damage |n|n|c00838B8BA sword that can cut through armor, and still slice a tomato"
+Ubertip=" +21 Damage|n|n|c00838B8BA sword that can cut through armor, and still slice a tomato"
 Description=""
 [I049]
 Name="Demon Edge"
 Tip=""
-Ubertip="+46 Damage |n|n|c00838B8BA sword of a fallen general of a Demon Army, imbued with unholy strength"
+Ubertip=" +46 Damage|n|n|c00838B8BA sword of a fallen general of a Demon Army, imbued with unholy strength"
 Description=""
 [I04A]
 Name="Eaglehorn"
 Tip=""
-Ubertip="+25 Agility |n|n|c00838B8BA swift, true-firing bow that almost aims itself"
+Ubertip=" +25 Agility|n|n|c00838B8BA swift, true-firing bow that almost aims itself"
 Description=""
 [I04B]
 Name="Energy Booster"
 Tip=""
-Ubertip="+250 Mana |n|n|c00838B8BEnie"
+Ubertip=" +250 Mana|n|n|c00838B8BEnie"
 Description=""
 [I04C]
 Name="Gauntlets of Strength"
 Tip=""
-Ubertip="+3 Strength |n|n|c00838B8BDeluxe version of Brass Knuckles"
+Ubertip=" +3 Strength|n|n|c00838B8BDeluxe version of Brass Knuckles"
 Description=""
 [I04D]
 Name="Gem of True Sight"
 Tip=""
-Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.   |n|n|c00ff0303Drops upon death|r |n|n|c00838B8BA magic stone that gives the bearer sight beyond sight"
+Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.|n|n|c00ff0303Drops upon death|r|n|n|c00838B8BA magic stone that gives the bearer sight beyond sight"
 Description=""
 [I04E]
 Name="Helm of Iron Will"
 Tip=""
-Ubertip="+5 Armor |n+3 HP Regeneration |n|n|c00838B8BThe helmet of a legendary warrior who fell in battle"
+Ubertip=" +5 Armor|n +3 HP Regeneration|n|n|c00838B8BThe helmet of a legendary warrior who fell in battle"
 Description=""
 [I04F]
 Name="Hyperstone"
 Tip=""
-Ubertip="+55 Attack Speed |n|n|c00838B8BA mystical, carved stone that boosts the fervor of the holder"
+Ubertip=" +55 Attack Speed|n|n|c00838B8BA mystical, carved stone that boosts the fervor of the holder"
 Description=""
 [I04G]
 Name="Ironwood Branch"
 Tip=""
-Ubertip="+1 All Attributes |n|n|c00838B8BWearing one of these ensures a Good Game"
+Ubertip=" +1 All Attributes|n|n|c00838B8BWearing one of these ensures a Good Game"
 Description=""
 [I04H]
 Name="Kelen's Dagger"
 Tip=""
-Ubertip="Teleport up to 1200 distance away. Cannot be used if you have been damaged in the last 3 seconds. |n|n|cff99ccffCooldown: |r 12 |n|n|c00838B8BThe fabled dagger used by Kelen, the fastest assassin ever to walk the lands of Azeroth"
+Ubertip="Teleport up to 1200 distance away. Cannot be used if you have been damaged in the last 3 seconds.|n|n|cff99ccffCooldown: |r 12|n|n|c00838B8BThe fabled dagger used by Kelen, the fastest assassin ever to walk the lands of Azeroth"
 Description=""
 [I04I]
 Name="Disabled Kelen's Dagger"
@@ -515,112 +515,112 @@ Description=""
 [I04J]
 Name="Mantle of Intelligence"
 Tip=""
-Ubertip="+3 Intelligence |n|n|c00838B8BA dandy looking sapphire mantle; real hit this season"
+Ubertip=" +3 Intelligence|n|n|c00838B8BA dandy looking sapphire mantle; real hit this season"
 Description=""
 [I04K]
 Name="Mask of Death"
 Tip=""
-Ubertip="+15% Life Steal |n|n|c00ff0303Orb effects do not stack|r |n|n|c00838B8BThe phattest lewt, definitely|r"
+Ubertip=" +15% Lifesteal|n|n|c00ff0303Orb effects do not stack|r|n|n|c00838B8BThe phattest lewt, definitely|r"
 Description=""
 [I04L]
 Name="Messerschmidt's Reaver"
 Tip=""
-Ubertip="+25 Strength |n|n|c00838B8BA massive axe capable of tearing whole mountains down"
+Ubertip=" +25 Strength|n|n|c00838B8BA massive axe capable of tearing whole mountains down"
 Description=""
 [I04M]
 Name="Mithril Hammer"
 Tip=""
-Ubertip="+24 Damage |n|n|c00838B8BA hammer forged of pure mithril.  It's hammer time!"
+Ubertip=" +24 Damage|n|n|c00838B8BA hammer forged of pure mithril. It's hammer time!"
 Description=""
 [I04N]
 Name="Mystic Staff"
 Tip=""
-Ubertip="+25 Intelligence |n|n|c00838B8BEnigmatic staff made of only the most expensive crystals"
+Ubertip=" +25 Intelligence|n|n|c00838B8BEnigmatic staff made of only the most expensive crystals"
 Description=""
 [I04O]
 Name="Ogre Axe"
 Tip=""
-Ubertip="+10 Strength |n|n|c00838B8BYou feel tougher just by holding it!   "
+Ubertip=" +10 Strength|n|n|c00838B8BYou feel tougher just by holding it!"
 Description=""
 [I04P]
 Name="Planeswalker's Cloak"
 Tip=""
-Ubertip="+15% Magic Resistance |n|n|c00838B8BA cloak made of a magic material that works to dispel any magic cast on it"
+Ubertip=" +15% Magic Resistance|n|n|c00838B8BA cloak made of a magic material that works to dispel any magic cast on it"
 Description=""
 [I04Q]
 Name="Plate Mail"
 Tip=""
-Ubertip="+10 Armor |n|n|c00838B8BThick metal plates that protect the entire upper body. Avoid dropping on feet"
+Ubertip=" +10 Armor|n|n|c00838B8BThick metal plates that protect the entire upper body. Avoid dropping on feet"
 Description=""
 [I04R]
 Name="Point Booster"
 Tip=""
-Ubertip="+200 Hit Points |n+150 Mana |n|n|c00838B8BMeenie"
+Ubertip=" +200 HP|n +150 Mana|n|n|c00838B8BMeenie"
 Description=""
 [I04S]
 Name="Quarterstaff"
 Tip=""
-Ubertip="+10 Damage |n+10 Attack Speed |n|n|c00838B8BFour of these form an ordinary staff, duh! "
+Ubertip=" +10 Damage|n +10 Attack Speed|n|n|c00838B8BFour of these form an ordinary staff, duh!"
 Description=""
 [I04T]
 Name="Ring of Health"
 Tip=""
-Ubertip="+5 HP Regeneration |n|n|c00838B8BA shiny ring found beneath a fat halfling's corpse"
+Ubertip=" +5 HP Regeneration|n|n|c00838B8BA shiny ring found beneath a fat halfling's corpse"
 Description=""
 [I04U]
 Name="Ring of Protection"
 Tip=""
-Ubertip="+2 Armor |n|n|c00838B8BDue to its small size, many have troubles with putting it on"
+Ubertip=" +2 Armor|n|n|c00838B8BDue to its small size, many have troubles with putting it on"
 Description=""
 [I04W]
 Name="Robe of the Magi"
 Tip=""
-Ubertip="+6 Intelligence |n|n|c00838B8BThis robe corrupts the soul of the user, but provides Intelligence points in return"
+Ubertip=" +6 Intelligence|n|n|c00838B8BThis robe corrupts the soul of the user, but provides Intelligence points in return"
 Description=""
 [I04X]
 Name="Sacred Relic"
 Tip=""
-Ubertip="+60 Damage |n|n|c00838B8BAn ancient weapon, it's difficult to tell what Sacred Relic even is.  Rumors say that it's a sword of immeasureable damage. Ouch!"
+Ubertip=" +60 Damage|n|n|c00838B8BAn ancient weapon, it's difficult to tell what Sacred Relic even is. Rumors say that it's a sword of immeasureable damage. Ouch!"
 Description=""
 [I04Y]
 Name="Slippers of Agility"
 Tip=""
-Ubertip="+3 Agility |n|n|c00838B8BLight boots made from spider skin that tingles your senses"
+Ubertip=" +3 Agility|n|n|c00838B8BLight boots made from spider skin that tingles your senses"
 Description=""
 [I04Z]
 Name="Sobi Mask"
 Tip=""
-Ubertip="+50% Mana Regeneration |n|n|c00838B8BA common mask used by Mages and Warlocks for various rituals"
+Ubertip=" +50% Mana Regeneration|n|n|c00838B8BA common mask used by Mages and Warlocks for various rituals"
 Description=""
 [I050]
 Name="Staff of Wizardry"
 Tip=""
-Ubertip="+10 Intelligence |n|n|c00838B8BYou shall not pass!!"
+Ubertip=" +10 Intelligence|n|n|c00838B8BYou shall not pass!!"
 Description=""
 [I051]
 Name="Stout Shield (melee)"
 Tip=""
-Ubertip="+60% chance to block 20 damage |n|n|c00838B8BOne man's wine barrel bottom is another man's shield!"
+Ubertip=" +60% chance to block 20 damage|n|n|c00838B8BOne man's wine barrel bottom is another man's shield!"
 Description=""
 [I052]
 Name="Ultimate Orb"
 Tip=""
-Ubertip="+10 All Attributes |n|n|c00838B8BA mystical orb containing the essence of life"
+Ubertip=" +10 All Attributes|n|n|c00838B8BA mystical orb containing the essence of life"
 Description=""
 [I053]
 Name="Vitality Booster"
 Tip=""
-Ubertip="+250 Hit Points |n|n|c00838B8BMinie"
+Ubertip=" +250 HP|n|n|c00838B8BMinie"
 Description=""
 [I054]
 Name="Void Stone"
 Tip=""
-Ubertip="+100% Mana Regeneration |n|n|c00838B8BA stone of seemingly endless inner power"
+Ubertip=" +100% Mana Regeneration|n|n|c00838B8BA stone of seemingly endless inner power"
 Description=""
 [I055]
 Name="Javelin"
 Tip=""
-Ubertip="+21 Damage |n20% chance to deal 40 bonus damage |n|n|c00838B8BA rather typical spear that can sometimes pierce through an enemy's armor when used to attack"
+Ubertip=" +21 Damage|n 20% chance to deal 40 bonus damage|n|n|c00838B8BA rather typical spear that can sometimes pierce through an enemy's armor when used to attack"
 Description=""
 [I042]
 Name="Clarity Potion"
@@ -670,38 +670,38 @@ Description=""
 [I05C]
 Name="Ancient Tango of Essifation"
 Tip=""
-Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 4 charges. |n|n|c00838B8BUser may experience dependence after prolonged usage"
+Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 4 charges.|n|n|c00838B8BUser may experience dependence after prolonged usage"
 Description=""
 [IZ0G]
 Name="Ancient Tango of Essifation"
 Tip=
-Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 4 charges. |n|n|c00838B8BUser may experience dependence after prolonged usage"
+Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 4 charges.|n|n|c00838B8BUser may experience dependence after prolonged usage"
 Description=
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
 [I05D]
 Name="Clarity Potion"
 Tip=""
-Ubertip="Regenerates 135 mana over 40 seconds when used. Dispels on attack. |n|n|c00838B8BA live wisp is captured in each bottle"
+Ubertip="Regenerates 135 mana over 40 seconds when used. Dispels on attack.|n|n|c00838B8BA live wisp is captured in each bottle"
 Description=""
 [I05F]
 Name="Healing Salve"
 Tip=""
-Ubertip="Heals 400 HP over 10 seconds on a friendly unit.  1 Charge.  Dispels on attack. |n|n|c00838B8BA magical salve that can quickly mend even the deepest of wounds."
+Ubertip="Heals 400 HP over 10 seconds on a friendly unit. 1 Charge. Dispels on attack.|n|n|c00838B8BA magical salve that can quickly mend even the deepest of wounds."
 Description=""
 [I05G]
 Name="Observer Wards"
 Tip=""
-Ubertip="Drops an Observer Ward to spy upon an area. Does not have True Sight. |nLasts 7 minutes. "
+Ubertip="Drops an Observer Ward to spy upon an area. Does not have True Sight.|nLasts 7 minutes."
 Description=""
 [I05H]
 Name="Sentry Wards"
 Tip=""
-Ubertip="Drops a Sentry Ward which gives truesight, revealing nearby invisible units. Has very limited natural vision by itself. |nLasts 4 minutes. "
+Ubertip="Drops a Sentry Ward which gives truesight, revealing nearby invisible units and wards. Has very limited natural vision by itself.|nLasts 4 minutes."
 Description=""
 [I05I]
 Name="Scroll of Town Portal"
 Tip=""
-Ubertip="Transports you to a friendly structure. |n|n|cff99ccffCooldown: |r 65 seconds. "
+Ubertip="Transports you to a friendly structure.|n|n|cff99ccffCooldown: |r 65"
 Description=""
 [I05J]
 Name="Animal Courier"
@@ -746,37 +746,37 @@ Description=""
 [I05R]
 Name="Headdress of Rejuvenation Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+2 Agility |n+2 Intelligence |n+2 Strength  |n+3 HP/second regen aura |n|cffffcc00Requires:|r |nRing of Regeneration |nIronwood Branch"
+Ubertip="|cffffcc00Gives:|r|n +2 Agility|n +2 Intelligence|n +2 Strength|n +3 HP/second Regeneration aura|n|n|cffffcc00Requires:|r|n Ring of Regeneration|n Ironwood Branch"
 Description=""
 [I05S]
 Name="Nathrezim Buckler Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+5 Armor |n+2 All Stats |nArea bonus armor (active) |n|cffffcc00Requires:|r |nChainmail |nIronwood Branch"
+Ubertip="|cffffcc00Gives:|r|n +5 Armor|n +2 All Attributes|n Area bonus armor (active)|n|n|cffffcc00Requires:|r|n Chainmail|n Ironwood Branch"
 Description=""
 [I05T]
 Name="Boots of Travel Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+100 movement speed |nTeleport to friendly non-hero unit (active) |n|cffffcc00Requires:|r |nBoots of Speed |n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
+Ubertip="|cffffcc00Gives:|r|n +100 Movement Speed|n Teleport to friendly non-hero unit (active)|n|n|cffffcc00Requires:|r|n Boots of Speed|n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
 Description=""
 [I05U]
 Name="Hand of Midas Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+30% Attack Speed |nTransmute (active) |n|cffffcc00Requires:|r |nGloves of Haste"
+Ubertip="|cffffcc00Gives:|r|n +30% Attack Speed|n Transmute (active)|n|n|cffffcc00Requires:|r|n Gloves of Haste"
 Description=""
 [I05V]
 Name="Bracer Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +3 Agility |n +3 Intelligence |n +6 Strength |n +3 Damage |n|n|cffffcc00Requires:|r |n Circlet of Nobility - 185 |n Gauntlets of Strength - 150  |n Recipe - 190|r  |n|n|c00838B8B Total Cost: 525"
+Ubertip="|cffffcc00Gives:|r|n +3 Agility|n +3 Intelligence|n +6 Strength|n +3 Damage|n|n|cffffcc00Requires:|r|n Circlet of Nobility - 185|n Gauntlets of Strength - 150|n Recipe - 190|r|n|n|c00838B8B Total Cost: 525"
 Description=""
 [I05W]
 Name="Wraith Band Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +6 Agility |n +3 Intelligence |n +3 Strength |n +3 Damage |n|n|cffffcc00Requires:|r |n Circlet of Nobility - 185 |n Slippers of Agility - 150  |n Recipe - 150 |n|n|c00838B8B Total Cost: 485"
+Ubertip="|cffffcc00Gives:|r|n +6 Agility|n +3 Intelligence|n +3 Strength|n +3 Damage|n|n|cffffcc00Requires:|r|n Circlet of Nobility - 185|n Slippers of Agility - 150|n Recipe - 150|n|n|c00838B8B Total Cost: 485"
 Description=""
 [I05X]
 Name="Null Talisman Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +3 Agility |n +6 Intelligence |n +3 Strength |n +3 Damage |n|n|cffffcc00Requires:|r |n Circlet of Nobility - 185 |n Mantle of Intelligence - 150  |n Recipe - 135 |n|n|c00838B8B Total Cost: 470"
+Ubertip="|cffffcc00Gives:|r|n +3 Agility|n +6 Intelligence|n +3 Strength|n +3 Damage|n|n|cffffcc00Requires:|r|n Circlet of Nobility - 185|n Mantle of Intelligence - 150|n Recipe - 135|n|n|c00838B8B Total Cost: 470"
 Description=""
 [I02U]
 Name="Power Treads (Strength)"
@@ -786,12 +786,12 @@ Description=""
 [I05Y]
 Name="Power Treads (Strength)"
 Tip=""
-Ubertip="Name brand sneakers. Increases movement speed by 50, strength by 8 and attack speed by 30. Click to change form. |n|n|c00ff0303Movement Speed does not stack with other boot items.|r |n|n|c00ff0303Cannot carry more than one|r"
+Ubertip="Name brand sneakers. Increases movement speed by 50, strength by 8 and attack speed by 30. Click to change form.|n|n|c00ff0303Movement Speed does not stack with other boot items.|r|n|n|c00ff0303Cannot carry more than one|r"
 Description=""
 [I05Z]
 Name="Power Treads (Intelligence)"
 Tip=""
-Ubertip="Name brand sneakers. Increases movement speed by 50, intelligence by 8 and attack speed by 30. Click to change form. |n|n|c00ff0303Movement Speed does not stack with other boot items.|r |n|n|c00ff0303Cannot carry more than one|r"
+Ubertip="Name brand sneakers. Increases movement speed by 50, intelligence by 8 and attack speed by 30. Click to change form.|n|n|c00ff0303Movement Speed does not stack with other boot items.|r|n|n|c00ff0303Cannot carry more than one|r"
 Description=""
 [I060]
 Name="Power Treads (Intelligence)"
@@ -806,12 +806,12 @@ Description=""
 [I062]
 Name="Perseverance"
 Tip=""
-Ubertip="A gem that grants heart to the bearer.  Gives 125% enhanced mana regeneration, 5 hit point regeneration per second, and +10 damage. "
+Ubertip="A gem that grants heart to the bearer. Gives 125% enhanced mana regeneration, 5 hit point regeneration per second, and +10 damage."
 Description=""
 [I063]
 Name="Headdress of Rejuvenation"
 Tip=""
-Ubertip="Creates a soothing aura that restores hit points for nearby units.  Gives +2 to all stats and heals all allies in area for 3 hit points per second."
+Ubertip="Creates a soothing aura that restores hit points for nearby units. Gives +2 to all stats and heals all allies in area for 3 hit points per second."
 Description=""
 [I064]
 Name="Headdress of Rejuvenation"
@@ -826,12 +826,12 @@ Description=""
 [I066]
 Name="Nathrezim Buckler"
 Tip=""
-Ubertip="A powerful shield that imbues the bearer with the strength of heroes past, giving +5 armor, +2 All Stats and, when activated, gives 2 bonus armor to nearby allied units.|n|n|cff99ccffCooldown: |r 25 seconds."
+Ubertip="A powerful shield that imbues the bearer with the strength of heroes past, giving +5 armor, +2 All Stats and, when activated, gives 2 bonus armor to nearby allied units.|n|n|cff99ccffCooldown: |r 25"
 Description=""
 [I067]
 Name="Ring of Basilius (|cff00ff00Normal|r)"
 Tip=""
-Ubertip="Ring given as a reward to the greatest Mages of the Alliance during the Second War. Grants a 0.65 Brilliance Aura, a +2 Devotion Aura, +1 armor and 6 damage. Click this to convert it to a hero only armor aura. "
+Ubertip="Ring given as a reward to the greatest Mages of the Alliance during the Second War. Grants a 0.65 Brilliance Aura, a +2 Devotion Aura, +1 armor and 6 damage. Click this to convert it to a hero only armor aura."
 Description=""
 [I068]
 Name="Ring of Basilius"
@@ -851,7 +851,7 @@ Description=""
 [I06B]
 Name="Boots of Travel"
 Tip=""
-Ubertip="Boots that are enchanted by the fairy magic. Increases movement speed by 100 and allows the hero to Teleport to a friendly non-hero unit. |n|n|cff99ccffCooldown: |r 60 seconds. |n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
+Ubertip="Boots that are enchanted by the fairy magic. Increases movement speed by 100 and allows the hero to Teleport to a friendly non-hero unit.|n|n|cff99ccffCooldown: |r 60|n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
 Description=""
 [I06C]
 Name="Boots of Travel"
@@ -861,7 +861,7 @@ Description=""
 [I06D]
 Name="Hand of Midas"
 Tip=""
-Ubertip="Preserved through unknown magical means, the Hand of Midas still retains much of its original potency.  Grants +30% increased attack speed, and the ability to instantly turn creeps into 190 gold. |n|n|cff99ccffCooldown: |r 100 seconds."
+Ubertip="Preserved through unknown magical means, the Hand of Midas still retains much of its original potency. Grants +30% increased attack speed, and the ability to instantly turn creeps into 190 gold.|n|n|cff99ccffCooldown: |r 100"
 Description=""
 [I06E]
 Name="Hand of Midas"
@@ -871,7 +871,7 @@ Description=""
 [I06F]
 Name="Oblivion Staff"
 Tip=""
-Ubertip="A quarterstaff created by the master weaponsmith, Jax.  Deceptively hidden as an ordinary quarterstaff.  Adds 10% attack speed, 75% mana regeneration, +6 intelligence, and +15 damage."
+Ubertip="A quarterstaff created by the master weaponsmith, Jax. Deceptively hidden as an ordinary quarterstaff. Adds 10% attack speed, 75% mana regeneration, +6 intelligence, and +15 damage."
 Description=""
 [I06G]
 Name="Oblivion Staff"
@@ -901,7 +901,7 @@ Description=""
 [I06L]
 Name="Null Talisman"
 Tip=""
-Ubertip="A small gemstone attached to several chains. Gives +3 damage, +3 to all attributes and an additional +3 to intelligence. |n|n|c00838B8BAllows dividing by zero"
+Ubertip="A small gemstone attached to several chains. Gives +3 damage, +3 to all attributes and an additional +3 to intelligence.|n|n|c00838B8BAllows dividing by zero"
 Description=""
 [I06M]
 Name="Null Talisman"
@@ -916,12 +916,12 @@ Description=""
 [I06O]
 Name="Yasha Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+16 Agility |n+15 Attack Speed |n10% Movement Speed |n|cffffcc00Requires:|r |nBlade of Alacrity |nBoots of Elvenskin"
+Ubertip="|cffffcc00Gives:|r|n +16 Agility|n +15 Attack Speed|n +10% Movement Speed|n|n|cffffcc00Requires:|r|n Blade of Alacrity|n Boots of Elvenskin"
 Description=""
 [I06P]
 Name="Sange Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+16 Strength |n+15% Lesser Maim (passive) |n+10 Damage |n|cffffcc00Requires:|r |nOgre Axe |nBelt of Giant Strength"
+Ubertip="|cffffcc00Gives:|r|n +16 Strength|n +15% Lesser Maim (passive)|n +10 Damage|n|n|cffffcc00Requires:|r|n Ogre Axe|n Belt of Giant Strength"
 Description=""
 [I06Q]
 Name="Sange Recipe"
@@ -936,7 +936,7 @@ Description=""
 [I06S]
 Name="Cranium Basher Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+40 damage |n+6 Strength |nBash (25% for melee, 10% for range) |n|n|cffffcc00Requires:|r |n Javelin - 1500 |n Belt of Giant Strength - 450  |n Recipe - 1000 |n|n|c00838B8B Total Cost: 2950 |n|n|c00ff0303Does not stack with other bash passives|r"
+Ubertip="|cffffcc00Gives:|r|n +40 Damage|n +6 Strength|n Bash (25% for melee, 10% for range)|n|n|cffffcc00Requires:|r|n Javelin - 1500|n Belt of Giant Strength - 450|n Recipe - 1000|n|n|c00838B8B Total Cost: 2950|n|n|c00ff0303Does not stack with other bash passives|r"
 Description=""
 [I06T]
 Name="Blade Mail Recipe"
@@ -946,12 +946,12 @@ Description=""
 [I06U]
 Name="Blade Mail Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+5 armor |n+15 damage |nMelee damage return |n|cffffcc00Requires:|r |nBlades of Attack |nChainmail"
+Ubertip="|cffffcc00Gives:|r|n +5 Armor|n +15 Damage|n Melee damage return|n|n|cffffcc00Requires:|r|n Blades of Attack|n Chainmail"
 Description=""
 [I06V]
 Name="Maelstrom Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+24 damage |n+25 Attack Speed |nChain Lightning (orb, passive) |n|cffffcc00Requires:|r |nMithril Hammer |nGloves of Haste |n|n|c00ff0303Orb effects do not stack|r"
+Ubertip="|cffffcc00Gives:|r|n +24 Damage|n +25 Attack Speed|n Chain Lightning (passive)|n|n|cffffcc00Requires:|r|n Mithril Hammer|n Gloves of Haste"
 Description=""
 [I06W]
 Name="Maelstrom Recipe"
@@ -966,12 +966,12 @@ Description=""
 [I06Y]
 Name="Diffusal Blade Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+25 Agility |n+6 Intelligence |nFeedback (orb, passive) |nPurge (charged, active) |n|cffffcc00Requires:|r |n2x Blade of Alacrity |nRobe of the Magi |n|n|c00ff0303Orb effects do not stack|r |n|c00fffc01Buy recipe to upgrade (2 levels)|r"
+Ubertip="|cffffcc00Gives:|r|n +25 Agility|n +6 Intelligence|n Feedback (passive)|n Purge (charged, active)|n|n|cffffcc00Requires:|r|n 2x Blade of Alacrity|n Robe of the Magi|n|n|c00fffc01Buy recipe to upgrade (2 levels)|r"
 Description=""
 [I06Z]
 Name="Mask of Madness Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n20% Lifesteal (orb, passive) |nBerserk (active) |n|cffffcc00Requires:|r |nMask of Death|n|n|c00ff0303Orb effects do not stack|r"
+Ubertip="|cffffcc00Gives:|r|n +20% Lifesteal (orb, passive)|n Berserk (active)|n|n|cffffcc00Requires:|r|n Mask of Death|n|n|c00ff0303Orb effects do not stack|r"
 Description=""
 [I070]
 Name="Mask of Madness Recipe"
@@ -986,12 +986,12 @@ Description=""
 [I072]
 Name="Eul's Scepter of Divinity Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+10 Intelligence |n+150% Mana regen |n+35 Movement Speed|nCyclone (active) |n|cffffcc00Requires:|r |nStaff of Wizardry |nSobi Mask |nVoid Stone"
+Ubertip="|cffffcc00Gives:|r|n +10 Intelligence|n +150% Mana Regeneration|n +40 Movement Speed|n Cyclone (active)|n|n|cffffcc00Requires:|r|n Staff of Wizardry|n Sobi Mask|n Void Stone"
 Description=""
 [I073]
 Name="Mekansm Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+5 to all stats |n+5 armor |n+4 HP regen aura |n+2 armor/250hp AoE (active). |n|cffffcc00Requires:|r |nHeaddress of Rejuvenation (Supportive Vestments) |nNathrezim Buckler (Supportive Vestments) "
+Ubertip="|cffffcc00Gives:|r|n +5 All Attributes|n +5 Armor|n +4 HP Regeneration aura|n +2 Armor/250HP AoE (active).|n|n|cffffcc00Requires:|r|n Headdress of Rejuvenation (Supportive Vestments)|n Nathrezim Buckler (Supportive Vestments)"
 Description=""
 [I074]
 Name="Mekansm Recipe"
@@ -1121,112 +1121,112 @@ Description=""
 [I07U]
 Name="Sange and Yasha Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+16 Agility |n+16 Strength  |n+15% Greater Maim (passive)  |n+15 Attack Speed |n+12 Damage  |n+12% Movement Speed |n|cffffcc00Requires:|r |nSange (level 2 shop) |nYasha (level 2 shop) "
+Ubertip="|cffffcc00Gives:|r|n +16 Agility|n +16 Strength|n +15% Greater Maim (passive)|n +15 Attack Speed|n +12 Damage|n +12% Movement Speed|n|n|cffffcc00Requires:|r|n Sange (level 2 shop)|n Yasha (level 2 shop)"
 Description=""
 [I07V]
 Name="Stygian Desolator Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +60 damage |n Corruption (orb, passive)|n |n|cffffcc00Requires:|r |n 2x Mithril Hammers - 3200  |n Recipe - 900 |n|n|c00838B8B Total Cost: 4100 |n|n|c00ff0303Orb effects do not stack|r |n|cff99ccffBuff placers do not stack|r"
+Ubertip="|cffffcc00Gives:|r|n +60 Damage|n Corruption (orb, passive)|n|n|cffffcc00Requires:|r|n 2x Mithril Hammers - 3200|n Recipe - 900|n|n|c00838B8B Total Cost: 4100|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffBuff placers do not stack|r"
 Description=""
 [I07W]
 Name="Crystalys Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+30 damage |n20% Critical Strike (1.75x) |n|cffffcc00Requires:|r |nBroadsword |nBlades of Attack"
+Ubertip="|cffffcc00Gives:|r|n +30 Damage|n 20% Critical Strike (1.75x)|n|n|cffffcc00Requires:|r|n Broadsword|n Blades of Attack"
 Description=""
 [I07X]
 Name="Black King Bar Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+10 Strength |n+24 damage |nAvatar (active) |n|cffffcc00Requires:|r |nOgre Axe |nMithril Hammer"
+Ubertip="|cffffcc00Gives:|r|n +10 Strength|n +24 Damage|n Avatar (active)|n|n|cffffcc00Requires:|r|n Ogre Axe|n Mithril Hammer"
 Description=""
 [I07Y]
 Name="Manta Style Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+26 Agility |n+10 Strength |n+10 Intelligence |n+15 Attack Speed |n10% Movement Speed |nMirror Image (active) |n|cffffcc00Requires:|r |nYasha (Enchanted Artifacts) |nUltimate Orb |n|n|c00fffc01Can be disassembled|r "
+Ubertip="|cffffcc00Gives:|r|n +26 Agility|n +10 Strength|n +10 Intelligence|n +15 Attack Speed|n +10% Movement Speed|n Mirror Image (active)|n|n|cffffcc00Requires:|r|n Yasha (Enchanted Artifacts)|n Ultimate Orb|n|n|c00fffc01Can be disassembled|r"
 Description=""
 [I07Z]
 Name="Lothar's Edge Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+38 Damage |n+10 Attack Speed |nWind Walk (active) |n|cffffcc00Requires:|r |nClaymore |nQuarterstaff"
+Ubertip="|cffffcc00Gives:|r|n +38 Damage|n +10 Attack Speed|n Wind Walk (active)|n|n|cffffcc00Requires:|r|n Claymore|n Quarterstaff"
 Description=""
 [I080]
 Name="Dagon Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +13 Intelligence |n +9 damage |n +3 All Stats |n Energy Burst (active) |n|n|cffffcc00Requires:|r |n Staff of Wizardry - 1000 |n Null Talisman - 470 (Gateway Relics)  |n Recipe - 1250  |n|n|c00838B8B Total Cost: 2720/3970/5220/6470/7720 |n|n|c00fffc01Buy recipe to upgrade (5 levels)|r"
+Ubertip="|cffffcc00Gives:|r|n +13 Intelligence|n +9 Damage|n +3 All Attributes|n Energy Burst (active)|n|n|cffffcc00Requires:|r|n Staff of Wizardry - 1000|n Null Talisman - 470 (Gateway Relics)|n Recipe - 1250|n|n|c00838B8B Total Cost: 2720/3970/5220/6470/7720|n|n|c00fffc01Buy recipe to upgrade (5 levels)|r"
 Description=""
 [I081]
 Name="Necronomicon Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+15 Intelligence |n+8 Strength |nDemonic Summoning (active) |n|cffffcc00Requires:|r |nStaff of Wizardry|nBelt Of Giant Strength|n|n|c00fffc01Buy recipe to upgrade (3 levels)|r |n"
+Ubertip="|cffffcc00Gives:|r|n +15 Intelligence|n +8 Strength|n Demonic Summoning (active)|n|n|cffffcc00Requires:|r|n Staff of Wizardry|n Belt Of Giant Strength|n|n|c00fffc01Buy recipe to upgrade (3 levels)|r"
 Description=""
 [I082]
 Name="Linken's Sphere Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n Blocks most targeted spells once every 20 seconds|n +6 HP regen/second |n +150% mana regen |n +15 Agility |n +15 Intelligence |n +15 Strength |n +10 Damage |n|n|cffffcc00Requires:|r |n Perseverance - 1750 (Gateway Relics) |n Ultimate Orb - 2100  |n Recipe - 1325 |n|n|c00838B8B Total Cost: 5175"
+Ubertip="|cffffcc00Gives:|r|n Blocks most targeted spells once every 17 seconds|n +6 HP Regeneration/second|n +150% Mana Regeneration|n +15 Agility|n +15 Intelligence|n +15 Strength|n +10 Damage|n|n|cffffcc00Requires:|r|n Perseverance - 1750 (Gateway Relics)|n Ultimate Orb - 2100|n Recipe - 1325|n|n|c00838B8B Total Cost: 5175"
 Description=""
 [I083]
 Name="Buriza-do Kyanon Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+81 damage |n25% Critical Strike (2.4x) |n|cffffcc00Requires:|r |nDemon Edge |nCrystalys (Ancient Weaponry)"
+Ubertip="|cffffcc00Gives:|r|n +81 Damage|n 25% Critical Strike (2.4x)|n|n|cffffcc00Requires:|r|n Demon Edge|n Crystalys (Ancient Weaponry)"
 Description=""
 [I07F]
 Name="Radiance Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+65 damage |nDamages all nearby opponents (passive) |n|cffffcc00Requires:|r |nSacred Relic"
+Ubertip="|cffffcc00Gives:|r|n +65 Damage|n Damages all nearby opponents (passive)|n|n|cffffcc00Requires:|r|n Sacred Relic"
 Description=""
 [I084]
 Name="Heart of Tarrasque Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+40 Strength |n+2% HP regen |n+300 HP |n|cffffcc00Requires:|r |nMesserschmidt's Reaver |nVitality Booster"
+Ubertip="|cffffcc00Gives:|r|n +40 Strength|n +2% HP Regeneration|n +300 HP|n|n|cffffcc00Requires:|r|n Messerschmidt's Reaver|n Vitality Booster"
 Description=""
 [I085]
 Name="Satanic Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n25% lifesteal (orb, passive) |nUnholy Rage (active) |n+25 Strength |n+20 Damage |n+5 armor |n|cffffcc00Requires:|r |nHelm of the Dominator (Enchanted Artifacts) |nMesserschmidt's Reaver |n|n|c00ff0303Orb effects do not stack|r"
+Ubertip="|cffffcc00Gives:|r|n +25% Lifesteal (orb, passive)|n Unholy Rage (active)|n +25 Strength|n +20 Damage|n +5 Armor|n|n|cffffcc00Requires:|r|n Helm of the Dominator (Enchanted Artifacts)|n Messerschmidt's Reaver|n|n|c00ff0303Orb effects do not stack|r"
 Description=""
 [I086]
 Name="Eye of Skadi Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +25 Agility |n +25 Intelligence |n +25 Strength |n +25 Damage |n +200 HP |n +150 mana  |n Cold Attack (orb,passive) |n|n|cffffcc00Requires:|r |n 2 Ultimate Orbs - 4200  |n Point Booster - 1200 |n Orb of Venom - 600  |n Recipe - 300 |n|n|c00838B8B Total Cost: 6300 |n|n|c00ff0303Orb effects do not stack (melee)|r|n|cff99ccffBuff placers do not stack|r"
+Ubertip="|cffffcc00Gives:|r|n +25 Agility|n +25 Intelligence|n +25 Strength|n +25 Damage|n +200 HP|n +150 Mana|n Cold Attack (orb,passive)|n|n|cffffcc00Requires:|r|n 2 Ultimate Orbs - 4200|n Point Booster - 1200|n Orb of Venom - 600|n Recipe - 300|n|n|c00838B8B Total Cost: 6300|n|n|c00ff0303Orb effects do not stack (melee)|r|n|n|cff99ccffBuff placers do not stack|r"
 Description=""
 [I087]
 Name="The Butterfly Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+30 Agility |n+30 Damage |n+30% Attack Speed |n+35% Evasion |n|cffffcc00Requires:|r |nEaglehorn |nQuarterstaff"
+Ubertip="|cffffcc00Gives:|r|n +30 Agility|n +30 Damage|n +30% Attack Speed|n +35% Evasion|n|n|cffffcc00Requires:|r|n Eaglehorn|n Quarterstaff"
 Description=""
 [I088]
 Name="Refresher Orb Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +5 HP regen/second |n +200% mana regen |n +40 damage |n +6 Intelligence |n +10 Attack Speed |n Resets cooldowns (active) |n|n|cffffcc00Requires:|r |n Oblivion Staff - 1675 (Gateway Relics) |n Perseverance - 1750 (Gateway Relics)  |n Recipe - 1875  |n|n|c00838B8B Total Cost: 5300"
+Ubertip="|cffffcc00Gives:|r|n +5 HP Regeneration/second|n +200% Mana Regeneration|n +40 Damage|n +6 Intelligence|n +10 Attack Speed|n Resets cooldowns (active)|n|n|cffffcc00Requires:|r|n Oblivion Staff - 1675 (Gateway Relics)|n Perseverance - 1750 (Gateway Relics)|n Recipe - 1875|n|n|c00838B8B Total Cost: 5300"
 Description=""
 [I089]
 Name="Arcane Ring Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+4 Armor |n+300 Mana |nReplenish Mana (active) |n|cffffcc00Requires:|r |nEnergy Booster |nRing of Protection "
+Ubertip="|cffffcc00Gives:|r|n +4 Armor|n +300 Mana|n Replenish Mana (active)|n|n|cffffcc00Requires:|r|n Energy Booster|n Ring of Protection"
 Description=""
 [I08A]
 Name="Flying Courier Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |nPowerful Flying Courier |n|cffffcc00Requires:|r |nAnimal Courier "
+Ubertip="|cffffcc00Gives:|r|n Powerful Flying Courier|n|n|cffffcc00Requires:|r|n Animal Courier"
 Description=""
 [I08B]
 Name="Vladmir's Offering Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +16% Lifesteal Aura (|c00ff0303melee|r)   |n +15% Damage Aura  |n +0.80 Brilliance Aura |n +5 Devotion Aura |n +2 HP Regeneration  |n|n|cffffcc00Requires:|r |n Ring of Basilius - 500 (Supportive Vestments) |n Mask of Death - 900 |n Ring of Regeneration - 350 |n Recipe - 300 |n|n|c00838B8B Total Cost: 2050"
+Ubertip="|cffffcc00Gives:|r|n +16% Lifesteal Aura (|c00ff0303melee|r)|n +15% Damage Aura|n +0.80 Brilliance Aura|n +5 Devotion Aura|n +2 HP Regeneration|n|n|cffffcc00Requires:|r|n Ring of Basilius - 500 (Supportive Vestments)|n Mask of Death - 900|n Ring of Regeneration - 350|n Recipe - 300|n|n|c00838B8B Total Cost: 2050"
 Description=""
 [I08C]
 Name="Assault Cuirass Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+10 Armor |n+5 Armor Aura |n-5 Armor Aura |n+35% Attack Speed |n+20% Attack Speed Aura |n|cffffcc00Requires:|r |nPlate Mail |nHyperstone |nChainmail"
+Ubertip="|cffffcc00Gives:|r|n +10 Armor|n +5 Armor Aura|n -5 Armor Aura|n +35% Attack Speed|n +20% Attack Speed Aura|n|n|cffffcc00Requires:|r|n Plate Mail|n Hyperstone|n Chainmail"
 Description=""
 [I08D]
 Name="Armlet of Mordiggian Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +9 damage |n +15 Attack Speed |n +5 Armor |n +7 hp regen |n Unholy Strength (active) |n|n|cffffcc00Requires:|r |n Helm of Iron Will - 950 |n Gloves of Haste - 500 |n Blades of Attack - 450 |n Recipe - 700|r |n|n|c00838B8B Total Cost: 2600 |n|n|c00ff0303Cannot carry more than one|r"
+Ubertip="|cffffcc00Gives:|r|n +9 Damage|n +15 Attack Speed|n +5 Armor|n +7 HP Regeneration|n Unholy Strength (active)|n|n|cffffcc00Requires:|r|n Helm of Iron Will - 950|n Gloves of Haste - 500|n Blades of Attack - 450|n Recipe - 700|r|n|n|c00838B8B Total Cost: 2600|n|n|c00ff0303Cannot carry more than one|r"
 Description=""
 [I08E]
 Name="Shiva's Guard Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+30 Intelligence |n+15 Armor |nFreezing Aura  |nArctic Blast (active) |n|cffffcc00Requires:|r |nPlate Mail |nMystic Staff  |n|n|c00fffc01Can be disassembled|r "
+Ubertip="|cffffcc00Gives:|r|n +30 Intelligence|n +15 Armor|n Freezing Aura|n Arctic Blast (active)|n|n|cffffcc00Requires:|r|n Plate Mail|n Mystic Staff|n|n|c00fffc01Can be disassembled|r"
 Description=""
 [I08F]
 Name="Yasha"
@@ -1241,7 +1241,7 @@ Description=""
 [I08H]
 Name="Sange"
 Tip=""
-Ubertip="Sange is an unusually accurate weapon.  Magically intelligent, it seeks weak points automatically.  Gives +16 to strength, +10 damage and a 15% chance on hit to maim the target, reducing movement and attack speed."
+Ubertip="Sange is an unusually accurate weapon. Magically intelligent, it seeks weak points automatically. Gives +16 to strength, +10 damage and a 15% chance on hit to maim the target, reducing movement and attack speed."
 Description=""
 [I08I]
 Name="Sange"
@@ -1256,12 +1256,12 @@ Description=""
 [I08K]
 Name="Cranium Basher"
 Tip=""
-Ubertip="A powerful weapon, used to bash skulls in. Adds 40 damage, +6 Strength, and has a 25% (10% for ranged) chance to Bash for 1.4 seconds. Has a 2 second cooldown. |n|n|c00ff0303Does not stack with other bash passives|r"
+Ubertip="A powerful weapon, used to bash skulls in. Adds 40 damage, +6 Strength, and has a 25% (10% for ranged) chance to Bash for 1.4 seconds. Has a 2 second cooldown.|n|n|c00ff0303Does not stack with other bash passives|r"
 Description=""
 [I08L]
 Name="Cranium Basher (Ranged)"
 Tip=""
-Ubertip="A powerful weapon, used to bash skulls in. Adds 40 damage, +6 Strength, and has a 25% (10% for ranged) chance to Bash for 1.4 seconds. Has a 2 second cooldown. |n|n|c00ff0303Does not stack with other bash passives|r"
+Ubertip="A powerful weapon, used to bash skulls in. Adds 40 damage, +6 Strength, and has a 25% (10% for ranged) chance to Bash for 1.4 seconds. Has a 2 second cooldown.|n|n|c00ff0303Does not stack with other bash passives|r"
 Description=""
 [I08M]
 Name="Cranium Basher (Ranged)"
@@ -1276,12 +1276,12 @@ Description=""
 [I08O]
 Name="Blade Mail"
 Tip=""
-Ubertip="Invented by the Burning Legion, this razor-sharp coat of mail increases attack damage by 22, armor by 6 and intelligence by 10 when worn. When activated, any damage you take will be returned to enemy units. Lasts 4.5 seconds |n|n|cff99ccffCooldown: |r 17 |n|n|c00838B8BServes as great company for those long respawn times "
+Ubertip="Invented by the Burning Legion, this razor-sharp coat of mail increases attack damage by 22, armor by 6 and intelligence by 10 when worn. When activated, any damage you take will be returned to enemy units. Lasts 4.5 seconds|n|n|cff99ccffCooldown: |r 17|n|n|c00838B8BServes as great company for those long respawn times"
 Description=""
 [I08P]
 Name="Maelstrom"
 Tip=""
-Ubertip="A hammer forged for the gods themselves, Maelstrom allows its user to harness the power of lightning when attacking.  Gives +24 damage, +25 attack speed and a 25% chance to release a 120 damage Chain Lightning. |n|n|c00ff0303Orb effects do not stack|r"
+Ubertip="A hammer forged for the gods themselves, Maelstrom allows its user to harness the power of lightning when attacking. Gives +24 damage, +25 attack speed and a 25% chance to release a 120 damage Chain Lightning."
 Description=""
 [I08Q]
 Name="Maelstrom"
@@ -1291,7 +1291,7 @@ Description=""
 [I08R]
 Name="Diffusal Blade Level 1"
 Tip=""
-Ubertip="An enchanted blade that allows the user to cut straight into the enemy's soul. Adds 25 Agility, 6 Intelligence and Feedback (burns 20 mana) and can cast Purge. |n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 8"
+Ubertip="An enchanted blade that allows the user to cut straight into the enemy's soul. Adds 25 Agility, 6 Intelligence and Feedback (burns 20 mana) and can cast Purge.|n|n|cff99ccffCooldown: |r 8"
 Description=""
 [I08S]
 Name="Diffusal Blade Level 1"
@@ -1301,7 +1301,7 @@ Description=""
 [I08T]
 Name="Helm of the Dominator"
 Tip=""
-Ubertip="The powerful headpiece of a dead necromancer.  Gives +5 armor, +20 damage, 15% life steal, and the ability to Dominate creeps.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 60"
+Ubertip="The powerful headpiece of a dead necromancer. Gives +5 armor, +20 damage, 15% life steal, and the ability to Dominate creeps.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 60"
 Description=""
 [I08U]
 Name="Helm of the Dominator"
@@ -1311,7 +1311,7 @@ Description=""
 [I08V]
 Name="Helm of the Dominator (Courier Edition)"
 Tip=""
-Ubertip="The powerful headpiece of a dead necromancer.  Gives +5 armor, +20 damage, 15% life steal, and the ability to Dominate creeps.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 60"
+Ubertip="The powerful headpiece of a dead necromancer. Gives +5 armor, +20 damage, 15% life steal, and the ability to Dominate creeps.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 60"
 Description=""
 [I08W]
 Name="Helm of the Dominator (Courier Edition)"
@@ -1326,12 +1326,12 @@ Description=""
 [I08Y]
 Name="Mask of Madness"
 Tip=""
-Ubertip="This Mask looks so strange that it drives you insane.  Grants 20% life steal and allows you to go Berserk.  The Berserk state adds 100% attack speed and 30% movement speed, but you take 30% extra damage.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 25"
+Ubertip="This Mask looks so strange that it drives you insane. Grants 20% life steal and allows you to go Berserk. The Berserk state adds 100% attack speed and 30% movement speed, but you take 30% extra damage.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 25"
 Description=""
 [I08Z]
 Name="Eul's Scepter of Divinity"
 Tip=""
-Ubertip="A very powerful relic, a reminder to us of the archaic age.  Grants the hero +10 Intelligence, +150% enhanced mana regeneration, +40 Movement Speed and Cyclone (2.5). |n|n|cff99ccffCooldown: |r 23"
+Ubertip="A very powerful relic, a reminder to us of the archaic age. Grants the hero +10 Intelligence, +150% enhanced mana regeneration, +40 Movement Speed and Cyclone (2.5).|n|n|cff99ccffCooldown: |r 23"
 Description=""
 [I090]
 Name="Eul's Scepter of Divinity"
@@ -1341,7 +1341,7 @@ Description=""
 [I091]
 Name="Soul Booster"
 Tip=""
-Ubertip="The crystalized Soul of an ancient dragon.  Gives 450 hit points, 400 mana, 100% enhanced mana regeneration and 4 hp regeneration. |n|n|c00838B8BMo"
+Ubertip="The crystalized Soul of an ancient dragon. Gives 450 hit points, 400 mana, 100% enhanced mana regeneration and 4 hp regeneration.|n|n|c00838B8BMo"
 Description=""
 [I092]
 Name="Soul Booster"
@@ -1351,7 +1351,7 @@ Description=""
 [I093]
 Name="Mekansm"
 Tip=""
-Ubertip="A glowing jewel formed out of assorted parts that somehow fit together perfectly, Mekansm protects its bearer from danger. Gives +5 to all stats, +5 armor, 4 HP regen aura and +2 armor/250hp AoE heal. Will only heal units that do not have the mekansm buff already.|n|n|cff99ccffCooldown: |r 45 seconds."
+Ubertip="A glowing jewel formed out of assorted parts that somehow fit together perfectly, Mekansm protects its bearer from danger. Gives +5 to all stats, +5 armor, 4 HP regen aura and +2 armor/250hp AoE heal. Will only heal units that do not have the mekansm buff already.|n|n|cff99ccffCooldown: |r 45"
 Description=""
 [I094]
 Name="Mekansm"
@@ -1361,7 +1361,7 @@ Description=""
 [I095]
 Name="Sange and Yasha"
 Tip=""
-Ubertip="Sange and Yasha, when attuned by the moonlight of Tir'nogth and used together, become a very powerful combination.  Gives +16 Agility, +16 Strength, +16 Attack Speed, 16% chance on hit to maim the target, +16 damage, and +16% movement speed. Movement bonus does not stack with Yasha. |n|n|c00fffc01Can be disassembled|r "
+Ubertip="Sange and Yasha, when attuned by the moonlight of Tir'nogth and used together, become a very powerful combination. Gives +16 Agility, +16 Strength, +16 Attack Speed, 16% chance on hit to maim the target, +16 damage, and +16% movement speed. Movement bonus does not stack with Yasha.|n|n|c00fffc01Can be disassembled|r"
 Description=""
 [I096]
 Name="Sange and Yasha"
@@ -1371,7 +1371,7 @@ Description=""
 [I097]
 Name="Stygian Desolator"
 Tip=""
-Ubertip="A wicked weapon, used in torturing political criminals.  It hungers for blood.  Adds +60 damage and reduces the armor of enemies you attack by 7. Works on structures. |n|n|c00ff0303Orb effects do not stack|r |n|cff99ccffBuff placers do not stack|r"
+Ubertip="A wicked weapon, used in torturing political criminals. It hungers for blood. Adds +60 damage and reduces the armor of enemies you attack by 7. Works on structures.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffBuff placers do not stack|r"
 Description=""
 [I098]
 Name="Stygian Desolator"
@@ -1381,7 +1381,7 @@ Description=""
 [I099]
 Name="Battle Fury"
 Tip=""
-Ubertip="The user becomes a powerful killing machine.  Gives 150% enhanced mana regeneration, 6 hit points regenerated per second, +65 Damage, and 35% Cleaving Attack."
+Ubertip="The user becomes a powerful killing machine. Gives 150% enhanced mana regeneration, 6 hit points regenerated per second, +65 Damage, and 35% Cleaving Attack."
 Description=""
 [I09A]
 Name="Battle Fury"
@@ -1396,12 +1396,12 @@ Description=""
 [I09C]
 Name="Crystalys"
 Tip=""
-Ubertip="Named after a decisive battle in the War of the Magi, in which the Rebels rescued Roshan from his imprisonment at Crystalys.  Adds 30 damage and has a 20% Critical Strike for 1.75x damage."
+Ubertip="Named after a decisive battle in the War of the Magi, in which the Rebels rescued Roshan from his imprisonment at Crystalys. Adds 30 damage and has a 20% Critical Strike for 1.75x damage."
 Description=""
 [I09D]
 Name="Black King Bar (6)"
 Tip=""
-Ubertip="A powerful rod imbued with the strength of giants.  Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 6 seconds. |n|n|cff99ccffCooldown: |r 60"
+Ubertip="A powerful rod imbued with the strength of giants. Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 6 seconds.|n|n|cff99ccffCooldown: |r 60"
 Description=""
 [I09E]
 Name="Black King Bar (8)"
@@ -1411,7 +1411,7 @@ Description=""
 [I09F]
 Name="Manta Style"
 Tip=""
-Ubertip="A funky looking axe that grants +26 Agility, +10 Strength, +10 Intelligence, +15 Attack Speed, +10% Movement Speed and allows you to create 2 illusions of yourself that deal 33% damage and receive 350% damage.|n|n|cff99ccffCooldown: |r 35 |n|n|c00fffc01Can be disassembled|r "
+Ubertip="A funky looking axe that grants +26 Agility, +10 Strength, +10 Intelligence, +15 Attack Speed, +10% Movement Speed and allows you to create 2 illusions of yourself that deal 33% damage and receive 350% damage.|n|n|cff99ccffCooldown: |r 35|n|n|c00fffc01Can be disassembled|r"
 Description=""
 [I09G]
 Name="Manta Style"
@@ -1421,7 +1421,7 @@ Description=""
 [I09H]
 Name="Lothar's Edge"
 Tip=""
-Ubertip="The legendary Lothar's blade that was dropped during the Second War. Grants +22 damage, +30 Attack Speed, and a 14 second Wind Walk (Grants invisibility with 150 backstab damage and +20% movement speed). |n|n|cff99ccffCooldown: |r 28"
+Ubertip="The legendary Lothar's blade that was dropped during the Second War. Grants +22 damage, +30 Attack Speed, and a 14 second Wind Walk (Grants invisibility with 150 backstab damage and +20% movement speed).|n|n|cff99ccffCooldown: |r 28"
 Description=""
 [I09I]
 Name="Lothar's Edge"
@@ -1436,27 +1436,27 @@ Description=""
 [I09L]
 Name="Dagon Level 5"
 Tip=""
-Ubertip="A lesser scepter that has been duplicated time and time again.  Gives +21 Intelligence, +9 damage, +3 to all stats, and a 800 damage Energy Burst.|n|n|cff99ccffCooldown: |r 15"
+Ubertip="A lesser scepter that has been duplicated time and time again. Gives +21 Intelligence, +9 damage, +3 to all stats, and a 800 damage Energy Burst.|n|n|cff99ccffCooldown: |r 15"
 Description=""
 [I09M]
 Name="Dagon Level 1"
 Tip=""
-Ubertip="A lesser scepter that has been duplicated time and time again.  Gives +13 Intelligence, +9 damage, +3 to all stats, and a 400 damage Energy Burst.  The Energy Burst can be upgraded by combining this Dagon and the Dagon recipe. Can be upgraded four more times.|n|n|cff99ccffCooldown: |r 35"
+Ubertip="A lesser scepter that has been duplicated time and time again. Gives +13 Intelligence, +9 damage, +3 to all stats, and a 400 damage Energy Burst. The Energy Burst can be upgraded by combining this Dagon and the Dagon recipe. Can be upgraded four more times.|n|n|cff99ccffCooldown: |r 35"
 Description=""
 [I09N]
 Name="Dagon Level 3"
 Tip=""
-Ubertip="A lesser scepter that has been duplicated time and time again.  Gives +17 Intelligence, +9 damage, +3 to all stats, and a 600 damage Energy Burst.  The Energy Burst can be upgraded by combining this Dagon and the Dagon recipe. Can be upgraded two more times.|n|n|cff99ccffCooldown: |r 25"
+Ubertip="A lesser scepter that has been duplicated time and time again. Gives +17 Intelligence, +9 damage, +3 to all stats, and a 600 damage Energy Burst. The Energy Burst can be upgraded by combining this Dagon and the Dagon recipe. Can be upgraded two more times.|n|n|cff99ccffCooldown: |r 25"
 Description=""
 [I09O]
 Name="Dagon Level 4"
 Tip=""
-Ubertip="A lesser scepter that has been duplicated time and time again.  Gives +19 Intelligence, +9 damage, +3 to all stats, and a 700 damage Energy Burst.  The Energy Burst can be upgraded by combining this Dagon and the Dagon recipe. Can be upgraded one more time.|n|n|cff99ccffCooldown: |r 20"
+Ubertip="A lesser scepter that has been duplicated time and time again. Gives +19 Intelligence, +9 damage, +3 to all stats, and a 700 damage Energy Burst. The Energy Burst can be upgraded by combining this Dagon and the Dagon recipe. Can be upgraded one more time.|n|n|cff99ccffCooldown: |r 20"
 Description=""
 [I09P]
 Name="Dagon Level 2"
 Tip=""
-Ubertip="A lesser scepter that has been duplicated time and time again.  Gives +15 Intelligence, +9 damage, +3 to all stats, and a 500 damage Energy Burst.  The Energy Burst can be upgraded by combining this Dagon and the Dagon recipe. Can be upgraded three more times.|n|n|cff99ccffCooldown: |r 30"
+Ubertip="A lesser scepter that has been duplicated time and time again. Gives +15 Intelligence, +9 damage, +3 to all stats, and a 500 damage Energy Burst. The Energy Burst can be upgraded by combining this Dagon and the Dagon recipe. Can be upgraded three more times.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I09J]
 Name="Dagon Level 2"
@@ -1481,7 +1481,7 @@ Description=""
 [I09T]
 Name="Necronomicon Level 1"
 Tip=""
-Ubertip="Considered the holy grail of necromancy and demonology, a powerful malefic force is locked within its pages. Gives +15 intelligence, +8 strength, and the ability to summon 2 level 1 Demon Mages with unique abilities. The abilities and stats become more powerful with each upgrade.  Can be upgraded twice.|n|n|cff99ccffCooldown: |r 95"
+Ubertip="Considered the holy grail of necromancy and demonology, a powerful malefic force is locked within its pages. Gives +15 intelligence, +8 strength, and the ability to summon 2 level 1 Demon Mages with unique abilities. The abilities and stats become more powerful with each upgrade. Can be upgraded twice.|n|n|cff99ccffCooldown: |r 95"
 Description=""
 [I09U]
 Name="Necronomicon Level 1"
@@ -1501,12 +1501,12 @@ Description=""
 [I09X]
 Name="Necronomicon Level 2"
 Tip=""
-Ubertip="Considered the holy grail of necromancy and demonology, a powerful malefic force is locked within its pages. Gives +21 intelligence, +12 strength, and the ability to summon 2 level 2 Demon Mages with unique abilities. The abilities and stats become more powerful with each upgrade. Can be upgraded once. |n|n|cff99ccffCooldown: |r 95"
+Ubertip="Considered the holy grail of necromancy and demonology, a powerful malefic force is locked within its pages. Gives +21 intelligence, +12 strength, and the ability to summon 2 level 2 Demon Mages with unique abilities. The abilities and stats become more powerful with each upgrade. Can be upgraded once.|n|n|cff99ccffCooldown: |r 95"
 Description=""
 [I09Y]
 Name="Necronomicon Level 3"
 Tip=""
-Ubertip="Considered the holy grail of necromancy and demonology, a powerful malefic force is locked within its pages. Gives +24 intelligence, +16 strength, and the ability to summon 2 level 3 Demon Mages with unique abilities. |n|n|cff99ccffCooldown: |r 95"
+Ubertip="Considered the holy grail of necromancy and demonology, a powerful malefic force is locked within its pages. Gives +24 intelligence, +16 strength, and the ability to summon 2 level 3 Demon Mages with unique abilities.|n|n|cff99ccffCooldown: |r 95"
 Description=""
 [I09Z]
 Name="Linken's Sphere"
@@ -1521,7 +1521,7 @@ Description=""
 [I0A1]
 Name="|c00000000Divine Rapier|r"
 Tip=""
-Ubertip="The Divine Rapier was granted by God himself to the rebels in the War of the Magi.  Grants +300 damage, but drops if the user dies. |n|n|c00ff0303Drops upon death|r   |n|n|c00838B8BWith great power comes great responsibility"
+Ubertip="The Divine Rapier was granted by God himself to the rebels in the War of the Magi. Grants +300 damage, but drops if the user dies.|n|n|c00ff0303Drops upon death|r|n|n|c00838B8BWith great power comes great responsibility"
 Description=""
 [I0A2]
 Name="|c00000000Divine Rapier|r"
@@ -1531,7 +1531,7 @@ Description=""
 [I0A3]
 Name="Buriza-do Kyanon"
 Tip=""
-Ubertip="When Blizzard made Buriza in .08 it was good.  Then they decided it wasn't good enough.  So in .09 they IMPROVED it.  Gives +81 damage and a 25% Critical Strike for 2.4x damage."
+Ubertip="When Blizzard made Buriza in .08 it was good. Then they decided it wasn't good enough. So in .09 they IMPROVED it. Gives +81 damage and a 25% Critical Strike for 2.4x damage."
 Description=""
 [I0A4]
 Name="Buriza-do Kyanon"
@@ -1541,7 +1541,7 @@ Description=""
 [I0A5]
 Name="Monkey King Bar (True Strike |cff00ff00Active|r)"
 Tip=""
-Ubertip="A powerful staff used by a martial arts master.  Grants +88 damage, 15% increased attack speed, True Strike (causes your attacks to never miss) and a 35% chance to deal 100 bonus damage on every attack stopping channeling spells. True Strike is not compatible with some attack modifiers like Frost Arrows and Headshot. Click on this item to change its mode if you want to disable True Strike."
+Ubertip="A powerful staff used by a martial arts master. Grants +88 damage, 15% increased attack speed, True Strike (causes your attacks to never miss) and a 35% chance to deal 100 bonus damage on every attack stopping channeling spells. True Strike is not compatible with some attack modifiers like Frost Arrows and Headshot. Click on this item to change its mode if you want to disable True Strike."
 Description=""
 [I0A6]
 Name="Monkey King Bar"
@@ -1571,7 +1571,7 @@ Description=""
 [I0AB]
 Name="Satanic"
 Tip=""
-Ubertip="Powerful weapon said to have been wielded by Drak'thul himself, the Satanic gives 25% life steal, +25 Strength, +20 Damage, +5 armor, and Unholy Rage (200% lifesteal for 3.5 seconds).  |n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 35 "
+Ubertip="Powerful weapon said to have been wielded by Drak'thul himself, the Satanic gives 25% life steal, +25 Strength, +20 Damage, +5 armor, and Unholy Rage (200% lifesteal for 3.5 seconds).|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 35"
 Description=""
 [I0AC]
 Name="Satanic"
@@ -1586,12 +1586,12 @@ Description=""
 [I0AE]
 Name="Eye of Skadi"
 Tip=""
-Ubertip="Extremely rare artifact, guarded by the azure dragons of Northrend. Adds 25 to all stats, 250 life, 250 mana and grants Frost Attack. |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r |n|n|c00838B8BBEWARE: Do not thaw!"
+Ubertip="Extremely rare artifact, guarded by the azure dragons of Northrend. Adds 25 to all stats, 250 life, 250 mana and grants Frost Attack.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffBuff placers do not stack|r|n|n|c00838B8BBEWARE: Do not thaw!"
 Description=""
 [I0AF]
 Name="Eye of Skadi (Ranged)"
 Tip=""
-Ubertip="Extremely rare artifact, guarded by the azure dragons of Northrend. Adds 25 to all stats, 250 life, 250 mana and grants Frost Attack. |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r |n|n|c00838B8BBEWARE: Do not thaw!"
+Ubertip="Extremely rare artifact, guarded by the azure dragons of Northrend. Adds 25 to all stats, 250 life, 250 mana and grants Frost Attack.|n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffBuff placers do not stack|r|n|n|c00838B8BBEWARE: Do not thaw!"
 Description=""
 [I0AG]
 Name="Eye of Skadi (Ranged)"
@@ -1606,12 +1606,12 @@ Description=""
 [I0AI]
 Name="The Butterfly"
 Tip=""
-Ubertip="The Butterfly is a blade that was magically created for use in the War of the Magi, but never used.  Only recently recovered from the Avalan vault, it grants its bearer +30 Agility, +30 damage, +30% increased attack speed, and 35% Evasion."
+Ubertip="The Butterfly is a blade that was magically created for use in the War of the Magi, but never used. Only recently recovered from the Avalan vault, it grants its bearer +30 Agility, +30 damage, +30% increased attack speed, and 35% Evasion."
 Description=""
 [I0AJ]
 Name="Refresher Orb"
 Tip=""
-Ubertip="A powerful artifact created for the wizard Aghanim. Gives 5 HP regeneration per second, 200% increased mana regeneration, +40 damage, +6 Intelligence, +10 attack speed and the ability to instantly refresh all ability cooldowns. |n|n|cff99ccffCooldown: |r 160 seconds. |n|n|c00838B8BPerfect after a hard day's work"
+Ubertip="A powerful artifact created for the wizard Aghanim. Gives 5 HP regeneration per second, 200% increased mana regeneration, +40 damage, +6 Intelligence, +10 attack speed and the ability to instantly refresh all ability cooldowns.|n|n|cff99ccffCooldown: |r 160|n|n|c00838B8BPerfect after a hard day's work"
 Description=""
 [I0AK]
 Name="Refresher Orb"
@@ -1621,27 +1621,27 @@ Description=""
 [I0AL]
 Name="Guinsoo's Scythe of Vyse"
 Tip=""
-Ubertip="Guinsoo's flaming staff that he uses to turn people into sheep on a whim. Grants +35 Intelligence, +10 Agility, +10 Strength, +150% enhanced mana regeneration, and the ability to turn units into sheep for 3.5 seconds.  |n|n|cff99ccffCooldown: |r 35"
+Ubertip="Guinsoo's flaming staff that he uses to turn people into sheep on a whim. Grants +35 Intelligence, +10 Agility, +10 Strength, +150% enhanced mana regeneration, and the ability to turn units into sheep for 3.5 seconds.|n|n|cff99ccffCooldown: |r 35"
 Description=""
 [I0AM]
 Name="Empty Bottle"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0AN]
 Name="Magical Bottle - 1/3"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0AO]
 Name="Magical Bottle - 2/3"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0AP]
 Name="Magical Bottle - 3/3"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0AS]
 Name="Magical Bottle - 2/3"
@@ -1661,7 +1661,7 @@ Description=""
 [I0AV]
 Name="Empty Bottle Store"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0AW]
 Name="Aegis of the Immortal"
@@ -1676,7 +1676,7 @@ Description=""
 [I0AY]
 Name="Aghanim's Scepter (Basic)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0AZ]
 Name="Aghanim's Scepter (Furion)"
@@ -1696,87 +1696,87 @@ Description=""
 [I000]
 Name="Aghanim's Scepter (Rylai)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I001]
 Name="Aghanim's Scepter (Necro)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I002]
 Name="Aghanim's Scepter (Luna)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I003]
 Name="Aghanim's Scepter (Lucifer)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I004]
 Name="Aghanim's Scepter (Lion)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I005]
 Name="Aghanim's Scepter (Lich)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I009]
 Name="Aghanim's Scepter (Leshrac)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I00D]
 Name="Aghanim's Scepter (KOTL)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I00G]
 Name="Aghanim's Scepter (Lina)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I00H]
 Name="Aghanim's Scepter (Pugna)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I00I]
 Name="Aghanim's Scepter (Ogre)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I00O]
 Name="Aghanim's Scepter (Zeus)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I00P]
 Name="Aghanim's Scepter (QoP)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I00U]
 Name="Aghanim's Scepter (Rhasta)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I011]
 Name="Aghanim's Scepter (Furion)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I016]
 Name="Aghanim's Scepter (Veno)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I017]
 Name="Aghanim's Scepter (Witch Doctor)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I00F]
 Name="Aghanim's Scepter (KOTL)"
@@ -1881,12 +1881,12 @@ Description=""
 [I0BD]
 Name="Arcane Ring"
 Tip=""
-Ubertip="A powerful jeweled ring that glows with intense magical energy. Gives +4 Armor and +300 Mana. Can cast Replenish to restore 135 mana to an area around the caster.|n|n|cff99ccffCooldown: |r 30 seconds."
+Ubertip="A powerful jeweled ring that glows with intense magical energy. Gives +4 Armor and +300 Mana. Can cast Replenish to restore 135 mana to an area around the caster.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0BE]
 Name="Mjollnir"
 Tip=""
-Ubertip="Thor's magical hammer, made for him by the dwarfs Brok and Eitri. Gives +80 Attack Speed, +24 damage, and a 25% chance to release a 150 damage Chain Lightning. When a hero with the Static Charge buff is damaged there is a 20% chance that a 200 damage Static Charge will strike the unit that hurt you. Static charge activates at most once per second. |n|n|c00ff0303Orb effect|r|n|n|cff99ccffCooldown: |r 35 seconds."
+Ubertip="Thor's magical hammer, made for him by the dwarfs Brok and Eitri. Gives +80 Attack Speed, +24 damage, and a 25% chance to release a 150 damage Chain Lightning. When a hero with the Static Charge buff is damaged there is a 20% chance that a 200 damage Static Charge will strike the unit that hurt you. Static charge activates at most once per second.|n|n|cff99ccffCooldown: |r 35"
 Description=""
 [I0BF]
 Name="Mjollnir"
@@ -1916,7 +1916,7 @@ Description=""
 [I0BK]
 Name="Bloodstone"
 Tip=""
-Ubertip="The last of the blood artifacts forged by the powerful Hemomancer Erythros centuries ago. Grants +500 hp, +400 mana, +200% mana regen, +9 hp/sec regen and +10 damage. You gain 1 mp extra regen per second for each charge. When you die this restores 500hp +30xCharge to nearby allies. You respawn faster and lose less gold (based on charges). While dead you gain XP and vision in that area. Can be actived to suicide. |n|n|cff99ccffCooldown: |r 300"
+Ubertip="The last of the blood artifacts forged by the powerful Hemomancer Erythros centuries ago. Grants +500 hp, +400 mana, +200% mana regen, +9 hp/sec regen and +10 damage. You gain 1 mp extra regen per second for each charge. When you die this restores 500hp +30xCharge to nearby allies. You respawn faster and lose less gold (based on charges). While dead you gain XP and vision in that area. Can be actived to suicide.|n|n|cff99ccffCooldown: |r 300"
 Description=""
 [I0BL]
 Name="Bloodstone"
@@ -1965,22 +1965,22 @@ Description=""
 [I00M]
 Name="Armlet of Mordiggian"
 Tip=""
-Ubertip="Heirloom of the Cult of Mordiggian, who in ancient times obtained cursed immortality by eating the flesh of the being they worshipped, losing their souls in the process. Similarly, heroes invoking this withered remnant enter a dark pact, exchanging their own life force for an unholy strength. Gives +40 damage, +25% attack speed, +5 armor, +7 hp/sec and +25 strength at the cost of 40 hp/sec. "
+Ubertip="Heirloom of the Cult of Mordiggian, who in ancient times obtained cursed immortality by eating the flesh of the being they worshipped, losing their souls in the process. Similarly, heroes invoking this withered remnant enter a dark pact, exchanging their own life force for an unholy strength. Gives +40 damage, +25% attack speed, +5 armor, +7 hp/sec and +25 strength at the cost of 40 hp/sec."
 Description=""
 [I00N]
 Name="Armlet of Mordiggian (Courier Edition)"
 Tip=""
-Ubertip="Heirloom of the Cult of Mordiggian, who in ancient times obtained cursed immortality by eating the flesh of the being they worshipped, losing their souls in the process. Similarly, heroes invoking this withered remnant enter a dark pact, exchanging their own life force for an unholy strength. Gives +40 damage, +25% attack speed, +5 armor, +7 hp/sec and +25 strength at the cost of 40hp/sec. "
+Ubertip="Heirloom of the Cult of Mordiggian, who in ancient times obtained cursed immortality by eating the flesh of the being they worshipped, losing their souls in the process. Similarly, heroes invoking this withered remnant enter a dark pact, exchanging their own life force for an unholy strength. Gives +40 damage, +25% attack speed, +5 armor, +7 hp/sec and +25 strength at the cost of 40hp/sec."
 Description=""
 [I00Q]
 Name="Armlet of Mordiggian"
 Tip=""
-Ubertip="Heirloom of the Cult of Mordiggian, who in ancient times obtained cursed immortality by eating the flesh of the being they worshipped, losing their souls in the process. Similarly, heroes invoking this withered remnant enter a dark pact, exchanging their own life force for an unholy strength. Gives +9 damage, +15% attack speed, +5 armor and +7 hp/sec. Casts Unholy Strength. |n|n|cff99ccffCooldown: |r 0"
+Ubertip="Heirloom of the Cult of Mordiggian, who in ancient times obtained cursed immortality by eating the flesh of the being they worshipped, losing their souls in the process. Similarly, heroes invoking this withered remnant enter a dark pact, exchanging their own life force for an unholy strength. Gives +9 damage, +15% attack speed, +5 armor and +7 hp/sec. Casts Unholy Strength.|n|n|cff99ccffCooldown: |r 0"
 Description=""
 [I00R]
 Name="Armlet of Mordiggian (Courier Edition)"
 Tip=""
-Ubertip="Heirloom of the Cult of Mordiggian, who in ancient times obtained cursed immortality by eating the flesh of the being they worshipped, losing their souls in the process. Similarly, heroes invoking this withered remnant enter a dark pact, exchanging their own life force for an unholy strength. Gives +9 damage, +15% attack speed, +5 armor and +7 hp/sec. Casts Unholy Strength. |n|n|cff99ccffCooldown: |r 0"
+Ubertip="Heirloom of the Cult of Mordiggian, who in ancient times obtained cursed immortality by eating the flesh of the being they worshipped, losing their souls in the process. Similarly, heroes invoking this withered remnant enter a dark pact, exchanging their own life force for an unholy strength. Gives +9 damage, +15% attack speed, +5 armor and +7 hp/sec. Casts Unholy Strength.|n|n|cff99ccffCooldown: |r 0"
 Description=""
 [I00S]
 Name="Armlet of Mordiggian"
@@ -2015,17 +2015,17 @@ Description=""
 [I00Z]
 Name="Shiva's Guard"
 Tip=""
-Ubertip="Said to have belonged to a goddess, this magical piece of armor was forged by divine wisps in the deeps of Winterspring and even today it retains much of its former power. Grants +15 Armor, +30 Intelligence and a -40% AS aura. Upon activation, emits a frigid blast, slowing enemy movement speeds by 40% for 4 seconds and dealing 200 damage.  |n|n|cff99ccffCooldown: |r 30"
+Ubertip="Said to have belonged to a goddess, this magical piece of armor was forged by divine wisps in the deeps of Winterspring and even today it retains much of its former power. Grants +15 Armor, +30 Intelligence and a -40% AS aura. Upon activation, emits a frigid blast, slowing enemy movement speeds by 40% for 4 seconds and dealing 200 damage.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I010]
 Name="Shiva's Guard (Courier Edition)"
 Tip=""
-Ubertip="Said to have belonged to a goddess, this magical piece of armor was forged by divine wisps in the deeps of Winterspring and even today it retains much of its former power. Grants +15 Armor, +30 Intelligence and a -40% AS aura. Upon activation, emits a frigid blast, slowing enemy movement speeds by 40% for 4 seconds and dealing 200 damage.  |n|n|cff99ccffCooldown: |r 30"
+Ubertip="Said to have belonged to a goddess, this magical piece of armor was forged by divine wisps in the deeps of Winterspring and even today it retains much of its former power. Grants +15 Armor, +30 Intelligence and a -40% AS aura. Upon activation, emits a frigid blast, slowing enemy movement speeds by 40% for 4 seconds and dealing 200 damage.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I012]
 Name="Orchid Malevolence"
 Tip=""
-Ubertip="A garnet rod constructed from the essence of a fire demon, Orchid Malevolence can burn away an enemy's spellcasting capabilities for a limited time. Gives +25 Intelligence, +30 damage, +30% increased attack speed, +150% mana regen, and the ability to soul burn an enemy for 5 seconds (Silences and Amplifies damage by 30%). |n|n|cff99ccffCooldown: |r 18"
+Ubertip="A garnet rod constructed from the essence of a fire demon, Orchid Malevolence can burn away an enemy's spellcasting capabilities for a limited time. Gives +25 Intelligence, +30 damage, +30% increased attack speed, +150% mana regen, and the ability to soul burn an enemy for 5 seconds (Silences and Amplifies damage by 30%).|n|n|cff99ccffCooldown: |r 18"
 Description=""
 [I013]
 Name="Orchid Malevolence"
@@ -2070,7 +2070,7 @@ Description=""
 [I01J]
 Name="Perseverance"
 Tip=""
-Ubertip="A gem that grants heart to the bearer.  Gives 125% enhanced mana regeneration, 5 hit point regeneration per second , and +10 damage.  |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="A gem that grants heart to the bearer. Gives 125% enhanced mana regeneration, 5 hit point regeneration per second, and +10 damage.|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I01K]
 Name="Headdress of Rejuvenation"
@@ -2250,7 +2250,7 @@ Description=""
 [I0BP]
 Name="Divine Rapier"
 Tip=""
-Ubertip="The Divine Rapier was granted by God himself to the rebels in the War of the Magi.  Grants +300 damage, but drops if the user dies. |n|n|c00ff0303Drops upon death|r |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="The Divine Rapier was granted by God himself to the rebels in the War of the Magi. Grants +300 damage, but drops if the user dies.|n|n|c00ff0303Drops upon death|r|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0BQ]
 Name="Buriza-do Kyanon"
@@ -2520,7 +2520,7 @@ Description=""
 [I04V]
 Name="Ring of Regeneration"
 Tip=""
-Ubertip="+2 HP Regeneration |n|n|c00838B8BThis ring is considered a good luck charm among the Gnomes"
+Ubertip=" +2 HP Regeneration|n|n|c00838B8BThis ring is considered a good luck charm among the Gnomes"
 Description=""
 [I0C6]
 Name="Ring of Basilius (Heroes)"
@@ -2580,7 +2580,7 @@ Description=""
 [I0DG]
 Name="Gem of True Sight"
 Tip=""
-Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.   |n|n|c00ff0303Drops upon death|r |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.|n|n|c00ff0303Drops upon death|r|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DH]
 Name="Disabled Kelen's Dagger"
@@ -2590,52 +2590,52 @@ Description=""
 [I0DI]
 Name="Ring of Health"
 Tip=""
-Ubertip="+5 HP Regeneration |n|n|c00838B8BA shiny ring found beneath a fat halfling's corpse |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip=" +5 HP Regeneration|n|n|c00838B8BA shiny ring found beneath a fat halfling's corpse|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DJ]
 Name="Ring of Regeneration"
 Tip=""
-Ubertip="+2 HP Regeneration |n|n|c00838B8BThis ring is considered a good luck charm among the Gnomes |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip=" +2 HP Regeneration|n|n|c00838B8BThis ring is considered a good luck charm among the Gnomes|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DK]
 Name="Sobi Mask"
 Tip=""
-Ubertip="+50% Mana Regeneration |n|n|c00838B8BA common mask used by Mages and Warlocks for various rituals |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip=" +50% Mana Regeneration|n|n|c00838B8BA common mask used by Mages and Warlocks for various rituals|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DL]
 Name="Void Stone"
 Tip=""
-Ubertip="+100% Mana Regeneration |n|n|c00838B8BA stone of seemingly endless inner power |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip=" +100% Mana Regeneration|n|n|c00838B8BA stone of seemingly endless inner power|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DM]
 Name="Empty Bottle Store"
 Tip=""
-Ubertip="A magical bottle that has survived through the ages. It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="A magical bottle that has survived through the ages. It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DN]
 Name="Empty Bottle"
 Tip=""
-Ubertip="A magical bottle that has survived through the ages. It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="A magical bottle that has survived through the ages. It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DO]
 Name="Magical Bottle - 1/3"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BA magical bottle that has survived through the ages |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BA magical bottle that has survived through the ages|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DP]
 Name="Magical Bottle - 2/3"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BA magical bottle that has survived through the ages |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BA magical bottle that has survived through the ages|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DQ]
 Name="Magical Bottle - 3/3"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BA magical bottle that has survived through the ages |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BA magical bottle that has survived through the ages|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DR]
 Name="Magical Bottle - Regeneration"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BA magical bottle that has survived through the ages |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BA magical bottle that has survived through the ages|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0DS]
 Name="Headdress of Rejuvenation Recipe"
@@ -2835,7 +2835,7 @@ Description=""
 [I0EV]
 Name="Diffusal Blade Level 1 (Empty)"
 Tip=""
-Ubertip="An enchanted blade that allows the user to cut straight into the enemy's soul. Adds 25 Agility, 6 Intelligence and Feedback (burns 20 mana) and can cast Purge. |n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 8"
+Ubertip="An enchanted blade that allows the user to cut straight into the enemy's soul. Adds 25 Agility, 6 Intelligence and Feedback (burns 20 mana) and can cast Purge.|n|n|cff99ccffCooldown: |r 8"
 Description=""
 [I0EW]
 Name="Diffusal Blade Level 1 (Empty)"
@@ -3025,27 +3025,27 @@ Description=""
 [I0FS]
 Name="Black King Bar (7)"
 Tip=""
-Ubertip="A powerful rod imbued with the strength of giants.  Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 7 seconds. |n|n|cff99ccffCooldown: |r 65"
+Ubertip="A powerful rod imbued with the strength of giants. Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 7 seconds.|n|n|cff99ccffCooldown: |r 65"
 Description=""
 [I0FY]
 Name="Black King Bar (8)"
 Tip=""
-Ubertip="A powerful rod imbued with the strength of giants.  Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 8 seconds. |n|n|cff99ccffCooldown: |r 70"
+Ubertip="A powerful rod imbued with the strength of giants. Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 8 seconds.|n|n|cff99ccffCooldown: |r 70"
 Description=""
 [I0FZ]
 Name="Black King Bar (10)"
 Tip=""
-Ubertip="A powerful rod imbued with the strength of giants.  Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 10 seconds. |n|n|cff99ccffCooldown: |r 80"
+Ubertip="A powerful rod imbued with the strength of giants. Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 10 seconds.|n|n|cff99ccffCooldown: |r 80"
 Description=""
 [I0G0]
 Name="Black King Bar (9)"
 Tip=""
-Ubertip="A powerful rod imbued with the strength of giants.  Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 9 seconds. |n|n|cff99ccffCooldown: |r 75"
+Ubertip="A powerful rod imbued with the strength of giants. Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 9 seconds.|n|n|cff99ccffCooldown: |r 75"
 Description=""
 [I0G1]
 Name="Black King Bar (5)"
 Tip=""
-Ubertip="A powerful rod imbued with the strength of giants.  Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 5 seconds. |n|n|cff99ccffCooldown: |r 55"
+Ubertip="A powerful rod imbued with the strength of giants. Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 5 seconds.|n|n|cff99ccffCooldown: |r 55"
 Description=""
 [I0G2]
 Name="Black King Bar (10)"
@@ -3100,7 +3100,7 @@ Description=""
 [I0GC]
 Name="Magic Stick"
 Tip=""
-Ubertip="Energy Charge |n|nGives 15 health and 15 mana when used for each charge on it. Collects charges (up to 10) when nearby enemy spells are cast. |n|n|cff99ccffCooldown: |r 17 |n|n|c00838B8BA simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike."
+Ubertip="Energy Charge|n|nGives 15 health and 15 mana when used for each charge on it. Collects charges (up to 10) when nearby enemy spells are cast.|n|n|cff99ccffCooldown: |r 17|n|n|c00838B8BA simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike."
 Description=""
 [I0GD]
 Name="Magic Stick"
@@ -3115,7 +3115,7 @@ Description=""
 [I0GF]
 Name="Poison Powder"
 Tip=""
-Ubertip="Description |n|n|c00838B8BNEED FLAVOR TEXT"
+Ubertip="Description|n|n|c00838B8BNEED FLAVOR TEXT"
 Description=""
 [I0GG]
 Name="Poison Powder"
@@ -3125,7 +3125,7 @@ Description=""
 [I0GH]
 Name="Dust of Appearance"
 Tip=""
-Ubertip="Reveals enemy invisible units in an area around the Hero. Slows heroes with an invisibility buff on them by 15% |nContains 2 charges. |nLasts 12 seconds. |n|n|cff99ccffCooldown: |r 60   |n|n|c00838B8BOff to never never land!|r"
+Ubertip="Reveals enemy invisible units in an area around the Hero. Slows heroes with an invisibility buff on them by 15%|nContains 2 charges.|nLasts 12 seconds.|n|n|cff99ccffCooldown: |r 60|n|n|c00838B8BOff to never never land!|r"
 Description=""
 [I0GI]
 Name="Dust of Appearance"
@@ -3135,7 +3135,7 @@ Description=""
 [I0GJ]
 Name="Phase Boots"
 Tip=""
-Ubertip="Increases movement speed by 50 and attack damage by 24. Can be cast to ignore unit pathing and give a 16% movement speed increase for 4 seconds. Casting spells removes the buff. |n|n|cff99ccffCooldown: |r 8|n|n|c00ff0303Movement Speed does not stack with other boot items.|r |n|n|c00838B8B'-noclip'"
+Ubertip="Increases movement speed by 50 and attack damage by 24. Can be cast to ignore unit pathing and give a 16% movement speed increase for 4 seconds. Casting spells removes the buff.|n|n|cff99ccffCooldown: |r 8|n|n|c00ff0303Movement Speed does not stack with other boot items.|r|n|n|c00838B8B'-noclip'"
 Description=""
 [I0GK]
 Name="Phase Boots"
@@ -3196,27 +3196,27 @@ Description=""
 [I0GX]
 Name="Magical Bottle - Regeneration"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0GY]
 Name="Magical Bottle - Illusion"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0GZ]
 Name="Magical Bottle - Invisibility"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0H0]
 Name="Magical Bottle - Double Damage"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0H1]
 Name="Magical Bottle - Haste"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BNot recommended for fairy storage"
 Description=""
 [I0AQ]
 Name="Magical Bottle - Invisibility"
@@ -3246,27 +3246,27 @@ Description=""
 [I0H3]
 Name="Magical Bottle - Illusion"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BA magical bottle that has survived through the ages |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BA magical bottle that has survived through the ages|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0H4]
 Name="Magical Bottle - Haste"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BA magical bottle that has survived through the ages |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BA magical bottle that has survived through the ages|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0H5]
 Name="Magical Bottle - Invisibility"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BA magical bottle that has survived through the ages |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BA magical bottle that has survived through the ages|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0H6]
 Name="Magical Bottle - Double Damage"
 Tip=""
-Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BA magical bottle that has survived through the ages |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself.|n|n|c00838B8BA magical bottle that has survived through the ages|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0H7]
 Name="Magic Wand Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+3 All Attributes  |nEnergy Charge |n|cffffcc00Requires:|r |nMagic Stick |n3x Ironwood Branch "
+Ubertip="|cffffcc00Gives:|r|n +3 All Attributes|n Energy Charge|n|n|cffffcc00Requires:|r|n Magic Stick|n 3x Ironwood Branch"
 Description=""
 [I0H8]
 Name="Magic Wand Recipe"
@@ -3286,7 +3286,7 @@ Description=""
 [I0HB]
 Name="Magic Wand"
 Tip=""
-Ubertip="Provides +3 All Attributes. Energy Charge |n|nGives 15 health and 15 mana when used for each charge on it. Collects charges (up to 15) when nearby enemy spells are cast. |n|n|cff99ccffCooldown: |r 17 |n|n|c00838B8BA simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike."
+Ubertip="Provides +3 All Attributes. Energy Charge|n|nGives 15 health and 15 mana when used for each charge on it. Collects charges (up to 15) when nearby enemy spells are cast.|n|n|cff99ccffCooldown: |r 17|n|n|c00838B8BA simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike."
 Description=""
 [I0HC]
 Name="Magic Wand"
@@ -3306,7 +3306,7 @@ Description=""
 [I0HF]
 Name="Force Staff Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +10 Intelligence |n +3 HP Regeneration |nForce (active) |n|n|cffffcc00Requires:|r |n Ring of Regeneration - 350 |n Staff of Wizardry - 1000  |n Recipe - 900 |n|n|c00838B8B Total Cost: 2250"
+Ubertip="|cffffcc00Gives:|r|n +10 Intelligence|n +3 HP Regeneration|n Force (active)|n|n|cffffcc00Requires:|r|n Ring of Regeneration - 350|n Staff of Wizardry - 1000|n Recipe - 900|n|n|c00838B8B Total Cost: 2250"
 Description=""
 [I0HG]
 Name="Force Staff"
@@ -3321,7 +3321,7 @@ Description=""
 [I0HI]
 Name="Force Staff"
 Tip=""
-Ubertip="Provides 3 HP Regeneration and 10 Intelligence. Can be cast to push any unit 600 units in the direction it is facing.  |n|n|cff99ccffCooldown: |r 20"
+Ubertip="Provides 3 HP Regeneration and 10 Intelligence. Can be cast to push any unit 600 units in the direction it is facing.|n|n|cff99ccffCooldown: |r 20"
 Description=""
 [I0HJ]
 Name="Linken's Sphere"
@@ -3347,7 +3347,7 @@ Description="Doubles the users base damage. Will be dispelled by other damage bu
 [I0HN]
 Name="Ghost Potion"
 Tip=""
-Ubertip="Transforms you to Ethereal Form for 4 seconds. While in this form, you can neither attack nor be attacked and you take 40% bonus damage from spells. 2 Charges.  |n|n|cff99ccffCooldown: |r 60"
+Ubertip="Transforms you to Ethereal Form for 4 seconds. While in this form, you can neither attack nor be attacked and you take 40% bonus damage from spells. 2 Charges.|n|n|cff99ccffCooldown: |r 60"
 Description=""
 [I0HO]
 Name="Ghost Potion"
@@ -3357,22 +3357,22 @@ Description=""
 [I0HP]
 Name="Quelling Blade (Ranged)"
 Tip=""
-Ubertip="+12% bonus damage to non-hero units. Can deal 100 damage to observer and sentry wards. |n|nTree Chop (active) |n|n|cff99ccffCooldown: |r 5 |n|n|c00838B8BA lumberjack's axe at a bargain price. Also useful against wild animals."
+Ubertip="+12% bonus damage to non-hero units. Can deal 100 damage to observer and sentry wards.|n|nTree Chop (active)|n|n|cff99ccffCooldown: |r 5|n|n|c00838B8BA lumberjack's axe at a bargain price. Also useful against wild animals."
 Description=""
 [I0HQ]
 Name="The Leveler"
 Tip=""
-Ubertip="+22 Agility, +6 Intelligence, +6 Strength, +40% bonus damage to non-hero units and +60% bonus damage to structures. "
+Ubertip=" +22 Agility, +6 Intelligence, +6 Strength, +40% bonus damage to non-hero units and +60% bonus damage to structures."
 Description=""
 [I0HR]
 Name="Quelling Blade"
 Tip=""
-Ubertip="+32% bonus damage to non-hero units. Can deal 100 damage to observer and sentry wards. |n|nTree Chop (active) |n|n|cff99ccffCooldown: |r 5 |n|n|c00838B8BA lumberjack's axe at a bargain price. Also useful against wild animals."
+Ubertip="+32% bonus damage to non-hero units. Can deal 100 damage to observer and sentry wards.|n|nTree Chop (active)|n|n|cff99ccffCooldown: |r 5|n|n|c00838B8BA lumberjack's axe at a bargain price. Also useful against wild animals."
 Description=""
 [I0HS]
 Name="The Leveler (Ranged)"
 Tip=""
-Ubertip="+22 Agility, +6 Intelligence, +6 Strength, +20% bonus damage to non-hero units and +30% bonus damage to structures. "
+Ubertip=" +22 Agility, +6 Intelligence, +6 Strength, +20% bonus damage to non-hero units and +30% bonus damage to structures."
 Description=""
 [I0HT]
 Name="Quelling Blade"
@@ -3407,7 +3407,7 @@ Description=""
 [I0HZ]
 Name="Khadgar's Pipe of Insight Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+30% Magic Resistance |n+8 hp Regeneration |n+4 hp Regeneration Aura |nBarrier (active) |n|cffffcc00Requires:|r |nHood of Defiance (Protectorate) |nHeaddress of Rejuvenation (Supportive Vestments)"
+Ubertip="|cffffcc00Gives:|r|n +30% Magic Resistance|n +8 HP Regeneration|n +4 HP Regeneration Aura|n Barrier (active)|n|n|cffffcc00Requires:|r|n Hood of Defiance (Protectorate)|n Headdress of Rejuvenation (Supportive Vestments)"
 Description=""
 [I0I0]
 Name="Khadgar's Pipe of Insight"
@@ -3432,12 +3432,12 @@ Description=""
 [I0I4]
 Name="Aghanim's Scepter Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+10 All Attributes |n+200 HP |n+150 Mana |nUltimate Upgrade (passive) |n|cffffcc00Requires:|r |n-Point Booster |n-Staff of Wizardry and Blade of Alacrity  |n  |c00fffc01or|r |n-Blade of Alacrity and Ogre Axe  |n  |c00fffc01or|r |n-Ogre Axe and Staff of Wizardry "
+Ubertip="|cffffcc00Gives:|r|n +10 All Attributes|n +200 HP|n +150 Mana|n Ultimate Upgrade (passive)|n|n|cffffcc00Requires:|r|n -Point Booster|n -Staff of Wizardry and Blade of Alacrity|n|n|c00fffc01or|r|n -Blade of Alacrity and Ogre Axe|n|n|c00fffc01or|r|n -Ogre Axe and Staff of Wizardry"
 Description=""
 [I0I5]
 Name="Aghanim's Scepter Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+10 All Attributes |n+200 HP |n+150 Mana |nUltimate Upgrade (passive) |n|cffffcc00Requires:|r |nPoint Booster |n|c00fffc01Any of the following:|r |n Staff of Wizardry and Blade of Alacrity |n Blade of Alacrity and Ogre Axe |n Ogre Axe and Staff of Wizardry"
+Ubertip="|cffffcc00Gives:|r|n +10 All Attributes|n +200 HP|n +150 Mana|n Ultimate Upgrade (passive)|n|n|cffffcc00Requires:|r|n Point Booster|n|n|c00fffc01Any of the following:|r|n Staff of Wizardry and Blade of Alacrity|n Blade of Alacrity and Ogre Axe|n Ogre Axe and Staff of Wizardry"
 Description=""
 [I0I6]
 Name="Aghanim's Scepter (Panda)"
@@ -3447,7 +3447,7 @@ Description=""
 [I0I7]
 Name="Aghanim's Scepter (Panda)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0I8]
 Name="Aghanim's Scepter (Panda)"
@@ -3512,57 +3512,57 @@ Description=""
 [I0IK]
 Name="Aghanim's Scepter (Chen)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IL]
 Name="Aghanim's Scepter (Nightstalker)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IM]
 Name="Aghanim's Scepter (Jakiro)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IN]
 Name="Aghanim's Scepter (Invoker)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IO]
 Name="Aghanim's Scepter (Huskar)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IP]
 Name="Aghanim's Scepter (Sand King)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IQ]
 Name="Aghanim's Scepter (Chaos Knight)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IR]
 Name="Aghanim's Scepter (Juggernaut)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IS]
 Name="Aghanim's Scepter (Vengeful Spirit)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IT]
 Name="Aghanim's Scepter (Sniper)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IU]
 Name="Aghanim's Scepter (Clockwerk)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0IV]
 Name="Aghanim's Scepter (Clockwerk)"
@@ -3622,7 +3622,7 @@ Description=""
 [I0J6]
 Name="Talisman of Evasion"
 Tip=""
-Ubertip="+25% Evasion  |n|n|c00838B8BCan't touch this!"
+Ubertip=" +25% Evasion|n|n|c00838B8BCan't touch this!"
 Description=""
 [I0J7]
 Name="Talisman of Evasion"
@@ -3637,12 +3637,12 @@ Description=""
 [I0J9]
 Name="Diffusal Blade Level 2"
 Tip=""
-Ubertip="An enchanted blade that allows the user to cut straight into the enemy's soul. Adds 30 Agility, 10 Intelligence and Feedback (burns 36 mana) and can cast Purge. |n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 8"
+Ubertip="An enchanted blade that allows the user to cut straight into the enemy's soul. Adds 30 Agility, 10 Intelligence and Feedback (burns 36 mana) and can cast Purge.|n|n|cff99ccffCooldown: |r 8"
 Description=""
 [I0JA]
 Name="Diffusal Blade Level 2 (Empty)"
 Tip=""
-Ubertip="An enchanted blade that allows the user to cut straight into the enemy's soul. Adds 30 Agility, 10 Intelligence and Feedback (burns 36 mana) and can cast Purge. |n|n|c00ff0303Orb effects do not stack|r|n|n|cff99ccffCooldown: |r 8"
+Ubertip="An enchanted blade that allows the user to cut straight into the enemy's soul. Adds 30 Agility, 10 Intelligence and Feedback (burns 36 mana) and can cast Purge.|n|n|cff99ccffCooldown: |r 8"
 Description=""
 [I0JB]
 Name="Diffusal Blade Level 2"
@@ -3667,7 +3667,7 @@ Description=""
 [I0JF]
 Name="Poor Man's Shield (melee)"
 Tip=""
-Ubertip="+100% chance to block 20 hero damage and +60% chance to block 20 non-hero damage. +6 Agility "
+Ubertip=" +100% chance to block 20 hero damage and +60% chance to block 20 non-hero damage. +6 Agility"
 Description=""
 [I0JG]
 Name="Poor Man's Shield (melee)"
@@ -3682,7 +3682,7 @@ Description=""
 [I0JI]
 Name="Ghost Scepter"
 Tip=""
-Ubertip="Adds 7 to all stats, Ghost Form (active)  |n|n Transforms you to ethereal form for 4 seconds, becoming immune to physical attacks but taking 40% bonus damage from spells. |n|n|cff99ccffCooldown: |r 30"
+Ubertip=" +7 All Attributes|n Ghost Form (active)|n|nTransforms you to ethereal form for 4 seconds, becoming immune to physical attacks but taking 40% bonus damage from spells.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0JJ]
 Name="Ghost Scepter"
@@ -3732,32 +3732,32 @@ Description=""
 [I0JS]
 Name="Aghanim's Scepter (Pudge)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0JT]
 Name="Aghanim's Scepter (Windrunner)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0JU]
 Name="Aghanim's Scepter (Void)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0JV]
 Name="Aghanim's Scepter (Bane)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0JW]
 Name="Aghanim's Scepter (Spiritbreaker)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0JY]
 Name="Aghanim's Scepter (Abaddon)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0JZ]
 Name="Aghanim's Scepter (Pudge)"
@@ -3797,17 +3797,17 @@ Description=""
 [I0JX]
 Name="Aghanim's Scepter (Dazzle)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0K6]
 Name="Khadgar's Pipe of Insight"
 Tip=""
-Ubertip="A powerful artifact of mysterious origin, this pipe gives the bearer the insight to summon fields of null energy which envelop nearby allies, protecting them from 400 spell damage. Buff lasts 10 seconds. Provides 30% magic resistance, +8 HP regeneration and +4 HP regeneration aura. Heroes cannot regain this buff before 50 seconds have elapsed. |n|n|cff99ccffCooldown: |r 60"
+Ubertip="A powerful artifact of mysterious origin, this pipe gives the bearer the insight to summon fields of null energy which envelop nearby allies, protecting them from 400 spell damage. Buff lasts 10 seconds. Provides 30% magic resistance, +8 HP regeneration and +4 HP regeneration aura. Heroes cannot regain this buff before 50 seconds have elapsed.|n|n|cff99ccffCooldown: |r 60"
 Description=""
 [I0K7]
 Name="Monkey King Bar (True Strike |cffff0000Inactive|r)"
 Tip=""
-Ubertip="A powerful staff used by a martial arts master.  Grants +88 damage, 15% increased attack speed, True Strike (causes your attacks to never miss) and a 35% chance to deal 100 bonus damage on every attack stopping channeling spells."
+Ubertip="A powerful staff used by a martial arts master. Grants +88 damage, 15% increased attack speed, True Strike (causes your attacks to never miss) and a 35% chance to deal 100 bonus damage on every attack stopping channeling spells."
 Description=""
 [I0K8]
 Name="Monkey King Bar"
@@ -3822,7 +3822,7 @@ Description=""
 [I0KA]
 Name="Stout Shield (ranged)"
 Tip=""
-Ubertip="+60% chance to block 10 damage |n|n|c00838B8BOne man's wine barrel bottom is another man's shield!"
+Ubertip=" +60% chance to block 10 damage|n|n|c00838B8BOne man's wine barrel bottom is another man's shield!"
 Description=""
 [I0KB]
 Name="Stout Shield (ranged)"
@@ -3847,7 +3847,7 @@ Description=""
 [I0KF]
 Name="Poor Man's Shield (ranged)"
 Tip=""
-Ubertip="+100% chance to block 10 hero damage and +60% chance to block 10 non-hero damage. +6 Agility "
+Ubertip=" +100% chance to block 10 hero damage and +60% chance to block 10 non-hero damage. +6 Agility"
 Description=""
 [I0KG]
 Name="Aghanim's Scepter Recipe"
@@ -3857,7 +3857,7 @@ Description=""
 [I0KH]
 Name="Aghanim's Scepter (Techies)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0KI]
 Name="Aghanim's Scepter (Techies)"
@@ -3888,7 +3888,7 @@ Description=""
 [I0KN]
 Name="Mjollnir Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+80 Attack Speed |n+24 Damage |nChain Lightning (orb, passive) |nStatic Charge (active) |n|cffffcc00Requires:|r|nMaelstrom (Enchanted Artifacts) |nHyperstone|n|n|c00ff0303Orb effects do not stack|r |n|n|c00fffc01Can be disassembled|r "
+Ubertip="|cffffcc00Gives:|r|n +80 Attack Speed|n +24 Damage|n Chain Lightning (passive)|n Static Charge (active)|n|n|cffffcc00Requires:|r|n Maelstrom (Enchanted Artifacts)|n Hyperstone|n|n|c00fffc01Can be disassembled|r"
 Description=""
 [I0KO]
 Name="Mjollnir"
@@ -3913,7 +3913,7 @@ Description=""
 [I0KS]
 Name="Wand of Illusion"
 Tip=""
-Ubertip="Creates an illusion of target enemy hero. Images deals 40% damage and takes 200%. Lasts 25 seconds. |n|n|cff99ccffCooldown: |r 30"
+Ubertip="Creates an illusion of target enemy hero. Images deals 40% damage and takes 200%. Lasts 25 seconds.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0KT]
 Name="Wand of Illusion"
@@ -3928,7 +3928,7 @@ Description=""
 [I0KV]
 Name="Urn of Shadows Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n+50% Mana Regen |n+6 Strength |nRestore (active) |n|cffffcc00Requires:|r |nSobi Mask |n2x Gauntlets of Strength |n|n|c00838B8BTotal Cost: 875"
+Ubertip="|cffffcc00Gives:|r|n +50% Mana Regeneration|n +6 Strength|n Restore (active)|n|n|cffffcc00Requires:|r|n Sobi Mask|n 2x Gauntlets of Strength|n|n|c00838B8BTotal Cost: 875"
 Description=""
 [I0KW]
 Name="Urn of Shadows Recipe"
@@ -3943,7 +3943,7 @@ Description=""
 [I0KY]
 Name="Urn of Shadows"
 Tip=""
-Ubertip="Gives +50% Mana Regen and +6 Strength. Can release a stored soul to regenerate a target unit for 400 hp over 8 seconds or cause an enemy target to lose 150 hp over 8 seconds. Gains one charge when an enemy hero dies. Dispels on damage. |n|n|cff99ccffCooldown: |r 7 |n|n|c00ff0303Only charges one item per death|r"
+Ubertip="Gives +50% Mana Regen and +6 Strength. Can release a stored soul to regenerate a target unit for 400 hp over 8 seconds or cause an enemy target to lose 150 hp over 8 seconds. Gains one charge when an enemy hero dies. Dispels on damage.|n|n|cff99ccffCooldown: |r 7|n|n|c00ff0303Only charges one item per death|r"
 Description=""
 [I0KZ]
 Name="Urn of Shadows"
@@ -3973,22 +3973,22 @@ Description=""
 [I0L0]
 Name="Aghanim's Scepter (Axe)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0L5]
 Name="Aghanim's Scepter (Dirge)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0L6]
 Name="Aghanim's Scepter (Batrider)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0L7]
 Name="Aghanim's Scepter (Earthshaker)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0L8]
 Name="Aghanim's Scepter (Dirge)"
@@ -4028,7 +4028,7 @@ Description=""
 [I0LF]
 Name="Urn of Shadows (empty)"
 Tip=""
-Ubertip="Gives +50% Mana Regen and +6 Strength. Can release a stored soul to regenerate a target unit for 400 hp over 8 seconds or cause an enemy target to lose 150 hp over 8 seconds. Gains one charge when an enemy hero dies. Dispels on damage. |n|n|cff99ccffCooldown: |r 7 |n|n|c00ff0303Only charges one item per death|r"
+Ubertip="Gives +50% Mana Regen and +6 Strength. Can release a stored soul to regenerate a target unit for 400 hp over 8 seconds or cause an enemy target to lose 150 hp over 8 seconds. Gains one charge when an enemy hero dies. Dispels on damage.|n|n|cff99ccffCooldown: |r 7|n|n|c00ff0303Only charges one item per death|r"
 Description=""
 [I0LG]
 Name="Urn of Shadows (empty)"
@@ -4048,17 +4048,17 @@ Description=""
 [I0LJ]
 Name="|c00000000Divine Rapier|r"
 Tip=""
-Ubertip="The Divine Rapier was granted by God himself to the rebels in the War of the Magi.  Grants +300 damage, but drops if the user dies. |n|n|c00ff0303Drops upon death|r    |n|n|c00838B8BWith great power comes great responsibility"
+Ubertip="The Divine Rapier was granted by God himself to the rebels in the War of the Magi. Grants +300 damage, but drops if the user dies.|n|n|c00ff0303Drops upon death|r|n|n|c00838B8BWith great power comes great responsibility"
 Description=""
 [I0LK]
 Name="Divine Rapier"
 Tip=""
-Ubertip="The Divine Rapier was granted by God himself to the rebels in the War of the Magi.  Grants +300 damage, but drops if the user dies. |n|n|c00ff0303Drops upon death|r |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="The Divine Rapier was granted by God himself to the rebels in the War of the Magi. Grants +300 damage, but drops if the user dies.|n|n|c00ff0303Drops upon death|r|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0LL]
 Name="Soul Ring"
 Tip=""
-Ubertip="The keeper died, sacrificing too much of his soul for control. Gives +3 HP regeneration and +50% Mana regeneration. Can cast Sacrifice, losing 150 hp to temporarily gain 150 mana. That mana gets removed after 10 seconds if unused. |n|n|cff99ccffCooldown: |r 30"
+Ubertip="The keeper died, sacrificing too much of his soul for control. Gives +3 HP regeneration and +50% Mana regeneration. Can cast Sacrifice, losing 150 hp to temporarily gain 150 mana. That mana gets removed after 10 seconds if unused.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0LM]
 Name="Soul Ring Recipe"
@@ -4068,7 +4068,7 @@ Description=""
 [I0LN]
 Name="Soul Ring Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +3 HP Regeneration |n +50% Mana Regeneration |n Sacrifice (active) |n|n|cffffcc00Requires:|r |n Ring of Regeneration - 350 |n Sobi Mask - 325 |n Recipe - 125|r  |n|n|c00838B8B Total Cost: 800"
+Ubertip="|cffffcc00Gives:|r|n +3 HP Regeneration|n +50% Mana Regeneration|n Sacrifice (active)|n|n|cffffcc00Requires:|r|n Ring of Regeneration - 350|n Sobi Mask - 325|n Recipe - 125|r|n|n|c00838B8B Total Cost: 800"
 Description=""
 [I0LO]
 Name="Soul Ring Recipe"
@@ -4098,7 +4098,7 @@ Description=""
 [I0LT]
 Name="Ethereal Blade"
 Tip=""
-Ubertip="|n+40 Agility |n+10 Strength |n+10 Intelligence |n Ether Blast (active) |n|nConverts you and target unit into ethereal form. Target unit is slowed by 80% for 3 seconds (4 if self or ally) and deals 75 + 2x your primary attribute as damage to them. Ethereal units take 40% extra magic damage and cannot attack or be attacked. |n|n|cff99ccffCooldown: |r 30"
+Ubertip="|n+40 Agility|n+10 Strength|n+10 Intelligence|n Ether Blast (active)|n|nConverts you and target unit into ethereal form. Target unit is slowed by 80% for 3 seconds (4 if self or ally) and deals 75 + 2x your primary attribute as damage to them. Ethereal units take 40% extra magic damage and cannot attack or be attacked.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0LU]
 Name="Aghanim's Scepter (Puck)"
@@ -4108,7 +4108,7 @@ Description=""
 [I0LV]
 Name="Aghanim's Scepter (Puck)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0LW]
 Name="Aghanim's Scepter (Puck)"
@@ -4118,7 +4118,7 @@ Description=""
 [I0LX]
 Name="Ethereal Blade Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +40 Agility |n +10 Strength |n +10 Intelligence |n Ether Blast (active) |n|n|cffffcc00Requires:|r |n Eaglehorn - 3300 |n Ghost Scepter - 1500 |n Wraith Band - 460 |n|n|c00838B8B Total Cost: 5260"
+Ubertip="|cffffcc00Gives:|r|n +40 Agility|n +10 Strength|n +10 Intelligence|n Ether Blast (active)|n|n|cffffcc00Requires:|r|n Eaglehorn - 3300|n Ghost Scepter - 1500|n Wraith Band - 460|n|n|c00838B8B Total Cost: 5260"
 Description=""
 [I0LY]
 Name="Ethereal Blade Recipe"
@@ -4133,7 +4133,7 @@ Description=""
 [I0M0]
 Name="Aghanim's Scepter (Warlock)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0M1]
 Name="Aghanim's Scepter (Warlock)"
@@ -4153,7 +4153,7 @@ Description=""
 [I0M4]
 Name="Aghanim's Scepter (Razor)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0M5]
 Name="Aghanim's Scepter (Razor)"
@@ -4168,7 +4168,7 @@ Description=""
 [I0M7]
 Name="Aghanim's Scepter (Viper)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0M8]
 Name="Aghanim's Scepter (Viper)"
@@ -4178,7 +4178,7 @@ Description=""
 [I0M9]
 Name="Orb of Venom"
 Tip=""
-Ubertip="Adds a poison effect to your attacks, dealing 3 damage per second and slowing enemy units by 12% for 4 seconds.   |n|n|cff99ccffBuff placers do not stack|r"
+Ubertip="Adds a poison effect to your attacks, dealing 3 damage per second and slowing enemy units by 12% for 4 seconds.|n|n|cff99ccffBuff placers do not stack|r"
 Description=""
 [I0MA]
 Name="Orb of Venom"
@@ -4203,7 +4203,7 @@ Description=""
 [I0ME]
 Name="Orb of Venom (ranged)"
 Tip=""
-Ubertip="Adds a poison effect to your attacks, dealing 3 damage per second and slowing enemy units by 4% for 4 seconds.   |n|n|cff99ccffBuff placers do not stack|r"
+Ubertip="Adds a poison effect to your attacks, dealing 3 damage per second and slowing enemy units by 4% for 4 seconds.|n|n|cff99ccffBuff placers do not stack|r"
 Description=""
 [I0MF]
 Name="Aghanim's Scepter (Tiny)"
@@ -4213,7 +4213,7 @@ Description=""
 [I0MG]
 Name="Aghanim's Scepter (Tiny)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0MH]
 Name="Aghanim's Scepter (Tiny)"
@@ -4223,7 +4223,7 @@ Description=""
 [I0MI]
 Name="Arcane Boots"
 Tip=""
-Ubertip="Increases movement speed by 55 and mana by 250. Can cast Replenish to restore 135 mana to an area around the caster.|n|n|cff99ccffCooldown: |r 55 |n|n|c00fffc01Can be disassembled|r  |n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
+Ubertip="Increases movement speed by 55 and mana by 250. Can cast Replenish to restore 135 mana to an area around the caster.|n|n|cff99ccffCooldown: |r 55|n|n|c00fffc01Can be disassembled|r|n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
 Description=""
 [I0MJ]
 Name="Arcane Boots"
@@ -4238,7 +4238,7 @@ Description=""
 [I0ML]
 Name="Aghanim's Scepter (Obsidian Destroyer)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0MM]
 Name="Aghanim's Scepter (Destroyer)"
@@ -4258,7 +4258,7 @@ Description=""
 [I0MP]
 Name="Aghanim's Scepter (Enchantress)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0MQ]
 Name="Aghanim's Scepter (Enchantress)"
@@ -4268,7 +4268,7 @@ Description=""
 [I0MR]
 Name="Gem of True Sight (Courier Edition)"
 Tip=""
-Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.   |n|n|c00ff0303Drops upon death|r |n|n|c00838B8BA magic stone that gives the bearer sight beyond sight"
+Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.|n|n|c00ff0303Drops upon death|r|n|n|c00838B8BA magic stone that gives the bearer sight beyond sight"
 Description=""
 [I0MS]
 Name="Gem of True Sight (Courier Edition)"
@@ -4278,12 +4278,12 @@ Description=""
 [I0MT]
 Name="Gem of True Sight (Courier Edition)"
 Tip=""
-Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.   |n|n|c00ff0303Drops upon death|r |n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
+Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.|n|n|c00ff0303Drops upon death|r|n|n|c00fffc01This item does not belong to you, but it is shareable. It is not muted.|r"
 Description=""
 [I0MU]
 Name="Manta Style (ranged)"
 Tip=""
-Ubertip="A funky looking axe that grants +26 Agility, +10 Strength, +10 Intelligence, +15 Attack Speed, +10% Movement Speed and allows you to create 2 illusions of yourself that deal 28% damage and receive 400% damage.|n|n|cff99ccffCooldown: |r 50 |n|n|c00fffc01Can be disassembled|r "
+Ubertip="A funky looking axe that grants +26 Agility, +10 Strength, +10 Intelligence, +15 Attack Speed, +10% Movement Speed and allows you to create 2 illusions of yourself that deal 28% damage and receive 400% damage.|n|n|cff99ccffCooldown: |r 50|n|n|c00fffc01Can be disassembled|r"
 Description=""
 [I0MV]
 Name="Manta Style (ranged)"
@@ -4313,7 +4313,7 @@ Description=""
 [I0N0]
 Name="Medallion of Courage"
 Tip=""
-Ubertip="Grants +6 armor and 50% mana regeneration. Can cast Valor to temporarily sacrifice 6 armor to reduce an enemy's armor by 6 points for 7 seconds.  |n|n|cff99ccffCooldown: |r 7"
+Ubertip="Grants +6 armor and 50% mana regeneration. Can cast Valor to temporarily sacrifice 6 armor to reduce an enemy's armor by 6 points for 7 seconds.|n|n|cff99ccffCooldown: |r 7"
 Description=""
 [I0N1]
 Name="Medallion of Courage"
@@ -4363,7 +4363,7 @@ Description=""
 [I0NA]
 Name="Ancient Janggo of Endurance Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +9 All Stats |n +9 damage |n +5% MS and AS Aura |n Endurance (active) |n|n|cffffcc00Requires:|r |n Bracer - 525 (Gateway Relics) |n Robe of the Magi - 450 |n Recipe - 800|r |n|n|c00838B8B Total Cost: 1775 |n|n|c00fffc01Charges can be replenished by buying the recipe again. |r"
+Ubertip="|cffffcc00Gives:|r|n +9 All Attributes|n +3 Damage|n +5% MS and AS Aura|n Endurance (active)|n|n|cffffcc00Requires:|r|n Bracer - 525 (Gateway Relics)|n Robe of the Magi - 450|n Recipe - 800|r|n|n|c00838B8B Total Cost: 1775|n|n|c00fffc01Charges can be replenished by buying the recipe again. |r"
 Description=""
 [I0NB]
 Name="Ancient Janggo of Endurance Recipe"
@@ -4383,7 +4383,7 @@ Description=""
 [I0NE]
 Name="Ancient Janggo of Endurance"
 Tip=""
-Ubertip="Provides +9 to all attributes, +3 damage and +5% MS and AS aura. Uses a charge in order to give nearby allied player controlled units 10% bonus movement and attack speed for 6 seconds. |n|n|c00fffc01Charges can be replenished by buying the recipe again. |r  |n|n|cff99ccffCooldown: |r 30"
+Ubertip="Provides +9 to all attributes, +3 damage and +5% MS and AS aura. Uses a charge in order to give nearby allied player controlled units 10% bonus movement and attack speed for 6 seconds.|n|n|c00fffc01Charges can be replenished by buying the recipe again. |r|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0NF]
 Name="Smoke of Deceit"
@@ -4393,7 +4393,7 @@ Description=""
 [I0NG]
 Name="Smoke of Deceit"
 Tip=""
-Ubertip="Makes you and nearby allies invisible in the world and from the minimap as well as a 15% bonus movement speed. Dispels when near enemy heroes or towers. |nLasts 35 seconds. |n|n|cff99ccffCooldown: |r 90"
+Ubertip="Makes you and nearby allies invisible in the world and from the minimap as well as a 15% bonus movement speed. Dispels when near enemy heroes or towers.|nLasts 35 seconds.|n|n|cff99ccffCooldown: |r 90"
 Description=""
 [I0NH]
 Name="Medallion of Courage"
@@ -4403,7 +4403,7 @@ Description=""
 [I0NI]
 Name="Medallion of Courage Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +6 armor |n +50% mana regeneration |n Valor (active) |n|n|cffffcc00Requires:|r |n Chainmail - 550 |n Sobi Mask - 325 |n Recipe - 200  |n|n|c00838B8B Total Cost: 1075"
+Ubertip="|cffffcc00Gives:|r|n +6 Armor|n +50% Mana Regeneration|n Valor (active)|n|n|cffffcc00Requires:|r|n Chainmail - 550|n Sobi Mask - 325|n Recipe - 200|n|n|c00838B8B Total Cost: 1075"
 Description=""
 [I0NJ]
 Name="Medallion of Courage"
@@ -4413,7 +4413,7 @@ Description=""
 [I0NK]
 Name="Ancient Janggo of Endurance (empty)"
 Tip=""
-Ubertip="Provides +9 to all attributes, +3 damage and +5% MS and AS aura. Uses a charge in order to give nearby allied player controlled units 10% bonus movement and attack speed for 6 seconds. |n|n|c00fffc01Charges can be replenished by buying the recipe again. |r |n|n|cff99ccffCooldown: |r 30"
+Ubertip="Provides +9 to all attributes, +3 damage and +5% MS and AS aura. Uses a charge in order to give nearby allied player controlled units 10% bonus movement and attack speed for 6 seconds.|n|n|c00fffc01Charges can be replenished by buying the recipe again. |r|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0NL]
 Name="Ancient Janggo of Endurance (empty)"
@@ -4428,7 +4428,7 @@ Description=""
 [I0NN]
 Name="Hand of Midas (Courier Edition)"
 Tip=""
-Ubertip="Preserved through unknown magical means, the Hand of Midas still retains much of its original potency.  Grants +30% increased attack speed, and the ability to instantly turn creeps into 190 gold. |n|n|cff99ccffCooldown: |r 100 seconds."
+Ubertip="Preserved through unknown magical means, the Hand of Midas still retains much of its original potency. Grants +30% increased attack speed, and the ability to instantly turn creeps into 190 gold.|n|n|cff99ccffCooldown: |r 100"
 Description=""
 [I0NO]
 Name="Hand of Midas (Courier Edition)"
@@ -4448,7 +4448,7 @@ Description=""
 [I0NR]
 Name="Aghanim's Scepter (Dark Seer)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0NS]
 Name="Aghanim's Scepter (Dark Seer)"
@@ -4463,7 +4463,7 @@ Description=""
 [I0NU]
 Name="Aghanim's Scepter (Gyrocopter)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0NV]
 Name="Aghanim's Scepter (Gyrocopter)"
@@ -4478,7 +4478,7 @@ Description=""
 [I0NX]
 Name="Aghanim's Scepter (Meepo)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0NY]
 Name="Aghanim's Scepter (Meepo)"
@@ -4493,7 +4493,7 @@ Description=""
 [I0O0]
 Name="Aghanim's Scepter (Beastmaster)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0O1]
 Name="Aghanim's Scepter (Beastmaster)"
@@ -4508,7 +4508,7 @@ Description=""
 [I0O3]
 Name="Veil of Discord"
 Tip=""
-Ubertip="Grants +6 armor, +6 HP regeneration, 6 Intelligence, 6 Strength, 6 Agility and 6 Damage. Can cast Discord to apply a debuff on enemy units in an area, reducing their magic resistance by 25% for 25 seconds.  |n|n|cff99ccffCooldown: |r 30"
+Ubertip="Grants +6 armor, +6 HP regeneration, 6 Intelligence, 6 Strength, 6 Agility and 6 Damage. Can cast Discord to apply a debuff on enemy units in an area, reducing their magic resistance by 25% for 25 seconds.|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0O4]
 Name="Veil of Discord"
@@ -4523,7 +4523,7 @@ Description=""
 [I0O6]
 Name="Veil of Discord Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +6 armor |n +6 HP regeneration |n +6 Intelligence |n +6 Agility |n +6 Strength |n +6 Damage |n Discord (active) |n|n|cffffcc00Requires:|r |n Helm of Iron Will - 950 |n Null Talisman - 470 |n Recipe - 1270  |n|n|c00838B8B Total Cost: 2670"
+Ubertip="|cffffcc00Gives:|r|n +6 Armor|n +6 HP Regeneration|n +6 Intelligence|n +6 Agility|n +6 Strength|n +6 Damage|n Discord (active)|n|n|cffffcc00Requires:|r|n Helm of Iron Will - 950|n Null Talisman - 470|n Recipe - 1270|n|n|c00838B8B Total Cost: 2670"
 Description=""
 [I0O7]
 Name="Veil of Discord"
@@ -4544,7 +4544,7 @@ Description=""
 [I0OA]
 Name="Orchid Malevolence Recipe"
 Tip=""
-Ubertip="|cffffcc00Gives:|r |n +25 Intelligence |n +30% increased attack speed |n +30 damage |n +150% mana regen |n Soul Burn (active)|n |n|cffffcc00Requires:|r |n 2x Oblivion Staff - 3350 (Gateway Relics) |n Recipe - 775 |n|n|c00838B8B Total Cost: 4125"
+Ubertip="|cffffcc00Gives:|r|n +25 Intelligence|n +30% Attack Speed|n +30 Damage|n +150% Mana Regeneration|n Soul Burn (active)|n|n|cffffcc00Requires:|r|n 2x Oblivion Staff - 3350 (Gateway Relics)|n Recipe - 775|n|n|c00838B8B Total Cost: 4125"
 Description=""
 [I0OB]
 Name="Orchid Malevolence"
@@ -4574,7 +4574,7 @@ Description=""
 [I0OG]
 Name="Tranquil Boots"
 Tip=""
-Ubertip="Provides +90 Movement Speed, +4 Armor and +12 HP Regeneration. If you attack or get attacked, this item will lose 25 movement speed and the HP regeneration. |n|n|c00ff0303Movement Speed does not stack with other boot items.|r "
+Ubertip="Provides +90 Movement Speed, +4 Armor and +12 HP Regeneration. If you attack or get attacked, this item will lose 25 movement speed and the HP regeneration.|n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
 Description=""
 [I0OH]
 Name="Tranquil Boots"
@@ -4584,7 +4584,7 @@ Description=""
 [I0OI]
 Name="Tranquil Boots (broken)"
 Tip=""
-Ubertip="Provides +90 Movement Speed, +4 Armor and +12 HP Regeneration. If you attack or get attacked, this item will lose 25 movement speed and the HP regeneration. |n|n|c00ff0303Movement Speed does not stack with other boot items.|r "
+Ubertip="Provides +90 Movement Speed, +4 Armor and +12 HP Regeneration. If you attack or get attacked, this item will lose 25 movement speed and the HP regeneration.|n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
 Description=""
 [I0OJ]
 Name="Tranquil Boots Disabled"
@@ -4599,7 +4599,7 @@ Description=""
 [I0OL]
 Name="Rod of Atos"
 Tip=""
-Ubertip="Provides 350 HP and 25 Intelligence. Can use Cripple to slow the target's movement speed by 60% for 4 seconds. |n|n|cff99ccffCooldown: |r 10"
+Ubertip="Provides 350 HP and 25 Intelligence. Can use Cripple to slow the target's movement speed by 60% for 4 seconds.|n|n|cff99ccffCooldown: |r 10"
 Description=""
 [I0OM]
 Name="Rod of Atos"
@@ -4614,7 +4614,7 @@ Description=""
 [I0OO]
 Name="Moon Shard"
 Tip=""
-Ubertip="+120 Attack Speed "
+Ubertip=" +120 Attack Speed"
 Description=""
 [I0OP]
 Name="Moon Shard"
@@ -4634,7 +4634,7 @@ Description=""
 [I0OS]
 Name="Aghanim's Scepter (Visage)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0OT]
 Name="Aghanim's Scepter (Visage)"
@@ -4651,7 +4651,7 @@ Description=""
 [I0OV]
 Name="Heaven's Halberd"
 Tip=""
-Ubertip="Gives +20 Strength, +25 Damage, 25% Evasion, and a 15% chance on hit to maim the target, reducing movement and attack speed. Can cast Disarm to remove the target's ability to attack for 4.5 seconds (3 against melee). |n|n|cff99ccffCooldown: |r 30"
+Ubertip="Gives +20 Strength, +25 Damage, 25% Evasion, and a 15% chance on hit to maim the target, reducing movement and attack speed. Can cast Disarm to remove the target's ability to attack for 4.5 seconds (3 against melee).|n|n|cff99ccffCooldown: |r 30"
 Description=""
 [I0OW]
 Name="Heaven's Halberd"
@@ -4661,7 +4661,7 @@ Description=""
 [I0OX]
 Name="Abyssal Blade"
 Tip=""
-Ubertip="Adds 100 damage, +10 Strength, and has a 25% (10% for ranged) chance to Bash for 1.4 seconds. Has a 2 second cooldown. Can cast Overwhelm to stun a target for 2 seconds. Can be cast on Magic Immune units. |n|n|c00ff0303Does not stack with other bash passives|r |n|n|cff99ccffCooldown: |r 60  |n|n|c00fffc01Can be disassembled|r "
+Ubertip="Adds 100 damage, +10 Strength, and has a 25% (10% for ranged) chance to Bash for 1.4 seconds. Has a 2 second cooldown. Can cast Overwhelm to stun a target for 2 seconds. Can be cast on Magic Immune units.|n|n|c00ff0303Does not stack with other bash passives|r|n|n|cff99ccffCooldown: |r 60|n|n|c00fffc01Can be disassembled|r"
 Description=""
 [I0OY]
 Name="Abyssal Blade"
@@ -4681,7 +4681,7 @@ Description=""
 [I0P1]
 Name="Ring of Aquila (|cff00ff00Normal|r)"
 Tip=""
-Ubertip="Grants a 0.65 Brilliance Aura, a +2 Devotion Aura, +1 armor, 3 all stats, 6 agility and 9 damage. Click this to convert it to a hero only armor aura. "
+Ubertip="Grants a 0.65 Brilliance Aura, a +2 Devotion Aura, +1 armor, 3 all stats, 6 agility and 9 damage. Click this to convert it to a hero only armor aura."
 Description=""
 [I0P2]
 Name="Ring of Aquila"
@@ -4696,7 +4696,7 @@ Description=""
 [I0P4]
 Name="Ring of Aquila (|cffff0000Heroes|r)"
 Tip=""
-Ubertip="Grants a 0.65 Brilliance Aura, a +2 Devotion Aura, +1 armor, 3 all stats, 6 agility and 9 damage. Click this to convert it to a regular armor aura. "
+Ubertip="Grants a 0.65 Brilliance Aura, a +2 Devotion Aura, +1 armor, 3 all stats, 6 agility and 9 damage. Click this to convert it to a regular armor aura."
 Description=""
 [I0P5]
 Name="Ring of Aquila (Heroes)"
@@ -4716,7 +4716,7 @@ Description=""
 [I0P8]
 Name="Black King Bar (4)"
 Tip=""
-Ubertip="A powerful rod imbued with the strength of giants.  Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 4 seconds. |n|n|cff99ccffCooldown: |r 50"
+Ubertip="A powerful rod imbued with the strength of giants. Adds +10 Strength, +24 damage, and the Avatar ability, which lasts 4 seconds.|n|n|cff99ccffCooldown: |r 50"
 Description=""
 [I0P9]
 Name="Shadow Amulet"
@@ -4731,7 +4731,7 @@ Description=""
 [I0PB]
 Name="Shadow Amulet"
 Tip=""
-Ubertip="Adds 30 Attack Speed, Fade (active)  |n|nFades you invisible after 1.5 seconds. If you move the invisibility is canceled.  |n|n|cff99ccffCooldown: |r 0"
+Ubertip=" +30 Attack Speed|n Fade (active)|n|nFades you invisible after 1.5 seconds. If you move the invisibility is canceled.|n|n|cff99ccffCooldown: |r 0"
 Description=""
 [I0PC]
 Name="Dummy Item Sentinel"
@@ -4762,7 +4762,7 @@ Description=""
 [I0PH]
 Name="Aghanim's Scepter (Silencer)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0PI]
 Name="Aghanim's Scepter (Silencer)"
@@ -4777,7 +4777,7 @@ Description=""
 [I0PK]
 Name="Aghanim's Scepter (AA)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0PL]
 Name="Aghanim's Scepter (AA)"
@@ -4787,7 +4787,7 @@ Description=""
 [I0PM]
 Name="Glimmer Cape"
 Tip=""
-Ubertip="Adds 30 Attack Speed, 15% Spell Resistance, Fade (active)  |n|nFades you invisible after 0.5 seconds. If you move the invisibility is canceled. While invisible you have 66% Spell Resistance.  |n|n|cff99ccffCooldown: |r 10"
+Ubertip="Adds 30 Attack Speed, 15% Spell Resistance, Fade (active)|n|nFades you invisible after 0.5 seconds. If you move the invisibility is canceled. While invisible you have 66% Spell Resistance.|n|n|cff99ccffCooldown: |r 10"
 Description=""
 [I0PN]
 Name="Glimmer Cape"
@@ -4807,7 +4807,7 @@ Description=""
 [I0PQ]
 Name="Aghanim's Scepter (Omni)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0PR]
 Name="Aghanim's Scepter (Omniknight)"
@@ -4822,7 +4822,7 @@ Description=""
 [I0PT]
 Name="Aghanim's Scepter (Skywrath Mage)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0PU]
 Name="Aghanim's Scepter (Skywrath Mage)"
@@ -4837,7 +4837,7 @@ Description=""
 [I0PW]
 Name="Aghanim's Scepter (Enigma)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0PX]
 Name="Aghanim's Scepter (Enigma)"
@@ -4847,12 +4847,12 @@ Description=""
 [I0PY]
 Name="Clarity Potion (muted)"
 Tip=""
-Ubertip="Regenerates 135 mana over 40 seconds when used. Dispels on attack. |n|n|c00838B8BA live wisp is captured in each bottle"
+Ubertip="Regenerates 135 mana over 40 seconds when used. Dispels on attack.|n|n|c00838B8BA live wisp is captured in each bottle"
 Description=""
 [I0PZ]
 Name="Healing Salve"
 Tip=""
-Ubertip="Heals 400 HP over 10 seconds on a friendly unit.  1 Charge.  Dispels on attack. |n|n|c00838B8BA magical salve that can quickly mend even the deepest of wounds."
+Ubertip="Heals 400 HP over 10 seconds on a friendly unit. 1 Charge. Dispels on attack.|n|n|c00838B8BA magical salve that can quickly mend even the deepest of wounds."
 Description=""
 [I0Q0]
 Name="Aghanim's Scepter (Rubick)"
@@ -4867,12 +4867,12 @@ Description=""
 [I0Q2]
 Name="Aghanim's Scepter (Thrall)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0Q3]
 Name="Aghanim's Scepter (Rubick)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0Q4]
 Name="Aghanim's Scepter (Thrall)"
@@ -4887,7 +4887,7 @@ Description=""
 [I0Q6]
 Name="Ancient Tango of Essifation"
 Tip=""
-Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds.  1 charge. |n|n|c00838B8BUser may experience dependence after prolonged usage"
+Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 1 charge.|n|n|c00838B8BUser may experience dependence after prolonged usage"
 Description=""
 [I0Q7]
 Name="Ancient Tango of Essifation Single"
@@ -4897,12 +4897,12 @@ Description=""
 [I0Q8]
 Name="Ancient Tango of Essifation"
 Tip=""
-Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 4 charges. |n|n|c00838B8BUser may experience dependence after prolonged usage"
+Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 4 charges.|n|n|c00838B8BUser may experience dependence after prolonged usage"
 Description=""
 [I0Q9]
 Name="Ancient Tango of Essifation"
 Tip=""
-Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds.  1 charge. |n|n|c00838B8BUser may experience dependence after prolonged usage"
+Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 1 charge.|n|n|c00838B8BUser may experience dependence after prolonged usage"
 Description=""
 [I0QA]
 Name="Vampiric Aura ranged 1"
@@ -4956,12 +4956,12 @@ Description=""
 [I0QJ]
 Name="|cff00ff00Genuine Monkey King Bar|r"
 Tip=""
-Ubertip="The one true Monkey King Bar. Can only be granted access by Sun Wukong. Grants Truestrike, 90% evasion, reveals invisible units, instantly takes control over any nearby illusions and provides +10000 damage. Causes you and all of your friends to have maximum movement speed and maximum attack speed. "
+Ubertip="The one true Monkey King Bar. Can only be granted access by Sun Wukong. Grants Truestrike, 90% evasion, reveals invisible units, instantly takes control over any nearby illusions and provides +10000 damage. Causes you and all of your friends to have maximum movement speed and maximum attack speed."
 Description=""
 [I0QK]
 Name="|cff00ff00Genuine Monkey King Bar|r"
 Tip=""
-Ubertip="The one true Monkey King Bar. Can only be granted access by Sun Wukong. Grants Truestrike, 90% evasion, reveals invisible units, instantly takes control over any nearby illusions and provides +10000 damage. Causes you and all of your friends to have maximum movement speed and maximum attack speed. "
+Ubertip="The one true Monkey King Bar. Can only be granted access by Sun Wukong. Grants Truestrike, 90% evasion, reveals invisible units, instantly takes control over any nearby illusions and provides +10000 damage. Causes you and all of your friends to have maximum movement speed and maximum attack speed."
 Description=""
 [I0QL]
 Name="Aghanim's Scepter (Tinker)"
@@ -4971,7 +4971,7 @@ Description=""
 [I0QM]
 Name="Aghanim's Scepter (Tinker)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0QN]
 Name="Aghanim's Scepter (Tinker)"
@@ -4986,7 +4986,7 @@ Description=""
 [I0QP]
 Name="Aghanim's Scepter (Shadow Demon)"
 Tip=""
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 Description=""
 [I0QQ]
 Name="Aghanim's Scepter (Shadow Demon)"
@@ -4997,7 +4997,7 @@ Description=""
 Name="Aghanim's Scepter (Thrall)"
 [IZ01]
 Name="Aghanim's Scepter (Thrall)"
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 [IZ02]
 Name="Aghanim's Scepter (Thrall)"
 Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
@@ -5005,7 +5005,7 @@ Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
 Name="Aghanim's Scepter (Enigma)"
 [IZ04]
 Name="Aghanim's Scepter (Enigma)"
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 [IZ05]
 Name="Aghanim's Scepter (Enigma)"
 Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
@@ -5013,7 +5013,7 @@ Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
 Name=Aghanim's Scepter(Tinker)
 [IZ07]
 Name=Aghanim's Scepter(Tinker)
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 [IZ08]
 Name=Aghanim's Scepter(Tinker)
 Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
@@ -5021,7 +5021,7 @@ Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
 Name=Aghanim's Scepter(Skywrath Mage)
 [IZ0A]
 Name=Aghanim's Scepter(Skywrath Mage)
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 [IZ0B]
 Name=Aghanim's Scepter(Skywrath Mage)
 Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
@@ -5029,7 +5029,7 @@ Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
 Name=Aghanim's Scepter(Grand Magus)
 [IZ0D]
 Name=Aghanim's Scepter(Grand Magus)
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 [IZ0E]
 Name=Aghanim's Scepter(Grand Magus)
 Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
@@ -5037,7 +5037,7 @@ Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
 Name=Aghanim's Scepter(Shadow Demon)
 [IZ0I]
 Name=Aghanim's Scepter(Shadow Demon)
-Ubertip="The scepter of a wizard with Demigod-like powers.  Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate.  "
+Ubertip="The scepter of a wizard with Demigod-like powers. Adds 10 All Attributes, 200 HP, 150 MP and improves your ultimate."
 [IZ0J]
 Name=Aghanim's Scepter(Shadow Demon)
 Ubertip="|c00ff0303This item does not belong to you. It is muted.|r"
@@ -5049,7 +5049,7 @@ Description=""
 [PBMN]
 Name="Scroll of Town Portal (AI)"
 Tip=""
-Ubertip="Transports AI to a friendly structure. |n|n|cff99ccffCooldown: |r 65 seconds. "
+Ubertip="Transports AI to a friendly structure.|n|n|cff99ccffCooldown: |r 65"
 Description=""
 [Y001]
 Name=Pushing
