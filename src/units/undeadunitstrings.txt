@@ -1,0 +1,525 @@
+[Ucrl]
+Name="Stone Giant"
+Propernames=Tiny
+Tip="Stone Giant"
+Hotkey=
+Ubertip="Looming from the rocky crags of Ashenra, the stone giants are born from the mountain itself. Tiny, a newly born giant, although small in size, has the strength of a hill. With his supreme strength, he is able to launch anything into the air, including huge amounts of soil to cause avalanches around his enemies. Because of his craggy exterior, enemies have a hard time attacking him. Over time, Tiny's body will grow bigger as the magnetic forces deep inside his granite heart pull rocks and soil to his rugged stone form. |n|n|c00ff0303Strength|r - 24 + 3.0|n|c000042ffAgility|r - 9 + 0.9|n|c000042ffIntelligence|r - 14 + 1.6|n|nLearns Craggy Exterior, Avalanche, Toss, and |c00ff8000Grow!|r.|n|nAttack range of 128 (melee).|nMovement speed of 285."
+Revivetip="Revive Stone Giant"
+Awakentip="Revive Stone Giant"
+[uaco]
+Name=Acolyte
+Tip=Train A|cffffcc00c|rolyte
+Ubertip="Basic worker. Can summon structures, harvest gold, and Restore. Acolytes may be sacrificed at a Sacrificial Pit to create Shades. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=C
+[uabo]
+Name=Abomination
+Tip=Train |cffffcc00A|rbomination
+Ubertip="Heavy melee unit. Can learn the Disease Cloud ability and Cannibalize. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=A
+[Udea]
+Name="Lord of Avernus"
+Propernames=Abaddon
+Tip="Lord of Avernus"
+Ubertip="A former paladin of great renown, Abaddon fell into darkness during the invasion of the Burning Legion, becoming possessed by many demons, corrupting both his soul and his powers. Now a Death Knight set high in the Lich King's hierarchy of generals, he rides into battle against impossible odds, never stopping until he reaches the World Tree itself. Whether enhancing his own fortitude with a shield of dark energy, or using his life force to aid in combat, the Lord of Avernus leads the armies of the Scourge ever onward, forever locked in combat with the forces of good, and his enemies who were once his greatest comrades. |n|n|c00ff0303Strength|r - 23 + 2.7|n|c000042ffAgility|r - 17 + 1.5|n|c000042ffIntelligence|r - 21 + 2.0|n|nLearns Death Coil, Aphotic Shield, Frostmourne, and |c00ff8000Borrowed Time|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."
+Revivetip="Revive Lord of Avernus"
+Awakentip="Revive Lord of Avernus"
+Hotkey=
+[Udre]
+Name="Night Stalker"
+Propernames=Balanar
+Tip="Night Stalker"
+Ubertip="Beware, you who wonder the night. Each step you take leads you deeper in the hideous reign of the horrible ruler of the dark. Balanar, elite dreadlord who brought the total darkness of the Nether into this world, haunts these regions. Your heart will pump harder, your legs will shake, and your mind will cloud as the presence of the stalker hunts you in the dark. There's no chance to fight, no way to run, and no place to hide - darkness is everywhere! You can pray, you can cry, but the darkness won't be stopped - until you die. |n|n|c00ff0303Strength|r - 23 + 2.8|n|c000042ffAgility|r - 18 + 2.25|n|c000042ffIntelligence|r - 16 + 1.6|n|nLearns Hunter in the Night, Crippling Fear, Void, and |c00ff8000Darkness|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
+Revivetip="Revive Night Stalker"
+Awakentip="Revive Night Stalker"
+Hotkey=
+[ugar]
+Name=Gargoyle
+Tip=Train G|cffffcc00a|rrgoyle
+Ubertip="Flying attack creature. Can learn the Stone Form ability. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=A
+[ugrm]
+Name=Stone Form Gargoyle
+Tip=Train G|cffffcc00a|rrgoyle
+Ubertip="Flying attack creature. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=A
+[ugho]
+Name=Ghoul
+Tip=Train |cffffcc00G|rhoul
+Ubertip="Scourge melee unit."
+Hotkey=G
+[Ulic]
+Name=Lich
+Propernames=Kel'Thuzad
+Tip="Lich"
+Ubertip="Forcibly raised from the dead by the Lich King to serve as his elite magical guard, the Lich has the burning cold of Northrend in his realm of control. Evoking numerous freezing blasts, his talent in life still remains in death. Delving into the essence of cold magic, he has the power to cause ice to condense into an orb that bounces from foe to foe, causing tremendous pain in its wake. Sacrificing his allies for magical power, the Lich is a murderer without a trace of warmth. |n|n|c000042ffStrength|r - 18 + 1.55|n|c000042ffAgility|r - 15 + 2.0|n|c00ff0303Intelligence|r - 18 + 3.25|n|nLearns Dark Ritual, Frost Nova, Frost Armor, and |c00ff8000Chain Frost|r.|n|nAttack range of 550.|nMovement speed of 315."
+Revivetip="Revive Lich"
+Awakentip="Revive Lich"
+Hotkey=
+Description="Lich"
+[unec]
+Name=Necromancer
+Tip=Train |cffffcc00N|recromancer
+Ubertip="Scourge ranged unit."
+Hotkey=N
+Casterupgradename=
+Casterupgradetip=
+[uske]
+Name=Skeleton Warrior
+Tip=Summon Skeleton Warrior
+[uplg]
+Name=Disease Cloud
+[uaod]
+Name=Altar of Darkness
+Tip=Summon |cffffcc00A|rltar of Darkness
+Ubertip="Summons Heroes. Revives slain Heroes."
+Hotkey=A
+[unpl]
+Name="The Frozen Throne"
+Tip=Summon |cffffcc00N|recropolis
+Ubertip="Primary structure, used to train Acolytes and receive lumber gathered by Ghouls. Can be upgraded to Halls of the Dead and then Black Citadel to enable the production of additional types of structures and units."
+Hotkey=N
+[unp1]
+Name=Halls of the Dead
+Tip=|cffffcc00U|rpgrade to Halls of the Dead
+Ubertip="Upgrade to Halls of the Dead to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=U
+[unp2]
+Name=Black Citadel
+Tip=|cffffcc00U|rpgrade to Black Citadel
+Ubertip="Upgrade to Black Citadel to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=U
+[usep]
+Name=Crypt
+Tip=""
+Ubertip=""
+Hotkey=C
+[utod]
+Name=Temple of the Damned
+Tip=""
+Ubertip=""
+Hotkey=T
+[utom]
+Name=Tomb of Relics
+Hotkey=R
+Tip=Summon Tomb of |cffffcc00R|relics
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Necropolis has (Necropolis, Halls of the Dead, or Black Citadel) and which buildings you have."
+[ugol]
+Name=Haunted Gold Mine
+Tip=Haunt |cffffcc00G|rold Mine
+Ubertip="Haunts a gold mine so that Acolytes can mine. Use on gold mines to corrupt them."
+Hotkey=G
+[uzig]
+Name=Ziggurat
+Tip=""
+Ubertip=""
+Hotkey=Z
+[uzg1]
+Name=Spirit Tower
+Tip=Upgrade to Spirit |cffffcc00T|rower
+Ubertip="Upgrade to create a defensive structure. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+[umtw]
+Name=Meat Wagon
+Tip=Train |cffffcc00M|reat Wagon
+Ubertip="Corpse storage machine. Also serves as long-range siege weaponry. Exceptional damage versus buildings.|n|n|cffffcc00Attacks land units.|r"
+Hotkey=M
+[ubon]
+Name=Boneyard
+Tip=""
+Ubertip=""
+Hotkey=B
+[usap]
+Name=Sacrificial Pit
+Tip=""
+Ubertip=""
+Hotkey=S
+[uslh]
+Name=Slaughterhouse
+Tip=Summon Slaughter|cffffcc00h|rouse
+Ubertip="Produces Abominations, Obsidian Statues, and Meat Wagons. Also contains the Disease Cloud, and Destroyer Form upgrades."
+Hotkey=H
+[ushd]
+Name="Watcher"
+Tip=""
+Ubertip=""
+[ugrv]
+Name=Graveyard
+Tip=Summon Gra|cffffcc00v|reyard
+Ubertip="Provides attack and armor upgrades for Undead units. Also produces corpses and serves as a drop-off point for harvested lumber."
+Hotkey=V
+[uobs]
+Name=Obsidian Statue
+Tip=Create |cffffcc00O|rbsidian Statue
+Hotkey=O
+Ubertip="Fortified statue that can help replenish the life and mana of your army. Can initially cast Spirit Touch and Essence of Blight, and learn the Destroyer Form ability. |n|n|cffffcc00Attacks land and air units.|r"
+[ubsp]
+Name=Destroyer
+Tip=Morph into Des|cffffcc00t|rroyer
+Hotkey=T
+Ubertip="Large flying unit that must consume magic to sustain its mana. Excellent at destroying enemy casters and clusters of ground forces. Initially has Spell Immunity, Devour Magic, Absorb Mana, and Orb of Annihilation. |n|n|cffffcc00Attacks land and air units.|r"
+[U00K]
+Name="Sand King"
+Propernames=Crixalis
+Tip="Sand King"
+Hotkey=
+Ubertip="A guardian of the ancient Nerubian Kingdom of Azjol-Nerub, Crixalis fled to the deserts of Kalimdor in an attempt to escape the genocide of the Lich King. The harsh climate transformed this warrior into a master of the earth, able to tear the skin off his foes with vicious sand storms. Those unfortunate to succumb to his potent toxins are condemned to violently burst apart in a cloud of noxious fumes. Sensing his growing power, the Lich King sought out Crixalis and unable to sway him, slew him in battle. Summoned to aid the Undead Scourge, the heart of the Sentinel quivers each time the ground trembles beneath them. |n|n|c00ff0303Strength|r - 18 + 2.6|n|c000042ffAgility|r - 19 + 2.1|n|c000042ffIntelligence|r - 16 + 1.8|n|nLearns Sandstorm, Burrowstrike, Caustic Finale, and |c00ff8000Epicenter|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Revivetip="Revive Sand King"
+Awakentip="Revive Sand King"
+[u004]
+Name="Black Hole"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u009]
+Name="Revenant"
+Tip=Train G|cffffcc00a|rrgoyle
+Ubertip="Flying attack creature. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=A
+[UC42]
+Name="Doom Bringer"
+Propernames=Lucifer
+Tip="Doom Bringer"
+Ubertip="Lucifer was the leader of the Doomguard attack force of the burning legion in the first attack by the dark lord Sargeras. With his original master long gone, Lucifer grants his undying loyalty to the Scourge to finish what his lord once started. Devouring the insignificant for his greed while dissipating the souls of those brave and strong enough to withstand his strength and the heat of his fiery haven of burning earth, Lucifer takes no prisoners and makes sure those who persevere through his wrath die by the agonizing and burning pain of Doom itself.  |n|n|c00ff0303Strength|r - 26 + 3.2|n|c000042ffAgility|r - 11 + 0.9|n|c000042ffIntelligence|r - 13 + 2.1|n|nLearns LVL? Death, Devour, Scorched Earth, and |c00ff8000Doom|r.|n|nAttack range of 150 (melee). |nMovement speed of 290."
+Revivetip="Revive Doom Bringer"
+Awakentip="Revive Doom Bringer"
+Hotkey=
+Description="Doom Bringer"
+[U006]
+Name="Broodmother"
+Propernames=Black Arachnia
+Tip="Broodmother"
+Hotkey=
+Ubertip="Once a Queen of the Nerubians, she struck fear into the hearts of those she ruled. However she made the fatal mistake of falling in love with the renegade assassin Anub'Arak , and was banished from her own kingdom. Now she accompanies her true love in the battle of the Ancients, bearing his offspring as a symbol of her undying love. An expert in weaving webs of deception, she has the power of incapacitating those who dare attack her, and sowing in them the seeds of her offspring which then tear out of the corpse of the unfortunate victim. Her lust for battle helps her grow stronger and sustain herself, leading many to believe that her hunger for flesh, is insatiable..|n|n|c000042ffStrength|r - 17 + 2.5|n|c00ff0303Agility|r - 18 + 2.2|n|c000042ffIntelligence|r - 18 + 2.0|n|nLearns Spawn Spiderlings, Spin Web, Incapacitating Bite, and |c00ff8000Insatiable Hunger|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
+Revivetip="Revive Broodmother"
+Awakentip="Revive Broodmother"
+[U007]
+Name="Lifestealer"
+Propernames=N'aix
+Tip="Summon |cffffcc00L|rifestealer"
+Ubertip="There once was a man in Lordaeron so consumed by greed that he was beyond remorse. Eventually caught trying to steal Prince Arthas' sacred ring, he was tried and hanged. Yet his body, so corrupted by his desire to steal, had risen by itself in the form of a monstrous ghoul. So came into being N'aix, his old name long forgotten: the embodiment of lust and greed, bent on stealing the life of every living creature he encounters.|n|n|c00ff0303Strength|r - 15 + 1.4|n|c000042ffAgility|r - 26 + 4.05|n|c000042ffIntelligence|r - 15 + 1.5|n|nLearns Feast, Anabolic Frenzy, Poison Sting, and |c00ff8000Rage|r.|n|nAttack range of 100 (melee).|nMovement speed of 295."
+Revivetip="Revive |cffffcc00L|rifestealer"
+Awakentip="Revive |cffffcc00L|rifestealer"
+Hotkey=
+[UC01]
+Name="Queen of Pain"
+Propernames=Akasha
+Tip="Queen of Pain"
+Ubertip="Akasha is one of the many souls claimed by the blade, Frostmourne. Raised to serve the Lich King as a Banshee, she desired to become pure substance once more. Driving deep into the forests, she was able to subdue and possess a Succubus minion. Rightly bearing the title, Queen of Pain, she enjoys nothing more than inflicting massive damage on her foes, using both the poisonous strikes of her succubus host and the vicious howls retained from her Banshee nature. Akasha breaks her enemies’ eardrums with torturing screams, some so loud they manifest into powerful waves that ripple across the lands, shattering all in their wake. |n|n|c000042ffStrength|r - 16 + 1.7|n|c000042ffAgility|r - 18 + 2.0|n|c00ff0303Intelligence|r - 24 + 2.5|n|nLearns Shadow Strike, Blink, Scream of Pain, and |c00ff8000Sonic Wave|r.|n|nAttack range of 550.|nMovement speed of 300."
+Revivetip="Revive Queen of Pain"
+Awakentip="Revive Queen of Pain"
+Hotkey=
+Description="Queen of Pain"
+[U008]
+Name="Lycanthrope"
+Propernames=Banehallow
+Tip="Lycanthrope"
+Ubertip="Banehallow is an avatar of bestial fury created by the scourge. For years he has dwelled in the dark forests of the world, hunting innocents that wander therein. Now he is called to aid his masters. He revels in blood and battle, using his wolfish persona to draw the feral beasts to his side and imbue his allies with his flesh-shredding strength. He is also unnaturally quick and agile. Some say he can even transform into a giant wolf, giving him more durability and the speed to gouge and maim with near impunity. |n|n|c00ff0303Strength|r - 22 + 2.75|n|c000042ffAgility|r - 16 + 1.9|n|c000042ffIntelligence|r - 17 + 1.55|n|nLearns Feral Impulse, Howl, Summon Wolves, and |c00ff8000Shapeshift|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Revivetip="Revive Lycanthrope"
+Awakentip="Revive Lycanthrope"
+Hotkey=
+[U000]
+Name="Nerubian Assassin"
+Propernames=Anub'arak,Anub'arak,Anub'arak,Anub'arak,A'noob Arak,Anub'arak,Anub'arak,Anub'arak
+Tip="Nerubian Assassin"
+Hotkey=
+Ubertip="Anub’arak was once the greatest champion of the Nerubians, but fell in the Second War of the Spider. He was resurrected by the Lich King Ner'zhul, who promised him eternal undeath in exchange for his unswerving loyalty. When threatened, he shoots spikes through enemies maiming and disorienting them. He channels his dark powers into a bolt of disarming negative energy, and those who witness him blending into the shadows of the frozen tundra have never lived to tell the tale. |n|n|c000042ffStrength|r - 18 + 2.0|n|c00ff0303Agility|r - 19 + 2.2|n|c000042ffIntelligence|r - 18 + 2.1|n|nLearns Impale, Mana Burn, Spiked Carapace, and |c00ff8000Vendetta|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Revivetip="Revive Nerubian Assassin"
+Awakentip="Revive Nerubian Assassin"
+[u00H]
+Name="Chain Link"
+Tip=""
+Ubertip=""
+[uC74]
+Name="Leragas The Vile"
+Tip=""
+Ubertip=""
+Hotkey=
+[u00J]
+Name="Illuminate Orb"
+Tip=""
+Ubertip=""
+[U00A]
+Name="Chaos Knight"
+Propernames=Nessaj
+Tip="Chaos Knight"
+Ubertip="A disciple of Mithras, the God of Chaos, Nessaj has utilized the powers bestowed upon him to further the cause of Chaos and Evil. He stands opposed with all his might against the powers of Order and Good. He uses his ability to call upon chaotic energy to damage and stun an enemy for a random length of time in conjunction with his power to rip holes in space to instantly strike down all that stand against him. His powers culminate into the terrifying Phantasm, creating avatars of himself who do full damage to all those who oppose him, confusing the battlefield and wreaking havoc amongst the forces of Good.|n|n|c00ff0303Strength|r - 20 + 2.9|n|c000042ffAgility|r - 14 + 2.1|n|c000042ffIntelligence|r - 16 + 1.2|n|nLearns Critical Strike, Reality Rift, Chaos Bolt, and |c00ff8000Phantasm|r.|n|nAttack range of 128 (melee).|nMovement speed of 325."
+Revivetip="Revive Chaos Knight"
+Awakentip="Revive Chaos Knight"
+Hotkey=
+Description="Chaos Knight"
+[u002]
+Name=Necromancer
+Tip=Train |cffffcc00N|recromancer
+Ubertip="Scourge ranged unit."
+Hotkey=N
+Casterupgradename=
+Casterupgradetip=
+[U00E]
+Name="Necrolyte"
+Propernames=Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,Rotund'jere,A Phoe Gyi
+Tip="Necrolyte"
+Ubertip="Slain for sins of heresy by men who declared themselves holy, death only gifted Rotund'Jere with an immense wrath for the living, that he can express by sending evil spirits at his foes. Taking pleasure and growing more powerful every time a living thing dies by his hands, each step of his reeks of death, and his very presence makes living things rot and wither. Now a master of torture and pain, the Necrolyte mercilessly slays any weaklings who might cross his path, always with a nasty smile on his dead face.|n|n|c000042ffStrength|r - 16 + 2.0|n|c000042ffAgility|r - 15 + 1.7|n|c00ff0303Intelligence|r - 22 + 2.5|n|nLearns Death Pulse, Sadist, Heartstopper Aura, and |c00ff8000Reaper's Scythe|r.|n|nAttack range of 550.|nMovement speed of 290."
+Revivetip="Revive Necrolyte"
+Awakentip="Revive Necrolyte"
+Hotkey=
+[u005]
+Name="Revenant"
+Tip=Train G|cffffcc00a|rrgoyle
+Ubertip="Flying attack creature. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=A
+[u00D]
+Name="Spirit Tower - level 2"
+Tip=""
+Ubertip=""
+Hotkey=T
+[UC91]
+Name="Slithereen Guard"
+Propernames=Slardar
+Tip="Slithereen Guard"
+Ubertip="After a millennium of being trapped under the raging waters of the Maelstrom, Slardar rose from its chaotic depths with his brethren to serve the mighty demon lord, Illidan Stormrage. Fanatically devoted to his cause, this Naga fought valiantly along his side until he succumbed to fatal wounds in the heat of battle. Salvation finally seemed within grasp - that is until his fate became intertwined with the grim reach of the Lich King. Reincarnated as a soulless beast without emotion, Slardar tears through the enemy lines with inhuman speed, striking them out cold with mighty blows, undeterred in his quest to fulfill Nerzhul's every whim. |n|n|c00ff0303Strength|r - 21 + 2.8|n|c000042ffAgility|r - 17 + 2.4|n|c000042ffIntelligence|r - 15 + 1.5|n|nLearns Sprint, Slithereen Crush, Bash, and |c00ff8000Amplify Damage|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Revivetip="Revive Slithereen Guard"
+Awakentip="Revive Slithereen Guard"
+Hotkey=
+Description="Slithereen Guard"
+[u003]
+Name="Revenant"
+Tip=Train G|cffffcc00a|rrgoyle
+Ubertip="Flying attack creature. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=A
+[u00G]
+Name="Ghosts"
+[u001]
+Name=Ghoul
+Tip=""
+Ubertip=""
+Hotkey=G
+[U00F]
+Name="Butcher"
+Propernames=Pudge
+Tip="Pudge"
+Hotkey=
+Ubertip="An undead behemoth seemingly impervious to even the most potent magic, this starving abomination roams the battlefield, continually in search of unwary prey. It is said his victims catch only a glimpse of his monstrous frame as they are dragged them through the shadows, bleeding profusely as a jagged hook etches deeper in their flesh. Wails of agony echo in the distance, only to be drowned out by the Butcher's maniacal laughter as he severs their limp bodies with his great maw. Unspeakable horrors ensue in a deathly silence, a dreadful omen for what is to come.  |n|n|c00ff0303Strength|r - 25 + 3.2|n|c000042ffAgility|r - 14 + 1.5|n|c000042ffIntelligence|r - 14 + 1.5|n|nLearns Meat Hook, Flesh Heap, Rot, and |c00ff8000Dismember|r.|n|nAttack range of 128 (melee).|nMovement speed of 285."
+Revivetip="Revive Pudge"
+Awakentip="Revive Pudge"
+[u00L]
+Name="ChronoSphere"
+[u00M]
+Name="Spirit Tower - level 1"
+Tip=""
+Ubertip=""
+Hotkey=T
+[u00N]
+Name="Spirit Tower - level 3"
+Tip=""
+Ubertip=""
+Hotkey=T
+[u00T]
+Name="Spirit Tower - level 4"
+Tip=""
+Ubertip=""
+Hotkey=T
+[u00I]
+Name="Nature's Attendants"
+[u00B]
+Name="ObserverTruesight"
+[u00Z]
+Name="Goblin Laboratory"
+Tip=""
+Ubertip=""
+Hotkey=
+[U00C]
+Name="Lifestealer"
+Propernames=N'aix,N'aix,N'aix,N'aix,Gollum,N'aix,N'aix,N'aix
+Tip="Lifestealer"
+Ubertip="There once was a man in Lordaeron so consumed by greed that he was beyond remorse. Eventually caught trying to steal Prince Arthas' sacred ring, he was tried and hanged. Yet his body, so corrupted by his desire to steal, had risen by itself in the form of a monstrous ghoul. So came into being N'aix, his old name long forgotten: the embodiment of lust and greed, bent on stealing the life of every living creature he encounters.|n|n|c00ff0303Strength|r - 25 + 2.4|n|c000042ffAgility|r - 18 + 1.9|n|c000042ffIntelligence|r - 15 + 1.75|n|nLearns Rage, Feast, Open Wounds, and |c00ff8000Infest|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
+Revivetip="Revive Lifestealer"
+Awakentip="Revive Lifestealer"
+Hotkey=
+[u00O]
+Name="Icy Path"
+[u00Q]
+Name="Tomb of Relics"
+Tip=""
+Ubertip=""
+Hotkey=
+[u00R]
+Name=Meat Wagon
+Tip=Train |cffffcc00M|reat Wagon
+Ubertip="Corpse storage machine. Also serves as long-range siege weaponry. Exceptional damage versus buildings.|n|n|cffffcc00Attacks land units.|r"
+Hotkey=M
+[u00S]
+Name="Power Cog"
+Tip=""
+Ubertip=""
+Hotkey=Z
+[u00U]
+Name="Hookshot Head"
+Tip=""
+Ubertip=""
+[u00V]
+Name="Hookshot Link"
+Tip=""
+Ubertip=""
+[u00W]
+Name="Power Cog Effect"
+Tip=""
+Ubertip=""
+Hotkey=Z
+[u00X]
+Name="Electric Vortex"
+Tip=""
+Ubertip=""
+[u00Y]
+Name="Lasso"
+Tip=""
+Ubertip=""
+[u010]
+Name="Goblin Merchant"
+Tip=""
+Ubertip=""
+Hotkey=
+[u011]
+Name="Watcher"
+Tip=""
+Ubertip=""
+[u012]
+Name="Scarab"
+[u013]
+Name="Scarab"
+[u014]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u015]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u016]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u017]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u018]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u019]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01A]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01B]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01C]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01D]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01E]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01F]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01G]
+Name="Soulsteal Dummy"
+Tip=""
+Ubertip=""
+[u01H]
+Name="Beetle - Level 2"
+[u01I]
+Name="Crippling Fear"
+[u01J]
+Name="Beetle - Level 3"
+[u01K]
+Name="Beetle - Level 1"
+[u01L]
+Name="Beetle - Level 4"
+[u01M]
+Name="Rune"
+Tip=""
+Ubertip=""
+Hotkey=Z
+[u01N]
+Name="PreRune"
+Tip=""
+Ubertip=""
+Hotkey=Z
+[u01O]
+Name="Rune"
+Tip=""
+Ubertip=""
+Hotkey=Z
+[u01P]
+Name="Timberchain Head"
+Tip=""
+Ubertip=""
+[u01Q]
+Name="Timber Chain Link"
+Tip=""
+Ubertip=""
+[u01R]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01S]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01T]
+Name="Familiar"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01U]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01V]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[u01W]
+Name="Stone Form"
+Tip=""
+Ubertip=""
+Hotkey=A
+[U01X]
+Name="Stone Giant"
+Propernames=Tiny
+Tip="Stone Giant"
+Hotkey=
+Ubertip="Looming from the rocky crags of Ashenra, the stone giants are born from the mountain itself. Tiny, a newly born giant, although small in size, has the strength of a hill. With his supreme strength, he is able to launch anything into the air, including huge amounts of soil to cause avalanches around his enemies. Because of his craggy exterior, enemies have a hard time attacking him. Over time, Tiny's body will grow bigger as the magnetic forces deep inside his granite heart pull rocks and soil to his rugged stone form. |n|n|c00ff0303Strength|r - 24 + 3.0|n|c000042ffAgility|r - 9 + 0.9|n|c000042ffIntelligence|r - 14 + 1.6|n|nLearns Craggy Exterior, Avalanche, Toss, and |c00ff8000Grow!|r.|n|nAttack range of 128 (melee).|nMovement speed of 285."
+Revivetip="Revive Stone Giant"
+Awakentip="Revive Stone Giant"
+[u01Y]
+Name="Shade"

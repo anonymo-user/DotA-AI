@@ -1,0 +1,334 @@
+[Aall]
+Name=Shop Sharing, Allied Bldg.
+[Abdt]
+Name=Burrow Detection
+[Apit]
+Name=Shop Purchase Item
+[Amou]
+Name=Mount
+Tip=Mo|cffffcc00r|rph
+Untip=De-Mo|cffffcc00r|rph
+Ubertip="Morphs the hero into an alternate form."
+Unubertip="Returns the hero to normal form."
+Hotkey=R
+Unhotkey=R
+[Ahar]
+Name=Harvest
+Tip=|cffffcc00G|rather
+Ubertip="Mines gold from gold mines and harvests lumber from trees."
+Untip=R|cffffcc00e|rturn Resources
+Unubertip="Return the carried resources to the nearest town hall."
+Hotkey=G
+Unhotkey=E
+[Ahrl]
+Name=Harvest
+Tip=|cffffcc00G|rather
+Ubertip="Harvests lumber from trees."
+Untip=R|cffffcc00e|rturn Resources
+Unubertip="Return the carried resources to the nearest Necropolis or Graveyard."
+Hotkey=G
+Unhotkey=E
+[Arev]
+Name=Revive Hero
+[Aawa]
+Name=Revive Hero Instantly
+[Adet]
+Name=Detector
+[Adta]
+Name=Reveal
+Tip=|cffffcc00R|reveal
+Hotkey=R
+[Bvul]
+Bufftip=Invulnerable
+Buffubertip="This unit is invulnerable; it will not take damage from attacks and cannot be targeted by spells."
+[Bspe]
+Bufftip=Speed Bonus
+Buffubertip="This unit has a speed bonus; it moves more quickly than it normally does."
+[Bfro]
+Bufftip=Slowed
+Buffubertip="This unit is slowed; it moves more slowly than it normally does."
+[Arep]
+Name=Repair
+Tip=|cffffcc00R|repair
+Ubertip="Repairs mechanical units and structures at the cost of resources."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+[AEpa]
+Name=Poison Arrows
+Tip=Poison A|cffffcc00r|rrows - [|cffffcc00Level 1|r],Poison A|cffffcc00r|rrows  - [|cffffcc00Level 2|r],Poison A|cffffcc00r|rrows  - [|cffffcc00Level 3|r]
+Ubertip="Adds <AHfa,DataA1> bonus fire damage to an attack against enemies, but drains mana with each shot fired.","Adds <AHfa,DataA2> bonus fire damage to an attack, but drains mana with each shot fired.","Adds <AHfa,DataA3> bonus fire damage to an attack, but drains mana with each shot fired."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+Researchtip="Learn Poison A|cffffcc00r|rrows - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the damage of the Priestess' attack by adding fire. |n|n|cffffcc00Level 1|r - <AHfa,DataA1> bonus damage. |n|cffffcc00Level 2|r - <AHfa,DataA2> bonus damage. |n|cffffcc00Level 3|r - <AHfa,DataA3> bonus damage."
+Researchhotkey=R
+[AEbu]
+Name=Build (Night Elf)
+[AGbu]
+Name=Build (Naga)
+[AHbu]
+Name=Build (Human)
+[AHer]
+Name=Hero
+[ANbu]
+Name=Build (Neutral)
+[AObu]
+Name=Build (Orc)
+[ARal]
+Name=Rally
+[AUbu]
+Name=Build (Undead)
+[Aalr]
+Name=Alarm
+[Aatk]
+Name=Attack
+[Afih]
+Name=On Fire (Human)
+[Afin]
+Name=On Fire (Night Elf)
+[Afio]
+Name=On Fire (Orc)
+[Afir]
+Name=On Fire
+[Afiu]
+Name=On Fire (Undead)
+[Aloc]
+Name=Locust
+[Amov]
+Name=Move
+[BSTN]
+Bufftip=Stunned
+Buffubertip="This unit is stunned; it cannot move, attack or cast spells."
+[BPSE]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+[Xbdt]
+EditorName=Reveal (Effect)
+[Xbli]
+EditorName=Blight (Effect)
+[Xdis]
+EditorName=Hero Dissipate (Effect)
+[A09V]
+Name="Poison Attack"
+Tip="Poison Atta|cffffcc00c|rk - [|cffffcc00Level 1|r]","Poison Atta|cffffcc00c|rk - [|cffffcc00Level 2|r]","Poison Atta|cffffcc00c|rk - [|cffffcc00Level 3|r]","Poison Atta|cffffcc00c|rk - [|cffffcc00Level 4|r]"
+Ubertip="Slows movement and attack speeds by 10% and deals 10 damage per second.|nLasts 2 seconds. |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Slows movement and attack speeds by 20% and deals 16 damage per second.|nLasts 2 seconds. |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Slows movement and attack speeds by 30% and deals 22 damage per second.|nLasts 2 seconds. |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Slows movement and attack speeds by 40% and deals 28 damage per second.|nLasts 2 seconds. |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=C
+Unhotkey=C
+Researchtip="Learn Poison Atta|cffffcc00c|rk - [|cffffcc00Level %d|r]"
+Researchubertip="Coats Viper's attack with poison.  Slows movement and attack speeds and lasts 2 seconds.|n|n|cffffcc00Level 1|r - Slows speed by 10%, deals 10 damage per second. |n|cffffcc00Level 2|r - Slows speed by 20%, deals 16 damage per second.|n|cffffcc00Level 3|r - Slows speed by 30%, deals 22 damage per second.|n|cffffcc00Level 4|r - Slows speed by 40%, deals 28 damage per second. |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="C"
+[A0DY]
+Name="Impetus"
+Tip="Impe|cffffcc00t|rus - [|cffffcc00Level 1|r]","Impe|cffffcc00t|rus - [|cffffcc00Level 2|r]","Impe|cffffcc00t|rus - [|cffffcc00Level 3|r]","Impe|cffffcc00t|rus - [|cffffcc00Level 4|r]"
+Ubertip="Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 15% of the distance in damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r |n|n|c00fffc01Scepter Upgradeable: Increases attack range.|r","Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 20% of the distance in damage. Damage type is pure. |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r |n|n|c00fffc01Scepter Upgradeable: Increases attack range.|r","Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 25% of the distance in damage. Damage type is pure. |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r |n|n|c00fffc01Scepter Upgradeable: Increases attack range.|r","Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 16% of the distance in damage. Damage type is pure. |n|n|cff99ccffCooldown: |r none.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=T
+Unhotkey=T
+Researchtip="Learn Impe|cffffcc00t|rus - [|cffffcc00Level %d|r]"
+Researchubertip="Gives strength to the Enchantress' attacks, causing them to deal greater damage the further away the target is. Damage type is pure. |n|n|cffffcc00Level 1|r - Deals 15% of the distance in damage.|n|cffffcc00Level 2|r - Deals 20% of the distance in damage.|n|cffffcc00Level 3|r - Deals 25% of the distance in damage. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 55/60/65 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r |n|n|c00fffc01Scepter Upgradeable: Increases attack range.|r"
+Researchhotkey="T"
+[A0LZ]
+Name="Glaives of Wisdom"
+Tip="Glaives of |cffffcc00W|risdom - [|cffffcc00Level 1|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 2|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 3|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 4|r]"
+Ubertip="Deals 30% of your intelligence in bonus damage. Damage type is pure. If an enemy dies to you or nearby you, you will steal two intelligence points.  |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 45% of your intelligence in bonus damage. Damage type is pure. If an enemy dies to you or nearby you, you will steal two intelligence points.  |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 60% of your intelligence in bonus damage. Damage type is pure. If an enemy dies to you or nearby you, you will steal two intelligence points.  |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 75% of your intelligence in bonus damage. Damage type is pure. If an enemy dies to you or nearby you, you will steal two intelligence points.  |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=W
+Unhotkey=W
+Researchtip="Learn Glaives of |cffffcc00W|risdom - [|cffffcc00Level %d|r]"
+Researchubertip="Nortrom's Glaives are enchanted by his experience in magic. Damage type is pure.  If an enemy dies to you or nearby you, you will steal two intelligence points.  |n|n|cffffcc00Level 1|r - Deals 30% of your intelligence in bonus damage. |n|cffffcc00Level 2|r - Deals 45% of your intelligence in bonus damage. |n|cffffcc00Level 3|r - Deals 60% of your intelligence in bonus damage. |n|cffffcc00Level 4|r - Deals 75% of your intelligence in bonus damage.  |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="W"
+[A0OI]
+Name="Arcane Orb"
+Tip="A|cffffcc00r|rcane Orb - [|cffffcc00Level 1|r]","A|cffffcc00r|rcane Orb - [|cffffcc00Level 2|r]","A|cffffcc00r|rcane Orb - [|cffffcc00Level 3|r]","A|cffffcc00r|rcane Orb - [|cffffcc00Level 4|r]"
+Ubertip="Deals bonus damage equal to 6% of Harbingers currently remaining mana. Deals 100 bonus damage to illusions and summoned units. Damage type is pure.  |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals bonus damage equal to 7% of Harbingers currently remaining mana. Deals 200 bonus damage to illusions and summoned units. Damage type is pure.  |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals bonus damage equal to 8% of Harbingers currently remaining mana. Deals 300 bonus damage to illusions and summoned units. Damage type is pure. |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals bonus damage equal to 9% of Harbingers currently remaining mana. Deals 400 bonus damage to illusions and summoned units. Damage type is pure. |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+Researchtip="Learn A|cffffcc00r|rcane Orb - [|cffffcc00Level %d|r]"
+Researchubertip="Gives the Destroyer extra power to damage his enemies based on his remaining mana pool. Damage type is pure. |n|n|cffffcc00Level 1|r - Deals 6% of your current remaining mana. Deals 100 bonus damage to illusions and summoned units. |n|cffffcc00Level 2|r - Deals 7% of your current remaining mana. Deals 200 bonus damage to illusions and summoned units. |n|cffffcc00Level 3|r - Deals 8% of your current remaining mana. Deals 300 bonus damage to illusions and summoned units. |n|cffffcc00Level 4|r - Deals 9% of your current remaining mana. Deals 400 bonus damage to illusions and summoned units.  |n|n|cff99ccffCooldown: |r 0|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey=R
+[A0QN]
+Name="Burning Spear"
+Tip="Burning Spea|cffffcc00r|r - |cffffcc00Level 1|r","Burning Spea|cffffcc00r|r - |cffffcc00Level 2|r","Burning Spea|cffffcc00r|r - |cffffcc00Level 3|r","Burning Spea|cffffcc00r|r - |cffffcc00Level 4|r"
+Ubertip="Using his own life force to set them aflame, the Sacred Warrior can cause his own spears to deal stackable damage over time as they impact the foe. Deals 5 damage per second. Stacks indefinitely. Lasts 8 seconds. |n|n|cff99ccffCooldown: |r 0  |n|cff99ccffHealthcost: |r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Using his own life force to set them aflame, the Sacred Warrior can cause his own spears to deal stackable damage over time as they impact the foe. Deals 10 damage per second. Stacks indefinitely. Lasts 8 seconds.  |n|n|cff99ccffCooldown: |r 0  |n|cff99ccffHealthcost: |r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Using his own life force to set them aflame, the Sacred Warrior can cause his own spears to deal stackable damage over time as they impact the foe. Deals 15 damage per second. Stacks indefinitely. Lasts 8 seconds.  |n|n|cff99ccffCooldown: |r 0  |n|cff99ccffHealthcost: |r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Using his own life force to set them aflame, the Sacred Warrior can cause his own spears to deal stackable damage over time as they impact the foe. Deals 20 damage per second. Stacks indefinitely. Lasts 8 seconds.  |n|n|cff99ccffCooldown: |r 0  |n|cff99ccffHealthcost: |r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r","|cffc3dbffRight-click to activate auto-casting.|r","|cffc3dbffRight-click to activate auto-casting.|r","|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r","|cffc3dbffRight-click to deactivate auto-casting.|r","|cffc3dbffRight-click to deactivate auto-casting.|r","|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=
+Researchtip="Learn Burning Spea|cffffcc00r|r - |cffffcc00Level %d|r"
+Researchubertip="Using his own life force to set them aflame, the Sacred Warrior can cause his spears to deal stackable damage over time as they impact the foe. Stacks indefinitely. Lasts 8 seconds. |n|n|cffffcc00Level 1|r - 5 damage per second |n|cffffcc00Level 2|r - 10 damage per second |n|cffffcc00Level 3|r - 15 damage per second |n|cffffcc00Level 4|r - 20 damage per second |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffHealthcost: |r 15|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey=R
+[A0VV]
+Name="Melting Strike"
+Tip="Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike"
+Ubertip="Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=T
+Unhotkey=T
+Researchtip="Learn Impe|cffffcc00t|rus - [|cffffcc00Level %d|r]"
+Researchubertip="Gives strength to the Enchantress' attacks, causing them to deal greater damage the further away the target is. Damage type is pure. |n|n|cffffcc00Level 1|r - Deals 4% of the distance in damage.|n|cffffcc00Level 2|r - Deals 8% of the distance in damage.|n|cffffcc00Level 3|r - Deals 12% of the distance in damage.|n|cffffcc00Level 4|r - Deals 16% of the distance in damage. |n|n|cff99ccffCooldown: |r 6/5/4/0 seconds."
+Researchhotkey="T"
+[A11J]
+Name="Orb of Dummy"
+Tip="Glaives of |cffffcc00W|risdom - [|cffffcc00Level 1|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 2|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 3|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 4|r]"
+Ubertip="Deals 15% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 3 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 30% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 2 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 45% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 1 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Deals 60% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=W
+Unhotkey=W
+Researchtip="Learn Glaives of |cffffcc00W|risdom - [|cffffcc00Level %d|r]"
+Researchubertip="Nortrom's Glaives are enchanted by his experience in magic. If he kills a hero, he will permanently steal 1 intelligence from it. Damage type is pure. |n|n|cffffcc00Level 1|r - Deals 15% of your intelligence in bonus damage. |n|cffffcc00Level 2|r - Deals 30% of your intelligence in bonus damage. |n|cffffcc00Level 3|r - Deals 45% of your intelligence in bonus damage. |n|cffffcc00Level 4|r - Deals 60% of your intelligence in bonus damage.  |n|n|cff99ccffCooldown: |r 3/2/1/0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="W"
+[A1E8]
+Name="Sticky Napalm"
+Tip="Sti|cffffcc00c|rky Napalm - [|cffffcc00Level 1|r]","Sti|cffffcc00c|rky Napalm - [|cffffcc00Level 2|r]","Sti|cffffcc00c|rky Napalm - [|cffffcc00Level 3|r]","Sti|cffffcc00c|rky Napalm - [|cffffcc00Level 4|r]"
+Ubertip="text. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=C
+Unhotkey=C
+Researchtip="Learn Sti|cffffcc00c|rky Napalm - [|cffffcc00Level %d|r]"
+Researchubertip="text. |n|n|cffffcc00Level 1|r - 1 |n|cffffcc00Level 2|r - 2 |n|cffffcc00Level 3|r - 3 |n|cffffcc00Level 4|r - 4 |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 10 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="C"
+[A1NG]
+Name="Breath of the Necro'lic"
+Tip="Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level 1|r]","Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level 2|r]","Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level 3|r]","Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level 4|r]"
+Ubertip="text.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","text.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=E
+Unhotkey=E
+Researchtip="Learn Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Level %d|r]"
+Researchubertip="text. |n|n|cffffcc00Level 1|r - 1. |n|cffffcc00Level 2|r - 2. |n|cffffcc00Level 3|r - 3. |n|cffffcc00Level 4|r - 4.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="E"
+[A1QY]
+Name="Swarm Strike"
+Tip="Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike","Mel|cffffcc00t|ring Strike"
+Ubertip="Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0","Melting Strike reduces enemy armor on attack. |n|n|cff99ccffCooldown: |r 0"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=T
+Unhotkey=T
+Researchtip="Learn Impe|cffffcc00t|rus - [|cffffcc00Level %d|r]"
+Researchubertip="Gives strength to the Enchantress' attacks, causing them to deal greater damage the further away the target is. Damage type is pure. |n|n|cffffcc00Level 1|r - Deals 4% of the distance in damage.|n|cffffcc00Level 2|r - Deals 8% of the distance in damage.|n|cffffcc00Level 3|r - Deals 12% of the distance in damage.|n|cffffcc00Level 4|r - Deals 16% of the distance in damage. |n|n|cff99ccffCooldown: |r 6/5/4/0 seconds."
+Researchhotkey="T"
+[A1WB]
+Name="Impetus"
+Tip="Impe|cffffcc00t|rus - [|cffffcc00Level 1|r]","Impe|cffffcc00t|rus - [|cffffcc00Level 2|r]","Impe|cffffcc00t|rus - [|cffffcc00Level 3|r]","Impe|cffffcc00t|rus - [|cffffcc00Level 4|r]"
+Ubertip="Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 15% of the distance in damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 20% of the distance in damage. Damage type is pure. |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 25% of the distance in damage. Damage type is pure. |n|n|cff99ccffCooldown: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r","Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 16% of the distance in damage. Damage type is pure. |n|n|cff99ccffCooldown: |r none.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=T
+Unhotkey=T
+Researchtip="Learn Impe|cffffcc00t|rus - [|cffffcc00Level %d|r]"
+Researchubertip="Gives strength to the Enchantress' attacks, causing them to deal greater damage the further away the target is. Damage type is pure. |n|n|cffffcc00Level 1|r - Deals 15% of the distance in damage.|n|cffffcc00Level 2|r - Deals 20% of the distance in damage.|n|cffffcc00Level 3|r - Deals 25% of the distance in damage. |n|n|cff99ccffCooldown: |r 0 |n|cff99ccffManacost: |r 55/60/65 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="T"
+[A201]
+Name="Walrus Punch"
+Tip="Wal|cffffcc00r|rus Punch - [|cffffcc00Level 1|r]","Wal|cffffcc00r|rus Punch - [|cffffcc00Level 2|r]","Wal|cffffcc00r|rus Punch - [|cffffcc00Level 3|r]","Glaives of |cffffcc00W|risdom - [|cffffcc00Level 4|r]"
+Ubertip="text.  |n|n|cff99ccffCooldown: |r 20","text.  |n|n|cff99ccffCooldown: |r 20","text.  |n|n|cff99ccffCooldown: |r 20","Deals 60% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffCooldown: |r 0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Untip=""
+Unubertip=""
+Hotkey=R
+Unhotkey=R
+Researchtip="Learn Wal|cffffcc00r|rus Punch - [|cffffcc00Level %d|r]"
+Researchubertip="text.  |n|n|cffffcc00Level 1|r - 1. |n|cffffcc00Level 2|r - 2. |n|cffffcc00Level 3|r - 3. |n|cffffcc00Level 3|r - 4.  |n|n|cff99ccffCooldown: |r 20 |n|cff99ccffManacost: |r 150"
+Researchhotkey=R
+[A2N3]
+Name="Arctic Burn"
+Tip="Arctic Bu|cffffcc00r|rn - [|cffffcc00Level 1|r]","Arctic Bu|cffffcc00r|rn - [|cffffcc00Level 2|r]","Arctic Bu|cffffcc00r|rn - [|cffffcc00Level 3|r]","Arctic Bu|cffffcc00r|rn - [|cffffcc00Level 4|r]"
+Ubertip="text","text","text","text"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+Researchtip="Learn Arctic Bu|cffffcc00r|rn - [|cffffcc00Level %d|r]"
+Researchubertip="text"
+Researchhotkey=R
+[A2UM]
+Name="Liquid Fire"
+Tip="Li|cffffcc00q|ruid Fire - [|cffffcc00Level 1|r]","Li|cffffcc00q|ruid Fire - [|cffffcc00Level 2|r]","Li|cffffcc00q|ruid Fire - [|cffffcc00Level 3|r]","Li|cffffcc00q|ruid Fire - [|cffffcc00Level 4|r]"
+Ubertip="Straight from the belly of the beast, Jakiro slowly harnesses Liquid Fire when he attacks to burn his victims (300 AoE) dealing 15 damage per second and slow their attacks by 20%. Lasts 5 seconds. |cff99ccffThis affects units and buildings.|r |n|n|cff99ccffCooldown: |r 20","Straight from the belly of the beast, Jakiro slowly harnesses Liquid Fire when he attacks to burn his victims (300 AoE) dealing 20 damage per second and slow their attacks by 30%. Lasts 5 seconds. |cff99ccffThis affects units and buildings.|r |n|n|cff99ccffCooldown: |r 15","Straight from the belly of the beast, Jakiro slowly harnesses Liquid Fire when he attacks to burn his victims (300 AoE) dealing 25 damage per second and slow their attacks by 40%. Lasts 5 seconds. |cff99ccffThis affects units and buildings.|r |n|n|cff99ccffCooldown: |r 10","Straight from the belly of the beast, Jakiro slowly harnesses Liquid Fire when he attacks to burn his victims (300 AoE) dealing 30 damage per second and slow their attacks by 50%. Lasts 5 seconds. |cff99ccffThis affects units and buildings.|r |n|n|cff99ccffCooldown: |r 4"
+Untip=" "
+Unubertip=" "
+Hotkey=Q
+Unhotkey=Q
+Researchtip="Learn Li|cffffcc00q|ruid Fire - [|cffffcc00Level %d|r]"
+Researchubertip="Straight from the belly of the beast, Jakiro slowly harnesses Liquid Fire when he attacks to burn his victims (300 AoE), and slow their attacks. Lasts 5 seconds. |cff99ccffThis affects units and buildings.|r |n|n|cffffcc00Level 1|r - 15 DPS. 20% Attack Speed Slow. |n|cffffcc00Level 2|r - 20 DPS. 30% Attack Speed Slow. |n|cffffcc00Level 3|r - 25 DPS. 40% Attack Speed Slow. |n|cffffcc00Level 4|r - 30 DPS. 50% Attack Speed Slow. |n|n|cff99ccffCooldown: |r 20/15/10/4"
+Researchhotkey="Q"
+[B01Y]
+Bufftip=Charge of Darkness
+Buffubertip=This unit is being hunted
+[B02S]
+Bufftip=Reaper's Scythe
+Buffubertip=This unit is having its life flash before its eyes.
+EditorName=Reaper's Scythe
+[B00Q]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+[B03D]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+EditorName=slardar stomp
+[B053]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+EditorName=Time Walk Stun
+[B06C]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+EditorName=Charge of Darkness Stun
+[B06K]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+[B06M]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+[B06O]
+Bufftip=Haunt
+Buffubertip=This unit is being Haunted.
+[B06S]
+Bufftip=Iced
+Buffubertip=This unit is iced; it cannot move, attack, or cast spells.
+[B04V]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+[B072]
+Bufftip=Unstable Concoction
+Buffubertip=This unit has been overdosed with chemicals. It cannot move.
+[B07A]
+Bufftip=Blow Dart
+Buffubertip=This unit is hit by the blowdart; It will be slowed for a brief period of time.
+[B08S]
+Bufftip=Open Wounds
+Buffubertip=This unit cannot move. Units that damage it get a portion of life back.
+[B095]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+EditorName=Battery Assault
+[B099]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+[B0BM]
+Bufftip=Echo Stomp
+Buffubertip=Unit is knocked out. It will awaken if it takes any player based damage.
+[B0C2]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
+[B0CF]
+Bufftip=Cold Feet
+Buffubertip=This unit is stunned; it cannot move or attack or cast spells.
+EditorName=Cold Feet
+[B0GG]
+Bufftip=Stunned
+Buffubertip="This unit will not move."

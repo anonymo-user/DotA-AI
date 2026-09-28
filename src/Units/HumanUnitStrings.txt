@@ -1,0 +1,2455 @@
+﻿[Hblm]
+Name="Keeper of the Light"
+Propernames=Ezalor,Ezalor,Ezalor,Ezalor,Ezalor,Ezalor,Gandalf,Ezalor
+Hotkey=
+Tip="Keeper of the Light"
+Ubertip="Master of light and mana manipulation, Ezalor was once viewed as a scholar, and was regarded as a powerful mentor to many. However, his defection and betrayal of his allies during the War of the Magi caused him to be sentenced to banishment to the spirit realm for all of eternity. However, knowing of his tremendous power, the Sentinel granted him a corporeal form within the physical realm in exchange for his alliance against the Scourge onslaught. As such, Ezalor carries his duties of supporting his comrades valiantly despite the treacherous past that most know little about. |n|n|c000042ffStrength|r - 14 + 1.8|n|c000042ffAgility|r - 15 + 1.6|n|c00ff0303Intelligence|r - 22 + 2.8|n|nLearns Illuminate, Mana Leak, Chakra Magic, and |c00ff8000Spirit Form|r.|n|nAttack range of 600.|nMovement speed of 315."
+Revivetip="Revive Keeper of the Light"
+Awakentip="Revive Keeper of the Light"
+[halt]
+Name=Altar of Kings
+Hotkey=A
+Tip=Build |cffffcc00A|rltar of Kings
+Ubertip="Summons Heroes. Revives slain Heroes."
+[Hamg]
+Name="Treant Protector"
+Propernames=Rooftrellen
+Hotkey=
+Tip="Treant Protector"
+Ubertip="A treant of immense age and wisdom, Rooftrellen was merely a sapling during the invasion of the Burning Legion. Having grown powerful over thousands of years, Rooftrellen has lent his considerable might to the Sentinel cause. An omnipresent force in the forest, he is capable using his power over the forest to hide his allies. Rooftrellen is aided by the forest itself, providing him with a thick living armor of vines and entangling nearby foes in a deadly embrace, allowing Rooftrellen to pound his victims to dust with his massive gnarled limbs.|n|n|c00ff0303Strength|r - 25 + 3.3|n|c000042ffAgility|r - 15 + 2.0|n|c000042ffIntelligence|r - 17 + 1.8|n|nLearns Nature's Guise, Leech Seed, Living Armor, and |c00ff8000Overgrowth|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Revivetip="Revive Treant Protector"
+Awakentip="Revive Treant Protector"
+[harm]
+Name=Workshop
+Hotkey=W
+Tip=Build |cffffcc00W|rorkshop
+Ubertip="Produces Siege Engines, Flying Machines, and Mortar Teams. |nAlso contains the Flare, Fragmentation Shards, Barrage, Flying Machine Bombs, and Flak Cannons upgrades."
+[hars]
+Name=Arcane Sanctum
+Hotkey=R
+Tip=Build A|cffffcc00r|rcane Sanctum
+Ubertip="Trains Priests, Sorceresses, and Spell Breakers. |nAlso contains spell upgrades for Priests and Sorceresses, Control Magic, and Magic Sentry."
+[hbar]
+Name=Barracks
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains Footmen, Riflemen and Knights. |nAlso contains the Defend, Long Rifles, and Animal War Training upgrades."
+[hbla]
+Name=Blacksmith
+Hotkey=S
+Tip=Build Black|cffffcc00s|rmith
+Ubertip="Contains upgrades for improved armor, weaponry and gunpowder."
+[hcas]
+Name=Castle
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Castle
+Ubertip="Upgrade to Castle to enable the production of additional types of structures and units."
+[hdhw]
+Name=Dragonhawk Rider
+Hotkey=D
+Tip=Train |cffffcc00D|rragonhawk Rider
+Ubertip="Swift flying unit, mounted by an Elven warrior. Has the Aerial Shackles ability, which allows it to immobilize and disarm enemy air units temporarily. Can learn Animal War Training, and the Cloud ability. |n|n|cffffcc00Attacks land and air units.|r"
+[hhou]
+Name=Farm
+Hotkey=F
+Tip=Build |cffffcc00F|rarm
+Ubertip="Provides food, which increases the maximum number of units that can be trained."
+[hfoo]
+Name=Footman
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[hgra]
+Name=Gryphon Aviary
+Hotkey=G
+Tip=Build |cffffcc00G|rryphon Aviary
+Ubertip="Trains Gryphon Riders, and Dragonhawk Riders. |nAlso contains the Storm Hammers and Cloud upgrades."
+[hctw]
+Name=Cannon Tower
+Hotkey=C
+Tip=Upgrade to |cffffcc00C|rannon Tower
+Ubertip="Heavy defensive structure. Particularly effective against clusters of troops. Can learn the Magic Sentry ability. |n|n|cffffcc00Attacks land units and trees.|r"
+[hgtw]
+Name=Guard Tower
+Hotkey=G
+Tip=Upgrade to |cffffcc00G|ruard Tower
+Ubertip="Primary defensive structure. Can learn the Magic Sentry ability. |n|n|cffffcc00Attacks land and air units.|r"
+[hwtw]
+Name=Scout Tower
+Hotkey=T
+Tip=Build Scout |cffffcc00T|rower
+Ubertip="Basic observation tower. Has no attack, but can be upgraded into a Guard Tower, an Arcane Tower, or a Cannon Tower. Can learn the Magic Sentry ability."
+[hatw]
+Name=Arcane Tower
+Hotkey=N
+Tip=Upgrade to Arca|cffffcc00n|re Tower
+Ubertip="Magical defensive tower. Particularly effective against enemy Heroes and spellcasters. Has the Feedback ability, which causes its attacks to destroy mana, dealing extra damage equal to the mana destroyed. Can learn the Magic Sentry ability. |n|n|cffffcc00Attacks land and air units."
+[hvlt]
+Name=Arcane Vault
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+[hgyr]
+Name=Flying Machine
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[hkee]
+Name=Keep
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Keep
+Ubertip="Upgrade to Keep to enable the production of additional types of structures and units."
+[hkni]
+Name=Knight
+Hotkey=K
+Tip=Train |cffffcc00K|rnight
+Ubertip="Powerful mounted warrior. Can learn Animal War Training. |n|n|cffffcc00Attacks land units.|r"
+[hlum]
+Name=Lumber Mill
+Hotkey=L
+Tip=Build |cffffcc00L|rumber Mill
+Ubertip="Serves as a drop-off point for harvested lumber. |nAlso contains the upgrades for Lumber Harvesting and Masonry."
+[hmil]
+Name=Militia
+[Hmkg]
+Name="Ogre Magi"
+Propernames=Aggron Stonebreaker
+Hotkey=
+Tip="Ogre Magi"
+UberTip="Ogres, a race bred to be warriors, have no experience with the arcane arts, leaving Aggron, who was born with a rare affinity to magic, without guidance regarding his innate abilities. His own force of will harnesses his talent to produce elemental flames and explosions that consume his opponents. Being a natural warrior, he reaches into his own aggression to fuel his comrades' lust for battle. His savage, untapped magical potential is prone to fiery outbursts which enhance the potency of his spells. A towering force built on strength and magic, Aggron is honored by his people and feared by his enemies.  |n|n|c000042ffStrength|r - 23 + 3.2|n|c000042ffAgility|r - 14 + 1.55|n|c00ff0303Intelligence|r - 17 + 2.4|n|nLearns Ignite, Fireblast, Bloodlust, and |c00ff8000Multi Cast|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="Revive Ogre Magi"
+Awakentip="Revive Ogre Magi"
+[hmpr]
+Name=Priest
+Hotkey=P
+Tip=Train |cffffcc00P|rriest
+Ubertip="Supporting spellcaster. Can initially cast Heal, which increases the life of wounded units. Can also learn Dispel Magic and Inner Fire. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Heal","- Heal|n- Dispel Magic","- Heal|n- Dispel Magic|n- Inner Fire"
+[hmtm]
+Name=Mortar Team
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[Hpal]
+Name=Paladin
+Propernames=Granis Darkhammer,Jorn the Redeemer,Sage Truthbearer,Malak the Avenger,Gavinrad the Dire,Morlune the Mighty,Agamand the True,Ballador the Bright,Manadar the Healer,Zann the Defender,Arius the Seeker,Aurrius the Pure,Karnwield the Seeker,Buzan the Fearless
+Hotkey=L
+Tip=Summon Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+[hpea]
+Name=Peasant
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[hrif]
+Name=Rifleman
+Hotkey=R
+Tip=Train |cffffcc00R|rifleman
+Ubertip="Highly skilled sharpshooter, effective against air units. Can gain the Long Rifles upgrade. |n|n|cffffcc00Attacks land and air units.|r"
+[hsor]
+Name=Sorceress
+Hotkey=S
+Tip=Train |cffffcc00S|rorceress
+Ubertip="Versatile spellcaster. Can initially cast Slow, which decreases movement and attack speed on enemy units. Can also learn Invisibility and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Slow","- Slow|n- Invisibility","- Slow|n- Invisibility|n- Polymorph"
+[hspt]
+Name=Spell Breaker
+Hotkey=B
+Tip=Train Spell |cffffcc00B|rreaker
+Ubertip="Elven warrior trained to destroy spellcasters. Initially has Spell Steal, which manipulates buffs to your advantage, Spell Immunity and Feedback. Can also learn Control Magic. |n|n|cffffcc00Attacks land units.|r"
+[hmtt]
+Name=Siege Engine
+Hotkey=E
+Tip=Train Siege |cffffcc00E|rngine
+Ubertip="Heavily armored vehicle, effective at destroying buildings. Can be upgraded with the Barrage ability. |n|n|cffffcc00Attacks buildings.|r"
+[hrtt]
+Name=Siege Engine
+Hotkey=E
+Tip=Train Siege |cffffcc00E|rngine
+Ubertip="Heavily armored vehicle, effective at destroying buildings. Has the Barrage ability, which fires rockets at nearby enemy air units. |n|n|cffffcc00Attacks buildings.|r"
+[htow]
+Name=Town Hall
+Hotkey=H
+Tip=Build Town |cffffcc00H|rall
+Ubertip="Primary structure, used to train Peasants and receive gathered resources. Can be upgraded to Keep and then Castle to enable the production of additional types of structures and units."
+[hwat]
+Name="Lesser Eidolon"
+[hwt2]
+Name="Eidolon"
+[hwt3]
+Name="Greater Eidolon"
+[hgry]
+Name=Gryphon Rider
+Hotkey=G
+Tip=Train |cffffcc00G|rryphon Rider
+Ubertip="Powerful flying creature, mounted by a Dwarven hammer-thrower. Can learn Animal War Training, and the Storm Hammers ability. |n|n|cffffcc00Attacks land and air units.|r"
+[hC95]
+Name="Cache of the Quel'thelan"
+Hotkey=
+Tip=""
+Ubertip=""
+[H00E]
+Name="Dragon Knight"
+Propernames=Arc Honist
+Hotkey=
+Tip="Dragon Knight"
+Ubertip="The Dragon Knight is morphed into a powerful Red Dragon|n|n|c00ff0303Strength|r - 21 + 2.8|n|c000042ffAgility|r - 17 + 1.7|n|c000042ffIntelligence|r - 15 + 1.7|n|nLearns Breathe Fire, Dragon Blood, Dragon Tail, and |c00ff8000Elder Dragon Form|r.|n|nAttack range of 500."
+Revivetip="Revive Dragon Knight"
+Awakentip="Revive Dragon Knight"
+Description="Dragon Knight"
+[H00G]
+Name="Dragon Knight"
+Propernames=Arc Honist
+Hotkey=
+Tip="Dragon Knight"
+Ubertip="The Dragon Knight is morphed into a Blue Dragon|n|n|c00ff0303Strength|r - 21 + 2.8|n|c000042ffAgility|r - 17 + 1.7|n|c000042ffIntelligence|r - 15 + 1.7|n|nLearns Breathe Fire, Dragon Blood, Dragon Tail, and |c00ff8000Elder Dragon Form|r.|n|nAttack range of 500."
+Revivetip="Revive Dragon Knight"
+Awakentip="Revive Dragon Knight"
+Description="Dragon Knight"
+[h006]
+Name="Dire Eidolon"
+[H00F]
+Name="Dragon Knight"
+Propernames=Arc Honist
+Hotkey=
+Tip="Dragon Knight"
+Ubertip="The Dragon Knight is morphed into a strong Green Dragon|n|n|c00ff0303Strength|r - 21 + 2.8|n|c000042ffAgility|r - 17 + 1.7|n|c000042ffIntelligence|r - 15 + 1.7|n|nLearns Breathe Fire, Dragon Blood, Dragon Tail, and |c00ff8000Elder Dragon Form|r.|n|nAttack range of 500."
+Revivetip="Revive Dragon Knight"
+Awakentip="Revive Dragon Knight"
+Description="Dragon Knight"
+[H008]
+Name="Bristleback"
+Propernames=Rigwarl
+Hotkey=
+Tip="Bristleback"
+Ubertip="The quillboars were never interested in the affairs and wars of other races, but one knew that the Scourge would eventually descend on their lands if left unchecked. Entering the ranks of the Sentinel for the sole reason of the preservation of his tribe, Rigwarl brings primal instincts to the never ending battle. Each time he releases a flurry of quills or a glob of slime, he works himself into a frenzy that increases his effectiveness drastically, and should he be in danger, his bristle back would shield him from further harm. A perfect demonstration of the abilities that even lesser beings can unleash.  |n|n|c00ff0303Strength|r - 22 + 2.2|n|c000042ffAgility|r - 17 + 1.8|n|c000042ffIntelligence|r - 14 + 2.8|n|nLearns Bristleback, Quill Spray, Viscous Nasal Goo, and |c00ff8000Warpath|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
+Revivetip="Revive Bristleback"
+Awakentip="Revive Bristleback"
+[h002]
+Name="Shadow Path"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h003]
+Name="Shadow Dagger"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h005]
+Name="Elune's Arrow"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h009]
+Name="DummyNet"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h00C]
+Name="Net Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H00I]
+Name="Geomancer"
+Propernames=Meepo,Meepo,Meepo,Meepo,Meepo,Meepo,Meepo,MeePwn,MeePwn,MeePwn
+Hotkey=
+Tip="Geomancer"
+Ubertip="Originally worshipped by the pagan tribes of Germania and the black forests that encompassed it, Meepo is a mischievous spirit of the earth who enjoys burying his enemies alive in mountains of rock spikes, pinning them down into helplessness as he pummels them into submission with his mighty shovel. The most disturbing of the Geomancer's powers, however, is his ability to separate his being into multiple selves, each as powerful as the original and making him potentially four times the trouble for the unlucky who encounter him. |n|n|c000042ffStrength|r - 23 + 1.6|n|c00ff0303Agility|r - 23 + 1.9|n|c000042ffIntelligence|r - 20 + 1.6|n|nLearns Earthbind, Poof, Geostrike, and |c00ff8000Divided We Stand|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
+Revivetip="Revive Geomancer"
+Awakentip="Revive Geomancer"
+Description="Geomancer"
+[H00J]
+Name="Geomancer"
+Propernames=Meepo,Meepo,Meepo,Meepo,Meepo,Meepo,Meepo,MeePwn,MeePwn,MeePwn
+Hotkey=
+Tip="Geomancer"
+Ubertip="Originally worshipped by the pagan tribes of Germania and the black forests that encompassed it, Meepo is a mischievous spirit of the earth who enjoys burying his enemies alive in mountains of rock spikes, pinning them down into helplessness as he pummels them into submission with his mighty shovel. The most disturbing of the Geomancer's powers, however, is his ability to separate his being into multiple selves, each as powerful as the original and making him potentially four times the trouble for the unlucky who encounter him. |n|n|c000042ffStrength|r - 23 + 1.6|n|c00ff0303Agility|r - 23 + 1.9|n|c000042ffIntelligence|r - 20 + 1.6|n|nLearns Earthbind, Poof, Geostrike, and |c00ff8000Divided We Stand|r.|n|nAttack range of 100 (melee).|nMovement speed of 305."
+Revivetip="Revive Geomancer"
+Awakentip="Revive Geomancer"
+Description="Geomancer"
+[h00L]
+Name="Shallow Grave"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H00M]
+Name="Bloodrune"
+Propernames=Meepo
+Hotkey=
+Tip="Geomancer"
+Ubertip="Originally worshipped by the pagan tribes of Germania and the black forests that encompassed it, Meepo is a mischievous spirit of the earth who enjoys burying his enemies alive in mountains of rock spikes, pinning them down into helplessness as he pummels them into submission with his mighty shovel. The most disturbing of the Geomancer's powers, however, is his ability to separate his being into multiple selves, each as powerful as the original and making him potentially four times the trouble for the unlucky who encounter him. |n|n|c000042ffStrength|r - 17 + 1.3|n|c00ff0303Agility|r - 23 + 1.9|n|c000042ffIntelligence|r - 20 + 1.6|n|nLearns Earthbind, Poof, Geostrike, and |c00ff8000Divided We Stand|r.|n|nAttack range of 100 (melee).|nMovement speed of 300."
+Revivetip="Revive Geomancer"
+Awakentip="Revive Geomancer"
+Description="Geomancer"
+[H00N]
+Name="Dark Seer"
+Propernames=Ish'kafel
+Hotkey=
+Tip="Dark Seer"
+UberTip="Thought by some to be among the most cunning and manipulative among the Scourge's varied champions, the dark seer Ish'kafel, living in exile from his people, is also the most secretive, for he speaks to no one but the Lich King himself. His unconventional talents, which lie in augmenting himself and allies with a variety of both defensive and offensive supportive castings, are quite unusual and versatile, often capable of turning the tide of battle before it even starts.  |n|n|c000042ffStrength|r - 22 + 2.3|n|c000042ffAgility|r - 12 + 1.2|n|c00ff0303Intelligence|r - 29 + 2.7|n|nLearns Vacuum, Ion Shell, Surge, and |c00ff8000Wall of Replica|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="Revive Dark Seer"
+Awakentip="Revive Dark Seer"
+[h00O]
+Name="Wall of Replica"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h00P]
+Name="Wall of Replica Detection"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H00Q]
+Name="Sacred Warrior"
+Propernames=Huskar
+Hotkey=
+Tip="Sacred Warrior"
+Ubertip="The Trolls of the Darkspear tribe, long since exiled from their ancestral lands in Stranglethorn Vale, are considered by many to be the most savage race of creatures to ever grace the battlefield. This reputation is well earned by their Sentinel representative Huskar, who's abilities revolve around shortening his own lifespan to spear his foes to burning pieces. Considered a blessed martyr by his people, the Sacred Warrior is not afraid of death, and will even run towards it willingly, sometimes desperately, in order to bring the Undead Scourge to an end.|n |n|n|c00ff0303Strength|r - 21 + 2.4|n|c000042ffAgility|r - 15 + 1.4|n|c000042ffIntelligence|r - 18 + 1.5|n|nLearns Inner Vitality, Burning Spear, Berserker's Blood, and |c00ff8000Life Break|r.|n|nAttack range of 400.|nMovement speed of 300."
+Revivetip="Revive Sacred Warrior"
+Awakentip="Revive Sacred Warrior"
+[H00R]
+Name="Undying"
+Propernames=Dirge
+Hotkey=
+Tip="Undying"
+UberTip="Considered to be an exceptionally filthy and despicable specimen by all who encounter him, including his fellow zombies, Dirge has wandered in from the wastes outside to serve the Lich King in hopes of finally obtaining a place of acceptance amongst the Undead masses. While he is still considered to be unpleasant as ever by the rest of the Scourge, his horrifying abilities, which include raising lesser ghouls and spreading vile, rapidly communicable plague throughout the enemy ranks, are unquestionably powerful and may just give the Scourge the edge they need to complete their unholy conquest once and for all. |n|n|c00ff0303Strength|r - 22 + 2.1 |n|c000042ffAgility|r - 10 + 0.8|n|c000042ffIntelligence|r - 27 + 2.5|n|nLearns Decay, Soul Rip, Tombstone, and |c00ff8000Flesh Golem|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="Revive Undying"
+Awakentip="Revive Undying"
+[h00W]
+Name="Necrolyte Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h007]
+Name="Weave"
+Hotkey=
+Tip=""
+Ubertip=""
+[h00B]
+Name="IceArmor Caster"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H00U]
+Name="Invoker"
+Propernames=Kael,Kael,Kael,Kael,Kael,Kael,Kael,Carl,Kal-El,Carl
+Hotkey=
+Tip="Invoker"
+Ubertip="Quas. Wex. Exort. The essence of a storm. The heart of a blizzard. The soul of a phoenix. After his people were broken and scattered to the corners of the earth, Kael was left with only the relics of his once great world. Thirsting for vengeance, he sold his own soul to Ner’Zhul, and in exchange acquired near limitless power. Taking on the mantle of the Blood Mages of old, the Invoker strode into war with nothing but the elements at his command. He can fuse the elements into deadly incantations, tearing apart the very heavens in his fury. His genius knows no bounds, and the Sentinel shall come to know the rage of the Invoker. |n|n|c000042ffStrength|r - 19 + 1.7|n|c000042ffAgility|r - 20 + 1.9|n|c00ff0303Intelligence|r - 22 + 2.5|n|nLearns Quas, Wex, Exort, and |c00ff8000Invoke|r.|n|nAttack range of 600.|nMovement speed of 280."
+Revivetip="Revive Invoker"
+Awakentip="Revive Invoker"
+[h00X]
+Name="AH"
+Hotkey=F
+Tip=""
+Ubertip=""
+[H00Y]
+Name="Preloader Hero"
+Propernames=
+Hotkey=G
+Tip=""
+Ubertip=""
+Revivetip=""
+Awakentip=""
+[h010]
+Name="Stifling Dagger Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h011]
+Name="Boots of Speed"
+Hotkey=S
+Tip="Purchase Boots of |cffffcc00S|rpeed - 450"
+Ubertip="+50 Movement Speed  |n|n|c00ff0303Movement Speed does not stack with other boot items.|r "
+[h012]
+Name="Gloves of Haste"
+Hotkey=G
+Tip="Purchase |cffffcc00G|rloves of Haste - 500"
+Ubertip="+15 Attack Speed |n|n|c00838B8BA pair of magical gloves that seems to render weapons weightless"
+[h013]
+Name="Boots of Elvenskin"
+Hotkey=E
+Tip="Purchase Boots of |cffffcc00E|rlvenskin - 450"
+Ubertip="+6 Agility |n|n|c00838B8BA pair of boots often used for moonwalking|r"
+[h014]
+Name="Power Treads"
+Hotkey=
+Tip="Power Treads"
+Ubertip="|cffffcc00Gives:|r |n +50 movement speed |n +8 Selected Attribute |n +30 Attack Speed  |n|n|cffffcc00Requires:|r |n Boots of Speed - 450 |n Gloves of Haste - 500 |n  Boots of Elvenskin - 450 |n   |c00fffc01or|r |n  Robe of the Magi - 450|n   |c00fffc01or|r |n  Belt of Giant Strength - 450 |n|n|c00838B8B Total Cost: 1400   |n|n|c00ff0303Movement Speed does not stack with other boot items.|r "
+[h015]
+Name="Circlet of Nobility"
+Hotkey=C
+Tip="Purchase |cffffcc00C|rirclet of Nobility - 185"
+Ubertip="+2 All Attributes |n|n|c00838B8BAn elegant circlet designed for human princesses"
+[h016]
+Name="Belt of Giant Strength"
+Hotkey=B
+Tip="Purchase |cffffcc00B|relt of Giant Strength - 450"
+Ubertip="+6 Strength |n|n|c00838B8BNot recommended for use by children or pregnant women"
+[h017]
+Name="Blade of Alacrity"
+Hotkey=Y
+Tip="Purchase Blade of Alacrit|cffffcc00y|r - 1000"
+Ubertip="+10 Agility. |n|n|c00838B8BA long blade imbued with time magic"
+[h018]
+Name="Blades of Attack"
+Hotkey=A
+Tip="Purchase Blades of |cffffcc00A|rttack - 450"
+Ubertip="+9 Damage |n|n|c00838B8BA weapon of choice among sadists"
+[h019]
+Name="Broadsword"
+Hotkey=B
+Tip="Purchase |cffffcc00B|rroadsword - 1200"
+Ubertip="+18 Damage |n|n|c00838B8BAny knight worth a damn should have one of these"
+[h01A]
+Name="Chainmail"
+Hotkey=L
+Tip="Purchase Chainmai|cffffcc00l|r - 550"
+Ubertip="+5 Armor |n|n|c00838B8BA medium weave of metal chains"
+[h01B]
+Name="Claymore"
+Hotkey=C
+Tip="Purchase |cffffcc00C|rlaymore - 1400"
+Ubertip="+21 Damage |n|n|c00838B8BA sword that can cut through armor, and still slice a tomato"
+[h01C]
+Name="Demon Edge"
+Hotkey=D
+Tip="Purchase |cffffcc00D|remon Edge - 2400"
+Ubertip="+46 Damage |n|n|c00838B8BA sword of a fallen general of a Demon Army, imbued with unholy strength"
+[h01D]
+Name="Eaglehorn"
+Hotkey=G
+Tip="Purchase Ea|cffffcc00g|rlehorn - 3300"
+Ubertip="+25 Agility |n|n|c00838B8BA swift, true-firing bow that almost aims itself"
+[h01E]
+Name="Energy Booster"
+Hotkey=E
+Tip="Purchase |cffffcc00E|rnergy Booster - 1000"
+Ubertip="+250 Mana |n|n|c00838B8BEnie"
+[h01F]
+Name="Gauntlets of Strength"
+Hotkey=S
+Tip="Purchase Gauntlets of |cffffcc00S|rtrength - 150"
+Ubertip="+3 Strength |n|n|c00838B8BDeluxe version of Brass Knuckles"
+[h01G]
+Name="Gem of True Sight"
+Hotkey=I
+Tip="Purchase Gem of True S|cffffcc00i|rght - 900"
+Ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.  |n|cff99ccffReplenish Time: |r 10 Minutes    |n|n|c00ff0303Drops upon death|r"
+[h01H]
+Name="Helm of Iron Will"
+Hotkey=H
+Tip="Purchase |cffffcc00H|relm of Iron Will - 950"
+Ubertip="+5 Armor |n+3 HP Regeneration |n|n|c00838B8BThe helmet of a legendary warrior who fell in battle"
+[h01I]
+Name="Hyperstone"
+Hotkey=Y
+Tip="Purchase H|cffffcc00y|rperstone - 2000"
+Ubertip="+55 Attack Speed |n|n|c00838B8BA mystical, carved stone that boosts the fervor of the holder"
+[h01J]
+Name="Ironwood Branch"
+Hotkey=N
+Tip="Purchase Iro|cffffcc00n|rwood Branch - 50"
+Ubertip="+1 All Attributes |n|n|c00838B8BWearing one of these ensures a Good Game"
+[h01K]
+Name="Kelen's Dagger"
+Hotkey=D
+Tip="Purchase Kelen's |cffffcc00D|ragger - 2150"
+Ubertip="Teleport up to 1200 distance away. Cannot be used if you have been damaged in the last 3 seconds.|n|n|cff99ccffCooldown: |r 12 |n|n|c00838B8BThe fabled dagger used by Kelen, the fastest assassin ever to walk the lands of Azeroth"
+[h01L]
+Name="Mantle of Intelligence"
+Hotkey=I
+Tip="Purchase Mantle of |cffffcc00I|rntelligence - 150"
+Ubertip="+3 Intelligence |n|n|c00838B8BA dandy looking sapphire mantle; real hit this season"
+[h01M]
+Name="Mask of Death"
+Hotkey=M
+Tip="Purchase |cffffcc00M|rask of Death - 900"
+Ubertip="+15% Life Steal |n|n|c00ff0303Orb effects do not stack|r |n|n|c00838B8BThe phattest lewt, definitely|r"
+[h01N]
+Name="Messerschmidt's Reaver"
+Hotkey=R
+Tip="Purchase Messerschmidt's |cffffcc00R|reaver - 3200"
+Ubertip="+25 Strength |n|n|c00838B8BA massive axe capable of tearing whole mountains down"
+[h01O]
+Name="Mithril Hammer"
+Hotkey=M
+Tip="Purchase |cffffcc00M|rithril Hammer - 1600"
+Ubertip="+24 Damage |n|n|c00838B8BA hammer forged of pure mithril.  It's hammer time!"
+[h01P]
+Name="Mystic Staff"
+Hotkey=M
+Tip="Purchase |cffffcc00M|rystic Staff - 2700"
+Ubertip="+25 Intelligence |n|n|c00838B8BEnigmatic staff made of only the most expensive crystals"
+[h01Q]
+Name="Ogre Axe"
+Hotkey=X
+Tip="Purchase Ogre A|cffffcc00x|re - 1000"
+Ubertip="+10 Strength |n|n|c00838B8BYou feel tougher just by holding it!   "
+[h01R]
+Name="Planeswalker's Cloak"
+Hotkey=W
+Tip="Purchase Planes|cffffcc00w|ralker's Cloak - 550"
+Ubertip="+15% Magic Resistance |n|n|c00838B8BA cloak made of a magic material that works to dispel any magic cast on it"
+[h01S]
+Name="Plate Mail"
+Hotkey=P
+Tip="Purchase |cffffcc00P|rlate Mail - 1400"
+Ubertip="+10 Armor |n|n|c00838B8BThick metal plates that protect the entire upper body. Avoid dropping on feet"
+[h01T]
+Name="Point Booster"
+Hotkey=P
+Tip="Purchase |cffffcc00P|roint Booster - 1200"
+Ubertip="+200 Hit Points |n+150 Mana |n|n|c00838B8BMeenie"
+[h01U]
+Name="Quarterstaff"
+Hotkey=Q
+Tip="Purchase |cffffcc00Q|ruarterstaff - 900"
+Ubertip="+10 Damage |n+10 Attack Speed |n|n|c00838B8BFour of these form an ordinary staff, duh! "
+[h01V]
+Name="Ring of Health"
+Hotkey=I
+Tip="Purchase R|cffffcc00i|rng of Health - 875"
+Ubertip="+5 HP Regeneration |n|n|c00838B8BA shiny ring found beneath a fat halfling's corpse"
+[h01W]
+Name="Ring of Protection"
+Hotkey=R
+Tip="Purchase |cffffcc00R|ring of Protection - 175"
+Ubertip="+2 Armor |n|n|c00838B8BDue to its small size, many have troubles with putting it on"
+[h01X]
+Name="Ring of Regeneration"
+Hotkey=R
+Tip="Purchase |cffffcc00R|ring of Regeneration - 350"
+Ubertip="+2 HP Regeneration |n|n|c00838B8BThis ring is considered a good luck charm among the Gnomes"
+[h01Y]
+Name="Robe of the Magi"
+Hotkey=R
+Tip="Purchase |cffffcc00R|robe of the Magi - 450"
+Ubertip="+6 Intelligence |n|n|c00838B8BThis robe corrupts the soul of the user, but provides Intelligence points in return"
+[h01Z]
+Name="Sacred Relic"
+Hotkey=S
+Tip="Purchase |cffffcc00S|racred Relic - 3800"
+Ubertip="+60 Damage |n|n|c00838B8BAn ancient weapon, it's difficult to tell what Sacred Relic even is.  Rumors say that it's a sword of immeasureable damage. Ouch!"
+[h020]
+Name="Slippers of Agility"
+Hotkey=A
+Tip="Purchase Slippers of |cffffcc00A|rgility - 150"
+Ubertip="+3 Agility |n|n|c00838B8BLight boots made from spider skin that tingles your senses"
+[h021]
+Name="Sobi Mask"
+Hotkey=B
+Tip="Purchase So|cffffcc00b|ri Mask - 325"
+Ubertip="+50% Mana Regeneration |n|n|c00838B8BA common mask used by Mages and Warlocks for various rituals"
+[h022]
+Name="Staff of Wizardry"
+Hotkey=W
+Tip="Purchase Staff of |cffffcc00W|rizardry - 1000"
+Ubertip="+10 Intelligence |n|n|c00838B8BYou shall not pass!!"
+[h023]
+Name="Stout Shield"
+Hotkey=S
+Tip="Purchase |cffffcc00S|rtout Shield - 250"
+Ubertip="+60% chance to block 20 damage (10 for ranged) |n|n|c00838B8BOne man's wine barrel bottom is another man's shield!"
+[h024]
+Name="Ultimate Orb"
+Hotkey=O
+Tip="Purchase Ultimate |cffffcc00O|rrb - 2100"
+Ubertip="+10 All Attributes |n|n|c00838B8BA mystical orb containing the essence of life"
+[h025]
+Name="Vitality Booster"
+Hotkey=B
+Tip="Purchase Vitality |cffffcc00B|rooster - 1100"
+Ubertip="+250 Hit Points |n|n|c00838B8BMinie"
+[h026]
+Name="Void Stone"
+Hotkey=V
+Tip="Purchase |cffffcc00V|roid Stone - 875"
+Ubertip="+100% Mana Regeneration |n|n|c00838B8BA stone of seemingly endless inner power"
+[h027]
+Name="Javelin"
+Hotkey=J
+Tip="Purchase |cffffcc00J|ravelin - 1500"
+Ubertip="+21 Damage |n20% chance to deal 40 bonus damage |n|n|c00838B8BA rather typical spear that can sometimes pierce through an enemy's armor when used to attack"
+[h028]
+Name="Clarity Potion"
+Hotkey=C
+Tip="Purchase |cffffcc00C|rlarity Potion - 50"
+Ubertip="Regenerates 135 mana over 40 seconds when used. Dispels on attack. |n|n|c00838B8BA live wisp is captured in each bottle"
+[h029]
+Name="Healing Salve"
+Hotkey=V
+Tip="Purchase Healing Sal|cffffcc00v|re - 115"
+Ubertip="Heals 400 HP over 10 seconds on a friendly unit.  1 Charge.  Dispels on attack. |n|n|c00838B8BA magical salve that can quickly mend even the deepest of wounds."
+[h02A]
+Name="Ancient Tango of Essifation"
+Hotkey=S
+Tip="Purchase Ancient Tango of E|cffffcc00s|rsifation - 125"
+Ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. 4 charges. |n|n|c00838B8BUser may experience dependence after prolonged usage"
+[h02B]
+Name="Empty Bottle"
+Hotkey=B
+Tip="Purchase Empty |cffffcc00B|rottle - 650"
+Ubertip="It can store healing water for up to 3 uses, each healing 135 hitpoints and 70 mana over 3 seconds. Alternatively, it can be used to capture magical runes for up to 2 minutes. If a rune is captured, it refills itself. |n|n|c00838B8BNot recommended for fairy storage"
+[h02C]
+Name="Observer Wards"
+Hotkey=O
+Tip="Purchase |cffffcc00O|rbserver Wards - 150"
+Ubertip="Drops an Observer Ward to spy upon an area. Does not have True Sight. |nLasts 7 minutes. |nContains 2 charges. |n  |n|cff99ccffStock Max: |r 2  |n|cff99ccffReplenish Time: |r 6 Minutes  "
+[h02D]
+Name="Sentry Wards"
+Hotkey=W
+Tip="Purchase Sentry |cffffcc00W|rards - 200"
+Ubertip="Drops a Sentry Ward which gives truesight, revealing nearby invisible units and wards. Has very limited natural vision by itself. |nLasts 4 minutes.  |nContains 2 charges."
+[h02E]
+Name="Scroll of Town Portal"
+Hotkey=T
+Tip="Purchase Scroll of |cffffcc00T|rown Portal - 135"
+Ubertip="Transports you to a friendly structure. |n|n|cff99ccffCooldown: |r 65 seconds. "
+[h02F]
+Name="Animal Courier"
+Hotkey=R
+Tip="Purchase Animal Courie|cffffcc00r|r - 150"
+Ubertip="Creates a small fast unit that can carry items to and from your base."
+[h02G]
+Name="Perseverance"
+Hotkey=
+Tip="Perseverance"
+Ubertip="|cffffcc00Gives:|r |n +10 damage |n +5 HP regen/second |n +125% mana regen|n |n|cffffcc00Requires:|r |n Ring of Health - 875 |n Void Stone - 875 |n|n|c00838B8B Total Cost: 1750"
+[h02H]
+Name="Headdress of Rejuvenation"
+Hotkey=E
+Tip="H|cffffcc00e|raddress of Rejuvenation - 200"
+Ubertip="|cffffcc00Gives:|r |n +2 Agility |n +2 Intelligence |n +2 Strength  |n +3 HP/second regen aura |n|n|cffffcc00Requires:|r |n Ring of Regeneration - 350 |n Ironwood Branch - 50  |n Recipe - 200 |n|n|c00838B8B Total Cost: 600"
+[h02I]
+Name="Nathrezim Buckler"
+Hotkey=B
+Tip="Nathrezim |cffffcc00B|ruckler - 200"
+Ubertip="|cffffcc00Gives:|r |n +5 Armor |n +2 All Stats |n Area bonus armor (active) |n|n|cffffcc00Requires:|r |n Chainmail - 550 |n Ironwood Branch - 50  |n Recipe - 200 |n|n|c00838B8B Total Cost: 800"
+[h02J]
+Name="Ring of Basilius"
+Hotkey=
+Tip="Ring of Basilius"
+Ubertip="|cffffcc00Gives:|r |n +6 damage |n +1 armor |n +0.65 Brilliance Aura |n +2 Devotion Aura |n|n|cffffcc00Requires:|r |n Sobi Mask - 325 |n Ring of Protection - 175  |n|n|c00838B8B Total Cost: 500 |n|n|c00fffc01Can be disassembled|r "
+[h02K]
+Name="Boots of Travel"
+Hotkey=T
+Tip="Boots of |cffffcc00T|rravel - 2000"
+Ubertip="|cffffcc00Gives:|r |n +100 movement speed |n Teleport to friendly non-hero unit (active) |n|cffffcc00Requires:|r |n Boots of Speed - 450  |n Recipe - 2000|r  |n|n|c00838B8B Total Cost: 2450   |n|n|c00ff0303Movement Speed does not stack with other boot items.|r "
+[h02L]
+Name="Hand of Midas"
+Hotkey=D
+Tip="Hand of Mi|cffffcc00d|ras - 1550"
+Ubertip="|cffffcc00Gives:|r |n +30% Attack Speed |n Transmute (active) |n|n|cffffcc00Requires:|r |n Gloves of Haste - 500  |n Recipe - 1550 |n|n|c00838B8B Total Cost: 2050"
+[h02M]
+Name="Oblivion Staff"
+Hotkey=
+Tip="Oblivion Staff"
+Ubertip="|cffffcc00Gives:|r |n +6 Intelligence |n +10% attack speed |n +15 damage |n +75% mana regen |n|n|cffffcc00Requires:|r |n Quarterstaff - 900 |n Robe of the Magi - 450 |n Sobi Mask - 325 |n|n|c00838B8B Total Cost: 1675"
+[h02N]
+Name="Bracer"
+Hotkey=B
+Tip="|cffffcc00B|rracer - 190"
+Ubertip="|cffffcc00Gives:|r |n +3 Agility |n +3 Intelligence |n +6 Strength |n +3 Damage |n|n|cffffcc00Requires:|r |n Circlet of Nobility - 185 |n Gauntlets of Strength - 150  |n Recipe - 190|r  |n|n|c00838B8B Total Cost: 525"
+[h02O]
+Name="Wraith Band"
+Hotkey=W
+Tip="|cffffcc00W|rraith Band - 150"
+Ubertip="|cffffcc00Gives:|r |n +6 Agility |n +3 Intelligence |n +3 Strength |n +3 Damage |n|n|cffffcc00Requires:|r |n Circlet of Nobility - 185 |n Slippers of Agility - 150  |n Recipe - 150 |n|n|c00838B8B Total Cost: 485"
+[h02P]
+Name="Null Talisman"
+Hotkey=N
+Tip="|cffffcc00N|rull Talisman - 135"
+Ubertip="|cffffcc00Gives:|r |n +3 Agility |n +6 Intelligence |n +3 Strength |n +3 Damage |n|n|cffffcc00Requires:|r |n Circlet of Nobility - 185 |n Mantle of Intelligence - 150  |n Recipe - 135 |n|n|c00838B8B Total Cost: 470"
+[h02Q]
+Name="Yasha"
+Hotkey=Y
+Tip="|cffffcc00Y|rasha - 600"
+Ubertip="|cffffcc00Gives:|r |n +16 Agility |n +15 Attack Speed |n 10% Movement Speed |n|n|cffffcc00Requires:|r |n Blade of Alacrity - 1000 |n Boots of Elvenskin - 450  |n Recipe - 600|n|n|c00838B8B Total Cost: 2050"
+[h02R]
+Name="Sange"
+Hotkey=S
+Tip="|cffffcc00S|range - 600"
+Ubertip="|cffffcc00Gives:|r |n +16 Strength |n +15% Lesser Maim (passive) |n +10 Damage |n|n|cffffcc00Requires:|r |n Ogre Axe - 1000 |n Belt of Giant Strength - 450  |n Recipe - 600  |n|n|c00838B8B Total Cost: 2050 "
+[h02S]
+Name="Cranium Basher"
+Hotkey=S
+Tip="Cranium Ba|cffffcc00s|rher - 1000"
+Ubertip="|cffffcc00Gives:|r |n+40 damage |n+6 Strength |nBash (25% for melee, 10% for range) |n|n|cffffcc00Requires:|r |n Javelin - 1500 |n Belt of Giant Strength - 450  |n Recipe - 1000 |n|n|c00838B8B Total Cost: 2950 |n|n|c00ff0303Does not stack with other bash passives|r"
+[h02T]
+Name="Blade Mail"
+Hotkey=
+Tip="Blade Mail"
+Ubertip="|cffffcc00Gives:|r |n +6 Armor |n +22 Damage |n +10 Intelligence |n Damage return (active) |n|n|cffffcc00Requires:|r |n Broadsword - 1200 |n Chainmail - 550 |n Robe of the Magi - 450 |n|n|c00838B8B Total Cost: 2200"
+[h02U]
+Name="Maelstrom"
+Hotkey=M
+Tip="|cffffcc00M|raelstrom - 600"
+Ubertip="|cffffcc00Gives:|r |n +24 damage |n +25 Attack Speed |n Chain Lightning (orb, passive) |n|n|cffffcc00Requires:|r |n Mithril Hammer - 1600 |n Gloves of Haste - 500  |n Recipe - 600 |n|n|c00838B8B Total Cost: 2700 |n|n|c00ff0303Orb effects do not stack|r"
+[h02V]
+Name="Diffusal Blade"
+Hotkey=D
+Tip="|cffffcc00D|riffusal Blade - 850"
+Ubertip="|cffffcc00Gives:|r |n +25 Agility |n +6 Intelligence |nFeedback (orb, passive) |n Purge (charged, active) |n|n|cffffcc00Requires:|r |n 2x Blade of Alacrity - 2000 |n Robe of the Magi - 450  |n Recipe - 850 |n|n|c00838B8B Total Cost: 3300/4150 |n|n|c00ff0303Orb effects do not stack|r |n|c00fffc01Buy recipe to upgrade (2 levels)|r"
+[h02W]
+Name="Helm of the Dominator"
+Hotkey=
+Tip="Helm of the Dominator"
+Ubertip="|cffffcc00Gives:|r |n +20 damage |n +5 armor |n 15% Lifesteal (orb, passive) |n Dominate (active) |n|n|cffffcc00Requires:|r |n Helm of Iron Will - 950 |n Mask of Death - 900   |n|n|c00838B8B Total Cost: 1850 |n|n|c00ff0303Orb effects do not stack|r |n|n|c00fffc01Can be disassembled|r "
+[h02X]
+Name="Mask of Madness"
+Hotkey=A
+Tip="M|cffffcc00a|rsk of Madness - 900"
+Ubertip="|cffffcc00Gives:|r |n 20% Lifesteal (orb, passive) |n Berserk (active) |n|n|cffffcc00Requires:|r |n Mask of Death - 900  |n Recipe - 1000 |n|n|c00838B8B Total Cost: 1900 |n|n|c00ff0303Orb effects do not stack|r"
+[h02Y]
+Name="Eul's Scepter of Divinity"
+Hotkey=T
+Tip="Eul's Scep|cffffcc00t|rer of Divinity - 500"
+Ubertip="|cffffcc00Gives:|r |n +10 Intelligence |n +150% Mana regen |n +40 Movement Speed|nCyclone (active) |n|n|cffffcc00Requires:|r |n Staff of Wizardry - 1000 |n Sobi Mask - 325 |n Void Stone - 875  |n Recipe - 500  |n|n|c00838B8B Total Cost: 2700"
+[h02Z]
+Name="Soul Booster"
+Hotkey=
+Tip="Soul Booster"
+Ubertip="|cffffcc00Gives:|r |n +450 HP |n +400 mana |n +100% mana regen |n +4 HP regen/second|n |n|cffffcc00Requires:|r |n Vitality Booster - 1100 |n Energy Booster - 1000 |n Point Booster - 1200|n|n|c00838B8B Total Cost: 3300"
+[h030]
+Name="Mekansm"
+Hotkey=M
+Tip="|cffffcc00M|rekansm - 900"
+Ubertip="|cffffcc00Gives:|r |n +5 to all stats |n +5 armor |n +4 HP regen aura |n +2 armor/250hp AoE (active). |n|n|cffffcc00Requires:|r |n Headdress of Rejuvenation - 600 (Supportive Vestments) |n Nathrezim Buckler - 800 (Supportive Vestments)   |n Recipe - 900 |n|n|c00838B8B Total Cost: 2300"
+[h031]
+Name="Sange and Yasha"
+Hotkey=
+Tip="Sange and Yasha"
+Ubertip="|cffffcc00Gives:|r |n +16 Agility |n +16 Strength  |n +16% Greater Maim (passive)  |n +16 Attack Speed |n +16 Damage  |n +16% Movement Speed |n|n|cffffcc00Requires:|r |n Sange - 2050 (Enchanted Artifacts) |n Yasha - 2050 (Enchanted Artifacts)  |n|n|c00838B8B Total Cost: 4100 |n|n|c00fffc01Can be disassembled|r "
+[h032]
+Name="Stygian Desolator"
+Hotkey=R
+Tip="Stygian Desolato|cffffcc00r|r - 900"
+Ubertip="|cffffcc00Gives:|r |n +60 damage |n Corruption (orb, passive)|n |n|cffffcc00Requires:|r |n 2x Mithril Hammers - 3200  |n Recipe - 900 |n|n|c00838B8B Total Cost: 4100 |n|n|c00ff0303Orb effects do not stack|r |n|cff99ccffBuff placers do not stack|r"
+[h033]
+Name="Battle Fury"
+Hotkey=
+Tip="Battle Fury"
+Ubertip="|cffffcc00Gives:|r |n +65 damage |n +150% mana regen |n +6 HP/sec regen |n Cleaving Attack (|c00ff0303melee|r) |n|n|cffffcc00Requires:|r |n Claymore - 1400 |n Broadsword - 1200 |n Perseverance - 1750 (Gateway Relics)  |n|n|c00838B8B Total Cost: 4350"
+[h034]
+Name="Crystalys"
+Hotkey=C
+Tip="|cffffcc00C|rrystalys - 500"
+Ubertip="|cffffcc00Gives:|r |n +30 damage |n 20% Critical Strike (1.75x) |n|n|cffffcc00Requires:|r |n Broadsword - 1200 |n Blades of Attack - 450  |n Recipe - 500 |n|n|c00838B8B Total Cost: 2150"
+[h035]
+Name="Black King Bar"
+Hotkey=B
+Tip="|cffffcc00B|rlack King Bar - 1375"
+Ubertip="|cffffcc00Gives:|r |n +10 Strength |n +24 damage |n Avatar (active) |n|n|cffffcc00Requires:|r |n Ogre Axe - 1000 |n Mithril Hammer - 1600 |n Recipe - 1375|r |n|n|c00838B8B Total Cost: 3975"
+[h036]
+Name="Manta Style"
+Hotkey=M
+Tip="|cffffcc00M|ranta Style - 900"
+Ubertip="|cffffcc00Gives:|r |n +26 Agility |n +10 Strength |n +10 Intelligence |n +15 Attack Speed |n 10% Movement Speed |n Mirror Image (active) |n|n|cffffcc00Requires:|r |n Yasha - 2050 (Enchanted Artifacts) |n Ultimate Orb - 2100  |n Recipe - 900  |n|n|c00838B8B Total Cost: 5050 |n|n|c00fffc01Can be disassembled|r "
+[h037]
+Name="Lothar's Edge"
+Hotkey=
+Tip="Lothar's Edge"
+Ubertip="|cffffcc00Gives:|r |n +22 Damage |n +30 Attack Speed |n Wind Walk (active) |n|n|cffffcc00Requires:|r |n Claymore - 1400 |n Shadow Amulet - 1600  |n|n|c00838B8B Total Cost: 3000"
+[h038]
+Name="Dagon"
+Hotkey=D
+Tip="|cffffcc00D|ragon - 1250"
+Ubertip="|cffffcc00Gives:|r |n +13 Intelligence |n +9 damage |n +3 All Stats |n Energy Burst (active) |n|n|cffffcc00Requires:|r |n Staff of Wizardry - 1000 |n Null Talisman - 470 (Gateway Relics)  |n Recipe - 1250  |n|n|c00838B8B Total Cost: 2720/3970/5220/6470/7720 |n|n|c00fffc01Buy recipe to upgrade (5 levels)|r"
+[h039]
+Name="Necronomicon"
+Hotkey=N
+Tip="|cffffcc00N|recronomicon - 1250"
+Ubertip="|cffffcc00Gives:|r |n +15 Intelligence |n +8 Strength |n Demonic Summoning (active) |n|n|cffffcc00Requires:|r |n Staff of Wizardry - 1000 |n Belt Of Giant Strength - 450  |n Recipe - 1250 |n|n|c00838B8B Total Cost: 2700/3950/5200 |n|n|c00fffc01Buy recipe to upgrade (3 levels)|r |n"
+[h03A]
+Name="Linken's Sphere"
+Hotkey=R
+Tip="Linken's Sphe|cffffcc00r|re - 1325"
+Ubertip="|cffffcc00Gives:|r |n Blocks most targeted spells once every 17 seconds|n +6 HP regen/second |n +150% mana regen |n +15 Agility |n +15 Intelligence |n +15 Strength |n +10 Damage |n|n|cffffcc00Requires:|r |n Perseverance - 1750 (Gateway Relics) |n Ultimate Orb - 2100  |n Recipe - 1325 |n|n|c00838B8B Total Cost: 5175"
+[h03B]
+Name="Aegis of the Immortal"
+Hotkey=
+Tip="Aegis of the Immortal"
+Ubertip="|cffffcc00Gives:|r |nReincarnation (1 charge, passive) |n|n|cffffcc00Requires:|r |nDrops from Roshan"
+[h03C]
+Name="Divine Rapier"
+Hotkey=
+Tip="Divine Rapier"
+Ubertip="|cffffcc00Gives:|r |n +300 damage |n|n|cffffcc00Requires:|r |n Sacred Relic - 3800 |n Demon Edge - 2400  |n|n|c00838B8B Total Cost: 6200 |n|n|c00ff0303Drops upon death|r"
+[h03D]
+Name="Buriza-do Kyanon"
+Hotkey=B
+Tip="|cffffcc00B|ruriza-do Kyanon - 1000"
+Ubertip="|cffffcc00Gives:|r |n +81 damage |n 25% Critical Strike (2.4x) |n|n|cffffcc00Requires:|r |n Demon Edge - 2400 |n Crystalys - 2150 (Ancient Weaponry)  |n Recipe - 1000|r |n|n|c00838B8B Total Cost: 5550"
+[h03E]
+Name="Monkey King Bar"
+Hotkey=
+Tip="Monkey King Bar"
+Ubertip="|cffffcc00Gives:|r |n +88 Damage |n +15 Increased Attack Speed |n True Strike (passive) |n 35% chance for 100 bonus damage and stop channeling spells |n|n|cffffcc00Requires:|r |n 2x Javelin - 3000 |n Demon Edge - 2400 |n|n|c00838B8B Total Cost: 5400"
+[h03F]
+Name="Radiance"
+Hotkey=R
+Tip="|cffffcc00R|radiance - 1350"
+Ubertip="|cffffcc00Gives:|r |n +65 damage |n Damages all nearby opponents (passive) |n|n|cffffcc00Requires:|r |n Sacred Relic - 3800  |n Recipe - 1350 |n|n|c00838B8B Total Cost: 5150"
+[h03G]
+Name="Heart of Tarrasque"
+Hotkey=A
+Tip="Heart of T|cffffcc00a|rrrasque - 1200"
+Ubertip="|cffffcc00Gives:|r |n +40 Strength |n +2% HP regen |n +300 HP |n|n|cffffcc00Requires:|r |n Messerschmidt's Reaver - 3200 |n Vitality Booster - 1100 |n Recipe - 1200 |n|n|c00838B8B Total Cost: 5500"
+[h03H]
+Name="Satanic"
+Hotkey=N
+Tip="Sata|cffffcc00n|ric - 1100"
+Ubertip="|cffffcc00Gives:|r |n 25% lifesteal (orb, passive) |n Unholy Rage (active) |n +25 Strength |n +20 Damage |n +5 armor |n|n|cffffcc00Requires:|r |n Helm of the Dominator - 1850 (Enchanted Artifacts) |n Messerschmidt's Reaver - 3200  |n Recipe - 1100 |n|n|c00838B8B Total Cost: 6150 |n|n|c00ff0303Orb effects do not stack|r"
+[h03I]
+Name="Eye of Skadi"
+Hotkey=
+Tip="Eye of Skadi"
+Ubertip="|cffffcc00Gives:|r |n +25 Agility |n +25 Intelligence |n +25 Strength |n +250 HP |n +250 mana  |n Cold Attack (orb,passive) |n|n|cffffcc00Requires:|r |n 2x Ultimate Orbs - 4200  |n Point Booster - 1200 |n Orb of Venom - 275   |n|n|c00838B8B Total Cost: 5675 |n|n|c00ff0303Orb effects do not stack (melee)|r|n|cff99ccffBuff placers do not stack|r"
+[h03J]
+Name="The Butterfly"
+Hotkey=
+Tip="The Butterfly"
+Ubertip="|cffffcc00Gives:|r |n +30 Agility |n +30 Damage |n +30 Attack Speed |n +35% Evasion|n |n|cffffcc00Requires:|r |n Eaglehorn - 3300 |n Talisman of Evasion - 1800 |n Quarterstaff - 900 |n|n|c00838B8B Total Cost: 6000"
+[h03K]
+Name="Aghanim's Scepter"
+Hotkey=
+Tip="Aghanim's Scepter"
+Ubertip="|cffffcc00Gives:|r |n +10 All Attributes |n +200 HP |n +150 Mana |n Ultimate Upgrade (passive) |n|n|cffffcc00Requires:|r |n Point Booster - 1200 |n Staff of Wizardry - 1000 |n Blade of Alacrity - 1000  |n Ogre Axe - 1000 |n|n|c00838B8B Total Cost: 4200"
+[h03L]
+Name="Refresher Orb"
+Hotkey=R
+Tip="|cffffcc00R|refresher Orb - 1800"
+Ubertip="|cffffcc00Gives:|r |n +5 HP regen/second |n +200% mana regen |n +40 damage |n +6 Intelligence  |n +10 Attack Speed |n Resets cooldowns (active) |n|n|cffffcc00Requires:|r |n Oblivion Staff - 1675 (Gateway Relics) |n Perseverance - 1750 (Gateway Relics)  |n Recipe - 1800  |n|n|c00838B8B Total Cost: 5225"
+[h03M]
+Name="Guinsoo's Scythe of Vyse"
+Hotkey=
+Tip="Guinsoo's Scythe of Vyse"
+Ubertip="|cffffcc00Gives:|r |n +35 Intelligence |n +10 Strength |n +10 Agility |n +150% mana regen |n Hex (active) |n|n|cffffcc00Requires:|r |n Mystic Staff - 2700 |n Ultimate Orb - 2100 |n Void Stone - 875  |n|n|c00838B8B Total Cost: 5675"
+[h03N]
+Name="Vanguard"
+Hotkey=
+Tip="Vanguard"
+Ubertip="|cffffcc00Gives:|r |n +6 HP regen/second |n +250 Hit Points |n 80% to block 40 damage (20 for ranged) |n|n|cffffcc00Requires:|r |n Ring of Health - 875 |n Vitality Booster - 1100 |n Stout Shield - 250 |n|n|c00838B8B Total Cost: 2225"
+[h03O]
+Name="Arcane Ring"
+Hotkey=A
+Tip="|cffffcc00A|rrcane Ring - 525"
+Ubertip="|cffffcc00Gives:|r |n +4 Armor |n +300 Mana |n Replenish Mana (active) |n|n|cffffcc00Requires:|r |n Energy Booster - 1000 |n Ring of Protection - 175 |n Recipe - 525|r  |n|n|c00838B8B Total Cost: 1700"
+[h03P]
+Name="Mjollnir"
+Hotkey=J
+Tip="M|cffffcc00j|rollnir - 900"
+Ubertip="|cffffcc00Gives:|r |n +80 Attack Speed |n +24 Damage |n Chain Lightning (orb, passive) |n Static Charge (active) |n|n|cffffcc00Requires:|r|n Maelstrom - 2700 (Enchanted Artifacts) |n Hyperstone - 2000 |n Recipe - 900 |n|n|c00838B8B Total Cost: 5600 |n|n|c00ff0303Orb effects do not stack|r |n|n|c00fffc01Can be disassembled|r "
+[h03Q]
+Name="Flying Courier"
+Hotkey=F
+Tip="|cffffcc00F|rlying Courier - 220"
+Ubertip="|cffffcc00Gives:|r |n Powerful Flying Courier |n|n|cffffcc00Requires:|r |n Animal Courier - 150  |n Recipe - 220 |n|n|c00838B8B Total Cost: 370"
+[h03R]
+Name="Vladmir's Offering"
+Hotkey=V
+Tip="|cffffcc00V|rladmir's Offering - 300"
+Ubertip="|cffffcc00Gives:|r |n +16% Lifesteal Aura (|c00ff0303melee|r)   |n +15% Damage Aura  |n +0.80 Brilliance Aura |n +5 Devotion Aura |n +2 HP Regeneration  |n|n|cffffcc00Requires:|r |n Ring of Basilius - 500 (Supportive Vestments) |n Mask of Death - 900 |n Ring of Regeneration - 350 |n Recipe - 300 |n|n|c00838B8B Total Cost: 2050"
+[h03S]
+Name="Assault Cuirass"
+Hotkey=C
+Tip="Assault |cffffcc00C|ruirass - 1300"
+Ubertip="|cffffcc00Gives:|r |n +10 Armor |n +5 Armor Aura |n -5 Armor Aura |n +35 Attack Speed |n +20 Attack Speed Aura |n|n|cffffcc00Requires:|r |n Plate Mail - 1400 |n Hyperstone - 2000 |n Chainmail - 550  |n Recipe - 1300|r |n|n|c00838B8B Total Cost: 5250"
+[h03T]
+Name="Bloodstone"
+Hotkey=
+Tip="Bloodstone"
+Ubertip="|cffffcc00Gives:|r |n +500 HP |n +400 mana |n +200% mana regen |n +9 HP regen/second |n +10 Damage  |n Bloodpact (passive) |n|n|cffffcc00Requires:|r|n Soulbooster - 3300 (Protectorate) |n Perseverance - 1750 (Gateway Relics)  |n|n|c00838B8B Total Cost: 5050 "
+[h03U]
+Name="Hood of Defiance"
+Hotkey=
+Tip="Hood of Defiance"
+Ubertip="|cffffcc00Gives:|r |n +30% spell reduction |n +8 hp regen  |n|n|cffffcc00Requires:|r |n Planeswalker's Cloak - 550 |n Ring of Health - 875 |n 2x Ring of Regeneration - 700   |n|n|c00838B8B Total Cost: 2125"
+[h03V]
+Name="Armlet of Mordiggian"
+Hotkey=A
+Tip="|cffffcc00A|rrmlet of Mordiggian - 700"
+Ubertip="|cffffcc00Gives:|r |n +9 damage |n +15 Attack Speed |n +5 Armor |n +7 hp regen |n Unholy Strength (active) |n|n|cffffcc00Requires:|r |n Helm of Iron Will - 950 |n Gloves of Haste - 500 |n Blades of Attack - 450 |n Recipe - 700|r |n|n|c00838B8B Total Cost: 2600 |n|n|c00ff0303Cannot carry more than one|r"
+[h03W]
+Name="Shiva's Guard"
+Hotkey=S
+Tip="|cffffcc00S|rhiva's Guard - 600"
+Ubertip="|cffffcc00Gives:|r |n +30 Intelligence |n +15 Armor |n Freezing Aura  |n Arctic Blast (active) |n|n|cffffcc00Requires:|r |n Plate Mail - 1400 |n Mystic Staff - 2700  |n Recipe - 600 |n|n|c00838B8B Total Cost: 4700 |n|n|c00fffc01Can be disassembled|r "
+[h03X]
+Name="Orchid Malevolence"
+Hotkey=C
+Tip="Or|cffffcc00c|rhid Malevolence"
+Ubertip="|cffffcc00Gives:|r |n +25 Intelligence |n +30% increased attack speed |n +30 damage |n +150% mana regen |n Soul Burn (active)|n |n|cffffcc00Requires:|r |n 2x Oblivion Staff - 3350 (Gateway Relics) |n Recipe - 775 |n|n|c00838B8B Total Cost: 4125"
+[h00Z]
+Name="Battery Assault"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h03Y]
+Name="Rocket Flare"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h03Z]
+Name="Vengeful Spirit"
+[h040]
+Name="Zeus"
+[h041]
+Name="Enchantress"
+[h042]
+Name="Morphling"
+[h043]
+Name="Rylai"
+[h044]
+Name="Sven"
+[h045]
+Name="Slithice"
+[h046]
+Name="Earthshaker"
+[h047]
+Name="Rikimaru"
+[h048]
+Name="Syllabear"
+[h049]
+Name="Lina"
+[h04A]
+Name="Yurnero"
+[h04B]
+Name="Nortrom"
+[h04C]
+Name="Rooftrellen"
+[h04D]
+Name="Enigma"
+[h04E]
+Name="Ezalor"
+[h04F]
+Name="Ursa"
+[h04G]
+Name="Ogre Magi"
+[h04H]
+Name="Tinker"
+[h04I]
+Name="Furion"
+[h04J]
+Name="Phantom Lancer"
+[h04K]
+Name="Tiny"
+[h04L]
+Name="Techies"
+[h04M]
+Name="Chen"
+[h04N]
+Name="Luna"
+[h04O]
+Name="Sniper"
+[h04P]
+Name="Troll"
+[h04Q]
+Name="Storm"
+[h04R]
+Name="Jakiro"
+[h04S]
+Name="Rexxar"
+[h04T]
+Name="Magina"
+[h04U]
+Name="Bristleback"
+[h04V]
+Name="Knight Davion"
+[h04W]
+Name="Mirana"
+[h04X]
+Name="Centaur"
+[h04Y]
+Name="Huskar"
+[h04Z]
+Name="Omniknight"
+[h050]
+Name="Puck"
+[h051]
+Name="Clockwerk"
+[h052]
+Name="Gondar"
+[h053]
+Name="Panda"
+[h054]
+Name="Alchemist"
+[h055]
+Name="Traxex"
+[h057]
+Name="Rhasta"
+[h058]
+Name="Lanaya"
+[h056]
+Name="Terrorblade"
+[h059]
+Name="Leshrac"
+[h05A]
+Name="Lich"
+[h05B]
+Name="Krobelus"
+[h05C]
+Name="Lion"
+[h05D]
+Name="Venomancer"
+[h05E]
+Name="Magnus"
+[h05F]
+Name="Visage"
+[h05G]
+Name="Nessaj"
+[h05H]
+Name="Lycan"
+[h05I]
+Name="Broodmother"
+[h05J]
+Name="Mortred"
+[h05K]
+Name="Medusa"
+[h05L]
+Name="Balanar"
+[h05M]
+Name="Leoric"
+[h05N]
+Name="Lucifer"
+[h05O]
+Name="Nerubian Assassin"
+[h05P]
+Name="Slardar"
+[h05Q]
+Name="Akasha"
+[h05R]
+Name="Clinkz"
+[h05S]
+Name="Void"
+[h05T]
+Name="Viper"
+[h05U]
+Name="Razor"
+[h05V]
+Name="N'aix"
+[h05W]
+Name="Pugna"
+[h05X]
+Name="Tidehunter"
+[h05Y]
+Name="Atropos"
+[h05Z]
+Name="Necrolyte"
+[h060]
+Name="Pudge"
+[h061]
+Name="Barathrum"
+[h062]
+Name="Weaver"
+[h063]
+Name="Nevermore"
+[h064]
+Name="Crixalis"
+[h065]
+Name="Axe"
+[h066]
+Name="Strygwyr"
+[h067]
+Name="Abaddon"
+[h068]
+Name="Spectre"
+[h069]
+Name="Witch Doctor"
+[h06A]
+Name="Destroyer"
+[h06B]
+Name="Invoker"
+[h06C]
+Name="Warlock"
+[h06D]
+Name="Geomancer"
+[h06E]
+Name="Dazzle"
+[h06F]
+Name="Pit Lord"
+[h06G]
+Name="Undying"
+[h06H]
+Name="Dark Seer"
+[h06I]
+Name="Shadow Unit"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h06J]
+Name="BlinkStrike CK"
+Hotkey=
+Tip=""
+Ubertip=""
+[h06K]
+Name="Magina Dummy"
+[h06L]
+Name="Spirit Lance"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h06M]
+Name="Illuminate Vision"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h06N]
+Name="S|cffffcc00e|rlect Hero"
+Hotkey=E
+Tip="S|cffffcc00e|rlect Hero"
+Ubertip="Click to select this hero."
+[h06O]
+Name="Illusory Orb"
+Hotkey=
+Tip=""
+Ubertip=""
+[h06P]
+Name="Blinding Light"
+Hotkey=
+Tip=""
+Ubertip=""
+[h06Q]
+Name="Black Hole FX"
+Hotkey=
+Tip=""
+Ubertip=""
+[h06R]
+Name="Blackhole Shadow"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h06T]
+Name="Kunkka"
+[h06U]
+Name="Ghost Ship"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h06V]
+Name="Ghost Ship Trail"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H06W]
+Name="Keeper of the Light"
+Propernames=Ezalor
+Hotkey=
+Tip=""
+Ubertip=""
+Revivetip=""
+Awakentip=""
+[H06X]
+Name="Keeper of the Light"
+Propernames=Ezalor
+Hotkey=
+Tip=""
+Ubertip=""
+Revivetip=""
+Awakentip=""
+[H06Y]
+Name="Keeper of the Light"
+Propernames=Ezalor
+Hotkey=
+Tip=""
+Ubertip=""
+Revivetip=""
+Awakentip=""
+[h06Z]
+Name="Ezalor Dummy"
+[h070]
+Name="Coco's Rum"
+Hotkey=
+Tip=""
+Ubertip=""
+[h072]
+Name="Slark"
+[h073]
+Name="Nightcrawler Shadow"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h074]
+Name="Magic Stick"
+Hotkey=C
+Tip="Purchase Magi|cffffcc00c|r Stick - 200"
+Ubertip="Energy Charge |n|nGives 15 health and 15 mana when used for each charge on it. Collects charges (up to 10) when nearby enemy spells are cast. |n|n|c00838B8BA simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike."
+[h075]
+Name="Poison Powder"
+Hotkey=P
+Tip="Purchase |cffffcc00P|roison Powder - 100"
+Ubertip="Description |n|n|c00838B8BNEED FLAVOR TEXT"
+[h076]
+Name="Dust of Appearance"
+Hotkey=D
+Tip="Purchase |cffffcc00D|rust of Appearance - 180"
+Ubertip="Reveals enemy invisible units in an area around the Hero.  |nContains 2 charges. |nLasts 12 seconds. |n|n|cff99ccffCooldown: |r 60   |n|n|c00838B8BOff to never never land!|r"
+[h077]
+Name="Shackleshot Arrow"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h078]
+Name="Power Shot Arrow"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h079]
+Name="Phase Boots"
+Hotkey=
+Tip="Phase Boots"
+Ubertip="|cffffcc00Gives:|r |n+ 50 Movement Speed |n +24 Damage |n Phase (active) |n|n|cffffcc00Requires:|r |n Boots of Speed - 450 |n 2x Blades of Attack - 900  |n|n|c00838B8B Total Cost: 1350   |n|n|c00ff0303Movement Speed does not stack with other boot items.|r "
+[h07A]
+Name="Windrunner"
+[h07B]
+Name="Fight in the Shade Shadow"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h07C]
+Name="Glyph of Fortification"
+Hotkey=F
+Tip="Activate Glyph of |cffffcc00F|rortification"
+Ubertip="Gives a massive armor bonus to all your structures for 5 seconds. |n|cff99ccffReplenish Time: |r 5 Minutes  "
+[h07D]
+Name="Ghost Ship Death"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h07E]
+Name="Glyph of Fortification"
+Hotkey=F
+Tip="Activate Glyph of |cffffcc00F|rortification"
+Ubertip="Gives a massive armor bonus to all your structures for 5 seconds. |n|cff99ccffReplenish Time: |r 5 Minutes  "
+[h07F]
+Name="Static Remnant"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H07G]
+Name="Storm Spirit"
+Propernames=Raijin Thunderkeg
+Hotkey=
+Tip=""
+Ubertip=""
+Revivetip=""
+Awakentip=""
+[h07H]
+Name="Tombstone Acolyte"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H07I]
+Name="Flesh Golem"
+Propernames=Dirge
+Hotkey=
+Tip="Undying"
+UberTip=""," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="Revive Undying"
+Awakentip="Revive Undying"
+[h07J]
+Name="Decay Visual"
+Hotkey=
+Tip=""
+Ubertip=""
+[h07K]
+Name="Shadowstrike Model"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h07L]
+Name="Version Check"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h07M]
+Name="Venomous Gale FX1"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h07N]
+Name="Venomous Gale FX2"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h07O]
+Name="Venomous Gale FX3"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h07P]
+Name="Tauren Chieftain"
+[h07Q]
+Name="Storm bolt"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h07R]
+Name="Batrider"
+[h07S]
+Name="Magic Wand"
+Hotkey=M
+Tip="|cffffcc00M|ragic Wand - 150"
+Ubertip="|cffffcc00Gives:|r |n +3 All Attributes  |n Energy Charge |n|n|cffffcc00Requires:|r |n Magic Stick - 200 |n 3x Ironwood Branch - 150 |n Recipe - 150 |n|n|c00838B8B Total Cost: 500"
+[h07T]
+Name="Force Staff"
+Hotkey=F
+Tip="|cffffcc00F|rorce Staff - 900"
+Ubertip="|cffffcc00Gives:|r |n +10 Intelligence |n +3 HP Regeneration |nForce (active) |n|n|cffffcc00Requires:|r |n Ring of Regeneration - 350 |n Staff of Wizardry - 1000  |n Recipe - 900 |n|n|c00838B8B Total Cost: 2250"
+[h07U]
+Name="Tauren Chieftain"
+[h07V]
+Name="Ghost Potion"
+Hotkey=G
+Tip="Purchase |cffffcc00G|rhost Potion - 200"
+Ubertip="Transforms you to Ethereal Form for 4 seconds. While in this form, you can neither attack nor be attacked and you take 40% bonus damage from spells. 2 Charges.  |n|n|cff99ccffCooldown: |r 60"
+[h07W]
+Name="Quelling Blade"
+Hotkey=U
+Tip="Purchase Q|cffffcc00u|relling Blade - 225"
+Ubertip="+32% bonus damage to non-hero units (+12% for ranged).  |n|nTree Chop (active) |n|n|c00ff0303Cannot carry more than one or used by Kunkka|r |n|n|c00838B8BA lumberjack's axe at a bargain price. Also useful against wild animals."
+[h07X]
+Name="Khadgar's Pipe of Insight"
+Hotkey=P
+Tip="Khadgar's |cffffcc00P|ripe of Insight - 900"
+Ubertip="|cffffcc00Gives:|r |n +30% Magic Resistance |n +8 hp Regeneration  |n +4 hp Regeneration Aura |n Barrier (active) |n|n|cffffcc00Requires:|r |n Hood of Defiance - 2125 (Protectorate) |n Headdress of Rejuvenation - 600 (Supportive Vestments)  |n Recipe - 900 |n|n|c00838B8B Total Cost: 3625"
+[h07Y]
+Name="Raise Dead Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h07Z]
+Name="Great Stomp FX"
+Hotkey=
+Tip=""
+Ubertip=""
+[h080]
+Name="Stormseeker FX - 2"
+Hotkey=
+Tip=""
+Ubertip=""
+[h081]
+Name="Stormseeker FX - 1"
+Hotkey=
+Tip=""
+Ubertip=""
+[h082]
+Name="Stormseeker FX - 3"
+Hotkey=
+Tip=""
+Ubertip=""
+[h083]
+Name="Talisman of Evasion"
+Hotkey=E
+Tip="Purchase Talisman of |cffffcc00E|rvasion - 1800"
+Ubertip="+25% Evasion  |n|n|c00838B8BCan't touch this!"
+[h085]
+Name="Transfer Items"
+Hotkey=T
+Tip="|cffffcc00T|rransfer Items"
+Ubertip="Click to transfer your items to your hero."
+[h086]
+Name="Poor Man's Shield"
+Hotkey=
+Tip="Poor Man's Shield"
+Ubertip="|cffffcc00Gives:|r  |n 100% to block 20 hero damage (10 for ranged) |n 60% to block 20 non-hero damage (10 for ranged) |n +6 Agility |n|n|cffffcc00Requires:|r |n Stout Shield - 250 |n 2x Slippers of Agility - 300 |n|n|c00838B8B Total Cost: 550"
+[h087]
+Name="Ghost Scepter"
+Hotkey=P
+Tip="Purchase Ghost Sce|cffffcc00p|rter - 1600"
+Ubertip="+7 All Attributes |nGhost Form (active) "
+[h088]
+Name="Static Link"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h089]
+Name="Voltage Caster"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h08A]
+Name="Shrapnel"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h08E]
+Name="Slippers of Agility"
+Hotkey=
+Tip="Purchase Slippers of Agility - 150"
+Ubertip="+3 Agility |n|n|c00838B8BLight boots made from spider skin that tingles your senses"
+[h08F]
+Name="Quelling Blade"
+Hotkey=
+Tip="Purchase Quelling Blade - 225"
+Ubertip="+32% bonus damage to non-hero units (+12% for ranged).  |n|nTree Chop (active) |n|n|c00ff0303Cannot carry more than one or used by Kunkka|r |n|n|c00838B8BA lumberjack's axe at a bargain price. Also useful against wild animals."
+[h08G]
+Name="Ring of Health"
+Hotkey=
+Tip="Purchase Ring of Health - 875"
+Ubertip="+5 HP Regeneration |n|n|c00838B8BA shiny ring found beneath a fat halfling's corpse"
+[h08H]
+Name="Scroll of Town Portal"
+Hotkey=T
+Tip="Purchase Scroll of |cffffcc00T|rown Portal - 135"
+Ubertip="Transports you to a friendly structure. |n|n|cff99ccffCooldown: |r 65 seconds. "
+[h08I]
+Name="Magic Stick"
+Hotkey=
+Tip="Purchase Magic Stick - 200"
+Ubertip="Energy Charge |n|nGives 15 health and 15 mana when used for each charge on it. Collects charges (up to 10) when nearby enemy spells are cast. |n|n|c00838B8BA simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike."
+[h08J]
+Name="Sobi Mask"
+Hotkey=
+Tip="Purchase Sobi Mask - 325"
+Ubertip="+50% Mana Regeneration |n|n|c00838B8BA common mask used by Mages and Warlocks for various rituals"
+[h08K]
+Name="Stout Shield"
+Hotkey=
+Tip="Purchase Stout Shield - 250"
+Ubertip="+60% chance to block 20 damage (10 for ranged) |n|n|c00838B8BOne man's wine barrel bottom is another man's shield!"
+[h08L]
+Name="Ring of Regeneration"
+Hotkey=
+Tip="Purchase Ring of Regeneration - 350"
+Ubertip="+2 HP Regeneration |n|n|c00838B8BThis ring is considered a good luck charm among the Gnomes"
+[h08M]
+Name="Planeswalker's Cloak"
+Hotkey=
+Tip="Purchase Planeswalker's Cloak - 550"
+Ubertip="+15% Magic Resistance |n|n|c00838B8BA cloak made of a magic material that works to dispel any magic cast on it"
+[h08N]
+Name="Helm of Iron Will"
+Hotkey=
+Tip="Purchase Helm of Iron Will - 950"
+Ubertip="+5 Armor |n+3 HP Regeneration |n|n|c00838B8BThe helmet of a legendary warrior who fell in battle"
+[h08O]
+Name="Mask of Death"
+Hotkey=
+Tip="Purchase Mask of Death - 900"
+Ubertip="+15% Life Steal |n|n|c00ff0303Orb effects do not stack|r |n|n|c00838B8BThe phattest lewt, definitely|r"
+[h08P]
+Name="Boots of Elvenskin"
+Hotkey=
+Tip="Purchase Boots of Elvenskin - 450"
+Ubertip="+6 Agility |n|n|c00838B8BA pair of boots often used for moonwalking|r"
+[h08Q]
+Name="Belt of Giant Strength"
+Hotkey=
+Tip="Purchase Belt of Giant Strength - 450"
+Ubertip="+6 Strength |n|n|c00838B8BNot recommended for use by children or pregnant women"
+[h08R]
+Name="Robe of the Magi"
+Hotkey=
+Tip="Purchase Robe of the Magi - 450"
+Ubertip="+6 Intelligence |n|n|c00838B8BThis robe corrupts the soul of the user, but provides Intelligence points in return"
+[h08S]
+Name="Gloves of Haste"
+Hotkey=
+Tip="Purchase Gloves of Haste - 500"
+Ubertip="+15 Attack Speed |n|n|c00838B8BA pair of magical gloves that seems to render weapons weightless"
+[h08T]
+Name="Blades of Attack"
+Hotkey=
+Tip="Purchase Blades of Attack - 450"
+Ubertip="+9 Damage |n|n|c00838B8BA weapon of choice among sadists"
+[h08U]
+Name="Quarterstaff"
+Hotkey=
+Tip="Purchase Quarterstaff - 900"
+Ubertip="+10 Damage |n+10 Attack Speed |n|n|c00838B8BFour of these form an ordinary staff, duh! "
+[h08V]
+Name="Talisman of Evasion"
+Hotkey=
+Tip="Purchase Talisman of Evasion - 1800"
+Ubertip="+25% Evasion  |n|n|c00838B8BCan't touch this!"
+[h08W]
+Name="Kelen's Dagger"
+Hotkey=
+Tip="Purchase Kelen's Dagger - 2150"
+Ubertip="Teleport up to 1200 distance away. Cannot be used if you have been damaged in the last 3 seconds. |n|n|cff99ccffCooldown: |r 12 |n|n|c00838B8BThe fabled dagger used by Kelen, the fastest assassin ever to walk the lands of Azeroth"
+[h08X]
+Name="Ultimate Orb"
+Hotkey=
+Tip="Purchase Ultimate Orb - 2100"
+Ubertip="+10 All Attributes |n|n|c00838B8BA mystical orb containing the essence of life"
+[h08Y]
+Name="Flaming Lasso"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h08Z]
+Name="Refraction"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h090]
+Name="Mystic Snake"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h091]
+Name="Shivas Guard"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h092]
+Name="Plasma Field"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h093]
+Name="Energy Booster"
+Hotkey=E
+Tip="Purchase |cffffcc00E|rnergy Booster - 1000"
+Ubertip="+250 Mana |n|n|c00838B8BEnie"
+[h094]
+Name="Aura"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h095]
+Name="Gem_large"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h096]
+Name="Gem_small"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h097]
+Name="Gem_small"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h098]
+Name="Dark Rift"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h09A]
+Name="Revive Hero (500)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h099]
+Name="Revive Hero (450)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09B]
+Name="Revive Hero (400)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09C]
+Name="Revive Hero (350)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09D]
+Name="Revive Hero (300)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09E]
+Name="Revive Hero (250)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09F]
+Name="Revive Hero (150)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09G]
+Name="Revive Hero (50)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09H]
+Name="Revive Hero (200)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09I]
+Name="Revive Hero (1050)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09J]
+Name="Revive Hero (550)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09K]
+Name="Revive Hero (600)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09L]
+Name="Revive Hero (650)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09M]
+Name="Revive Hero (700)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09N]
+Name="Revive Hero (750)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09O]
+Name="Revive Hero (800)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09P]
+Name="Revive Hero (850)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09Q]
+Name="Revive Hero (900)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09R]
+Name="Revive Hero (950)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09S]
+Name="Revive Hero (1000)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09T]
+Name="Revive Hero (100)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09U]
+Name="Revive Hero (1600)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09V]
+Name="Revive Hero (1500)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09W]
+Name="Revive Hero (2650)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09X]
+Name="Revive Hero (1150)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09Y]
+Name="Revive Hero (1450)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h09Z]
+Name="Revive Hero (1100)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A0]
+Name="Revive Hero (1550)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A1]
+Name="Revive Hero (1200)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A2]
+Name="Revive Hero (1250)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A3]
+Name="Revive Hero (1350)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A4]
+Name="Revive Hero (1400)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A6]
+Name="Revive Hero (1300)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A7]
+Name="Revive Hero (2050)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A8]
+Name="Revive Hero (2750)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A9]
+Name="Revive Hero (1950)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AA]
+Name="Revive Hero (1900)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AB]
+Name="Revive Hero (1850)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AC]
+Name="Revive Hero (1800)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AD]
+Name="Revive Hero (1700)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AE]
+Name="Revive Hero (1750)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AF]
+Name="Revive Hero (1650)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AG]
+Name="Revive Hero (2000)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AH]
+Name="Revive Hero (2200)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AI]
+Name="Revive Hero (2250)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AJ]
+Name="Revive Hero (2300)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AK]
+Name="Revive Hero (2450)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AL]
+Name="Revive Hero (2550)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AM]
+Name="Revive Hero (2700)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AN]
+Name="Revive Hero (2900)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AO]
+Name="Revive Hero (2100)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AP]
+Name="Revive Hero (2350)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AQ]
+Name="Revive Hero (2400)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AR]
+Name="Revive Hero (2500)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AS]
+Name="Revive Hero (2600)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AT]
+Name="Revive Hero (2800)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AU]
+Name="Revive Hero (2850)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AV]
+Name="Revive Hero (2950)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AW]
+Name="Revive Hero (3000)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0A5]
+Name="Scroll of Teleport Effect To - DarkGreen"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0AX]
+Name="Scroll of Teleport Effect From"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0AY]
+Name="Revive Hero (2150)"
+Hotkey=R
+Tip="|cffffcc00R|revive Hero"
+Ubertip="Click to revive your hero immediately."
+[h0AZ]
+Name="Ice Cube"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0B0]
+Name="Ancient Apparition"
+[h0B1]
+Name="Shadow Dance"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0B2]
+Name="DarkPact FX"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0B3]
+Name="Gust FX"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0B4]
+Name="Chilling Touch Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0B5]
+Name="Boomerang FX"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0B6]
+Name="Ice Blast FX"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0B7]
+Name="Ice Blast Fake FX"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H0B8]
+Name="Ice Blast"
+Propernames=Ice Blast
+Hotkey=
+Tip=""
+Ubertip=""
+Revivetip=""
+Awakentip=""
+[h0B9]
+Name="Wand of Illusion"
+Hotkey=I
+Tip="Purchase Wand of |cffffcc00I|rllusions - 600"
+Ubertip="Creates an illusion of target enemy hero. |nContains 2 charges. |n  |n|cff99ccffStock Max: |r 1  |n|cff99ccffReplenish Time: |r 10 Minutes  "
+[h0BA]
+Name="Urn of Shadows"
+Hotkey=S
+Tip="Urn of |cffffcc00S|rhadows - 250"
+Ubertip="|cffffcc00Gives:|r |n +50% Mana Regen |n +6 Strength |n Soul Release (active)|n |n|cffffcc00Requires:|r |n Sobi Mask - 325 |n 2x Gauntlets of Strength - 300  |n Recipe - 250 |n|n|c00838B8B Total Cost: 875"
+[h0BB]
+Name="Explosion"
+Hotkey=D
+Tip=""
+Ubertip=""
+[H0BC]
+Name="Keeper of the Light"
+Propernames=Ezalor
+Hotkey=
+Tip=""
+Ubertip=""
+Revivetip=""
+Awakentip=""
+[h0BD]
+Name="Unstable Concoction"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0BE]
+Name="Gravekeeper's Cloak Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0BF]
+Name="Scroll of Teleport Effect To - Yellow"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BG]
+Name="Scroll of Teleport Effect To - Purple"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BH]
+Name="Scroll of Teleport Effect To - Pink"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BI]
+Name="Scroll of Teleport Effect To - Blue"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BJ]
+Name="Scroll of Teleport Effect To - Gray"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BK]
+Name="Scroll of Teleport Effect To - Teal"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BL]
+Name="Scroll of Teleport Effect To - Orange"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BM]
+Name="Scroll of Teleport Effect To - LightBlue"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BN]
+Name="Scroll of Teleport Effect To - Brown"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0BO]
+Name="Boots of Speed"
+Hotkey=
+Tip="Purchase Boots of Speed - 450"
+Ubertip="+50 Movement Speed  |n|n|c00ff0303Movement Speed does not stack with other boot items.|r "
+[h0BP]
+Name="Scream of Pain Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0BQ]
+Name="Soul Ring"
+Hotkey=S
+Tip="|cffffcc00S|roul Ring - 125"
+Ubertip="|cffffcc00Gives:|r |n +3 HP Regeneration |n +50% Mana Regeneration |n Sacrifice (active) |n|n|cffffcc00Requires:|r |n Ring of Regeneration - 350 |n Sobi Mask - 325 |n Recipe - 125|r  |n|n|c00838B8B Total Cost: 800"
+[h0BR]
+Name="Ethereal Blade"
+Hotkey=
+Tip="Ethereal Blade"
+Ubertip="|cffffcc00Gives:|r |n +40 Agility |n +10 Strength |n +10 Intelligence |n Ether Blast (active) |n|n|cffffcc00Requires:|r |n Eaglehorn - 3300 |n Ghost Scepter - 1600  |n|n|c00838B8B Total Cost: 4900 |n|n|c00fffc01Can be disassembled|r"
+[h0BS]
+Name="Etherblast Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0BT]
+Name="Forest Sentinel"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0BU]
+Name="Forest Sentinel"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0BV]
+Name="Collect Your Items"
+Hotkey=Y
+Tip="Collect |cffffcc00Y|rour Items"
+Ubertip="Drop all items that don't belong to you and gathers any other items you have nearby. Only works in the fountain area."
+[h0BW]
+Name="Supernova Sun 3"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0BX]
+Name="Supernova Ground"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0BY]
+Name="Phoenix Dummy"
+[h0BZ]
+Name="Supernova Sun 1"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0C0]
+Name="Supernova Sun 2"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0C2]
+Name="Shadow Poison"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0C3]
+Name="Snowball"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0C4]
+Name="Snowball_Ground"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0C1]
+Name="Seeking Missle - 2"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0C5]
+Name=Flying Machine
+Hotkey=C
+Tip="Learn |cffffcc00C|rall Down - [|cffffcc00Level %d|r]"
+Ubertip="Learn |cffffcc00C|rall Down - [|cffffcc00Level %d|r]"
+[h0C8]
+Name="Phoenix"
+[h0C9]
+Name="Tuskarr"
+[h0CA]
+Name="Legion Commander"
+[h0CB]
+Name="Eredar"
+[h0CC]
+Name="Gyrocopter"
+[h0CD]
+Name="Disruptor"
+[h0CE]
+Name="Energy Field"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0CF]
+Name="Seeking Missle - 3"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0CG]
+Name="Seeking Missle - 1"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0CH]
+Name="Seeking Missle - 4"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0CI]
+Name="Wisp"
+[h0CJ]
+Name="Wisps"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0C6]
+Name="Glimpse Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0C7]
+Name="Psionic Pulse Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0CK]
+Name="Spark"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0CL]
+Name="Phoenix Down Ground"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0CM]
+Name="Orb of Venom"
+Hotkey=O
+Tip="Purchase |cffffcc00O|rrb of Venom - 275"
+Ubertip="Adds a poison effect to your attacks, dealing 3 damage per second and slowing enemy units for 4 seconds. 4% slow for ranged, 12% for melee. |n|n|cff99ccffBuff placers do not stack|r"
+[h0CN]
+Name="Orb of Venom"
+Hotkey=
+Tip="Purchase Orb of Venom - 275"
+Ubertip="Adds a poison effect to your attacks, dealing 3 damage per second and slowing enemy units for 4 seconds. 4% slow for ranged, 12% for melee. |n|n|cff99ccffBuff placers do not stack|r"
+[h0CO]
+Name="Arcane Boots"
+Hotkey=
+Tip="Arcane Boots"
+Ubertip="|cffffcc00Gives:|r |n+ 55 Movement Speed |n +250 Mana |n Replenish Mana (active) |n|n|cffffcc00Requires:|r |n Boots of Speed - 450 |n Energy Booster - 1000  |n|n|c00838B8B Total Cost: 1450  |n|n|c00fffc01Can be disassembled|r    |n|n|c00ff0303Movement Speed does not stack with other boot items.|r "
+[h0CP]
+Name="Int Steal Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0CR]
+Name="Necromastery Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0CS]
+Name="Ice Shard"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0CT]
+Name="Rubick"
+[h0CU]
+Name="Fire Spirit"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0CV]
+Name="Supernova Sun 1"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0CW]
+Name="Supernova Sun 3"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0CX]
+Name="Supernova Sun 2"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0CY]
+Name="Medallion of Courage"
+Hotkey=D
+Tip="Me|cffffcc00d|rallion of Courage - 200"
+Ubertip="|cffffcc00Gives:|r |n +6 armor |n +50% mana regeneration |n Valor (active) |n|n|cffffcc00Requires:|r |n Chainmail - 550 |n Sobi Mask - 325 |n Recipe - 200  |n|n|c00838B8B Total Cost: 1075"
+[h0CZ]
+Name="Corruptor"
+Hotkey=
+Tip="Corruptor"
+Ubertip="|cffffcc00Gives:|r |n will add text later. |n|n|cffffcc00Requires:|r |n Quelling Blade - 225 |n Orb of Venom - 550  |n|n|c00838B8B Total Cost: 775 "
+[h0D0]
+Name="Chainmail"
+Hotkey=
+Tip="Purchase Chainmail - 550"
+Ubertip="+5 Armor |n|n|c00838B8BA medium weave of metal chains"
+[h0D1]
+Name="Ancient Janggo of Endurance"
+Hotkey=A
+Tip="|cffffcc00A|rncient Janggo of Endurance - 875"
+Ubertip="|cffffcc00Gives:|r |n +9 All Stats |n +3 damage |n +5% MS and AS Aura |n Endurance (charged, active) |n|n|cffffcc00Requires:|r |n Bracer - 525 (Gateway Relics) |n Robe of the Magi - 450 |n Recipe - 875|r |n|n|c00838B8B Total Cost: 1850  |n|n|c00fffc01Charges can be replenished by buying the recipe again. |r"
+[h0D2]
+Name="Ice Block"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0D3]
+Name="Smoke of Deceit"
+Hotkey=K
+Tip="Purchase Smo|cffffcc00k|re of Deceit - 100"
+Ubertip="Makes you and nearby allies invisible in the world and from the minimap as well as a 15% bonus movement speed. Dispels when near enemy heroes or towers. |nLasts 35 seconds. |nContains 1 charge. |n  |n|cff99ccffStock Max: |r 3  |n|cff99ccffReplenish Time: |r 12 Minutes  "
+[h0D4]
+Name="Revive Hero - Cooldown"
+Hotkey=R
+Tip="Revive Cooldown"
+Ubertip="Buyback is in cooldown"
+[h0D5]
+Name="Water Spray Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0D6]
+Name="Corpse Collector Gather Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0D7]
+Name="Corpse Collector Attack Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0D8]
+Name="Leech Seed Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0D9]
+Name="Leech Seed Stun Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DA]
+Name="Sweeping Flame Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DB]
+Name="Spell Steal Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DC]
+Name="Fade Bolt Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DD]
+Name="Veil of Discord"
+Hotkey=V
+Tip="|cffffcc00V|reil of Discord - 1250"
+Ubertip="|cffffcc00Gives:|r |n +6 armor |n +6 HP regeneration |n +6 Intelligence |n +6 Agility |n +6 Strength |n +6 Damage |n Discord (active) |n|n|cffffcc00Requires:|r |n Helm of Iron Will - 950 |n Null Talisman - 470 |n Recipe - 1270  |n|n|c00838B8B Total Cost: 2670"
+[h0DE]
+Name="Resume Delivery"
+Hotkey=W
+Tip="Resume Delivery [|cffffcc00W|r]"
+Ubertip="Resume your courier's previous delivery hero."
+[h0DF]
+Name="Infest Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DG]
+Name="Ember Spirit"
+[h0DH]
+Name="Skywrath Mage"
+[h0DI]
+Name="Divine Wrath"
+Hotkey=
+Tip=""
+Ubertip=""
+[h0DJ]
+Name="Ghost Ship 2"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DK]
+Name="Ghost Ship 2 Death"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H0DL]
+Name="Ghost Revenant"
+Propernames=Ghost Revenant
+Hotkey=
+Tip="Ghost Revenant"
+Ubertip="text. |n|n|c00ff0303Strength|r - 20 + 2.4|n|c000042ffAgility|r - 17 + 1.8|n|c000042ffIntelligence|r - 19 + 2.2|n|nLearns 1, 2, 3, and |c00ff80004|r.|n|nAttack range of 500.|nMovement speed of 290."
+Revivetip="Revive Ghost Revenant"
+Awakentip="Revive Ghost Revenant"
+[h0DM]
+Name="Ghost Revenant"
+[h0DN]
+Name="Blackjack"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DP]
+Name="Dragon Hawk"
+[h0DQ]
+Name="Arcane Bolt Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DR]
+Name="Haunting Echos"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DS]
+Name="Chakram"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DT]
+Name="Blade of the Reaper"
+Hotkey=
+Tip="Blade of the Reaper"
+Ubertip="|cffffcc00Gives:|r |n will add text later. |n|n|cffffcc00Requires:|r |n Sacred Relic - 3800 |n Oblivion Staff - 1675  |n|n|c00838B8B Total Cost: 1675"
+[h0DU]
+Name="Tranquil Boots"
+Hotkey=
+Tip="Tranquil Boots"
+Ubertip="|cffffcc00Gives:|r |n +85 Movement Speed |n +4 Armor |n +10 HP Regen  |n|n|cffffcc00Requires:|r |n Boots of Speed - 450 |n Ring of Regeneration - 350 |n Ring of Protection - 175  |n|n|c00838B8B Total Cost: 975   |n|n|c00ff0303Movement Speed does not stack with other boot items.|r"
+[h0DV]
+Name="Rod of Atos"
+Hotkey=A
+Tip="Rod of Atos"
+Ubertip="|cffffcc00Gives:|r |n +25 Intelligence |n +350 HP |n Cripple (active) |n|n|cffffcc00Requires:|r |n 2x Staff of Wizardry - 2000 |n Vitality Booster - 1100   |n|n|c00838B8B Total Cost: 3100"
+[h0DW]
+Name="Winter Wyvern"
+[h0DX]
+Name="Breeze"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0DY]
+Name="Moon Shard"
+Hotkey=
+Tip="Moon Shard"
+Ubertip="|cffffcc00Gives:|r |n +120 Attack Speed  |n|n|cffffcc00Requires:|r |n 2x Hyperstone - 4200  |n|n|c00838B8B Total Cost: 4200"
+[h0DZ]
+Name="Holy Shackles Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0E0]
+Name="Fire Shackles Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0E2]
+Name="Mortar Team"
+[h0E6]
+Name="Concussive Shot Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0E7]
+Name="Fire Panda Dummy"
+[h0E8]
+Name="Fire Remnant"
+[h0E9]
+Name="Heaven's Halberd"
+Hotkey=
+Tip="Heaven's Halberd"
+Ubertip="|cffffcc00Gives:|r |n +20 Strength |n +25 Damage |n 25% Evasion |n Lesser Maim (passive) |n Disarm (active) |n|n|cffffcc00Requires:|r |n Sange - 2050 (Enchanted Artifacts) |n Talisman of Evasion - 1800   |n|n|c00838B8B Total Cost: 3850"
+[h0EA]
+Name="Abyssal Blade"
+Hotkey=
+Tip="Abyssal Blade"
+Ubertip="|cffffcc00Gives:|r |n +100 Damage |n +10 Strength |n Bash (passive) |n Overwhelm (active) |n|n|cffffcc00Requires:|r |n Sacred Relic - 3800 |n Cranium Basher - 2950 (Ancient Weaponry)  |n|n|c00838B8B Total Cost: 6750  |n|n|c00fffc01Can be disassembled|r "
+[h0EB]
+Name="Goblin Shredder"
+[h0EC]
+Name="Ring of Aquila"
+Hotkey=
+Tip="Ring of Aquila"
+Ubertip="|cffffcc00Gives:|r |n +9 damage |n +6 Agility |n +3 All Stats |n +1 armor |n +0.65 Brilliance Aura |n +2 Devotion Aura |n|n|cffffcc00Requires:|r |n Ring of Basilius - 500 (Supportive Vestments) |n Wraith Band - 485 (Gateway Relics)  |n|n|c00838B8B Total Cost: 985 |n|n|c00fffc01Can be disassembled|r "
+[h0ED]
+Name="Flamebreak new projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0EE]
+Name="Splinter Blast Secondary Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0EF]
+Name="Arc Warden"
+[h0EG]
+Name="Lightning Seeker"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0EH]
+Name="Magnetic Field"
+Hotkey=P
+Tip=""
+Ubertip=""
+[h0EI]
+Name="Shadow Amulet"
+Hotkey=A
+Tip="Purchase Shadow |cffffcc00A|rmulet - 1600"
+Ubertip="+30 Attack Speed |nFade (active) "
+[h0EJ]
+Name="Splinter Blast Main Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h0EK]
+Name="Earth Spirit"
+[H0EL]
+Name="Edgewalker"
+Propernames=Neriph
+Hotkey=
+Tip="Edgewalker"
+Ubertip="text"
+Revivetip="Revive Edgewalker"
+Awakentip="Revive Edgewalker"
+[h0EM]
+Name="Edgewalker"
+[h0EN]
+Name="Glimmer Cape"
+Hotkey=
+Tip="Glimmer Cape"
+Ubertip="|cffffcc00Gives:|r |n +15% Magic Resistance |n +30 Attack Speed |n Fade (active) |n|n|cffffcc00Requires:|r |n Planeswalker's Cloak - 550 |n Shadow Amulet - 1600  |n|n|c00838B8B Total Cost: 2150"
+[H0EO]
+Name="Edgewalker"
+Propernames=Neriph
+Hotkey=
+Tip="Edgewalker"
+Ubertip="text"
+Revivetip="Revive Edgewalker"
+Awakentip="Revive Edgewalker"
+[h0EP]
+Name="Oracle"
+[h0EQ]
+Name="Poison Touch Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H0ES]
+Name="Sun Wukong"
+Propernames=Sun Wukong
+Hotkey=
+Tip="Sun Wukong"
+UberTip="Sun Wukong"," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="Sun Wukong"
+Awakentip="Sun Wukong"
+[h0ET]
+Name="Heat Seeking Missile Projectile"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"

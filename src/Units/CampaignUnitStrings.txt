@@ -1,0 +1,4216 @@
+[Harf]
+Name="Omniknight"
+Hotkey=
+Propernames=Purist Thunderwrath
+Revivetip="Revive Omniknight"
+Awakentip="Revive Omniknight"
+Ubertip="A former member of the Order of the Silver Hand, Purist has joined the Sentinel to avenge the death of the Order's leader, Uther the Lightbringer. Trained by Uther himself in the ways of the Paladin, Purist brings the power of the Holy Light to the battlefield. He can purify the souls of allies, harming any nearby Scourge in the process. Able to protect allies from harmful unholy magic, the mere presence of a man of the Holy Light atrophies any nearby enemies. In times of dire need, Purist can call upon God himself to protect him and his allies. |n|n|c00ff0303Strength|r - 20 + 2.65|n|c000042ffAgility|r - 15 + 1.75|n|c000042ffIntelligence|r - 17 + 1.8|n|nLearns Purification, Repel, Degen Aura, and |c00ff8000Guardian Angel|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Tip="Omniknight"
+[Huth]
+Name="Ursa Warrior"
+Hotkey=
+Propernames=Ulfsaar,Ulfsaar,Ulfsaar,Fuzzy Wuzzy,Ulfsaar,Ulfsaar,Ulfsaar,Fuzzy Wuzzy,Ulfsaar,Ulfsaar,Ulfsaar,Ulfsaar,Ulfsaar
+Ubertip="Before the invasion of the Scourge, a race of intelligent bears called furbolgs cultivated a quiet spiritual society deep in the heart of Azshara. With most of their kind murdered and corrupted by the Undead, the normally isolated furbolgs were forced to flee to the Sentinel for protection. In revenge, the furbolgs have sent their mightiest Ursa Warrior into battle on those who dare to disturb them again. Enraged by the defilement of his people's sacred land, Ulfsaar is able to channel his fury into a series of extremely quick and brutal swipes, using his razor-sharp claws to overpower his foes and literally tear them apart.|n|n|c000042ffStrength|r - 23 + 2.9|n|c00ff0303Agility|r - 18 + 2.1|n|c000042ffIntelligence|r - 16 + 1.5|n|nLearns Overpower, Earthshock, Fury Swipes, and |c00ff8000Enrage|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."
+Revivetip="Revive Ursa Warrior"
+Awakentip="Revive Ursa Warrior"
+Tip="Ursa Warrior"
+[Hpb1]
+Name=Paladin
+Hotkey=L
+Propernames=Lord Nicholas Buzan
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+[Hhkl]
+Name=Paladin
+Hotkey=L
+Propernames=Halahk the Lifebringer
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+[Hjai]
+Name="Crystal Maiden"
+Hotkey=
+Propernames=Rylai Crestfall
+Revivetip="Revive Crystal Maiden"
+Awakentip="Revive Crystal Maiden"
+Ubertip="Adept in the manipulation of frost and ice, Rylai is the very image of elegeance and grace. Trained by a renegade wizard deep in the heart of Winterspring, Rylai brings to the Sentinel her prowess in the arts of magic. With a vast arsenal of spells, she wreaks havoc upon her foes - be it with powerful blasts of frost to send them fleeing in panic, or be it by rendering them immobile in ice. Her foes tremble in fear as the ground beneath implodes in mighty novas of frost in a dazzling array, obliterating all who dare oppose her. |n|n|c000042ffStrength|r - 16 + 1.7|n|c000042ffAgility|r - 16 + 1.6|n|c00ff0303Intelligence|r - 16 + 2.9|n|nLearns Crystal Nova, Frostbite, Brilliance Aura, and |c00ff8000Freezing Field|r.|n|nAttack range of 600. |nMovement speed of 280."
+Tip="Crystal Maiden"
+[Hmbr]
+Name="Lord of Olympus"
+Hotkey=
+Propernames=|c00FFFF00Merlini|r,Zeus,Zeus,Zeus,Zeus,Zeus,Zeus,Zeus
+Revivetip="Revive Lord of Olympus"
+Awakentip="Revive Lord of Olympus"
+UberTip="Once a deity of unfathomable might, Zeus reluctantly sacrificed his much relished immortality in exchange for the chance to crush the sinister armies of the unholy undead. As his soul crossed into the mortal plane, his omnipotent powers withered greatly, yet not nearly enough to quell this destructive Thunder God's resolve for justice. With sheer precision, he cleanses through the enemy ranks with an impressive mastery of electrical discharge, smiting the fool hardy with formidable bolts of lightning from the heavens above. Ever vigilant in his relentless assault, the Scourge cowers in fear of incurring the fearsome wrath of the Lord of Olympia.  |n|n|c000042ffStrength|r - 19 + 2.3|n|c000042ffAgility|r - 11 + 1.2|n|c00ff0303Intelligence|r - 20 + 2.7|n|nLearns Arc Lightning, Static Field, Lightning Bolt, and |c00ff8000Thundergod's Wrath|r.|n|nAttack range of 350. |nMovement speed of 295."," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Tip="Lord of Olympus"
+[Hvwd]
+Name="Vengeful Spirit"
+Hotkey=
+Propernames=Shendelzare Silkwood,|c00FFFF00820|r,Shendelzare Silkwood,Shendelzare Silkwood
+Revivetip="Revive Vengeful Spirit"
+Awakentip="Revive Vengeful Spirit"
+Tip="Vengeful Spirit"
+Description="Vengeful Spirit"
+Ubertip="Once a mighty warden and sister of Mortred, the maniacal laughter of her sibling and the chakram of hers covered in her own just drawn blood is a sight that even today still haunts Shendelzare. Hearing the laments of her loyal daughter, Elune decided to not forsake her, and she graced her with a new body along with the ability to harness powers from the nether-world and a fighting spirit only owned by those who have met death itself. Shendelzare now dedicates herself for vengeance, fearless of what could come at her, an avatar of the dreadful emotions within the soul of her former self. |n|n|c000042ffStrength|r - 18 + 2.6|n|c00ff0303Agility|r - 27 + 2.8|n|c000042ffIntelligence|r - 15 + 1.75|n|nLearns Magic Missile, Command Aura, Wave of Terror, and |c00ff8000Nether Swap|r.|n|nAttack range of 400.|nMovement speed of 295."
+[Hvsh]
+Name="Bloodseeker"
+Hotkey=
+Propernames=Strygwyr
+Revivetip="Revive Bloodseeker"
+Awakentip="Revive Bloodseeker"
+Ubertip="An unusual hybrid of Demon and Orc, Strygwyr is an outcast amongst all mortal creatures. By thriving on and bathing himself with the blood of those he slays, Strygwyr can heal his wounds - even those that could prove fatal. Beware the fool who dares venturing alone, for Strygwyr can sense his blood miles away and gain vision through his helpless prey's eyes. Having ruptured the enemy with mighty blows in his bloodthirsty frenzies, Strygwyr corners his foe into making the impossible decision - bleed to death by trying to outrun the hasty demon, or be ripped to shreds in its awesome fury. |n|n|c000042ffStrength|r - 23 + 2.0|n|c00ff0303Agility|r - 24 + 3.0|n|c000042ffIntelligence|r - 18 + 1.7|n|nLearns Bloodrage, Blood Bath, Strygwyr's Thirst and |c00ff8000Rupture|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Tip="Bloodseeker"
+[Hlgr]
+Name="Dragon Knight"
+Hotkey=
+Propernames=Knight Davion,Knight Davion,Knight Davion,Knight Davion,Knight Davion,Trogdor,Knight Davion
+Revivetip="Revive Dragon Knight"
+Awakentip="Revive Dragon Knight"
+Ubertip="Abandoned and forsaken as a child, the Half-bred Dragon Davion sought refuge from the evils of the world, and from the uncontrollable power growing within himself. His search led him to the doorstep of a mighty Druid, who taught him to tap into the massive energies that lay concealed in his blood - a tribute to his ancient Draconian heritage. A master swordsman, Davion smites his foes in his raging frenzy - transforming at will into an Elder Dragon of destructive fiery rage to crush all those that threaten to vanquish his new home. |n|n|c00ff0303Strength|r - 19 + 2.8|n|c000042ffAgility|r - 19 + 2.2|n|c000042ffIntelligence|r - 15 + 1.7|n|nLearns Breathe Fire, Dragon's Blood, Dragon Tail, and |c00ff8000Elder Dragon Form|r.|n|nAttack range of 128 (melee).|nMovement speed of 290."
+Tip="Dragon Knight"
+[Hapm]
+Name=Paladin
+Hotkey=L
+Propernames=Admiral Proudmoore
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+[Ogrh]
+Name="Phantom Lancer"
+Hotkey=
+Propernames=Azwraith
+Revivetip="Revive Phantom Lancer"
+Awakentip="Revive Phantom Lancer"
+Ubertip="Although his true name is unknown to his allies, Azwraith's assigned name tells you enough. Like the Angel of Death, Azrael, he fights to rid the world of those who choose to embrace undeath. He is able to appear and disappear at will like a wraith, often appearing in many places at once. Azwraith is more than capable of dispatching the undead using his lance, each blow sending them closer to the spirit-realm. This lance is the source of his astounding ability to duplicate himself, whenever it draws blood he can use their life to create weaker copies of himself. |n|n|c000042ffStrength|r - 18 + 1.7|n|c00ff0303Agility|r - 23 + 4.2|n|c000042ffIntelligence|r - 21 + 2.0|n|nLearns Juxtapose, Spirit Lance, Doppelwalk, and |c00ff8000Phantom Edge|r.|n|nAttack range of 128 (melee).|nMovement speed of 290."
+Tip="Phantom Lancer"
+[Opgh]
+Name="Axe"
+Hotkey=
+Propernames=Mogul Kahn,Mogul Kahn,Mogul Kahn,Mogul Kahn,Mogul Kahn,Mogul Kahn,Mogul Kahnt Touch This
+Revivetip="Revive Axe"
+Awakentip="Revive Axe"
+Ubertip="In the war of Humans and Orcs that occured long ago many Orcish warriors were corrupted by demonic influence and became tools of blackest darkness. One such warrior was the leader of the Half-Tribe of the Bloodied Axe Clan; Mogul Kahn. Mogul was slain by human Paladins but mysteriously was seen fighting alongside the Scourge around the time Mannoroth started to command the Orcs in the war against Archimonde. The Axe has been revived by demons and uses his reflexes and powerful blows to hunt down and seek out the Sentinels' agile warriors and cut them down to size, even projecting his lust for war onto them.|n|n|c00ff0303Strength|r - 25 + 2.5|n|c000042ffAgility|r - 20 + 2.2|n|c000042ffIntelligence|r - 18 + 1.6|n|nLearns Berserker's Call, Battle Hunger, Counter Helix, and |c00ff8000Culling Blade|r.|n|nAttack range of 128 (melee).|nMovement speed of 290."
+Tip="Axe"
+[Odrt]
+Name=Far Seer
+Propernames=Drek'Thar'
+Hotkey=F
+Tip=Summon |cffffcc00F|rar Seer
+Ubertip="Mystical Hero, effective at ranged attacks and scouting. Can learn Chain Lightning, Far Sight, Feral Spirit and Earthquake. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip=Revive |cffffcc00F|rar Seer
+Awakentip=Revive |cffffcc00F|rar Seer
+[Orkn]
+Name="Shadow Shaman"
+Propernames=Rhasta
+Hotkey=
+Tip="Shadow Shaman"
+Ubertip="Once a gifted troll witch doctor, young Rhasta was well versed with the secrets of voodoo magic. When the war between the Sentinel and the Scourge began, Rhasta, then a Shadow Hunter, offered his allegiance to the Sentinels to vanquish the Scourge once and for all. While he was gifted as a witch doctor, Rhasta is a genius as a shadow hunter, exceeding his master by mastering the art of summoning multiple serpent wards, binding enemies for a short time and casting elemental lightning to several units. |n|n|c000042ffStrength|r - 19 + 1.6|n|c000042ffAgility|r - 16 + 1.6|n|c00ff0303Intelligence|r - 21 + 3.0|n|nLearns Shackles, Voodoo, Ether Shock, and |c00ff8000Mass Serpent Ward|r.|n|nAttack range of 500.|nMovement speed of 285."
+Revivetip="Revive Shadow Shaman"
+Awakentip="Revive Shadow Shaman"
+[osp4]
+Name=Serpent Ward
+[npn4]
+Name=Fire
+Tip=Summon |cffffcc00F|rire
+Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=F
+[npn5]
+Name="Storm Level 2"
+Tip=Summon S|cffffcc00t|rorm
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+[npn6]
+Name=Earth
+Tip=Summon |cffffcc00E|rarth
+Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=E
+[Uktl]
+Name="Enigma"
+Hotkey=
+Propernames=Darchrow
+Revivetip="Revive Enigma"
+Awakentip="Revive Enigma"
+Ubertip="The result of a collapsed star entombed within a field of elemental magic, Darchrow is one of the most dangerous beings in existence, consuming hundreds of worlds into the void of his hate and hunger. He is not above using his own allies as portals for his own servants to come through. Capable of manipulating both void and shadow in combat, his greatest pleasure is to release the oblivion within him upon the world, creating an abyss that draws enemies ever closer to destruction. |n|n|c000042ffStrength|r - 17 + 2.1|n|c000042ffAgility|r - 14 + 1.0|n|c00ff0303Intelligence|r - 20 + 3.4|n|nLearns Malefice, Demonic Conversion, Midnight Pulse, and |c00ff8000Black Hole|r.|n|nAttack range of 500.|nMovement speed of 300."
+Tip="Enigma"
+[Ubal]
+Name="Nerubian Weaver"
+Hotkey=
+Propernames=Anub'seran
+Revivetip="Revive Nerubian Weaver"
+Awakentip="Revive Nerubian Weaver"
+Ubertip="Anub'seran. The name of this creature strikes fear into all of those who have seen the Nerubians. Even the famed assassin Anub'arak is hesitant to fight this beast, which comes from the plane of the spirit world. He can swiftly walk through his enemies, bending their bodies to his will, causing pain while he strides through them. With his powers over the timeless plane, he can also step inside and throw himself into the past to keep himself from death. He can call an attack from the future to strike his foes, making his onslaught more deadly. Anub'seran. Only the fools do not fear his name. |n|n|c000042ffStrength|r - 15 + 1.5|n|c00ff0303Agility|r - 14 + 2.5|n|c000042ffIntelligence|r - 15 + 1.8|n|nLearns The Swarm, Shukuchi, Geminate Attack, and |c00ff8000Time Lapse|r.|n|nAttack range of 425.|nMovement speed of 290."
+Tip="Nerubian Weaver"
+[Usyl]
+Name="Dwarven Sniper"
+Propernames=Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Vasilij Zajcev
+Hotkey=
+Tip="Dwarven Sniper"
+Revivetip="Revive Dwarven Sniper"
+Awakentip="Revive Dwarven Sniper"
+Ubertip="Kardel Sharpeye is a testament to his name and race. Using only his finely honed skills of marksmanship and his trusty rifle, he sytematically destroys his opponents from afar. Taking great care to aim for the most vulnerable of areas, he is capable of severely injuring an opponent, and with a little extra time, has been known to simply dispose of an enemy in a single shot. His rifle is equipped with a secondary barrel, capable of launching a short burst of shrapnel at close range, causing massive damage. |n|n|c000042ffStrength|r - 16 + 1.7|n|c00ff0303Agility|r - 21 + 2.9|n|c000042ffIntelligence|r - 15 + 2.6|n|nLearns Take Aim, Headshot, Shrapnel, and |c00ff8000Assassinate|r.|n|nAttack range of 550.|nMovement speed of 290."
+Description="Dwarven Sniper"
+[Emns]
+Name="Prophet"
+Hotkey=
+Propernames=Furion
+Revivetip="Revive Prophet"
+Awakentip="Revive Prophet"
+Ubertip="The land is never safe. Furion, therefore, never rests. The leader of all Night Elves, Furion tirelessly works to protect the sanctity of his woods. It comes as no surprise that he who helped defeat Archimonde would be called upon once more in the Sentinel's hour of need. The fury of nature is at his disposal, the trees come to life at his command, the wind carries him to lands far away, and nature itself strikes all who defy his will. He is more than just a Keeper or a Prophet, he is a savior. |n|n|c000042ffStrength|r - 19 + 1.8|n|c000042ffAgility|r - 18 + 1.9|n|c00ff0303Intelligence|r - 21 + 2.9|n|nLearns Sprout, Teleportation, Force of Nature, and |c00ff8000Wrath of Nature|r.|n|nAttack range of 600. |nMovement speed of 295."
+Tip="Prophet"
+[Eevi]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip="Revive Soul Keeper"
+Awakentip="Revive Soul Keeper"
+Ubertip="Terrorblade is the twin brother of the Anti-Mage. Both of Night Elf descent, Terrorblade was drawn in by the powers of the Undead, plunging deeper into the abyss of no return, growing large, gargoyle-like wings to symbolise his breaking from the Night Elf world. Having mastered the art of image-creation and soul manipulation, he has the ability to transform into a fearsome and terrifying demonic form, obtaining the powers to hurl energy at his opponents. Large moonblades slashing, he is one to fear on the battlefield.|n|n|c000042ffStrength|r - 15 + 1.4|n|c00ff0303Agility|r - 22 + 3.2|n|c000042ffIntelligence|r - 19 + 1.75|n|nLearns Reflection, Conjure Image, Metamorphosis, and |c00ff8000Sunder|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
+Tip="Soul Keeper"
+[Eevm]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+Ubertip=""
+[Nbbc]
+Name="Juggernaut"
+Hotkey=
+Propernames=Yurnero
+Revivetip="Revive Juggernaut"
+Awakentip="Revive Juggernaut"
+Ubertip="Slicing through armor with the greatest of ease. Whirling, dancing like a dervish, swiping foes with a flick of the wrist. Poetry in motion, slashing enemy upon enemy in the blink of an eye. Yurnero seeks perfection. Seeks to become one with his blade. All to fulfill his destiny as the unstoppable Juggernaut.|n|n|c000042ffStrength|r - 20 + 1.9|n|c00ff0303Agility|r - 20 + 2.85|n|c000042ffIntelligence|r - 14 + 1.4|n|nLearns Healing Ward, Blade Fury, Blade Dance, and |c00ff8000Omnislash|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Tip="Juggernaut"
+[nmed]
+Name=Medivh
+[nmdm]
+Name=Medivh
+[ndfl]
+Name=Defiled Fountain of Life
+[Naka]
+Name="Bounty Hunter"
+Propernames=Gondar
+Revivetip="Revive Bounty Hunter"
+Awakentip="Revive Bounty Hunter"
+Hotkey=
+Tip="Bounty Hunter"
+Ubertip="Gondar is a Draenei that is often called upon for his superior skills. Not much is known about his past, but his capabilities are extraordinary. Some believe he learned from a ninja clan while others say he was born with his amazing abilities. He is able to throw shurikens with extreme accuracy and has the strength to strike down any foe with his two swift blades. His agility is matched by none, and his stealth is inferior only to few. He is interested in the conflict for money alone, and is promised a large reward.|n|n|c000042ffStrength|r - 17 + 1.8|n|c00ff0303Agility|r - 21 + 3.0|n|c000042ffIntelligence|r - 19 + 1.4|n|nLearns Jinada, Wind Walk, Shuriken Toss, and |c00ff8000Track|r.|n|nAttack range of 128 (melee). |nMovement speed of 315."
+[EC57]
+Name="Venomancer"
+Hotkey=
+Propernames=Lesale Deathbringer
+Revivetip="Revive Venomancer"
+Awakentip="Revive Venomancer"
+Ubertip="For those obsessed with death, poison is a necessary study. However, Lesale went a step too far. He experimented upon himself with various toxins and chemicals so that he could learn the secrets of death. These twisted his mind and mutated his body into a hideous creature which embodies an immense hatred for all things pure. He can strike enemies with a concentrated shot of poison or even spread a toxic gas throughout an entire area, severely weakening beast and human alike.|n|n|c000042ffStrength|r - 18 + 1.85|n|c00ff0303Agility|r - 22 + 2.6|n|c000042ffIntelligence|r - 15 + 1.75|n|nLearns Venomous Gale, Poison Sting, Plague Ward, and |c00ff8000Poison Nova|r.|n|nAttack range of 450.|nMovement speed of 285."
+Tip="Venomancer"
+Description="Venomancer"
+[N017]
+Name="Troll Warlord"
+Hotkey=
+Propernames=Jah'rakal
+Revivetip="Revive Troll Warlord"
+Awakentip="Revive Troll Warlord"
+Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world. |n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
+Tip="Troll Warlord"
+Description="Troll Warlord"
+[NC00]
+Name="Skeleton King"
+Propernames=King Leoric
+Revivetip="Revive Skeleton King"
+Awakentip="Revive Skeleton King"
+Hotkey=
+Tip="Skeleton King"
+Description="Skeleton King"
+Ubertip="Once a noble knight protecting his kingdom, the man was thrown into Hell, where he was ripped apart over and over for centuries. Now, Lucifer has thrown him back onto the soil, corrupted and mindless, as King Leoric, the Skeleton King. He marches on, leading his minions with an unfaltering gaze, knowing only one thing: the orders given to him by the dark lord himself. Able to cripple his opponents by drawing power from the fiery depths of hell itself, King Leoric is a major threat on the battlefield. His mighty blade allows him and others in his presence to drain the blood of their enemies. It is said that he is unkillable, and those who are struck down by his hellfire don't wake up again. |n|n|c00ff0303Strength|r - 22 + 2.9|n|c000042ffAgility|r - 18 + 1.7|n|c000042ffIntelligence|r - 18 + 1.6|n|nLearns Hellfire Blast, Mortal Strike, Vampiric Aura, and |c00ff8000Reincarnation|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+[UC18]
+Name="Demon Witch"
+Hotkey=
+Propernames=Lion
+Revivetip="Revive Demon Witch"
+Awakentip="Revive Demon Witch"
+Ubertip="A renegade wizard who delved deeper in studying demonic arts, this old aged archmagus was sentenced to damnation by the Dalaran council. As a last resort of escaping death, he performed a forbidden ritual and sold his soul to Archimonde's bidding. Without trace of compassion and with a twisted mind, he seeks retribution to his comrades. He commands earth to stagger those who hinders his path with sharp spikes or siphons their will out. Never hesitating to transmogrify others to impunity nor doubtful of ripping his enemy inward out with his fatal touch, Lion like a predator loves doing it all over again.  |n|n|c000042ffStrength|r - 16 + 1.7|n|c000042ffAgility|r - 15 + 1.5|n|c00ff0303Intelligence|r - 22 + 3.0|n|nLearns Impale, Voodoo, Mana Drain, and |c00ff8000Finger of Death|r.|n|nAttack range of 600.|nMovement speed of 290."
+Tip="Demon Witch"
+Description="Demon Witch"
+[N016]
+Name="Troll Warlord"
+Hotkey=
+Propernames=Jah'rakal
+Revivetip="Revive Troll Warlord"
+Awakentip="Revive Troll Warlord"
+Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world. |n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
+Tip="Troll Warlord"
+Description="Troll Warlord"
+[o008]
+Name=Serpent Ward
+[n011]
+Name=Fire
+Tip=Summon |cffffcc00F|rire
+Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=F
+[H00K]
+Name="Goblin Techies"
+Hotkey=
+Propernames=Squee Spleen and Spoon,Squee Spleen and Spoon,Squee Spleen and Spoon,Squee Spleen and Spoon,Squee Spleen and Spoon,Double Joker
+Revivetip="Revive Goblin Techies"
+Awakentip="Revive Goblin Techies"
+Ubertip="Devilishly clever, the goblin techies, despite their small physical presence, are a force to be reckoned with. In line with their goblin brethren, the techies have the skill of laying mines in the earth, invisible to the naked eye. Also, after extensive training with the Orcish voodoo priests of Kalimdor, the Techies are adept at laying paralysis-inducing traps along with their potent explosives. Wary be the foe who takes these three lightly.|n|n|c000042ffStrength|r - 17 + 2.0|n|c000042ffAgility|r - 14 + 1.3|n|c00ff0303Intelligence|r - 22 + 2.9|n|nLearns Land Mines, Stasis Trap, Suicide Squad, Attack!, and |c00ff8000Remote Mines|r.|n|nAttack range of 700.|nMovement speed of 270."
+Tip="Goblin Techies"
+Description="Goblin Techies"
+[HC49]
+Name="Naga Siren"
+Hotkey=
+Propernames=Slithice
+Revivetip="Revive Naga Siren"
+Awakentip="Revive Naga Siren"
+Ubertip="Slithice was always a vagabond among the Naga, roaming beyond the boundaries of the sea in search of new things. During her adventures she met and fell in love with a young Orc training to be a Blademaster. Though he was inexperienced he taught her many Orcish fighting tactics employed by seasoned warriors. During their courtship as she was learning how to make traps from a local raider, a swarm of Scourge came and invaded, her love was killed before her very eyes. She used her Naga magics to put the evil to sleep and fled, and now gives her all to the Sentinel, in the name of her love.|n|n|c000042ffStrength|r - 21 + 2.3|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 18 + 1.95|n|nLearns Rip Tide, Ensnare, Mirror Image, and |c00ff8000Song of the Siren|r.|n|nAttack range of 128 (melee).|nMovement speed of 320."
+Tip="Naga Siren"
+Description="Naga Siren"
+[HC92]
+Name="Stealth Assassin"
+Hotkey=
+Propernames=Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Riki Martin
+Revivetip="Revive Stealth Assassin"
+Awakentip="Revive Stealth Assassin"
+Ubertip="Born as the heir to the satyr dominion, Rikimaru was trained by the mightiest warriors of his race. However, the power of the Burning Legion managed to corrupt many of his kind, leaving them as mindless beasts in the forest. Vowing revenge against the Scourge, he sharpened his skills for battle. Using his small size to his advantage, he can render himself invisible, enabling him to stab his enemies in the back.  He can also use thick smoke as a cover, to silence his enemies and become nearly untouchable. |n|n|c000042ffStrength|r - 17 + 2.0|n|c00ff0303Agility|r - 34 + 2.9|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Backstab, Blink Strike, Smoke Screen, and |c00ff8000Permanent Invisibility|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Tip="Stealth Assassin"
+Description="Stealth Assassin"
+[o009]
+Name=Serpent Ward
+[n00C]
+Name=Zone Indicator
+Tip=Zone Indicator
+Ubertip="Zone Indicator"
+[n004]
+Name="Spirit Bear"
+[nC38]
+Name="Sena The Accessorizer"
+[n010]
+Name="Earth Level 3"
+Tip=Summon |cffffcc00E|rarth
+Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=E
+[H000]
+Name="Centaur Warchief"
+Hotkey=
+Propernames=Bradwarden
+Revivetip="Revive Centaur Warchief"
+Awakentip="Revive Centaur Warchief"
+Ubertip="Gifted with a tremendous body and an ever-growing fortitude, Bradwarden's courage is only matched by the size of his heart. Prophesized as a savior by the oracles of his tribe, Bradwarden is the living token of the allegiance of the centaurs to the Sentinel. He swings his axe with massive force, sometimes even hurting himself when doing so. The ground trembles every time he slams his hoof and his reflexes are impossible to surpass; allowing him to retaliate just after being attacked. Bradwarden is decided to fulfill his destiny, and he knows that the upcoming battle will become his ultimate challenge.  |n|n|c00ff0303Strength|r - 23 + 3.8|n|c000042ffAgility|r - 15 + 2.0|n|c000042ffIntelligence|r - 15 + 1.6|n|nLearns Double Edge, Return, Hoof Stomp, and |c00ff8000Stampede|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Tip="Centaur Warchief"
+[O00P]
+Name="Morphling"
+Hotkey=
+Propernames=Morphling
+Revivetip="Revive Morphling"
+Awakentip="Revive Morphling"
+Ubertip="The Morphling, nature's magnum opus, the pinnacle of evolution, can force his liquid body to flow over opponents in a massive wave, forcibly moving himself as well as injuring his enemies. At a whim he may change the composition of his body, trading strength for agility and vice versa. Capable of manipulating his energy into either disable or damage based on his strongest attribute, the Morphling's most disturbing ability creates a literal clone of a chosen target, forcing them to face their own reflection as he crushes them in their confusion. |n|n|c000042ffStrength|r - 19 + 2.0|n|c00ff0303Agility|r - 24 + 3.0|n|c000042ffIntelligence|r - 17 + 1.5|n|nLearns Waveform, Adaptive Strike, Morph, and |c00ff8000Replicate|r.|n|nAttack range of 350.|nMovement speed of 285."
+Tip="Morphling"
+Description="Morphling"
+[UC11]
+Name="Magnataur"
+Hotkey=
+Propernames=Magnus
+Revivetip="Revive Magnataur"
+Awakentip="Revive Magnataur"
+Ubertip="Maybe the most tremendous being on the Scourge, Magnus is a power to be reckoned with. Trained from birth to become a potent warrior, he is now at the peak of his strength. The Magnataur’s giant axe can cleave paths through his enemies, and create a bone-breaking shockwave that ripples through the ground. Further strengthened by a demonic magic that enhances his attacks, he can crush enemies with shocking ease. His greatest power, though, is the ability to create an immensely strong magnetic field, sucking in helpless foes to meet their end.|n|n|c00ff0303Strength|r - 21 + 2.75|n|c000042ffAgility|r - 15 + 2.5|n|c000042ffIntelligence|r - 19 + 1.65|n|nLearns Shockwave, Empower, Skewer, and |c00ff8000Reverse Polarity|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
+Tip="Magnataur"
+Description="Magnataur"
+[UC60]
+Name="Necro'lic"
+Hotkey=
+Propernames=Visage
+Revivetip="Revive Necro'lic"
+Awakentip="Revive Necro'lic"
+Ubertip="A terrifying spirit created by uniting a thousand of souls of the warriors fell in the War of the Magi; Visage roams this world with never-ending thirst for souls. This restless ghost consumes the essence of the enemies he slays, and the death moan of his victims is what he enjoys the most. The weakening power of his wrath puts even the greatest warriors in misery, and the sight of sky filled with Visage and his undead minions is unimaginable. He is a nightmare in its worst, most sickening form, a true living horror, the Necro'lic.  |n|n|c000042ffStrength|r - 22 + 2.4|n|c000042ffAgility|r - 11 + 1.3|n|c00ff0303Intelligence|r - 24 + 2.5|n|nLearns Grave Chill, Gravekeeper's Cloak, Soul Assumption and |c00ff8000Summon Familiars|r.|n|nAttack range of 600.|nMovement speed of 285."
+Tip="Necro'lic"
+Description="Necro'lic"
+[E015]
+Name="Lycanthrope"
+Hotkey=D
+Propernames=Banehallow
+Revivetip="Revive L|cffffcc00y|rcanthrope"
+Awakentip="Revive L|cffffcc00y|rcanthrope"
+Ubertip="Banehallow is an avatar of bestial fury created by the scourge. For years he has dwelled in the dark forests of the world, hunting innocents that wander therein. Now he is called to aid his masters. He revels in blood and battle, using his wolfish persona to draw the feral beasts to his side and imbue his allies with his flesh-shredding strength. He is also unnaturally quick and agile. Some say he can even transform into a giant wolf, giving him more durability and the speed to gouge and maim with near impunity. |n|n|c00ff0303Strength|r - 22 + 2.75|n|c000042ffAgility|r - 16 + 1.9|n|c000042ffIntelligence|r - 15 + 1.55|n|nLearns Feral Heart, Howl, Summon Wolves, and |c00ff8000Shapeshift|r.|n|nAttack range of 100 (melee).|nMovement speed of 295."
+Tip="Summon L|cffffcc00y|rcanthrope"
+[H00H]
+Name="Oblivion"
+Hotkey=
+Propernames=Pugna
+Revivetip="Revive Oblivion"
+Awakentip="Revive Oblivion"
+Ubertip="Forcefully raised from the dead with little memory of his former self, Pugna is truly a terrible sight to behold. Retaining traces of necromantic magic, this shamble of bones finds sadistic pleasure in temporarily sending his enemies into a tormented dimension and greeting their return with a blast of unholy energy. Those who survived an encounter with the horror often recount with fearful eyes of how the Oblivion literally drains life from his enemies, giving him a brief, but satisfying, taste of the living.|n|n|c000042ffStrength|r - 17 + 1.2|n|c000042ffAgility|r - 16 + 1.0|n|c00ff0303Intelligence|r - 26 + 4.0|n|nLearns Nether Ward, Nether Blast, Decrepify, and |c00ff8000Life Drain|r.|n|nAttack range of 600.|nMovement speed of 320."
+Tip="Oblivion"
+Description="Oblivion"
+[n01C]
+Name="Spirit Bear"
+[n01G]
+Name="Spirit Bear"
+[UC76]
+Name="Death Prophet"
+Hotkey=
+Propernames=Krobelus
+Revivetip="Revive Death Prophet"
+Awakentip="Revive Death Prophet"
+Ubertip="Krobelus spent her living days as a fervent member of a cult of Death Sayers. Her belief in the ways of death and the perfect harmony it brings has given her dead spirit a chance to wreak havoc among the chaotic living. She uses her abilities to call upon carnivorous bats and long dead spirits to lay to rest all who still pump blood through their veins. She augments her powers through the use of witchcraft, and she is able to make opponents gape in fear, losing the focus needed to cast spells. She is devoted to death in all it's aspects, and would see all turned to ash. |n|n|c000042ffStrength|r - 19 + 2.2|n|c000042ffAgility|r - 14 + 1.4|n|c00ff0303Intelligence|r - 20 + 3.0|n|nLearns Witchcraft, Carrion Swarm, Silence, and |c00ff8000Exorcism|r.|n|nAttack range of 600.|nMovement speed of 280."
+Tip="Death Prophet"
+Description="Death Prophet"
+[n018]
+Name="Spirit Bear"
+[n012]
+Name="Storm Level 3"
+Tip=Summon S|cffffcc00t|rorm
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+[E005]
+Name="Moon Rider"
+Hotkey=
+Propernames=Luna Moonfang
+Revivetip="Revive Moon Rider"
+Awakentip="Revive Moon Rider"
+Ubertip="Luna Moonfang is a stalwart and devout follower of the Moon Goddess, Elune. She fights alongside the Sentinel in the neverending battle to cleanse the land of the unholy Scourge. Through her valiant efforts, she has been granted small portions of Elune's mystical power. Luna uses this gift to cut a swath through her enemies. It has been said that Luna is able to call down the very light of the moon, and is always surrounded by a glowing aura, as though in moonlight herself. Luna is a shining beacon for the Sentinel, an ever vigilant protector. |n|n|c000042ffStrength|r - 15 + 1.9|n|c00ff0303Agility|r - 18 + 2.8|n|c000042ffIntelligence|r - 16 + 1.85|n|nLearns Lunar Blessing, Lucent Beam, Moon Glaive, and |c00ff8000Eclipse|r.|n|nAttack range of 330.|nMovement speed of 330."
+Tip="Moon Rider"
+Description="Moon Rider"
+[H001]
+Name="Rogue Knight"
+Hotkey=
+Propernames=Sven
+Revivetip="Revive Rogue Knight"
+Awakentip="Revive Rogue Knight"
+Ubertip="A follower of the great God of Order, Paladine, Sven has sworn to uphold the rights of all. Born of a Knight and a Night Elf and ostracized since birth, Sven has lead a solitary existence of meditation and training. He has come out of his wanderings determined to guard the innocent against evil.  Armed with his blessed cleaving blade Justice, and harnessing the power to strike down his enemies with the might of God's Strength, Sven's wrath toward the unjust is a sight to behold.|n|n|c00ff0303Strength|r - 23 + 2.7|n|c000042ffAgility|r - 21 + 2.0|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Storm Bolt, Great Cleave, Warcry, and |c00ff8000God's Strength|r.|n|nAttack range of 128 (melee).|nMovement speed of 295."
+Tip="Rogue Knight"
+Description="Rogue Knight"
+[H00V]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip="Revive Medusa"
+Awakentip="Revive Medusa"
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Tip="Medusa"
+Description="Gorgon"
+[N01A]
+Name="Silencer"
+Hotkey=
+Propernames=Nortrom
+Revivetip="Revive Silencer"
+Awakentip="Revive Silencer"
+Ubertip="Hailing from the magical community of Quel'Thalas, Nortrom is one of the strongest Elven warriors defending the integrity of the lands. Mastering the ancient art of glaive-throwing, and combining it with the volatile nature of the Blood Elves' arcane magic, he is able to disrupt the magical energies in his enemies. By binding his magical powers to his glaive, he is able to cause damage beyond devastation, gaining intelligence from every kill. Concentrating all his energies, he can cause chaos within his enemies' magical pools, making them unable to cast spells. He is determined to fend off the Scourge and their demon magic until he has breathed his last. |n|n|c000042ffStrength|r - 17 + 2.2|n|c000042ffAgility|r - 16 + 3|n|c00ff0303Intelligence|r - 27 + 2.5|n|nLearns Curse of the Silent, Glaives of Wisdom, Last Word and |c00ff8000Global Silence|r.|n|nAttack range of 600.|nMovement speed of 300."
+Tip="Silencer"
+Description="Silencer"
+[H004]
+Name="Slayer"
+Hotkey=
+Propernames=Lina Inverse
+Revivetip="Revive Slayer"
+Awakentip="Revive Slayer"
+Ubertip="A renowned pyromancer roaming the lands, Lina Inverse originally joined the Sentinel for monetary purposes. However, weeks turned into months, and fighting alongside the many holy warriors with fearless souls inspired her with the responsibility of protecting the sanctity of the World Tree. With her devastating abilities to summon vaporizing flames, she wreaks havoc among the enemy ranks. In dire situations, she would imbue herself with an ultimate fervor, or even call forth a massive beam of lightning which is said to instantly slay any single foe. A most feared enemy of the Scourge, a most unswerving defender of the Sentinel. |n|n|c000042ffStrength|r - 18 + 1.5|n|c000042ffAgility|r - 16 + 1.5|n|c00ff0303Intelligence|r - 27 + 3.2|n|nLearns Dragon Slave, Light Strike Array, Fiery Soul, and |c00ff8000Laguna Blade|r.|n|nAttack range of 670.|nMovement speed of 295."
+Tip="Slayer"
+Description="Slayer"
+[nC35]
+Name="Demonic Artifacts"
+Hotkey=
+Tip=""
+Ubertip=""
+[H00A]
+Name="Holy Knight"
+Hotkey=
+Propernames=Jackie Chen,Chen,Chen,Chen,Chen,Chen,Chen,Chechen
+Ubertip="Prophesying a new dawn, a new world cleansed of the old evils, the Holy Knight's entrance into the war against the Scourge forever changed the course of history. A crusader riding under the banner of Hextar, the Holy Knight promises ever-lasting glory and redemption for those who march with him, and obstacles ahead to test the faith of all those sworn to forever cleanse evil from the land. Fanatically devoted to his cause, his followers come from every race, every background, and will stop at nothing to see the Scourge destroyed. If ever the redeeming hand of God touched earth, its name was Chen, the Holy Knight. |n|n|c000042ffStrength|r - 20 + 1.5|n|c000042ffAgility|r - 15 + 2.1|n|c00ff0303Intelligence|r - 21 + 2.8|n|nLearns Penitence, Test of Faith, Holy Persuasion and |c00ff8000Hand of God|r.|n|nAttack range of 600.|nMovement speed of 300."
+Revivetip="Revive Holy Knight"
+Awakentip="Revive Holy Knight"
+Tip="Holy Knight"
+[o000]
+Name="Death Ward"
+[o001]
+Name="Death Ward"
+[o00A]
+Name="Death Ward"
+[o00X]
+Name="Death Ward"
+[n01K]
+Name="Weapons Dealer"
+[H00D]
+Name="Beastmaster"
+Hotkey=
+Propernames=Rexxar
+Revivetip="Revive Beastmaster"
+Awakentip="Revive Beastmaster"
+Ubertip="A wandering vagrant of the Mok'nathal, the fabled half orc-half ogres of legend, Rexxar and his mighty blades have joined the cause of the Sentinel to better protect the natural world around him. A friend of beasts, Rexxar flails and tears at his enemies with unsettling savagery, even going as far as hurling his axes in the manner of boomerangs at his enemies to better his chances at victory. Truly a warrior of the living planet that thrives around him, the Beastmaster is an ally to be counted on when he is needed the most.|n|n|c00ff0303Strength|r - 23 + 2.2|n|c000042ffAgility|r - 18 + 1.6|n|c000042ffIntelligence|r - 16 + 1.9|n|nLearns Wild Axes, Inner Beast, Call of the Wild, and |c00ff8000Primal Roar|r.|n|nAttack range of 128 (melee).|nMovement speed of 310."
+Tip="Beastmaster"
+[U00P]
+Name="Obsidian Destroyer"
+Hotkey=
+Propernames=Harbinger
+Revivetip="Revive Obsidian Destroyer"
+Awakentip="Revive Obsidian Destroyer"
+Ubertip="An obsidian construct brought to life through the ill conceived necromancy of the Lich King, Harbinger craves magic to make up for the emptiness brought on by the incomplete nature of its summoning.  Ironically however, to devour the magic that it so desires, Harbinger must tap into his own pool of mana time and time again, expending to the point where it ends up with even less than it began with.  Yet despite this, the Obsidian Destroyer is a proud servant of the Undead Scourge, and takes great pleasure in annihilating the foolish Sentinels it encounters through psionic exploitation.  |n|n|c000042ffStrength|r - 19 + 1.85|n|c000042ffAgility|r - 24 + 2.0|n|c00ff0303Intelligence|r - 26 + 3.3|n|nLearns Arcane Orb, Astral Imprisonment, Essence Aura and |c00ff8000Sanity's Eclipse|r.|n|nAttack range of 450.|nMovement speed of 315."
+Tip="Obsidian Destroyer"
+Description="Obsidian Destroyer"
+[N01W]
+Name="Shadow Priest"
+Hotkey=
+Propernames=Dazzle
+Revivetip="Revive Shadow Priest"
+Awakentip="Revive Shadow Priest"
+Ubertip="Little is known to the Shadowtooth Clan, likely because this group of shadowy trolls never unveil the secrets of their mystifying sacrament. Nevertheless, the Loa they worship is much more powerful than most elementals, thus their favors must be kept in confidentiality. In return, these Primal Gods granted these trolls the power over paralyzing toxins, life-bending voodoo, and even endowment of life beyond the grave. A living eternity of death and misery, Dazzle now marches within the ranks of the undead, announcing the apocalypse of the Scourge that may lead them to much anticipated ascendancy. |n|n|c000042ffStrength|r - 16 + 1.85|n|c000042ffAgility|r - 21 + 1.7|n|c00ff0303Intelligence|r - 27 + 3.4|n|nLearns Poison Touch, Shallow Grave, Shadow Wave, and |c00ff8000Weave|r.|n|nAttack range of 500.|nMovement speed of 305."
+Tip="Shadow Priest"
+Description="Shadow Priest"
+[N02B]
+Name="Troll Warlord"
+Hotkey=
+Propernames=Jah'rakal
+Revivetip="Revive Troll Warlord"
+Awakentip="Revive Troll Warlord"
+Ubertip="When the Sentinel first gathered their forces, The Troll Warriors were considered primitive and unreliable. Their pride wounded, many refused to join, some even considering siding with the Scourge. Only a hotheaded young Warlord called Jah'rakal joined the Sentinel. Known as 'Blinding Axe' in troll tongue, both for the blinding speed of his axes and his trademark blind technique, his unstoppable rampages have already made him a legend among his Allies. However Jah'rakal fights not for the Sentinel, or even to defend the Ancients, but to show Elves, Men, Orcs and anyone else that trolls are the best fighters in the world. |n|n|c000042ffStrength|r - 17 + 2.2|n|c00ff0303Agility|r - 21 + 2.75|n|c000042ffIntelligence|r - 13 + 1.0|n|nLearns Berserker Rage, Whirling Axes, Fervor, and |c00ff8000Battle Trance|r.|n|nAttack range of 500.|nMovement speed of 300."
+Tip="Troll Warlord"
+Description="Troll Warlord"
+[H00S]
+Name="Storm Spirit"
+Hotkey=
+Propernames=Raijin Thunderkeg
+Ubertip="A celestial being summoned to aid the Sentinel in their darkest hour; the Storm Spirit chose to manifest itself in the life essence of a humble elementalist, Raijin Thunderkeg. Though the Pandaren's soul perished during the profound surge of pure electrical essence, the divine entity even now seeks refuge in Raijin's body, unable to thrive on its own. However, despite its mortal imprisonment, the Storm Spirit is far from being limited of its tremendous powers. Able of manipulating vast, inexhaustible sources of energy in mysterious ways, it swiftly hails destructive sparks of lightning upon the Sentinel's adversaries, eradicating all that dared to cross its path.  |n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 22 + 1.8|n|c00ff0303Intelligence|r - 23 + 2.6|n|nLearns Static Remnant, Electric Vortex, Overload, and |c00ff8000Ball Lightning|r.|n|nAttack range of 480.|nMovement speed of 290."
+Revivetip="Revive Storm Spirit"
+Awakentip="Revive Storm Spirit"
+Tip="Storm Spirit"
+[H00T]
+Name="Clockwerk Goblin"
+Hotkey=
+Propernames=Rattletrap
+Revivetip="Revive Clockwerk Goblin"
+Awakentip="Revive Clockwerk Goblin"
+Ubertip="The by-product of Goblin technological weapon research during the old War, Rattletrap the Clockwerk Goblin was shut away into storage for countless decades until the Sentinel found and reactivated him. Combat-wise, this goblin's capabilities know few bounds; his body is stocked with a huge array of armaments that destroy targets both near and far with ease. His trademark wrench can even extend itself like a grappling hook, allowing him to pick off individual targets with pin-point accuracy. |n|n|c00ff0303Strength|r - 24 + 2.7|n|c000042ffAgility|r - 13 + 2.3|n|c000042ffIntelligence|r - 17 + 1.3|n|nLearns Battery Assault, Power Cog, Rocket Flare, and |c00ff8000Hookshot|r.|n|nAttack range of 128 (melee).|nMovement speed of 315."
+Tip="Clockwerk Goblin"
+Description="Clockwerk Goblin"
+[n02C]
+Name="You are only allowed to carry one Armlet of Mordiggian"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02D]
+Name="has left the game"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02E]
+Name="has been automatically assigned"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02F]
+Name="has been randomly given"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02G]
+Name="You are not allowed to carry Observer Wards from enemy stores"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02H]
+Name="You do not need to purchase a recipe for this item"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02I]
+Name="Too few lives"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02J]
+Name="Your hero is not allowed to wield this item"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02K]
+Name="Your crow is not allowed to wield this item"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02L]
+Name="You are only allowed to carry one Power Treads"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02M]
+Name="Mekansm failed to heal"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02N]
+Name="Can only target Heroes that have left the game"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02O]
+Name="Inventory is full"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02P]
+Name="Do not use two avatars in right after each other, there is a warcraft engine bug with this"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02Q]
+Name="Recipe requirements not complete!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02R]
+Name="You must have an empty slot to disassemble this item"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02S]
+Name="because it has been healed by Mekansm in the past 25 seconds"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02T]
+Name="Deathmatch is not compatible with these modes!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02U]
+Name="Invalid Game Mode Combination!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02V]
+Name="This code has already been activated"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02W]
+Name="Only the person that picks game modes may enter this command"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02X]
+Name="Command must be entered between 15 and 60 seconds of gametime"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02Y]
+Name="Roll value must be between 1 and 2000"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02Z]
+Name="Invalid swap selection"
+Hotkey=
+Tip=""
+Ubertip=""
+[n030]
+Name="Repicking has been disabled by the host"
+Hotkey=
+Tip=""
+Ubertip=""
+[n031]
+Name="League Mode is not compatible with these modes!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n032]
+Name="Melee Only"
+Hotkey=
+Tip=""
+Ubertip=""
+[n034]
+Name="The game must have an even number of players"
+Hotkey=
+Tip=""
+Ubertip=""
+[n035]
+Name="You cannot attack Roshan from here"
+Hotkey=
+Tip=""
+Ubertip=""
+[n033]
+Name="You do not have enough gold to select a Hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n036]
+Name="Cannot Teleport a unit casting Grapple"
+Hotkey=
+Tip=""
+Ubertip=""
+[n037]
+Name="Illusory Orb not found"
+Hotkey=
+Tip=""
+Ubertip=""
+[n038]
+Name="This target has disablehelp on"
+Hotkey=
+Tip=""
+Ubertip=""
+[n039]
+Name="Unable to Morph Replicate"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03A]
+Name="You have already voted"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03B]
+Name="Cannot use nether swap here"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03C]
+Name="Too many lives"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03D]
+Name="Invalid Option. Select from -Option 1/2/3"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03E]
+Name="Cannot target enemy units at level 1"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03F]
+Name="Target unit is not valid or target is dead"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03G]
+Name="Casting hero is not valid or is dead"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03H]
+Name="No nearby target found"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03I]
+Name="Cannot use Aphotic Shield on Doomed Unit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03J]
+Name="Must target allied building"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03K]
+Name="Cannot use Vacuum here"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03L]
+Name="Cannot use Lightning Grapple here"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03M]
+Name="Spirit Bear is already summoned!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03N]
+Name="The Sentinel"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03O]
+Name="The Scourge"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03P]
+Name="are"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03Q]
+Name="OWNING!!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03R]
+Name="has killed himself!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03S]
+Name="has been killed by his teammate"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03T]
+Name="has been killed by Roshan"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03U]
+Name="has been killed by Neutral Creeps"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03V]
+Name="monster kill"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03W]
+Name="GODLIKE"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03X]
+Name="beyond GODLIKE"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03Y]
+Name="You cannot teleport there"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03Z]
+Name="Cannot find any of your Haunting illusions"
+Hotkey=
+Tip=""
+Ubertip=""
+[n040]
+Name="No nearby target found"
+Hotkey=
+Tip=""
+Ubertip=""
+[n041]
+Name="Must target allied unit or building"
+Hotkey=
+Tip=""
+Ubertip=""
+[n042]
+Name="pwned "
+Hotkey=
+Tip=""
+Ubertip=""
+[n043]
+Name="'s head!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n044]
+Name="gold is split"
+Hotkey=
+Tip=""
+Ubertip=""
+[n045]
+Name="gold!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n046]
+Name="streak for"
+Hotkey=
+Tip=""
+Ubertip=""
+[n047]
+Name="'s"
+Hotkey=
+Tip=""
+Ubertip=""
+[n048]
+Name="has just ended"
+Hotkey=
+Tip=""
+Ubertip=""
+[n049]
+Name="!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04A]
+Name="!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04B]
+Name="!!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04C]
+Name="for"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04D]
+Name="just got a"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04E]
+Name="Triple Kill"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04F]
+Name="Someone KILL HIM!!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04G]
+Name="has a"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04H]
+Name="is"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04I]
+Name="wicked sick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04J]
+Name="unstoppable"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04K]
+Name="is on a"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04L]
+Name="killing spree"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04M]
+Name="mega kill"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04N]
+Name="dominating"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04O]
+Name="The Sentinel has destroyed all of the Scourge's unit producing structures. "
+Hotkey=
+Tip=""
+Ubertip=""
+[n04P]
+Name="has denied a tower"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04Q]
+Name="'s courier has been killed by"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04R]
+Name="Each Scourge player receives 200 bonus gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04S]
+Name="Double Kill"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04T]
+Name="|c000000ffAncient Hydra|r has spawned for the |c00ff0000Sentinel|r and is taking the middle path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04U]
+Name="Roshan has been slain by the"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04V]
+Name="Each Sentinel player receives 200 bonus gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04W]
+Name="just drew"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04X]
+Name="The Scourge has destroyed all of the Sentinel's unit producing structures."
+Hotkey=
+Tip=""
+Ubertip=""
+[n04Y]
+Name="first blood"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04Z]
+Name="|c000000ffScary Fish|r has spawned for the |c00ff0000Sentinel|r and is taking the middle path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n050]
+Name="Too late to repick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n051]
+Name="|c000000ffSiege Golem|r has spawned for the |c00ff0000Sentinel|r and is taking the west path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n052]
+Name="|c000000ffSiege Golem|r has spawned for the |c00ff0000Sentinel|r and is taking the middle path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n053]
+Name="|c000000ffSiege Golem|r has spawned for the |c00ff0000Sentinel|r and is taking the east path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n054]
+Name="has won!  Get the latest version from"
+Hotkey=
+Tip=""
+Ubertip=""
+[n055]
+Name="please email me at IceFrog@gmail.com"
+Hotkey=
+Tip=""
+Ubertip=""
+[n056]
+Name="|c000000ffAncient Hydra|r has spawned for the |c00ff0000Sentinel|r and is taking the west path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n057]
+Name="|c000000ffScary Fish|r has spawned for the |c00ff0000Sentinel|r and is taking the east path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n058]
+Name="|c000000ffScary Fish|r has spawned for the |c00ff0000Sentinel|r and is taking the west path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n059]
+Name="Not enough gold to repick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05A]
+Name="An enemy player has repicked"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05B]
+Name="is disabled for a few seconds"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05C]
+Name="|c000000ffAncient Hydra|r has spawned for the |c00ff0000Sentinel|r and is taking the east path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05D]
+Name="has been afk for"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05E]
+Name="has been booted for being afk too long!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05F]
+Name="minutes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05G]
+Name="has been afk for more than"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05H]
+Name="If you need this text, pause the game and read it first."
+Hotkey=
+Tip=""
+Ubertip=""
+[n05I]
+Name="has rolled"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05J]
+Name="You cannot repick without full hp and mana"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05K]
+Name="The"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05L]
+Name="An enemy player has repicked"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05M]
+Name="out of"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05N]
+Name="This is an experimental command. If you find any bugs that occur exclusively with this command,"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05O]
+Name="You may type"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05P]
+Name="to boot this player from the game"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05Q]
+Name="No one is afk"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05R]
+Name="The pause/unpause is not a bug"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05S]
+Name="The game will be paused briefly after the mode for this command is chosen."
+Hotkey=
+Tip=""
+Ubertip=""
+[n05T]
+Name="Any text displayed on the screen will be cleared."
+Hotkey=
+Tip=""
+Ubertip=""
+[n05U]
+Name="Not enough gold to repick and buy a new hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05V]
+Name="When you are ready, unpause and then pick a mode."
+Hotkey=
+Tip=""
+Ubertip=""
+[n05W]
+Name="This is a basic version that only operates on the minimap"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05X]
+Name="Use only if you have a problem with -mode2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05Y]
+Name="You can now pick a new hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05Z]
+Name="Voted:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n060]
+Name="Current DM lives are"
+Hotkey=
+Tip=""
+Ubertip=""
+[n061]
+Name="has selected"
+Hotkey=
+Tip=""
+Ubertip=""
+[n062]
+Name="This covers more areas and is the |c00ff0303recommended|r version."
+Hotkey=
+Tip=""
+Ubertip=""
+[n063]
+Name="For more information about the game modes use"
+Hotkey=
+Tip=""
+Ubertip=""
+[n064]
+Name="has 20 seconds to pick a hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n065]
+Name="Sentinel"
+Hotkey=
+Tip=""
+Ubertip=""
+[n066]
+Name="will now begin the 1-2-2-2-2-1 draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n067]
+Name="and"
+Hotkey=
+Tip=""
+Ubertip=""
+[n068]
+Name="|c006699CCSelect a hero and accept him with the|r |c00ff0303Select Hero|r |c00ff0303button|r"
+Hotkey=
+Tip=""
+Ubertip=""
+[n069]
+Name="TR has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06A]
+Name="has defaulted to"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06B]
+Name="You will get 175 gold refunded when you pick a hero."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06C]
+Name="Scourge"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06D]
+Name="Sentinel will have the first hero set, it is random."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06E]
+Name="The orb effects from these items will cause Luna's attack to malfunction"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06F]
+Name="REMINDER"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06G]
+Name="Preloading Invoker resources. There will be some lag for a brief period."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06H]
+Name="Do not buy the following items for Luna: "
+Hotkey=
+Tip=""
+Ubertip=""
+[n06I]
+Name="Please note that the groups listed in the Options do not imply that"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06J]
+Name="AP has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06K]
+Name="No Deaths has been enabled."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06L]
+Name="You will have no respawn time."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06M]
+Name="You will be given a random hero from your taverns."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06N]
+Name="lives before they lose the game."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06O]
+Name="Extra commands:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06P]
+Name="Droppable Items do not drop while phased."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06Q]
+Name="can be entered in the following 15 seconds. "
+Hotkey=
+Tip=""
+Ubertip=""
+[n06R]
+Name="AR has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06S]
+Name="Normal has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06T]
+Name="You have 30 seconds to vote from the Options below using -Option 1/2/3."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06U]
+Name="Activated items on death (like aegis) will not trigger while phased on unpathable terrain."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06V]
+Name="You may pick a hero from any tavern."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06W]
+Name="After one minute, each team will have the same heroes."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06X]
+Name="Each team has"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06Y]
+Name="You will lose when your team uses up all"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06Z]
+Name="When you die, you must pick a new hero."
+Hotkey=
+Tip=""
+Ubertip=""
+[n070]
+Name="Each team captain can pick 4 heroes to remove from the pool."
+Hotkey=
+Tip=""
+Ubertip=""
+[n071]
+Name="You will be given a random hero from any tavern."
+Hotkey=
+Tip=""
+Ubertip=""
+[n072]
+Name="You may pick a hero draft style from the heroes available."
+Hotkey=
+Tip=""
+Ubertip=""
+[n073]
+Name="You pick a hero for your opponent."
+Hotkey=
+Tip=""
+Ubertip=""
+[n074]
+Name="You will be given a random hero from the voted groupset."
+Hotkey=
+Tip=""
+Ubertip=""
+[n075]
+Name="Both Sides will take turns picking heroes."
+Hotkey=
+Tip=""
+Ubertip=""
+[n076]
+Name="Single player commands enabled. You may use commands like"
+Hotkey=
+Tip=""
+Ubertip=""
+[n077]
+Name="WTF mode activated. In this mode spells have no cooldown or manacost."
+Hotkey=
+Tip=""
+Ubertip=""
+[n078]
+Name="This is a FOR FUN ONLY mode."
+Hotkey=
+Tip=""
+Ubertip=""
+[n079]
+Name="You cannot be assigned a random hero."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07A]
+Name="You will be given a random hero soon."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07B]
+Name="Both Sides will take turns picking heroes."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07C]
+Name="heroes."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07D]
+Name="You pick a hero for your opponent."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07E]
+Name="All players will be shuffled across both sides."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07F]
+Name="When you die, a random inventory slot will drop an item."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07G]
+Name="You may pick a hero from one of the three options."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07H]
+Name="All players will be shuffled across both sides."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07I]
+Name="The same heroes may be picked or randomed multiple times."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07J]
+Name="Only Intelligence heroes will be allowed."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07K]
+Name="Only Strength heroes will be allowed."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07L]
+Name="Only Agility heroes will be allowed."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07M]
+Name="Powerups are disabled."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07N]
+Name="Siege Golems, Scary Fish, and Ancient Hydras"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07O]
+Name="can spawn randomly with creep spawns."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07P]
+Name="No mode has been specified"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07Q]
+Name="Repicking heroes is not allowed"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07R]
+Name="Creeps won't spawn from the top lane"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07S]
+Name="Creeps won't spawn from the middle lane"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07T]
+Name="Towers are weaker. Heroes gain more xp and gold."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07U]
+Name="All players will be given the same hero that"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07V]
+Name="Creeps won't spawn from the bottom lane"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07W]
+Name="has."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07X]
+Name="Swapping heroes is not allowed"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07Y]
+Name="Allows allies to pool each other items"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07Z]
+Name="Disables extra information for Observers"
+Hotkey=
+Tip=""
+Ubertip=""
+[n080]
+Name="Only middle towers can be destroyed"
+Hotkey=
+Tip=""
+Ubertip=""
+[n081]
+Name="to accept"
+Hotkey=
+Tip=""
+Ubertip=""
+[n082]
+Name="wants to swap with you."
+Hotkey=
+Tip=""
+Ubertip=""
+[n083]
+Name="Type"
+Hotkey=
+Tip=""
+Ubertip=""
+[n084]
+Name="has an APM of"
+Hotkey=
+Tip=""
+Ubertip=""
+[n085]
+Name="Requested Swap With You"
+Hotkey=
+Tip=""
+Ubertip=""
+[n086]
+Name="to make a choice or"
+Hotkey=
+Tip=""
+Ubertip=""
+[n087]
+Name="to cancel swap requests"
+Hotkey=
+Tip=""
+Ubertip=""
+[n088]
+Name="has been disabled."
+Hotkey=
+Tip=""
+Ubertip=""
+[n089]
+Name="Left"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08A]
+Name="No Hero is selected"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08B]
+Name="Swap Hero Options:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08C]
+Name="You have requested to swap with"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08D]
+Name="You cannot use"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08E]
+Name="after 120 seconds have elapsed."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08F]
+Name="You must have a living hero in order to swap with someone."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08G]
+Name="Too late to use"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08H]
+Name="No hero available to swap with."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08I]
+Name="Recreate is being performed on"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08J]
+Name="Please wait about 2 minutes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08K]
+Name="You are using unstuck. You will be sent to your base in 60 seconds."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08L]
+Name="Level"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08M]
+Name="controls"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08N]
+Name="movespeed is"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08O]
+Name="Allowing help from certain abilities."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08P]
+Name="Creeps Killed:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08Q]
+Name="Creeps Denied:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08R]
+Name="Disallowing help from certain abilities."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08S]
+Name="Neutrals Killed:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08T]
+Name="Sounds have now be unmuted for you."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08U]
+Name="You are now hiding messages."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08V]
+Name="Respawn in"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08W]
+Name="The death timer will show up when you die."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08X]
+Name="The death timer will not show up when you die."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08Y]
+Name="Luna"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08Z]
+Name="You are now showing messages."
+Hotkey=
+Tip=""
+Ubertip=""
+[n090]
+Name="Hero names in chat will now be hidden."
+Hotkey=
+Tip=""
+Ubertip=""
+[n091]
+Name="Sounds have now be muted for you."
+Hotkey=
+Tip=""
+Ubertip=""
+[n092]
+Name="to choose"
+Hotkey=
+Tip=""
+Ubertip=""
+[n093]
+Name="This command is only available in SD mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n095]
+Name="seconds"
+Hotkey=
+Tip=""
+Ubertip=""
+[n096]
+Name="Sven"
+Hotkey=
+Tip=""
+Ubertip=""
+[n098]
+Name="Morphling"
+Hotkey=
+Tip=""
+Ubertip=""
+[n099]
+Name="Enchantress"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09A]
+Name="Zeus"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09B]
+Name="have not picked a hero. They will be given a random hero!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09C]
+Name="Courier icon will now be hidden."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09D]
+Name="Earthshaker"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09E]
+Name="It is recommended to not purchase items until then."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09H]
+Name="Your hero might change at the 60 second mark."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09I]
+Name="has removed"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09J]
+Name="Terrain has been transformed. This is a very experimental mode."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09K]
+Name="has 20 seconds to choose 4 heroes to remove from the pool."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09L]
+Name="Courier icon will now be shown."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09M]
+Name="You have chosen"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09N]
+Name="from the available hero pool."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09O]
+Name="Hero removal phase has ended."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09P]
+Name="Slithice"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09Q]
+Name="Normal Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09R]
+Name="You gained"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09S]
+Name="str from Flesh Heap"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09T]
+Name="No Hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09U]
+Name="Vengeful Spirit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09W]
+Name="Rylai"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09X]
+Name="Rikimaru"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09Y]
+Name="Syllabear"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09Z]
+Name="Lina"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A0]
+Name="did not pick a hero so they have no hero to be assigned."
+Hotkey=
+Tip=""
+Ubertip=""
+[n094]
+Name="Rhasta"
+Hotkey=
+Tip=""
+Ubertip=""
+[n097]
+Name="Nortrom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09F]
+Name="Rooftrellen"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09G]
+Name="Ezalor"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09V]
+Name="Ursa"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A1]
+Name="Ogre Magi"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A2]
+Name="Magnus"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A3]
+Name="Phantom Lancer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A4]
+Name="Furion"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A5]
+Name="Yurnero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A6]
+Name="Enigma"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A7]
+Name="Tiny"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A8]
+Name="Troll"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A9]
+Name="Techies"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AA]
+Name="Tinker"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AB]
+Name="Chen"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AC]
+Name="Bristleback"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AD]
+Name="Sniper"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AE]
+Name="Puck"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AF]
+Name="Lanaya"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AG]
+Name="Huskar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AH]
+Name="Mirana"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AI]
+Name="Alchemist"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AJ]
+Name="Jakiro"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AK]
+Name="Rexxar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AL]
+Name="Traxex"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AM]
+Name="Gondar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AN]
+Name="Centaur"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AO]
+Name="Panda"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AP]
+Name="$dead's courier has been killed!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AQ]
+Name="Knight Davion"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AR]
+Name="Magina"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AS]
+Name="Omniknight"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AT]
+Name="Storm"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AU]
+Name="Clockwerk"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AV]
+Name="Terrorblade"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AW]
+Name="Leshrac"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AX]
+Name="Lich"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AY]
+Name="Krobelus"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AZ]
+Name="Lion"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B0]
+Name="Venomancer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B1]
+Name="Visage"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B2]
+Name="Nessaj"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B3]
+Name="Lycan"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B4]
+Name="Broodmother"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B5]
+Name="Mortred"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B6]
+Name="Medusa"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B7]
+Name="Balanar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B8]
+Name="Necrolyte"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B9]
+Name="Spectre"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BA]
+Name="Destroyer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BB]
+Name="Warlock"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BC]
+Name="Pit Lord"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BD]
+Name="Sniper"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BE]
+Name="Luna"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BF]
+Name="Invoker"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BG]
+Name="Dark Seer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BH]
+Name="Undying"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BI]
+Name="Dazzle"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BJ]
+Name="Geomancer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BK]
+Name="Witch Doctor"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BL]
+Name="Abaddon"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BM]
+Name="Axe"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BN]
+Name="Nevermore"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BO]
+Name="Atropos"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BP]
+Name="Tidehunter"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BQ]
+Name="N'aix"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BR]
+Name="Viper"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BS]
+Name="Void"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BT]
+Name="Pugna"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BU]
+Name="Nerubian Assassin"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BV]
+Name="Lucifer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BW]
+Name="Clinkz"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BX]
+Name="Weaver"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BY]
+Name="Razor"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BZ]
+Name="Strygwyr"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C0]
+Name="Leoric"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C1]
+Name="Slardar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C2]
+Name="Akasha"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C3]
+Name="Barathrum"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C4]
+Name="Crixalis"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C5]
+Name="Pudge"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C6]
+Name="Cold Snap"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C7]
+Name="The Sentinel now has Mega Creeps."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C8]
+Name="$dead has been killed by his teammate $killer!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C9]
+Name="The Scourge now has Mega Creeps."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CA]
+Name="Roshan has been slain by the $team!  Each $team player receives 200 bonus gold."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CB]
+Name="Stygian Desolator, Maelstrom and Mjollnir"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CC]
+Name="|c000000ffSiege Golem|r has spawned for the |c00004000Scourge|r and is taking the east path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CD]
+Name="|c000000ffSiege Golem|r has spawned for the |c00004000Scourge|r and is taking the west path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CE]
+Name="|c000000ffSiege Golem|r has spawned for the |c00004000Scourge|r and is taking the middle path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CF]
+Name="|c000000ffScary Fish|r has spawned for the |c00004000Scourge|r and is taking the east path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CG]
+Name="|c000000ffScary Fish|r has spawned for the |c00004000Scourge|r and is taking the west path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CH]
+Name="|c000000ffScary Fish|r has spawned for the |c00004000Scourge|r and is taking the middle path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CI]
+Name="|c000000ffAncient Hydra|r has spawned for the |c00004000Scourge|r and is taking the east path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CJ]
+Name="|c000000ffAncient Hydra|r has spawned for the |c00004000Scourge|r and is taking the west path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CK]
+Name="|c000000ffAncient Hydra|r has spawned for the |c00004000Scourge|r and is taking the middle path"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CL]
+Name="Ghost Walk"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CM]
+Name="has defaulted to Normal Mode. You will get 175 gold refunded when you pick a hero."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CN]
+Name="Ice Wall"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CO]
+Name="Tornado"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CP]
+Name="EMP"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CQ]
+Name="Deafening Blast"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CR]
+Name="It is not your turn to pick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CS]
+Name="Alacrity"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CT]
+Name="Forge Spirit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CU]
+Name="Chaos Meteor"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CV]
+Name="Sun Strike"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CW]
+Name="Command is used by typing -music theme. Where theme is one of the following:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CX]
+Name="That creature is too powerful."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CY]
+Name="Cannot Toss to your own units"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CZ]
+Name="Left At"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D0]
+Name="by"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D1]
+Name="has been given"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D2]
+Name="has chosen"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D3]
+Name="has randomed"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D4]
+Name=" Kills"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D5]
+Name="has repicked into"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D6]
+Name="Time Remaining"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D7]
+Name="You already have a hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D8]
+Name="Double Kills"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D9]
+Name="Winner"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DA]
+Name="No valid unit to Toss"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DB]
+Name="has been given $hero by $p"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DC]
+Name="Zone Indicator RD"
+Tip=Zone Indicator
+Ubertip="Zone Indicator"
+[n0DD]
+Name="Towers Lost"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DE]
+Name="Assists"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DF]
+Name="Dead?"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DG]
+Name="Time Elapsed"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DH]
+Name="Player"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DI]
+Name="Triple Kills"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DJ]
+Name="Deaths"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DK]
+Name="The Sentinel"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DL]
+Name="Kill Details"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DM]
+Name="Longest Spree"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DN]
+Name="Consumables"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DO]
+Name="The Scourge"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DP]
+Name="Reduces death times by 50%"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DQ]
+Name="You have used this too much!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DR]
+Name="You cannot pickup items you don't own with your Cicle of Power"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DS]
+Name="has been manually selected to begin the draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DT]
+Name="Tower Stats"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DU]
+Name="Hero Kill Gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DV]
+Name="Time Dead"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DW]
+Name="Gold Lost"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DX]
+Name="1 minute"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DY]
+Name="Neutral kills"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DZ]
+Name="Creep Stats"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E0]
+Name="Wards"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E1]
+Name="Hero K/D/A"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E2]
+Name="Current Gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E3]
+Name="DotA Scores"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E4]
+Name="Respawn"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E5]
+Name="You have randomed quote number "
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E6]
+Name="Three hero choices are now available at your Circle of Power"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E7]
+Name="3 minutes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E8]
+Name="Neutral Creeps"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E9]
+Name="Roshan will reclaim Aegis of the Immortal in"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EA]
+Name="has been randomly selected to begin the draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EB]
+Name="Items"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EC]
+Name="Creates minature models of the heroes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ED]
+Name="A captain from each side will ban and pick heroes."
+Hotkey=
+Tip=""
+Ubertip=""
+[H06S]
+Name="Admiral"
+Hotkey=
+Propernames=Daelin Proudmoore,Daelin Proudmoore,Kunkka,CoCo,Daelin Proudmoore,Captain Obvious,Kunkka,Kunkka,Daelin Proudmoore
+Revivetip="Revive Admiral"
+Awakentip="Revive Admiral"
+Ubertip="Of all the allies in the Sentinel's ranks, only one, is known by as many names and is feared in as many lands. Called Capt. CoCo by his mates, Jacksparrow by others, The Legendary Mariner by some. but only a select few, know his real name and what it stands for. He can harness the powers of the depths to conjure torrential geysers that blast his enemies into the air. His elegant blade is sworn to the Seas and with each mighty swing it ebbs like the tides. Using a watery form of spacial magic, he can bring you back to your original destination. The Captain now sails towards the Scourge lands, aboard his Phantom vessel boosting the spirits of his comrades with his fabled Rum, paving the way for the victory of the Sentinel. He is Kunkka, Master and Commander of the seven seas. |n|n|c00ff0303Strength|r - 24 + 3.0|n|c000042ffAgility|r - 14 + 1.3|n|c000042ffIntelligence|r - 18 + 1.5|n|nLearns Torrent, Tidebringer, X Marks The Spot, and |c00ff8000Ghost Ship|r.|n|nAttack range of 128 (melee).|nMovement speed of 300."
+Tip="Admiral"
+Description="Admiral"
+[n0EE]
+Name="Kunkka"
+Hotkey=
+Tip=""
+Ubertip=""
+[H071]
+Name="Murloc Nightcrawler"
+Hotkey=
+Propernames=Slark
+Revivetip="Revive Murloc Nightcrawler"
+Awakentip="Revive Murloc Nightcrawler"
+Ubertip="In the deepest, blackest pits of the ocean a fearsome and terrifying creature lurks. Bending the shadows to his will, few have seen his true form and none have lived to speak of it. For the shadows are his sanctuary, a place of empowerment and revitalisation. Bathed in this inpenetrable darkness he strikes unseen, every attack making him swifter and more powerful whilst weakening his enemy. An unbreakable leash awaits all who try to escape, leaving them at mercy of this horrifying phantom. By sacrificing a fraction of his soul, his pact with darkness allows him break even the most powerful bonds and curses. |n|nWith echoes of the Great War reaching every corner of the earth, this creature, known only as Slark, has emerged from the depths to search for an ancient relic... |n|n|c000042ffStrength|r - 21 + 1.8|n|c00ff0303Agility|r - 21 + 1.5|n|c000042ffIntelligence|r - 16 + 1.9|n|nLearns Dark Pact, Pounce, Essence Shift, and |c00ff8000Shadow Dance|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Tip="Murloc Nightcrawler"
+Description="Murloc Nightcrawler"
+[n0EF]
+Name="Slark"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EH]
+Name="Windrunner"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EL]
+Name="Hook Accuracy:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EN]
+Name="has destroyed a tower"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EP]
+Name="Captains Mode is not compatible with these modes!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EQ]
+Name="has acquired Aegis of the Immortal"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ER]
+Name="Type |c006699CC-cm 1|r to give Sentinel first pick or |c006699CC-cm 2|r for Scourge."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ES]
+Name="The starting team will be picked randomly"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ET]
+Name="Extra:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EU]
+Name="Time:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EV]
+Name="Bans:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EW]
+Name="No Hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EX]
+Name="Picks:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EY]
+Name="Status:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EZ]
+Name="Time Remaining:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F0]
+Name="Type"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F1]
+Name="Wait"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F2]
+Name="Done"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F3]
+Name="You have already selected a hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F4]
+Name="Active"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FA]
+Name="Fireblast"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FB]
+Name="Bloodlust"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FC]
+Name="Land Mine Count"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FD]
+Name="RD has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FE]
+Name="SD has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FF]
+Name="ARMM has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FG]
+Name="ARDM has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FK]
+Name="VR has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FL]
+Name="ARAS has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FM]
+Name="ARAI has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FN]
+Name="ARAA has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FO]
+Name="$hero has revived (buy back)"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FP]
+Name="to allow"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FQ]
+Name="to switch with"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FR]
+Name="_TEXT_TEMPLATE_"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FS]
+Name="$c1You have requested to switch places with|r $p2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FT]
+Name="has accepted the switch offer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FU]
+Name="Switch time has expired without enough votes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FV]
+Name="$c1The switch process between|r $p1 $c1and|r $p2 $c1has been completed successfully|r"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FW]
+Name="Reminder: The -switch command can be used to rearrange the teams if everyone votes yes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FX]
+Name="or"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FY]
+Name="Left"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FZ]
+Name="Only a hero may disassemble this item"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G0]
+Name="-switch is not available in observer mode. Support for observer mode will be added soon."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G1]
+Name="This feature is temporarily unavailable. Disassamble with your Circle of Power or Courier."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G2]
+Name="$c1Type|r $c2-switch accept|r $c1or|r $c2-ok|r $c1to allow|r $p1 $c1to switch with|r $p2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G3]
+Name="Cranium Basher does not stack with your hero's bash"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G4]
+Name="Only range heroes are available"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G5]
+Name="Only melee heroes are available"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G6]
+Name="A different system for spawning runes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G7]
+Name="This Item does not belong to you and cannot be attacked"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G8]
+Name="Not enough mana"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GA]
+Name="$c1If you want veto this, type |r $c2-no|r"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GB]
+Name="$p1 $c1has rejected the switch offer."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GC]
+Name="Tauren Chieftain"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G9]
+Name="Batrider"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GD]
+Name="RD Captains Mode has been activated"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GE]
+Name="Type |c006699CC-cap|r to enable Captains Mode in RD"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GF]
+Name="Captains draft heroes from a limited pool"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GG]
+Name="has 35 seconds to pick one hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GH]
+Name="has 35 seconds to pick two heroes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GI]
+Name="has 35 seconds to ban one hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GL]
+Name="You have used this command too many times."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GM]
+Name="Arrow Accuracy:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GN]
+Name="Dark Level 2"
+Tip=""
+Ubertip=""
+Hotkey=E
+[n0GO]
+Name="Dark Level 1"
+Tip=""
+Ubertip=""
+Hotkey=E
+[n0GP]
+Name="Dark Level 3"
+Tip=""
+Ubertip=""
+Hotkey=E
+[n0GQ]
+Name="Goblins Greed:"
+Hotkey=
+Tip=""
+Ubertip=""
+[H084]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip="Revive Medusa"
+Awakentip="Revive Medusa"
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Tip="Medusa"
+Description="Gorgon"
+[n0GR]
+Name="Your hero has respawned"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GS]
+Name="You randomly rolled"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GT]
+Name="has acquired a"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GU]
+Name="has bottled the"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GV]
+Name="has used the stored"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GW]
+Name="rune"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GX]
+Name="-switch has been disabled for this game."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GY]
+Name="Teams sides have been randomly assigned."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GZ]
+Name="Earth Level 4"
+Tip=Summon |cffffcc00E|rarth
+Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=E
+[n0H0]
+Name=Fire
+Tip=Summon |cffffcc00F|rire
+Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=F
+[n0H1]
+Name="Storm Level 4"
+Tip=Summon S|cffffcc00t|rorm
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+[n0H2]
+Name="Your turn to ban 1 hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H3]
+Name="Your turn to pick 1 hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H4]
+Name="Your turn to pick 2 heroes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H5]
+Name="has banned"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H6]
+Name="has picked"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H7]
+Name="has randomly banned"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H8]
+Name="has randomly picked"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H9]
+Name="The drafting phase is over. The heroes will be available for picking shortly."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HA]
+Name="No Neutrals has been enabled. Neutrals will not spawn."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HB]
+Name="has skilled"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HC]
+Name="level"
+Hotkey=
+Tip=""
+Ubertip=""
+[H08B]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip="Revive Medusa"
+Awakentip="Revive Medusa"
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Tip="Medusa"
+Description="Gorgon"
+[H08C]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip="Revive Medusa"
+Awakentip="Revive Medusa"
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Tip="Medusa"
+Description="Gorgon"
+[H08D]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip="Revive Medusa"
+Awakentip="Revive Medusa"
+Ubertip="An insidious creature that dwelled for eons in the underwater prisons of Nazjatar, the Gorgon was unwittingly freed during the war waged between King Arthas’s Scourge and the Naga on the icy shores of Northrend. Plagued by undeath in the aftermath, Medusa welcomed the blessing of immortality. Gifted with a keen sense of archery and affinity to magic at birth, she has honed her skills over the ages – striking multiple foes with a single volley of arrows, debilitating them with jolts of lightning, and even conjuring a protective barrier of mana. Like her namesake, Medusa instills paralyzing fear into all that dare cross her path. |n|n|c000042ffStrength|r - 14 + 1.65|n|c00ff0303Agility|r - 20 + 2.5|n|c000042ffIntelligence|r - 19 + 1.85|n|nLearns Mystic Snake, Mana Shield, Split Shot, and |c00ff8000Stone Gaze|r.|n|nAttack range of 600.|nMovement speed of 290."
+Tip="Medusa"
+Description="Gorgon"
+[n0HD]
+Name="You have randomly set water colors to"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HF]
+Name="Scoreboard"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HG]
+Name="-di functionality is on by default. Use -cson and -csoff to toggle it on and off."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HH]
+Name="Language: English"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HI]
+Name="Please update your version of Warcraft 3 to 1.23 to prevent some cheats."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HJ]
+Name="Ultra Kill"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HK]
+Name="Rampage"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HL]
+Name="You are only allowed to carry one Quelling Blade"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HM]
+Name="Total Intelligence Stolen:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HN]
+Name="Game mode automatically set to"
+Hotkey=
+Tip=""
+Ubertip=""
+[o01C]
+Name=Serpent Ward
+[o01D]
+Name=Serpent Ward
+[o01E]
+Name=Serpent Ward
+[n0HO]
+Name="Respawn:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HR]
+Name="Ancient Apparition"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HS]
+Name="Cooldown"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HU]
+Name="has purchased a courier."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HY]
+Name="The enemy team has unlocked that hero's items. He cannot be switched."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HZ]
+Name="Leaguemode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I0]
+Name="Mirror Match"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I1]
+Name="Captains Draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I2]
+Name="Extended League"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I3]
+Name="League Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I4]
+Name="Singledraft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I5]
+Name="Voterandom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I6]
+Name="Teamrandom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I7]
+Name="Allrandom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I8]
+Name="Extended League"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I9]
+Name="Captainsdraft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IA]
+Name="Death Match"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IB]
+Name="Team Random"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IC]
+Name="Reverse"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ID]
+Name="Allpick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IE]
+Name="Mode Random"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IF]
+Name="Random Draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IG]
+Name="Captainsmode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IH]
+Name="Mirrormatch"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0II]
+Name="Deathmatch"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IJ]
+Name="Moderandom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IK]
+Name="Captains Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IL]
+Name="All Pick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IM]
+Name="Vote Random"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IN]
+Name="Randomdraft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IO]
+Name="Shuffle Players"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IP]
+Name="All Strength"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IQ]
+Name="All Random"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IR]
+Name="No Mid"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IS]
+Name="All Intelligence"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IT]
+Name="Range Only"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IU]
+Name="All Agility"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IV]
+Name="Only Mid"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IW]
+Name="Reverse"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IX]
+Name="Duplicate Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IY]
+Name="Pooling Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IZ]
+Name="Item Drop"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J0]
+Name="Single Draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J1]
+Name="Random Side"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J2]
+Name="Switch On"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J4]
+Name="Mini Heores"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J5]
+Name="Observer Info"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J6]
+Name="No Powerups"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J7]
+Name="Super Creeps"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J8]
+Name="No Top"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J9]
+Name="Easy Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JA]
+Name="Same Hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JB]
+Name="No Bot"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JC]
+Name="No Swap"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JD]
+Name="Fast Respawn"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JE]
+Name="Experimental Runes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JF]
+Name="No Repick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J3]
+Name="If you want to utilize the leaver's hero items/gold, use -unlock. "
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JG]
+Name="Once you do this you will no longer be able to swap that player slot with the enemy."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JH]
+Name="Total Attempts:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JI]
+Name="5x Casts:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JJ]
+Name="4x Casts:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JK]
+Name="3x Casts:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JL]
+Name="2x Casts:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JM]
+Name="Total Successful:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JN]
+Name="Regeneration"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JO]
+Name="5x MULTICAST!!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JP]
+Name="Int"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JQ]
+Name="Haste"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JR]
+Name="Enemy:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JS]
+Name="Allied:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JT]
+Name="3x MULTICAST!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JV]
+Name="Str"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JW]
+Name="You have turned camera center on. Use -centeroff or -co to turn it off."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JX]
+Name="You have turned camera center off. Use -center or -c to turn it back on again."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JY]
+Name="Assist:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JZ]
+Name="Control selection helper has been disabled."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K0]
+Name="Control selection helper has been enabled."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K1]
+Name="The following recently remade or added heroes are temporarily unavailable in this mode:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K2]
+Name="Illusion"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K3]
+Name="Double Damage"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K4]
+Name="Invisibility"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K5]
+Name="Only Translate This String If Simplified Chinese"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K6]
+Name="Captains Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K7]
+Name="2x MULTICAST!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K8]
+Name="4x MULTICAST!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K9]
+Name="Invalid Target"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KA]
+Name="Zoom Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KB]
+Name="Unlock Count:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KC]
+Name="Capture Point"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KD]
+Name="Gold and Items have been unlocked for:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KE]
+Name="Souls Collected:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JU]
+Name="Bonus Gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KF]
+Name="Bonus XP"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KG]
+Name="has purchased a flying courier."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KH]
+Name="Capture Points will appear at the 10 minute mark. The more heroes the faster the capture rate."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KI]
+Name="Observers will view the game from a zoomed out state."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KJ]
+Name="Legion Commander"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KK]
+Name="Tuskarr"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KL]
+Name="Shadow Demon"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KM]
+Name="Phoenix"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KN]
+Name="Gyrocopter"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KO]
+Name="has purchased Dust of Appearance"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KP]
+Name="has purchased Observer Wards"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KQ]
+Name="has purchased Sentry Wards"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KR]
+Name="Thrall"
+Hotkey=
+Tip=""
+Ubertip=""
+[O01F]
+Name="Guardian Wisp"
+Hotkey=
+Propernames=Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Santelmo,Weird Ball
+Revivetip="Revive Guardian Wisp"
+Awakentip="Revive Guardian Wisp"
+Ubertip="Originally nothing more than a lowly spirit of the trees, Io dwelt peacefully amongst his kind in the Great Forest. As the Great War spread across the land the creatures of the forest were forced to defend their home. The desire to protect his kin awoke power in Io he had not known he possessed. He discovered he was able to connect his life force to another creature to strengthen them or help them flee by instantly transporting them out of harm. Io became known amongst his people as the Guardian Wisp, a protector of the Spirits. All other spirits swore to assist him and can be summoned to his side to aid him in his battle. Uninterested in the battle between the Sentinel and the Scourge, Io fights only to protect his people.  |n|n|c00ff0303Strength|r - 17 + 1.9|n|c000042ffAgility|r - 14 + 1.6|n|c000042ffIntelligence|r - 23 + 1.7|n|nLearns Tether, Spirits, Overcharge, and |c00ff8000Relocate|r.|n|nAttack range of 575.|nMovement speed of 295."
+Tip="Guardian Wisp"
+Description="Guardian Wisp"
+[n0KS]
+Name="Guardian Wisp"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KT]
+Name="has purchased Urn of Shadows"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KX]
+Name="Cannot Relocate to unexplored terrain."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L2]
+Name="Unban"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L3]
+Name="Second pick phase has begun"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L4]
+Name="Second ban phase has begun"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L5]
+Name="First pick phase has begun"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L6]
+Name="First ban phase has begun"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L7]
+Name="Ban Phase #2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L8]
+Name="Pick Phase #2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L9]
+Name="Pick Phase #1"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LA]
+Name="Ban Phase #1"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LB]
+Name="has purchased Gem of Truesight"
+Hotkey=
+Tip=""
+Ubertip=""
+[E02U]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+Ubertip=""
+[E02V]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+Ubertip=""
+[E02W]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+Ubertip=""
+[H0CQ]
+Name="Rogue Knight"
+Hotkey=
+Propernames=Sven
+Revivetip="Revive Rogue Knight"
+Awakentip="Revive Rogue Knight"
+Ubertip="A follower of the great God of Order, Paladine, Sven has sworn to uphold the rights of all. Born of a Knight and a Night Elf and ostracized since birth, Sven has lead a solitary existence of meditation and training. He has come out of his wanderings determined to guard the innocent against evil.  Armed with his blessed cleaving blade Justice, and harnessing the power to strike down his enemies with the might of God's Strength, Sven's wrath toward the unjust is a sight to behold.|n|n|c00ff0303Strength|r - 23 + 2.7|n|c000042ffAgility|r - 21 + 2.0|n|c000042ffIntelligence|r - 14 + 1.3|n|nLearns Storm Bolt, Great Cleave, Warcry, and |c00ff8000God's Strength|r.|n|nAttack range of 125 (melee).|nMovement speed of 295."
+Tip="Rogue Knight"
+Description="Rogue Knight"
+[n0LF]
+Name="Cannot target own units"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LG]
+Name="Send me an email (IceFrog@gmail.com) if you have any suggestions or find bugs."
+Hotkey=
+Tip=""
+Ubertip=""
+[E02X]
+Name="Grand Magus"
+Hotkey=
+Propernames=Rubick
+Revivetip="Revive Grand Magus"
+Awakentip="Revive Grand Magus"
+Ubertip="Rubick, the son of Aghanim, is a force to be reckoned with. Crowds marvel in wonder at his effortless ability to hurl objects through the air, using nothing but his mind. Many wizards have challenged him yet none have surpassed his powerful and debilitating magics. The Grand Magus, with his endless talent, will stop at nothing to bewilder and outsmart his enemies, even if it means turning their own magic against them. Renowned for his unique ability to steal magics with a mere thought, he is undeniably a favorable asset to the Sentinel in their fight against the Scourge.   |n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 14 + 1.6|n|c00ff0303Intelligence|r - 27 + 2.4|n|nLearns Telekinesis, Fade Bolt, Null Field, and |c00ff8000Spell Steal|r.|n|nAttack range of 600. |nMovement speed of 290."
+Tip="Grand Magus"
+[n0LK]
+Name="Rubick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LL]
+Name="Not enough health"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LO]
+Name="Total Bounty Gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LP]
+Name="has purchased Smoke of Deceit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LQ]
+Name="Mana"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LR]
+Name="Target is magic immune"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LT]
+Name="Buyback Cost"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LU]
+Name="Courier cannot use powerups"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LV]
+Name="Cannot target enemy heroes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LW]
+Name="20 seconds remaining for your stolen spell"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LX]
+Name="has purchased Mekansm"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LY]
+Name="has purchased Divine Rapier"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LZ]
+Name="Courier Respawn:"
+Hotkey=
+Tip=""
+Ubertip=""
+[N0M0]
+Name="Ember Spirit"
+Propernames=Xin
+Revivetip="Revive Ember Spirit"
+Awakentip="Revive Ember Spirit"
+Hotkey=
+Tip="Ember Spirit"
+Ubertip="In sword forging furnaces of war, something powerful was taking shape. In a desperate bid to make superior weapons a sword smith by the name of Xin captured and bound a fire spirit to his forge. After countless hours of toil, a single pair of swords were born of the enchanted furnace. While holding and admiring the mystical blades the fire spirit was able to pass into Xin’s body creating a being born of flesh and flame. Xin became more powerful than the soldiers he was tasked to outfit, and march out himself to dispatch the enemies of warmth and life. Equipped with burning steel and blazing speed, Xin tears through his enemies leaving nothing but a cinder.    |n|n|c000042ffStrength|r - 19 + 2.0|n|c00ff0303Agility|r - 22 + 1.8|n|c000042ffIntelligence|r - 20 + 1.8|n|nLearns Searing Chains, Sleight of Fist, Flame Guard, and |c00ff8000Fire Remnant|r.|n|nAttack range of 128 (melee). |nMovement speed of 310."
+[n0M1]
+Name="Ember Spirit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0M3]
+Name="Skywrath Mage"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0M5]
+Name="Ghost Revenant"
+Hotkey=
+Tip=""
+Ubertip=""
+[H0DO]
+Name="Skywrath Mage"
+Hotkey=
+Propernames=Dragonus
+Revivetip="Revive Skywrath Mage"
+Awakentip="Revive Skywrath Mage"
+Ubertip="Dragonus is a sky-bound sorcerer astute in the arts of arcane warfare. Mystical in nature and veiled in secret motives he joined the sentinel to battle the scourge. He is said to come from the ancient bloodline of blood elves that has ascended to unknown heights in the arts of mystical magic. It's suspected that Invoker and Dragonus were prodigy's of ancient time and were fighting for the prestige title of the supreme mage. The art of his supreme knowledge of magic enables him to seal any magic and his Mystic Flare is capable of burning any foe in matter of seconds.  Many allies are proud to have strode alongside this mythical being, but few enemies have lived to survive the full extent of his mystical arsenal.   |n|n|c000042ffStrength|r - 19 + 1.5|n|c000042ffAgility|r - 18 + 0.8|n|c00ff0303Intelligence|r - 27 + 3.6|n|nLearns Arcane Bolt, Concussive Shot, Ancient Seal, and |c00ff8000Mystic Flare|r.|n|nAttack range of 600.|nMovement speed of 325."
+Tip="Skywrath Mage"
+Description="Skywrath Mage"
+[n0M6]
+Name="Skywrath Mage"
+Hotkey=
+Tip=""
+Ubertip=""
+[E031]
+Name="Edgewalker"
+Hotkey=
+Propernames=Edgewalker
+Revivetip="Revive Edgewalker"
+Awakentip="Revive Edgewalkep"
+Ubertip="text"
+Tip="Edgewalker"
+[n0M8]
+Name="Winter Wyvern"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ME]
+Name="Goblin Shredder"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MF]
+Name="Wyvern Outrider"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MG]
+Name="Oracle"
+Hotkey=
+Tip=""
+Ubertip=""
+[N0MH]
+Name="Ember Spirit"
+Propernames=Xin
+Revivetip="Revive Ember Spirit"
+Awakentip="Revive Ember Spirit"
+Hotkey=
+Tip="Ember Spirit"
+[H0E1]
+Name="Mortar Team"
+Hotkey=
+Propernames=Mortar Team
+Revivetip="Revive Mortar Team"
+Awakentip="Revive Mortar Team"
+Ubertip="text"
+Tip="Mortar Team"
+Description="Mortar Team"
+[n0MI]
+Name="Mortar Team"
+Hotkey=
+Tip=""
+Ubertip=""
+[H0E3]
+Name="Mortar Team"
+Hotkey=
+Propernames=Mortar Team
+Revivetip="Revive Mortar Team"
+Awakentip="Revive Mortar Team"
+Ubertip="text"
+Tip="Mortar Team"
+Description="Mortar Team"
+[H0E4]
+Name="Mortar Team"
+Hotkey=
+Propernames=Mortar Team
+Revivetip="Revive Mortar Team"
+Awakentip="Revive Mortar Team"
+Ubertip="text"
+Tip="Mortar Team"
+Description="Mortar Team"
+[H0E5]
+Name="Mortar Team"
+Hotkey=
+Propernames=Mortar Team
+Revivetip="Revive Mortar Team"
+Awakentip="Revive Mortar Team"
+Ubertip="text"
+Tip="Mortar Team"
+Description="Mortar Team"
+[n0MJ]
+Name="Str"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ML]
+Name="Arc Warden"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MN]
+Name="Cannot resummon injured bear"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MP]
+Name="Teamteam"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MQ]
+Name="Tag Team"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MR]
+Name="Tag Team is on cooldown"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MS]
+Name="Your heroes must be in the fountain area"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MT]
+Name="Need at least 100 gold to swap after randoming."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MV]
+Name="Earth Spirit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MX]
+Name="Edgewalker"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MY]
+Name="Pick Phase #3"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MZ]
+Name="Third pick phase has begun"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0N0]
+Name="Ban Phase #3"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0N1]
+Name="Third ban phase has begun"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0N2]
+Name="No stone rocks"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0N3]
+Name="Must target Rune"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0N4]
+Name="Cannot buy back due to Reaper's Scythe"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0N5]
+Name="No nearby Rock found"
+Hotkey=
+Tip=""
+Ubertip=""
+[H0ER]
+Name="Murloc Nightcrawler"
+Hotkey=
+Propernames=Slark
+Revivetip="Revive Murloc Nightcrawler"
+Awakentip="Revive Murloc Nightcrawler"
+Ubertip="In the deepest, blackest pits of the ocean a fearsome and terrifying creature lurks. Bending the shadows to his will, few have seen his true form and none have lived to speak of it. For the shadows are his sanctuary, a place of empowerment and revitalisation. Bathed in this inpenetrable darkness he strikes unseen, every attack making him swifter and more powerful whilst weakening his enemy. An unbreakable leash awaits all who try to escape, leaving them at mercy of this horrifying phantom. By sacrificing a fraction of his soul, his pact with darkness allows him break even the most powerful bonds and curses. |n|nWith echoes of the Great War reaching every corner of the earth, this creature, known only as Slark, has emerged from the depths to search for an ancient relic... |n|n|c000042ffStrength|r - 21 + 1.8|n|c00ff0303Agility|r - 21 + 1.5|n|c000042ffIntelligence|r - 16 + 1.9|n|nLearns Dark Pact, Pounce, Essence Shift, and |c00ff8000Shadow Dance|r.|n|nAttack range of 128 (melee).|nMovement speed of 305."
+Tip="Murloc Nightcrawler"
+Description="Murloc Nightcrawler"
+[n0N7]
+Name="Let's play some games. If I have fun I will give you a reward. "
+Hotkey=
+Tip=""
+Ubertip=""
+[n0N8]
+Name="Clever!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0N9]
+Name="Race me to the other side of the river. Start in 5 seconds!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NA]
+Name="Can you find which is the real me?"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NB]
+Name="You used a trick. Good job!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NC]
+Name="Too slow!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ND]
+Name="Let's see if you can find a way to beat me. I'll give you 20 minutes."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NE]
+Name="Sun Wukong"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NF]
+Name="Wrong! You should pay more attention."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NG]
+Name="What is this trick?? Well, you earned it. Here is the real Monkey King Bar."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NH]
+Name="That was a little fun! You can have your fake Monkey King Bar back. I already ate the Peach."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NJ]
+Name="You have 10 seconds to pick a hero before gold will be deducted."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NK]
+Name="You have 5 seconds to pick a hero before gold will be deducted."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0NL]
+Name="You will now lose 1 gold per second until you select a hero."
+Hotkey=
+Tip=""
+Ubertip=""

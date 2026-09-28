@@ -1,0 +1,3396 @@
+[AIbk]
+Name=Blink (Item Version)
+[AIam]
+Name=Item Agility Gain
+[AIsp]
+Name=Item Temporary Speed Bonus
+[AIat]
+Name=Item Damage Bonus
+[AIde]
+Name=Item Armor Bonus
+[AIhe]
+Name=Item Healing
+[AIha]
+Name=Item Area Healing
+[AIvi]
+Name=Item Temporary Invisibility
+[AIvu]
+Name=Item Temporary Invulnerability
+[AIvl]
+Name=Item Temporary Invulnerability
+[AIma]
+Name=Item Mana Regain
+[AImr]
+Name=Item Area Mana Regain
+[AIre]
+Name=Item Heal/Mana Regain
+[AIra]
+Name=Item Area Heal/Mana Regain
+[APra]
+Name=Rune Area Heal/Mana Regain
+[AIda]
+Name=Item Temporary Area Armor Bonus
+[AIdb]
+Name="Headdress Heal"
+[Bdef]
+Bufftip=Nathrezim Buckler
+Buffubertip=This unit is affected by Nathrezim Buckler ; its armor is temporarily increased.
+[AIta]
+Name=Item Area Detection
+[AIrm]
+Name=Item Mana Regeneration
+[AIfi]
+Name=Item Firebolt
+[AIil]
+Name=Item Illusions
+[BIil]
+Bufftip=Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+[AIdi]
+Name=Item Dispel
+[AIds]
+Name=Item Dispel
+[AIfb]
+Name=Item Attack Fire Bonus
+[AIlp]
+Name=Item Purge
+[AIob]
+Name=Item Attack Frost Bonus
+[AIpb]
+Name=Item Attack Poison Bonus
+[AIcb]
+Name=Item Attack Corruption Bonus
+[BIcb]
+Bufftip=Stygian Desolator
+Buffubertip=This unit was hit by the Stygian Desolator; its armor is temporarily reduced.
+[AIsi]
+Name=Item Sight Range Bonus
+[AIrc]
+Name=Item Reincarnation
+[AItp]
+Name=Item Town Portal
+[AIfs]
+Name=Item Skeleton Summon
+[BFig]
+Bufftip=Summoned Unit
+Buffubertip="Summoned units take additional damage from dispels."
+[AIpm]
+Name=Item Place Goblin Land Mine
+[AIaa]
+Name=Item Permanent Damage Gain
+[AImi]
+Name=Item Permanent Life Gain
+[AIva]
+Name=Item Life Steal
+[AIcf]
+Name=Item Immolation
+[BIcf]
+Bufftip=Cloak of Flames
+Buffubertip="This unit has a Cloak of Flames; nearby enemy ground units will take damage over time."
+[AIab]
+Name=Item Hero Stat Bonus
+[AIml]
+Name=Item Life Bonus
+[AIlz]
+Name=Item Life Bonus
+[Arel]
+Name=Item Life Regeneration
+[Aami]
+Name=Item Anti-Magic Shell
+[AImm]
+Name=Item Mana Bonus
+[AImz]
+Name=Item Mana Bonus (100)
+[AIas]
+Name=Item Attack Speed Bonus
+[AIsx]
+Name=Item Attack Speed Bonus
+[AIs2]
+Name=Item Attack Speed Bonus
+[AIan]
+Name=Item Animate Dead
+[AIaa]
+Name=Item Attack Damage Gain
+[AImi]
+Name=Item Life Gain
+[AIms]
+Name=Item Move Speed Bonus
+[AIa3]
+Name=Item Hero Stat Bonus
+[AIa6]
+Name=Item Hero Stat Bonus
+[AIx5]
+Name=Item Hero Stat Bonus
+[AIx2]
+Name=Item Hero Stat Bonus
+[AIs3]
+Name=Item Hero Stat Bonus
+[AIs6]
+Name=Item Hero Stat Bonus
+[AIi3]
+Name=Item Hero Stat Bonus
+[AIi6]
+Name=Item Hero Stat Bonus
+[AIt6]
+Name=Item Damage Bonus
+[AIt9]
+Name=Item Damage Bonus
+[AItc]
+Name=Item Damage Bonus
+[AItf]
+Name=Item Damage Bonus
+[AIcy]
+Name=Cyclone
+Tip=|cffffcc00C|ryclone
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Hotkey=C
+[AId1]
+Name=Item Armor Bonus
+[AId2]
+Name=Item Armor Bonus
+[AId3]
+Name=Item Armor Bonus
+[AId4]
+Name=Item Armor Bonus
+[AId5]
+Name=Item Armor Bonus
+[AId0]
+Name=Item Armor Bonus
+[AIin]
+[AIl1]
+Name=Item Life Bonus
+[AIl2]
+Name=Item Life Bonus
+[AIh1]
+Name=Item Healing
+[AIsw]
+Name=Sentry Ward
+Ubertip="Summons an invisible and immovable ward that provides vision in an area. |nCan see invisible units. |nLasts <AIsw,Dur1> seconds."
+[AIv1]
+Name=Item Temporary Invisibility
+[AIm1]
+Name=Item Mana Regain
+[AIrn]
+[AIad]
+[AIcd]
+Researchubertip="A 900 range aura that makes the might of an enemy leak out in the presence of Pit Lord. If an enemy unit dies under this aura, you gain temporarily gain 5 bonus damage. 30 for heroes. |n|n|cffffcc00Level 1|r - 18% damage reduction. |n|cffffcc00Level 2|r - 26% damage reduction. |n|cffffcc00Level 3|r - 34% damage reduction. |n|cffffcc00Level 4|r - 42% damage reduction. "
+Researchtip="Learn At|cffffcc00r|rophy Aura- [|cffffcc00Level %d|r]"
+Name="Atrophy Aura"
+Researchhotkey="R"
+Ubertip="Weakens enemy units' attacks by 18% in a 900 AOE. If an enemy unit dies under this aura, you gain 5 bonus damage for 30 seconds. 30 for heroes.","Weakens enemy units' attacks by 26% in a 900 AOE. If an enemy unit dies under this aura, you gain 5 bonus damage for 35 seconds. 30 for heroes.","Weakens enemy units' attacks by 34% in a 900 AOE. If an enemy unit dies under this aura, you gain 5 bonus damage for 40 seconds. 30 for heroes.","Weakens enemy units' attacks by 42% in a 900 AOE. If an enemy unit dies under this aura, you gain 5 bonus damage for 45 seconds. 30 for heroes."
+Tip="Atrophy Aura - [|cffffcc00Level 1|r]","Atrophy Aura - [|cffffcc00Level 2|r]","Atrophy Aura - [|cffffcc00Level 3|r]","Atrophy Aura - [|cffffcc00Level 4|r]"
+[AIba]
+[AIae]
+Name="Yasha"
+[AIau]
+Name="Headdress of Rejuvenation Aura"
+[AIrr]
+Name=Roar
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+[AIev]
+Name=Evasion
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[AImb]
+Name=Item Mana Bonus
+[AIbm]
+Name=Item Mana Bonus
+[AIa1]
+Name=Item Hero Stat Bonus
+[AIx1]
+Name=Item Hero Stat Bonus
+[AIs1]
+Name=Item Hero Stat Bonus
+[AIi1]
+Name=Item Hero Stat Bonus
+[AIfc]
+Name=Flying Carpet
+[AIrl]
+Name=Healing Salve
+[BIrl]
+Bufftip=Regeneration
+Buffubertip="This unit has Regeneration on it; its hit points will regenerate over time."
+[AIpr]
+Name="Sapphire Water"
+[AIpl]
+Name=Lesser Clarity Potion
+[BIrm]
+Bufftip=Clarity Potion
+Buffubertip="This unit drank a Clarity Potion; its mana will regenerate over time."
+[AIp2]
+Name=Generic Item-Rejuv Effect
+[AIsl]
+Name=Scroll of Regeneration
+[BIrg]
+Bufftip=Rejuvenation
+Buffubertip="This unit will regenerate health and mana over time."
+[AIgo]
+Name=Chest of Gold
+[Ablp]
+Name=Blight Placement
+[AIct]
+Name=Change Time of Day
+[AIpv]
+Name=Vampiric Potion
+[BIpv]
+Bufftip=Vampiric Potion
+Buffubertip="This Hero used a Vampiric Potion; the Hero has increased damage and a life-draining attack."
+[AIsr]
+Name=Spell Damage Reduction
+[AIbl]
+Name=Build Tiny Castle
+[AIbg]
+Name=Build Tiny Great Hall
+[AIbt]
+Name=Build Tiny Scout Tower
+[AImt]
+Name=Staff of Teleportation
+[ANpr]
+Name=Staff of Preservation
+[Amec]
+Name=Mechanical Critter
+[Bmec]
+Bufftip=Mechanical Critter
+Buffubertip="Summoned units take damage from dispels."
+[ANss]
+Name=Spell Shield
+[ANse]
+Name=Spell Shield
+[BNss]
+Bufftip=Spell Shield
+Buffubertip="A protective shield that blocks a spell."
+[Aspb]
+Name=Spell Book
+[AIrd]
+Name=Raise Dead (Item)
+[ANsa]
+Name=Staff of Sanctuary
+[BNsa]
+Bufftip=Sanctuary
+Buffubertip="This unit is under the effects of a Staff of Sanctuary; its hit points will regenerate over time, but it cannot move, attack or cast spells."
+[AIsa]
+Name=Scroll of Haste
+[AItb]
+Name=Dust of Appearance
+[Bdet]
+Bufftip=Dust of Appearance
+Buffubertip=The Dust of Appearance reveals invisible units to enemy players.
+[AIsb]
+Name=Orb of Slow
+[AIll]
+Name=Orb of Lightning (new)
+[AIos]
+Name="Maim"
+Tip=Slo|cffffcc00w|r
+Ubertip="Slows a target enemy unit's attack rate by <AIos,DataB1,%>% and movement speed by <AIos,DataA1,%>%. |nLasts <AIos,Dur1> seconds."
+[AIxs]
+Name=Item Anti-Magic Shell
+[AIpg]
+Name=Item Purge
+[AIti]
+Name=Item Damage Bonus
+[AItj]
+Name=Item Damage Bonus
+[AItn]
+Name=Item Damage Bonus
+[AItx]
+Name=Item Damage Bonus
+[AIh3]
+Name=Least Healing
+[AIdd]
+Name=Defend
+[AIsz]
+Name=Slow Poison
+[AIft]
+Name=Melee Cold Damage Bonus
+[AIdd]
+Name=Passive Defense
+[AIxk]
+Name=Berserk
+[Btrv]
+EditorName=Teleport Reveal
+[A04D]
+Name="Item Agility Bonus"
+[A04F]
+Name="Item Int Bonus"
+[A005]
+Name="Double Damage"
+[A00I]
+Name="Item Strength Bonus"
+[A00Z]
+Name="Item Damage Bonus (+55)"
+[A018]
+Name="Item Life bonus"
+[A01C]
+Name="Item Mana Bonus +300"
+[A02D]
+Name="Item Mana Regen 125"
+[A02I]
+Name="Item Hero Stat Bonus +25 all"
+[A02P]
+Name="Item Life bonus (+200)"
+[A02U]
+Name="Item Life Steal 10%"
+[A05J]
+Name="Land Mines"
+Researchhotkey="E"
+Hotkey=E
+Researchtip="Learn Land Min|cffffcc00e|rs - [|cffffcc00Level %d|r]"
+Researchubertip="Plants an invisible mine that explodes when an enemy nears.  The explosion deals less damage if the target is farther away.  You may only have 20 mines placed at a time. |n|n|cffffcc00Level 1|r - Deals 300 damage.|n|cffffcc00Level 2|r - Deals 400 damage.|n|cffffcc00Level 3|r - Deals 500 damage.|n|cffffcc00Level 4|r - Deals 600 damage. |n|n|cff99ccffCooldown: |r 25/20/15/10 seconds."
+Tip="Land Min|cffffcc00e|rs - [|cffffcc00Level 1|r]","Land Min|cffffcc00e|rs - [|cffffcc00Level 2|r]","Land Min|cffffcc00e|rs - [|cffffcc00Level 3|r]","Land Min|cffffcc00e|rs - [|cffffcc00Level 4|r]"
+Ubertip="Plants an invisible land mine that waits indefinitely for an enemy unit.  The explosion deals 300 damage.  You may only have 20 placed at one time. |n|n|cff99ccffCooldown: |r 25 seconds.","Plants an invisible land mine that waits indefinitely for an enemy unit.  The explosion deals 400 damage.  You may only have 20 placed at one time.   |n|n|cff99ccffCooldown: |r 20 seconds.","Plants an invisible land mine that waits indefinitely for an enemy unit.  The explosion deals 500 damage.  You may only have 20 placed at one time.  |n|n|cff99ccffCooldown: |r 15 seconds.","Plants an invisible land mine that waits indefinitely for an enemy unit.  The explosion deals 600 damage.  You may only have 20 placed at one time.  |n|n|cff99ccffCooldown: |r 10 seconds."
+[A008]
+Name="Bash 10%"
+[A00D]
+Name="Item Move faster"
+[A00M]
+Name=Item Life Regeneration
+[A00Q]
+Name="Haste"
+[A014]
+Name=Item Hero Stat Bonus
+[A015]
+Name="Item Strength Bonus"
+[A016]
+Name="Item Agility Bonus"
+[A01Q]
+Name="Item Int Bonus"
+[A02B]
+Name="Item Damage Bonus (+35)"
+[A04O]
+Name="Item Damage Bonus (+75)"
+[A04T]
+Name="Item Life Steal 25%"
+[A08Q]
+Name="Metamorph Image"
+Researchhotkey="C"
+Hotkey=C
+Researchtip="Learn |cffffcc00C|ronjure Image - [|cffffcc00Level %d|r]"
+Researchubertip="Creates a copy of Terrorblade which deals damage.  Lasts 30 seconds.  |n|n|cffffcc00Level 1|r - Images deal 25% damage. |n|cffffcc00Level 2|r - Images deal 35% damage. |n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
+Tip="|cffffcc00C|ronjure Image - [|cffffcc00Level 1|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 2|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 3|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 4|r]"
+Ubertip="Creates a copy of Terrorblade which deals 25% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage.  The images take 300% damage.|nLasts 30 seconds."
+[A099]
+Name="Item Mana Regen 100%"
+[A09B]
+Name="Crit 10%"
+[A09G]
+Name="Item Agility Bonus"
+[A09I]
+Name="Item Attack Speed 10%"
+[A09L]
+Name="Item Attack Speed 55%"
+[A09M]
+Name="Item Mana Bonus +400"
+[A02W]
+Name="Item Cooldown Reset"
+[A03T]
+Name="Item Hero Stat Bonus +10 all"
+[A04K]
+Name="Item Mana Bonus +170"
+[A08B]
+Name=Item Life Regeneration
+[A05A]
+Name="Item Mana Regen 150"
+[A02Y]
+Name="Item Int Bonus"
+[A06C]
+Name="Item Damage Bonus (+50)"
+[A009]
+Name="Item Hero Stat Bonus +3 all"
+[A023]
+Name="Bash 15%"
+[A07O]
+Name=Evasion
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[A096]
+Name="Item Int Bonus"
+[A097]
+Name="Item Int Bonus"
+[A098]
+Name="Item Int Bonus"
+[A09A]
+Name="Item Int Bonus"
+[A09O]
+Name="Crit 25%"
+[A09P]
+Name="Item Life Steal 15%"
+[A09Q]
+Name="Item Strength Bonus"
+[A09T]
+Name="Item Damage Bonus (+65)"
+[A09X]
+Name="Item Attack Speed 25%"
+[A09Y]
+Name="Entangle"
+Tip="Entangle","Entangle - [|cffffcc00Level 2|r]","Entangle - [|cffffcc00Level 3|r]","Entangle - [|cffffcc00Level 4|r]"
+Ubertip="Each attack has a 20% chance of Entangling an enemy.  It takes 60 damage per second and holds them immobile for 3 seconds.","Each attack has a 8% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds.","Each attack has a 12% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds.","Each attack has a 16% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds."
+[A0BK]
+Name="Incapacitating Bite"
+Researchtip="Learn Inca|cffffcc00p|racitating Bite - [|cffffcc00Level %d|r]"
+Researchubertip="Gives the Broodmother venoms which will greatly reduce the target's ability to function.|n|n|cffffcc00Level 1|r - Gives a 30% chance to miss and slows movement speed by 10%|n|cffffcc00Level 2|r - Gives a 40% chance to miss and slows movement speed by 20% |n|cffffcc00Level 3|r - Gives a 50% chance to miss and slows movement speed by 30%  |n|cffffcc00Level 4|r - Gives a 60% chance to miss and slows movement speed by 40%|n|n|c00ff0303Orb effect.|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="P"
+[A0BP]
+Name="Insatiable Hunger"
+Hotkey=T
+Researchhotkey="T"
+Researchtip="Learn Insa|cffffcc00t|riable Hunger - [|cffffcc00Level %d|r]"
+Researchubertip="The Broodmother develops a violent thirst for vital fluids. This lust greatly increases her attack damage and gives her a vampiric attack.|nLasts 20 seconds. |n|n|cffffcc00Level 1|r - 60 bonus damage, 40% life steal. |n|cffffcc00Level 2|r - 75 bonus damage, 50% life steal. |n|cffffcc00Level 3|r - 90 bonus damage, 60% life steal.|n|n|cff99ccffCooldown: |r 60 seconds."
+Tip="Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 1|r]","Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 2|r]","Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 3|r]"
+Ubertip="Gives the Broodmother 60 bonus damage and 40% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.","Gives the Broodmother 75 bonus damage and 60% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.","Gives the Broodmother 90 bonus damage and 80% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds."
+[A04S]
+Name=Orb of Lightning (new)
+[A03K]
+Name="Darkness"
+Researchtip="Learn Da|cffffcc00r|rkness - [|cffffcc00Level %d|r]"
+Researchhotkey="R"
+Hotkey=R
+Researchubertip="Creates a period of darkness for the Night Stalker to thrive in. Reduces enemy vision by 25% |n|n|cffffcc00Level 1|r - Turns day into a 25 second night.|n|cffffcc00Level 2|r - Turns day into a 50 second night.|n|cffffcc00Level 3|r - Turns day into a 80 second night. |n|n|cff99ccffCooldown: |r 180/150/120  |n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r"
+Tip="Da|cffffcc00r|rkness - [|cffffcc00Level 1|r]","Da|cffffcc00r|rkness - [|cffffcc00Level 2|r]","Da|cffffcc00r|rkness - [|cffffcc00Level 3|r]"
+Ubertip="Turns day into night for 25 seconds. Reduces enemy vision by 25% |n|n|cff99ccffCooldown: |r 180  |n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r","Turns day into night for 50 seconds. Reduces enemy vision by 25% |n|n|cff99ccffCooldown: |r 150  |n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r","Turns day into night for 80 seconds. Reduces enemy vision by 25%|n|n|cff99ccffCooldown: |r 120  |n|n|c00fffc01Scepter Upgradeable: Provides unobstructed vision at night.|r"
+[A03A]
+Name="Gargoyle Spell Damage Reduction"
+[A00B]
+Name="Item Damage Bonus (+25)"
+[A03L]
+Name="Item Damage Bonus (+40)"
+[A02X]
+Name="Observer Ward"
+Ubertip="Summons an invisible and immovable ward that provides vision in an area. |nCan see invisible units. |nLasts <AIsw,Dur1> seconds."
+[A05U]
+Name="Item Move Power Treads"
+[A05P]
+Name=Item Armor Bonus
+[A0C8]
+Name="Item Mana Bonus +9999"
+[A0CB]
+Name="Item Mana Regen 10000"
+[A0DC]
+Name="DoppelWalk Illusion"
+[A0DD]
+Name="JuxtaposeIllusions"
+[A0BR]
+Name="Necromastery"
+Researchhotkey="N"
+Researchtip="Learn |cffffcc00N|recromastery - [|cffffcc00Level %d|r]"
+Researchubertip="Whenever the Shadow Fiend kills a target, he stores the unfortunate soul inside of him. For each stored soul he gains 2 bonus damage until his own death releases half of them from bondage. |n|n|cffffcc00Level 1|r - 12 souls limit. |n|cffffcc00Level 2|r - 20 souls limit. |n|cffffcc00Level 3|r - 28 souls limit. |n|cffffcc00Level 4|r - 36 souls limit."
+[A0C2]
+Name="Grow! speed"
+[A0DV]
+Name="BlindStrikeBonus"
+[A0E4]
+Name="Item Attack Speed 5%"
+[A0E5]
+Name="Disentangle"
+Researchtip="Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]"
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Tip="Disentangle - [|cffffcc00Level 1|r]","Disentangle - [|cffffcc00Level 2|r]","Disentangle - [|cffffcc00Level 3|r]","Disentangle - [|cffffcc00Level 4|r]"
+Researchhotkey="L"
+Ubertip="Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds."
+[A0EJ]
+Name="Item Damage Bonus (+22)"
+[A043]
+Name="Item Agility Bonus"
+[A0EM]
+Name="Item Attack Speed 80%"
+[A0EN]
+Name="Item Hero Stat Bonus +20 all"
+[A0EV]
+Name="Stoneform Armor"
+[A0EW]
+Name=Roar
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+[A0EX]
+Name=Item Life Regeneration
+[A0EK]
+Name="Maim"
+[A0CG]
+Name="Geminate Attack"
+Researchtip="Learn Geminate Attac|cffffcc00k|r - [|cffffcc00Level %d|r]"
+Researchubertip="Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this. |n|n|cffffcc00Level 1|r - 6 second cooldown.|n|cffffcc00Level 2|r - 5 second cooldown|n|cffffcc00Level 3|r - 4 second cooldown|n|cffffcc00Level 4|r - 2.5 second cooldown|n|n|c00ff0303Orb effect.|r"
+Researchhotkey="K"
+[A0CU]
+Name="Sange and Yasha"
+[A0CV]
+Name="Sange and Yasha move"
+[A0CW]
+Name="Item Hero Stat Bonus S & Y"
+[A01G]
+Name="Sand Storm"
+Researchtip="Learn Sand Stor|cffffcc00m|r - [|cffffcc00Level %d|r]"
+Researchubertip="Gives the Sand King the ability to kick up dust in the face of his enemies, causing them to miss 35% of the time.  Also grants bonus damage.|nLasts 2 seconds. |n|n|cffffcc00Level 1|r - 10% chance, 8 bonus damage.|n|cffffcc00Level 2|r - 18% chance, 16 bonus damage.|n|cffffcc00Level 3|r - 25% chance, 24 bonus damage.|n|cffffcc00Level 4|r - 35% chance, 32 bonus damage.|n|n|c00ff0303Orb effect.|r"
+Researchhotkey="M"
+[A05H]
+Name="Shadow Weave friendly"
+[A05I]
+Name="Shadow Weave enemy"
+[A07S]
+Name=Spell Damage Reduction
+[A051]
+Name="Item Hero Stat Bonus Manta"
+[A0AX]
+Name="Item Life bonus (+250)"
+[A0BS]
+Name="Scroll of Regeneration (Item)"
+[A0BX]
+Name="Item Heal Area"
+[A0CD]
+Name="Item Hero Stat Bonus +5 all"
+[A0CK]
+Name="Mekansm Armor + Heal"
+[A0CX]
+Name="Staff of Teleportation (item)"
+[A0D0]
+Name=Item Hero Stat Bonus
+[A0D3]
+Name="Item Skeleton Summon lvl 2"
+[A0DF]
+Name="Item Skeleton Summon lvl 3"
+[A0F5]
+Name="Naix Lifesteal NEW"
+Researchubertip="N'aix restores some of his life force by eating flesh. |n|n|cffffcc00Level 1|r - Regains 15% of attack damage. |n|cffffcc00Level 2|r - Regains 30% of attack damage.  |n|cffffcc00Level 3|r - Regains 40% of attack damage.  |n|cffffcc00Level 4|r - Regains 50% of attack damage. "
+Researchtip="Learn |cffffcc00F|reast - [|cffffcc00Level %d|r]"
+Tip="Feast - [|cffffcc00Level 1|r]","Feast - [|cffffcc00Level 2|r]","Feast - [|cffffcc00Level 3|r]","Feast - [|cffffcc00Level 4|r]"
+Ubertip="N'aix regains part of his hit points with each attack, gaining 15% of his damage with each attack.","N'aix regains part of his hit points with each attack, gaining 30% of his damage with each attack.","N'aix regains part of his hit points with each attack, gaining 40% of his damage with each attack.","N'aix regains part of his hit points with each attack, gaining 50% of his damage with each attack."
+[A0F9]
+Name="Feast"
+Researchtip="Learn |cffffcc00F|reast - [|cffffcc00Level %d|r]"
+Researchhotkey="F"
+Researchubertip="N'aix restores some of his life force by eating flesh. |n|n|cffffcc00Level 1|r - Regains 15% of attack damage. |n|cffffcc00Level 2|r - Regains 30% of attack damage.  |n|cffffcc00Level 3|r - Regains 40% of attack damage.  |n|cffffcc00Level 4|r - Regains 50% of attack damage. |n|n|c00ff0303Orb effect.|r"
+Tip="Feast - [|cffffcc00Level 1|r]","Feast - [|cffffcc00Level 2|r]","Feast - [|cffffcc00Level 3|r]","Feast - [|cffffcc00Level 4|r]"
+Ubertip="N'aix regains part of his hit points with each attack, gaining 15% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 30% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 40% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 50% of his damage with each attack.|n|n|c00ff0303Orb effect.|r"
+[A0FJ]
+Name="Maelstrom"
+[A0FP]
+Name="linken sphere"
+Researchtip="Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]"
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Tip="Disentangle - [|cffffcc00Level 1|r]","Disentangle - [|cffffcc00Level 2|r]","Disentangle - [|cffffcc00Level 3|r]","Disentangle - [|cffffcc00Level 4|r]"
+Researchhotkey="L"
+Ubertip="Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds."
+[A0FQ]
+Name="Disentangle (item2)"
+Researchtip="Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]"
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Tip="Disentangle - [|cffffcc00Level 1|r]","Disentangle - [|cffffcc00Level 2|r]","Disentangle - [|cffffcc00Level 3|r]","Disentangle - [|cffffcc00Level 4|r]"
+Researchhotkey="L"
+Ubertip="Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds."
+[A0FR]
+Name="75% spell"
+[A0FT]
+Name="Spell Damage Reduction Greater"
+[A0GM]
+Name="Item Int Bonus"
+[A0GO]
+Name="Armor (item)"
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+[A0GQ]
+Name=Holy Light
+[A0GR]
+Name="Illusions"
+[A0H2]
+Name="Necronomicon Spell Damage Reduction"
+[A0HB]
+Name="Item Skeleton Summon lvl 1"
+[A0HP]
+Name="Item Hero Stat Bonus +15 all"
+[A0IO]
+Name=Item Life Regeneration
+[A0IP]
+Name="Item Mana Regeneration 150%"
+[A0IR]
+Name="Item Cooldown Reset 0 cooldown"
+[A0JO]
+Name="Item Move Roshan's"
+[A0KB]
+Name="Roshan's Item Damage Bonus (+500)"
+[A0KO]
+Name="Faith Effect"
+[A0KP]
+Name="Faith Effect"
+[A0KQ]
+Name="Faith Effect"
+[A0KR]
+Name="Faith Effect"
+[A0KS]
+Name=Item Hero Stat Bonus
+[A0L1]
+Name="Item Attack Speed 3%"
+[A0L4]
+Name="Mute"
+Researchtip="Learn Mu|cffffcc00t|re - [|cffffcc00Level %d|r]"
+Researchubertip="Nortrom is able to mute most spell targeting him from having any effect.  |n|n|cffffcc00Level 1|r - 120 second cooldown. |n|cffffcc00Level 2|r - 60 second cooldown.|n|cffffcc00Level 3|r - 30 second cooldown.|n|cffffcc00Level 4|r - 15 second cooldown."
+Tip="Mute - [|cffffcc00Level 1|r]","Mute - [|cffffcc00Level 2|r]","Mute - [|cffffcc00Level 3|r]","Mute - [|cffffcc00Level 4|r]"
+Researchhotkey="T"
+Ubertip="Mutes an offensive spell cast on Nortrom every 120 seconds.","Mutes an offensive spell cast on Nortrom every 60 seconds.","Mutes an offensive spell cast on Nortrom every 30 seconds.","Mutes an offensive spell cast on Nortrom every 15 seconds."
+[A0L5]
+Name=Spell Shield
+[A0L9]
+Name="Faith Effect"
+[A0LU]
+Name="Chen Spell Damage Reduction"
+[A0LX]
+Name="Chen - Staff of Persv on Hero"
+[A0LY]
+Name="Chen - Staff of Persv on Units"
+[A0M6]
+Name="Item Agility Bonus"
+[A0M7]
+Name="Item Strength Bonus"
+[A0MB]
+Name="Permanent Invisibility"
+Ubertip="Rikimaru becomes permanently invisible when not attacking.  Takes 3 seconds to re-cloak.","Rikimaru becomes permanently invisible when not attacking.  Takes 2 seconds to re-cloak.","Rikimaru becomes permanently invisible when not attacking.  Takes 1 second to re-cloak."
+Tip="Permanent Invisibility - [|cffffcc00Level 1|r]","Permanent Invisibility - [|cffffcc00Level 2|r]","Permanent Invisibility - [|cffffcc00Level 3|r]"
+[A0MK]
+Name="Borrowed Time"
+Ubertip="Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 3 seconds. This ability can only happen once every minute maximum.","Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 4 qeconds. This ability can only happen once every minute maximum.","Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 5 seconds. This ability can only happen once every minute maximum."
+Researchtip="Learn |cffffcc00B|rorrowed Time - [|cffffcc00Level %d|r]"
+Tip="Borrowed Time - [|cffffcc00Level 1|r]","Borrowed Time - [|cffffcc00Level 2|r]","Borrowed Time - [|cffffcc00Level 3|r]"
+Researchubertip="Whenever you take damage and your hitpoints drop below 400 you will no longer lose hitpoints. This ability will only go off once every minute max. |n|n|cffffcc00Level 1|r - Lasts 3 seconds.  |n|cffffcc00Level 2|r - Lasts 4 seconds.  |n|cffffcc00Level 3|r - Lasts 5 seconds. "
+Researchhotkey="B"
+[A0MR]
+Name="Mekansm Aura"
+[A0MZ]
+Name=Chest of Gold
+[A0N2]
+Name="Item Int Bonus"
+[A0N3]
+Name="Item Int Bonus"
+[A0N4]
+Name="Item Int Bonus"
+[A0N5]
+Name="Static Field"
+Ubertip="Shocks all enemy units within 1000 AOE for 5% of their current hit points whenever you cast a spell.","Shocks all enemy units within 1000 AOE for 7% of their current hit points whenever you cast a spell.","Shocks all enemy units within 1000 AOE for 9% of their current hit points whenever you cast a spell.","Shocks all enemy units within 1000 AOE for 11% of their current hit points whenever you cast a spell."
+Researchtip="Learn Static |cffffcc00F|rield - [|cffffcc00Level %d|r]"
+Researchubertip="Whenever Zeus casts a spell,  he shocks all nearby enemy units for a percentage of their current hit points as damage.|nAffects an area of effect of 1000.|n|n|cffffcc00Level 1|r - Shocks for 5% of current hit points.|n|cffffcc00Level 2|r - Shocks for 7% of current hit points.|n|cffffcc00Level 3|r - Shocks for 9% of current hit points.|n|cffffcc00Level 4|r - Shocks for 11% of current hit points."
+Tip="Static Field - [|cffffcc00Level 1|r]","Static Field - [|cffffcc00Level 2|r]","Static Field - [|cffffcc00Level 3|r]","Static Field - [|cffffcc00Level 4|r]"
+Researchhotkey="F"
+[A0N9]
+Name="Haunt Helper"
+[A0NA]
+Name="Dispersion"
+Ubertip="Deflects 10% of damage taken onto a 1000 AoE. Damage dealt depends on how close the enemies are to you.","Deflects 14% of damage taken onto a 1000 AoE. Damage dealt depends on how close the enemies are to you.","Deflects 18% of damage taken onto a 1000 AoE. Damage dealt depends on how close the enemies are to you.","Deflects 22% of damage taken onto a 1000 AoE. Damage dealt depends on how close the enemies are to you."
+Researchhotkey="I"
+Researchtip="Learn D|cffffcc00i|rspersion - [|cffffcc00Level %d|r]"
+Researchubertip="Causes any damage taken by Mercurial to be reflected onto all enemies in a 1000 AoE. The further away the enemy is the less damage is dealt. |n|n|cffffcc00Level 1|r - 10% of damage. |n|cffffcc00Level 2|r - 14% of damage. |n|cffffcc00Level 3|r - 18% of damage. |n|cffffcc00Level 4|r - 22% of damage."
+Tip="Dispersion - [|cffffcc00Level 1|r]","Dispersion - [|cffffcc00Level 2|r]","Dispersion - [|cffffcc00Level 3|r]","Dispersion - [|cffffcc00Level 4|r]"
+[A0NZ]
+Name="Beast Rage"
+[A0OH]
+Name="Essence Aura"
+[A0OL]
+Name="Essence Aura"
+[A0OM]
+Name="Essence Aura"
+[A0ON]
+Name="Essence Aura"
+[A06G]
+Name="Creep next waypoint"
+[A0G8]
+Name="Replicate"
+Researchtip="Learn |cffffcc00R|replicate - [|cffffcc00Level %d|r]"
+Researchubertip="The Morphling has the unique ability to replicate any target friendly or enemy hero. Although it only deals 50% damage, the hero can morph into his replication, instantly taking its position.  |n|n|cffffcc00Level 1|r - Lasts 30 seconds. 700 cast range. |n|cffffcc00Level 2|r - Lasts 45 seconds. 1100 cast range. |n|cffffcc00Level 3|r - Lasts 60 seconds. 1500 cast range. |n|n|cff99ccffCooldown: |r 80 seconds."
+Tip="|cffffcc00R|replicate - [|cffffcc00Level 1|r]","|cffffcc00R|replicate - [|cffffcc00Level 2|r]","|cffffcc00R|replicate - [|cffffcc00Level 3|r]"
+Ubertip="The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 30 seconds. 700 cast range.  |n|n|cff99ccffCooldown: |r 80 seconds.","The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 45 seconds. 1100 cast range. |n|n|cff99ccffCooldown: |r 80 seconds.","The Morphling creates a near-perfect replication of a friendly or enemy hero, dealing 50% of the original's damage. Lasts 60 seconds. 1500 cast range. |n|n|cff99ccffCooldown: |r 80 seconds."
+Hotkey=R
+Researchhotkey="R"
+[A0FC]
+Name="Crit 15%"
+[A0GN]
+Name="Morphling Bug Fix"
+[A079]
+Name="Gold Rune"
+[A0FO]
+Name="Bottle Regen"
+[A0G3]
+Name="Item Life bonus"
+[A0H5]
+Name="Item Mana Bonus +500"
+[A0HD]
+Name="Item Attack Speed "
+[A0I8]
+Name="Strygwyr's Thirst"
+Ubertip="For each enemy hero below 50% hp, Strygwyr gains vision of the unit, 5% movement speed bonus and +5 damage. Bonus stacks per low hp enemy hero. Removes movement speed limit when active.","For each enemy hero below 50% hp, Strygwyr gains vision of the unit, 15% movement speed bonus and +15 damage. Bonus stacks per low hp enemy hero. Removes movement speed limit when active.","For each enemy hero below 50% hp, Strygwyr gains vision of the unit, 25% movement speed bonus and +25 damage. Bonus stacks per low hp enemy hero. Removes movement speed limit when active.","For each enemy hero below 50% hp, Strygwyr gains vision of the unit, 35% movement speed bonus and +35 damage. Bonus stacks per low hp enemy hero. Removes movement speed limit when active."
+Researchhotkey="T"
+Researchtip="Learn Strygwyr's |cffffcc00T|rhirst - [|cffffcc00Level %d|r]"
+Researchubertip="Enables Strygwyr to sense the bleeding of any low hp enemy hero. If it finds one, Strygwyr gains vision of that unit and increased move speed and damage for each enemy found. Bonus stacks per low hp enemy hero. Removes movement speed limit when active. |n|n|cffffcc00Level 1|r - 5% movement increase, +5 damage, 50% HP threshold. |n|cffffcc00Level 2|r - 15% movement increase, +15 damage, 50% HP threshold. |n|cffffcc00Level 3|r - 25% movement increase, +25 damage, 50% HP threshold. |n|cffffcc00Level 4|r - 35% movement increase, +35 damage, 50% HP threshold."
+Tip="Strygwyr's Thirst - [|cffffcc00Level 1|r]","Strygwyr's Thirst - [|cffffcc00Level 2|r]","Strygwyr's Thirst - [|cffffcc00Level 3|r]","Strygwyr's Thirst - [|cffffcc00Level 4|r]"
+[A0IA]
+Name=Item Mana Regeneration
+[A0IE]
+Name="Orchid Intel Stat Bonus"
+[A0IG]
+Name="Ares' Resistance"
+[A0II]
+Name="Mask of Madness Life Steal"
+[A06S]
+[A0JG]
+Name="Item Agility Bonus"
+[A0JH]
+Name="Mjollnir"
+[A0JR]
+Name="Heart Booster"
+[A0K0]
+Name="Cheese"
+[A0K1]
+Name="Item Life bonus (+300)"
+[A0K7]
+Name="Arcane Ring"
+[A0K8]
+Name="Planeswalker's Cloak"
+[A0KC]
+Name="Vladmir's Offering (mana)"
+[A0KN]
+Name="Vladmir's Offering (armor)"
+[A0NU]
+Name="NEWABILITY"
+[A0NW]
+Name="NEWABILITY"
+[A0P7]
+Name="Scepter (QOP)"
+[A0P8]
+Name="Scepter (Rhasta)"
+[A0P9]
+Name="Scepter (Ogre Magi)"
+[A0PA]
+Name="Scepter (Lion)"
+[A0PB]
+Name="Scepter (Pugna)"
+[A0PC]
+Name="Scepter (Lina)"
+[A0PD]
+Name="Scepter (KOTL)"
+[A0PE]
+Name="Scepter (Lich)"
+[A0PF]
+Name="Scepter (Zeus)"
+[A0PH]
+Name="Satanic"
+Hotkey=T
+Researchhotkey="T"
+Researchtip="Learn Insa|cffffcc00t|riable Hunger - [|cffffcc00Level %d|r]"
+Researchubertip="The Broodmother develops a violent thirst for vital fluids. This lust greatly increases her attack damage and gives her a vampiric attack.|nLasts 20 seconds. |n|n|cffffcc00Level 1|r - 60 bonus damage, 40% life steal. |n|cffffcc00Level 2|r - 75 bonus damage, 50% life steal. |n|cffffcc00Level 3|r - 90 bonus damage, 60% life steal.|n|n|cff99ccffCooldown: |r 60 seconds."
+Tip="Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 1|r]","Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 2|r]","Insa|cffffcc00t|riable Hunger - [|cffffcc00Level 3|r]"
+Ubertip="Gives the Broodmother 60 bonus damage and 40% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.","Gives the Broodmother 75 bonus damage and 50% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.","Gives the Broodmother 90 bonus damage and 60% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds."
+[A0PI]
+Name="Item Agility Bonus"
+[A0PJ]
+Name="Item Attack Speed 30%"
+[A0PK]
+Name="Item Damage Bonus (+30)"
+[A0PM]
+Name="Hero Glow"
+[A0PO]
+Name="Magebane Trident"
+[A0PP]
+Name="Item Hero Stat Bonus +10 agi/int"
+[A0PQ]
+Name="Crit"
+[A0PR]
+Name="Item Mana Regen 110%"
+[A0PS]
+Name=Item Life Regeneration
+[A0PT]
+Name=Spell Damage Reduction
+[A0PU]
+Name=Item Life Regeneration
+[A0PW]
+Name=Spell Damage Reduction
+[A0PX]
+Name="Devotion Aura"
+[A0Q0]
+Name="Vladmir Damage"
+[A0Q3]
+Name="Item Attack Speed 40%"
+[A0Q5]
+Name="Assault Cuirass"
+[A0Q8]
+Name="Scepter (CM1)"
+[A0Q9]
+Name="Scepter (CM2)"
+[A0QA]
+Name="Scepter (CM3)"
+[A0QC]
+Name="Scepter (Lucifer1)"
+[A0QI]
+Name="Surge Buff"
+[A0QL]
+Name="Wall of Replicate Image"
+Researchhotkey="C"
+Hotkey=C
+[A0QZ]
+Name=Item Attack Speed Bonus
+[A0RC]
+Name="Insta"
+[A0RF]
+Name="Refraction Damage Bonus"
+[A0RR]
+Name="Berserker's Blood Damage Bonus"
+[A0RS]
+Name="Berserker's Blood Attack Speed"
+[A0S4]
+Name="Maim"
+Tip=Slo|cffffcc00w|r
+Ubertip="Slows a target enemy unit's attack rate by <AIos,DataB1,%>% and movement speed by <AIos,DataA1,%>%. |nLasts <AIos,Dur1> seconds."
+[A0FY]
+Name="Magic Immunity Container"
+[A0I5]
+Name="Berserker's Call Armor Bonus"
+[A0SH]
+Name=Item Hero Stat Bonus
+[A0SL]
+Name=Item Life Regeneration
+[A0SO]
+Name="BIGHAND1"
+[A0SR]
+Name="Rage Attack Speed"
+[A0ST]
+Name="Magic Immunity Container"
+[A0SZ]
+Name=Item Armor Bonus
+[A0T1]
+Name=Item Attack Speed Bonus
+[A0T2]
+Name="Rage"
+Researchhotkey="R"
+Hotkey=R
+Researchtip="Learn |cffffcc00R|rage - [|cffffcc00Level %d|r]"
+Researchubertip="N'aix goes into a maddened rage, becoming immune to magic spells and gaining increased attack speed. |n|n|cffffcc00Level 1|r - 30% Increased Attack Speed and Magic Immunity. Lasts for 3 seconds. |n|cffffcc00Level 2|r - 45% Increased Attack Speed and Magic Immunity. Lasts for 4 seconds. |n|cffffcc00Level 3|r - 60% Increased Attack Speed and Magic Immunity. Lasts for 5 seconds. |n|cffffcc00Level 4|r - 80% Increased Attack Speed and Magic Immunity. Lasts for 6 seconds.   |n|n|cff99ccffCooldown: |r 19 seconds. |n|cff99ccffManacost: |r 75"
+Tip="|cffffcc00R|rage - [|cffffcc00Level 1|r]","|cffffcc00R|rage - [|cffffcc00Level 2|r]","|cffffcc00R|rage - [|cffffcc00Level 3|r]","|cffffcc00R|rage - [|cffffcc00Level 4|r]"
+Ubertip="N'aix goes into a maddened rage, becoming immune to magic spells and gaining 30% increased attack speed for 3 seconds. |n|n|cff99ccffCooldown: |r 19 seconds.","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 45% increased attack speed for 4 seconds. |n|n|cff99ccffCooldown: |r 19 seconds.","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 60% increased attack speed for 5 seconds. |n|n|cff99ccffCooldown: |r 19 seconds.","N'aix goes into a maddened rage, becoming immune to magic spells and gaining 80% increased attack speed for 6 seconds. |n|n|cff99ccffCooldown: |r 19 seconds."
+[A0T3]
+Name=Item Attack Speed Bonus
+[A0T4]
+Name="ICEARMORNEW"
+[A0T5]
+Name="BIGHAND1New"
+[A0T6]
+Name="BIGHAND2New"
+[A0T7]
+Name="BIGHAND1New"
+[A0T8]
+Name="BIGHAND2New"
+[A0T9]
+Name="ICEARMORNEW (NEW)"
+[A0TA]
+Name="Item Damage Bonus (+33)"
+[A0TC]
+Name=Item Attack Speed Bonus
+[A0TE]
+Name="Orchid Spell Book"
+[A0TF]
+Name=Item Hero Stat Bonus
+[A0TG]
+Name=Item Hero Stat Bonus
+[A0TJ]
+Name="BIGHAND2"
+[A0TK]
+Name="Aghanims Spell Book"
+[A0TN]
+Name="Aghanim's Scepter (KOTL)"
+[A0TP]
+Name="Aghanim's Scepter (Lina)"
+[A0TR]
+Name="Aghanim's Scepter (Lion)"
+[A0TS]
+Name="Aghanim's Scepter (Ogre)"
+[A0TV]
+Name="Aghanim's Scepter (Pugna)"
+[A0TX]
+Name="Aghanim's Scepter (QoP)"
+[A0TZ]
+Name="Aghanim's Scepter (Rhasta)"
+[A0U1]
+Name="Aghanim's Scepter (Zeus)"
+[A0U3]
+Name="Aghanim's Scepter (Rylai)"
+[A0U5]
+Name="Aghanim's Scepter (Lich)"
+[A0U7]
+Name="Aghanim's Scepter (Leshrac)"
+[A0U9]
+Name="Aghanim's Scepter (Furion)"
+[A0UB]
+Name="Aghanim's Scepter (Veno)"
+[A0UD]
+Name="Aghanim's Scepter (Necro)"
+[A0UF]
+Name="Aghanim's Scepter (Luna)"
+[A0UH]
+Name="Aghanim's Scepter (Witch Doctor)"
+[A0UJ]
+Name="Aghanim's Scepter (Lucifer)"
+[A0UK]
+Name="Armlet Effect"
+[A0UT]
+Name="FrogSphere"
+[A0UU]
+Name="Invoker Sphere"
+Researchtip="Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]"
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Tip="","Disentangle - [|cffffcc00Level 2|r]","Disentangle - [|cffffcc00Level 3|r]","Disentangle - [|cffffcc00Level 4|r]"
+Researchhotkey="L"
+Ubertip="","Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.","Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds."
+[A0UV]
+Name="Crit 100%"
+[A0UW]
+Name="Item Move faster (max)"
+[A0UX]
+Name="Item Mana Regen 200"
+[A0UY]
+Name="Item Mana Regen 75"
+[A0V0]
+Name="Euls movement"
+[A0V1]
+Name="Item Int Bonus"
+[A0V2]
+Name="Item Mana Regen 250"
+[A0V3]
+Name="Item Mana Regen 225"
+[A0V6]
+Name="Quas - 13"
+[A0V7]
+Name="Exort - Effect"
+[A0VE]
+Name="Wex - AS"
+[A0WD]
+Name="Wex - MS Book"
+[A0WO]
+Name="God's Strength Container"
+[A0WR]
+Name="Insatiable Hunger Container"
+[A0WS]
+Name="Insatiable Hunger - Damage Level 3"
+[A0WT]
+Name="Insatiable Hunger - Damage Level 2"
+[A0WU]
+Name="Insatiable Hunger - Damage Level 1"
+[A0X0]
+Name=Item Damage Bonus
+[A0X1]
+Name="Item Agility Bonus"
+[A0X2]
+Name="Quilbeast Spell Damage Reduction"
+[A0X8]
+Name=Item Hero Stat Bonus
+[A0X9]
+Name="Guinsoo Stat Bonus"
+[A0XC]
+Name="Item Life Steal 40%"
+[A0XE]
+Name="Rampage Container"
+[A0XJ]
+Name="Rampage Effect"
+[A0XK]
+Name="Invoke Tornado Cyclone"
+Tip=|cffffcc00C|ryclone
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Hotkey=C
+[A0XO]
+Name="Quas - Regen Book"
+[A0XP]
+Name="Quas - 21"
+[A0XQ]
+Name="Quas - 4"
+[A0XR]
+Name="Quas - 20"
+[A0XS]
+Name="Quas - 8"
+[A0XT]
+Name="Quas - 7"
+[A0XU]
+Name="Quas - 10"
+[A0XV]
+Name="Quas - 15"
+[A0XW]
+Name="Quas - 17"
+[A0XX]
+Name="Quas - 16"
+[A0XY]
+Name="Quas - 2"
+[A0XZ]
+Name="Quas - 5"
+[A0Y0]
+Name="Quas - 6"
+[A0Y1]
+Name="Quas - 12"
+[A0Y2]
+Name="Quas - 18"
+[A0Y3]
+Name="Quas - 11"
+[A0Y4]
+Name="Quas - 9"
+[A0Y5]
+Name="Quas - 19"
+[A0Y6]
+Name="Quas - 3"
+[A0Y7]
+Name="Quas - 14"
+[A0Y8]
+Name="Quas - 1"
+[A0VJ]
+Name="Invoke 1"
+[A0VU]
+Name="Item Mana Bonus (400)"
+[A0VW]
+Name="Melting Strike - Armor Reduction"
+[A0VX]
+Name="Gravekeeper's Cloak"
+Ubertip="Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 1 Armor and 3% Magic Resistance per layer. Recovers in 12 seconds. ","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 2 Armor and 6% Magic Resistance per layer. Recovers in 10 seconds.  ","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 4 Armor and 12% Magic Resistance per layer. Recovers in 8 seconds.  ","Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers, 5 Armor and 16% Magic Resistance per layer. Recovers in 6 seconds.  "
+Researchhotkey="V"
+Researchtip="Learn Gra|cffffcc00v|rekeeper's Cloak - [|cffffcc00Level %d|r]"
+Researchubertip="Visage surrounds himself with the magical energy of the dead, granting extra physical armor and magic damage resistance. However, the energy degenerates with every instance of damage taken and will require time to recover back to full strength. Has 4 layers. |n|n|cffffcc00Level 1|r - 1 Armor and 3% Magic Resistance per layer. Recovers in 12 seconds. |n|cffffcc00Level 2|r - 2 Armor and 6% Magic Resistance per layer. Recovers in 10 seconds. |n|cffffcc00Level 3|r - 4 Armor and 12% Magic Resistance per layer. Recovers in 8 seconds. |n|cffffcc00Level 4|r - 5 Armor and 16% Magic Resistance per layer. Recovers in 6 seconds."
+Tip="Gravekeeper's Cloak  - [|cffffcc00Level 1|r]","Gravekeeper's Cloak  - [|cffffcc00Level 2|r]","Gravekeeper's Cloak  - [|cffffcc00Level 3|r]","Gravekeeper's Cloak  - [|cffffcc00Level 4|r]"
+[A0VY]
+Name="Soul Assumption"
+Ubertip="Units that die near Visage regenerate him for 4 HP and give him 6 bonus damage with a max of 2 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption - [|cffffcc00Level 1|r]","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A0XM]
+Name="Soul Assumption - Effect"
+[A0YN]
+Name=Item Attack Speed Bonus
+[A0LR]
+Name="Soul Assumption FX Level 1"
+[A0MD]
+Name="Soul Assumption FX Level 6"
+[A0NF]
+Name="Soul Assumption FX Level 5"
+[A0OG]
+Name="Soul Assumption FX Level 3"
+[A0YO]
+Name="Soul Assumption FX Level 4"
+[A0YP]
+Name="Soul Assumption FX Level 2"
+[A0YS]
+Name="Item Agility Bonus"
+[A0ZE]
+Name="Feral Heart Damage Container"
+[A0ZK]
+Name="Lycan Damage - Hero - 3"
+[A0ZL]
+Name="Lycan Damage - Hero - 1"
+[A0ZM]
+Name="Lycan Damage - Hero - 2"
+[A0ZN]
+Name="Lycan Damage - Hero - 4"
+[A0ZO]
+Name="Lycan Damage - Hero - 2 (negative)"
+[A0ZP]
+Name="Lycan Damage - Hero - 3 (negative)"
+[A0ZQ]
+Name="Lycan Damage - Hero - 1 (negative)"
+[A0ZR]
+Name="Lycan Damage - Hero - 4 (negative)"
+[A0ZT]
+Name="Lycan Damage - Creep - 1"
+[A0ZU]
+Name="Lycan Damage - Creep - 2"
+[A0ZV]
+Name="Lycan Damage - Creep - 3"
+[A0ZW]
+Name="Lycan Damage - Creep - 4"
+[A0ZX]
+Name="Lycan Damage - Creep - 4 (negative)"
+[A0ZY]
+Name="Lycan Damage - Creep - 3 (negative)"
+[A0ZZ]
+Name="Lycan Damage - Creep - 1 (negative)"
+[A100]
+Name="Lycan Damage - Creep - 2 (negative)"
+[A109]
+Name="Alacrity Damage Bonus"
+[A10F]
+Name="Spirit Lance Image lvl 4"
+[A10G]
+Name="Spirit Lance Image lvl 2"
+[A10H]
+Name="Spirit Lance Image lvl 1"
+[A10I]
+Name="Spirit Lance Image lvl 3"
+[A116]
+Name="Night Stalker FX 1"
+[A117]
+Name="Night Stalker FX 2"
+[A11I]
+Name="Undead Crown"
+[A11O]
+Name="Water Sword Damage"
+[A11P]
+Name="Ghost Ship FX 1"
+[A11Q]
+Name="Ghost Ship FX 2"
+[A11R]
+Name="Water Sword FX"
+[A11U]
+Name="Water Sword Container 3"
+[A125]
+Name="Captain CoCo's Rum FX"
+[A126]
+Name="Captain CoCo's Rum Container"
+[A129]
+Name="Fear of the Dark - Vision"
+[A12C]
+Name="Fear of the Dark Container"
+[A12E]
+Name="Item Mana Bonus (50)"
+[A12H]
+Name="Item Strength Bonus"
+[A12L]
+Name="Windrunner Cyclone"
+Tip=|cffffcc00C|ryclone
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Hotkey=C
+[A12O]
+Name="Windrunner Container - 2"
+[A12R]
+Name="Focus Fire Container"
+[A12S]
+Name="Focus Fire FX"
+[A12T]
+Name="Windrunner FX"
+[A12U]
+Name="Wind Arrow FX"
+[A12V]
+Name="Phase Boots Speed Bonus"
+[A12X]
+Name=Item Armor Bonus
+[A12Y]
+Name="Item Damage Bonus (+14)"
+[A134]
+Name="Windrunner Container - 3"
+[A135]
+Name="Windrunner Container - 1"
+[A139]
+Name="Windrunner Container - 4"
+[A13B]
+Name=Item Armor Bonus
+[A13C]
+Name="Item Damage Bonus (+16)"
+[A13J]
+Name="Magic Stick (old)"
+[A13K]
+Name="Power Treads Click Old"
+[A13L]
+Name=Item Life Regeneration
+[A13M]
+Name="Item Damage Bonus (+31)"
+[A13N]
+Name="Maim"
+[A13O]
+Name="Sange and Yasha"
+[A13V]
+Name=Cyclone
+Tip=|cffffcc00C|ryclone
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Hotkey=C
+[A13W]
+Name="Torrent"
+Tip=|cffffcc00C|ryclone
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Hotkey=C
+[A13Y]
+Name="Gargoyle Spell Damage Reduction Greater"
+[A143]
+Name=Item Damage Bonus
+[A147]
+Name="Water Sword Container 1"
+[A148]
+Name="Water Sword Container 2"
+[A149]
+Name="Water Sword Container 4"
+[A14V]
+Name="Death Stench Slow"
+[A15I]
+Name="Living Dead Spell Damage Reduction"
+[A15N]
+Name="Undying Aura HP Buff"
+[A15M]
+Name="Undying Aura HP Buff"
+[A15O]
+Name="Undying Aura HP Buff"
+[A15P]
+Name="Undying Aura HP Buff"
+[A15Q]
+Name="Undying Aura HP Buff"
+[A15R]
+Name="Undying Aura HP Buff"
+[A15U]
+Name="Death Stench Slow"
+[A160]
+Name="Flesh Golem HP - 1"
+[A161]
+Name="Flesh Golem HP - 13"
+[A162]
+Name="Flesh Golem HP - 6"
+[A163]
+Name="Flesh Golem HP - 2"
+[A164]
+Name="Flesh Golem HP - 20"
+[A165]
+Name="Flesh Golem HP - 23"
+[A166]
+Name="Flesh Golem HP - 12"
+[A167]
+Name="Flesh Golem HP - 1"
+[A168]
+Name="Flesh Golem HP - 1"
+[A169]
+Name="Flesh Golem HP - 1"
+[A16A]
+Name="Flesh Golem HP - 21"
+[A16B]
+Name="Flesh Golem HP - 1"
+[A16C]
+Name="Flesh Golem HP - 1"
+[A16D]
+Name="Flesh Golem HP - 1"
+[A16E]
+Name="Flesh Golem HP - 1"
+[A16F]
+Name="Flesh Golem HP - 25"
+[A16G]
+Name="Flesh Golem HP - 16"
+[A16H]
+Name="Flesh Golem HP - 3"
+[A16I]
+Name="Flesh Golem HP - 8"
+[A16J]
+Name="Flesh Golem HP - 9"
+[A16K]
+Name="Flesh Golem HP - 10"
+[A16L]
+Name="Flesh Golem HP - 19"
+[A16M]
+Name="Flesh Golem HP - 14"
+[A16N]
+Name="Flesh Golem HP - 11"
+[A16O]
+Name="Flesh Golem HP - 1"
+[A16P]
+Name="Flesh Golem HP - 1"
+[A16Q]
+Name="Flesh Golem HP - 5"
+[A16R]
+Name="Flesh Golem HP - 7"
+[A16S]
+Name="Flesh Golem HP - 1"
+[A16T]
+Name="Flesh Golem HP - 15"
+[A16U]
+Name="Flesh Golem HP - 17"
+[A16V]
+Name="Flesh Golem HP - 18"
+[A16W]
+Name="Flesh Golem HP - 22"
+[A16X]
+Name="Flesh Golem HP - 24"
+[A16Y]
+Name="Flesh Golem HP - 4"
+[A16Z]
+Name="Flesh Golem HP - 1"
+[A171]
+Name="Item Damage Bonus (+80)"
+[A172]
+Name="Item Damage Bonus (+75)"
+[A174]
+Name="Cranium Basher Container"
+[A175]
+Name="Cranium Basher"
+[A17A]
+Name="Plague Aura Container"
+[A17C]
+Name="Damage Bonus System - 8"
+[A17D]
+Name="Damage Bonus System - 16"
+[A17E]
+Name="Damage Bonus System - 32"
+[A17F]
+Name="Damage Bonus System - 1"
+[A17G]
+Name="Damage Bonus System - 2"
+[A17H]
+Name="Damage Bonus System - 4"
+[A17I]
+Name="Damage Bonus System - 128"
+[A17J]
+Name="Damage Bonus System - 64"
+[A17L]
+Name="Damage Bonus System - 256"
+[A17Q]
+Name="Item Agility Bonus"
+[A17R]
+Name="Fortification Armor Bonus"
+[A186]
+Name=Spell Shield
+[A187]
+Name="Item Strength Bonus"
+[A18P]
+Name="Unholy Fervor Container"
+[A1A2]
+Name=Spell Shield
+[A1AG]
+Name="Item Hero Stat Bonus Leveler"
+[A1AL]
+Name="Spell Damage Reduction Lightning Sentry"
+[A1AM]
+Name="Lightning Sentry Container"
+[A1AR]
+Name="Scepter CM"
+[A1B0]
+Name="Darkness upgrade"
+Researchtip="Learn Da|cffffcc00r|rkness - [|cffffcc00Level %d|r]"
+Researchhotkey="R"
+Hotkey=R
+Researchubertip="Creates a period of darkness for the Night Stalker to thrive in. Reduces enemy vision by 25%. Passively grants unobstructed vision at night. |n|n|cffffcc00Level 1|r - Turns day into a 25 second night.|n|cffffcc00Level 2|r - Turns day into a 50 second night.|n|cffffcc00Level 3|r - Turns day into a 80 second night. |n|n|cff99ccffCooldown: |r 180/150/120"
+Tip="Da|cffffcc00r|rkness - [|cffffcc00Level 1|r]","Da|cffffcc00r|rkness - [|cffffcc00Level 2|r]","Da|cffffcc00r|rkness - [|cffffcc00Level 3|r]"
+Ubertip="Turns day into night for 25 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night. |n|n|cff99ccffCooldown: |r 180","Turns day into night for 50 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night. |n|n|cff99ccffCooldown: |r 150","Turns day into night for 80 seconds. Reduces enemy vision by 25%. Passively grants unobstructed vision at night. |n|n|cff99ccffCooldown: |r 120"
+[A1B8]
+Name="Aghanim's Scepter (Sniper)"
+[A1B9]
+Name="Aghanim's Scepter (Clockwerk)"
+[A1BA]
+Name="Aghanim's Scepter (Vengeful Spirit)"
+[A1BB]
+Name="Aghanim's Scepter (Juggernaut)"
+[A1BC]
+Name="Aghanim's Scepter (Sand King)"
+[A1BD]
+Name="Aghanim's Scepter (Invoker)"
+[A1BE]
+Name="Aghanim's Scepter (Panda)"
+[A1BF]
+Name="Aghanim's Scepter (Leoric)"
+[A1BG]
+Name="Aghanim's Scepter (Nightstalker)"
+[A1BH]
+Name="Aghanim's Scepter (Chaos Knight)"
+[A1BI]
+Name="Aghanim's Scepter (Huskar)"
+[A1BJ]
+Name="Aghanim's Scepter (Jakiro)"
+[A1BW]
+Name="Item Damage Bonus (+20)"
+[A1BZ]
+Name=Evasion
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[A1C1]
+Name="Item Damage Bonus (+24)"
+[A1C2]
+Name="Natural Order - Spell 3"
+[A1C6]
+Name="Natural Order - Spell 1"
+[A1C7]
+Name="Natural Order - Spell 2"
+[A1C8]
+Name="Natural Order - Spell 4"
+[A1C9]
+Name="Natural Order 2"
+[A1CA]
+Name="Natural Order 1"
+[A1CB]
+Name="Natural Order 3"
+[A1CC]
+Name="Natural Order 4"
+[A1CF]
+Name="Negative Armor System -4"
+[A1CG]
+Name="Negative Armor System -16"
+[A1CH]
+Name="Negative Armor System -32"
+[A1CI]
+Name="Negative Armor System -8"
+[A1CK]
+Name="Negative Armor System -2"
+[A1CM]
+Name="Negative Armor System -1"
+[A1CJ]
+Name="Item Agility Bonus"
+[A1CN]
+Name="Item Life Steal 200%"
+[A1CO]
+Name="Phantom Strike"
+[A1CU]
+Name="Aghanim's Scepter (Chen)"
+[A1CY]
+Name="Aghanim's Scepter (Pudge)"
+[A1CZ]
+Name="Aghanim's Scepter (SB)"
+[A1D0]
+Name="Aghanim's Scepter (Bane)"
+[A1D1]
+Name="Aghanim's Scepter (Void)"
+[A1D2]
+Name="Aghanim's Scepter (Windrunner)"
+[A1D3]
+Name="Aghanim's Scepter (Abaddon)"
+[A1D4]
+Name="Aghanim's Scepter (Dazzle)"
+[A1DK]
+Name="Eye Of The Storm Negative Armor System -1"
+[A1DL]
+Name="Eye Of The Storm Negative Armor System -2"
+[A1DM]
+Name="Eye Of The Storm Negative Armor System -8"
+[A1DN]
+Name="Eye Of The Storm Negative Armor System -4"
+[A1DO]
+Name="Eye Of The Storm Negative Armor System -16"
+[A1DQ]
+Name="Static Link Damage Positive 2"
+[A1DR]
+Name="Static Link Damage Positive 4"
+[A1DS]
+Name="Static Link Damage Positive 8"
+[A1DT]
+Name="Static Link Damage Positive 16"
+[A1DU]
+Name="Static Link Damage Positive 32"
+[A1DV]
+Name="Static Link Damage Positive 1"
+[A1DW]
+Name="Static Link Damage Positive 64"
+[A1DX]
+Name="Static Link Damage Positive 128"
+[A1DY]
+Name="Static Link Damage Negative 128"
+[A1DZ]
+Name="Static Link Damage Negative 64"
+[A1E0]
+Name="Static Link Damage Negative 16"
+[A1E1]
+Name="Static Link Damage Negative 8"
+[A1E2]
+Name="Static Link Damage Negative 4"
+[A1E3]
+Name="Static Link Damage Negative 2"
+[A1E4]
+Name="Static Link Damage Negative 1"
+[A1E5]
+Name="Static Link Damage Negative 32"
+[A1EB]
+Name="Autofire"
+Researchtip="Learn Geminate Attac|cffffcc00k|r - [|cffffcc00Level %d|r]"
+Researchubertip="Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this. |n|n|cffffcc00Level 1|r - 6 second cooldown.|n|cffffcc00Level 2|r - 5 second cooldown|n|cffffcc00Level 3|r - 4 second cooldown|n|cffffcc00Level 4|r - 2.5 second cooldown|n|n|c00ff0303Orb effect.|r"
+Researchhotkey="K"
+[A1F3]
+Name="Warcry Container - Level 3"
+[A1F5]
+Name="Warcry Container - Level 4"
+[A1F6]
+Name="Warcry Container - Level 1"
+[A1F7]
+Name="Warcry Container - Level 2"
+[A1FC]
+Name="Autofire FX"
+[A1FE]
+Name="Warcry FX"
+[A1FF]
+Name="Liquid Fire Container - 1"
+[A1FG]
+Name="Liquid Fire Container - 2"
+[A1FH]
+Name="Liquid Fire Container - 4"
+[A1FI]
+Name="Liquid Fire Container - 3"
+[A1FQ]
+Name="MKB Spell Book"
+[A1FR]
+Name=Item Armor Bonus
+[A1FS]
+Name=Item Armor Bonus
+[A1FX]
+Name=Item Hero Stat Bonus
+[A1G1]
+Name="Aghanim's Scepter (Techies)"
+[A1G2]
+Name=Item Attack Speed Bonus
+[A1G3]
+Name="Liquid Fire Slow 2"
+[A1G4]
+Name="Liquid Fire Slow 4"
+[A1G5]
+Name="Liquid Fire Slow 1"
+[A1G6]
+Name="Liquid Fire Slow 3"
+[A1GI]
+Name="Bonus Attack Speed - 128"
+[A1GJ]
+Name="Bonus Attack Speed - 4"
+[A1GK]
+Name="Bonus Attack Speed - 1"
+[A1GL]
+Name="Bonus Attack Speed - 2"
+[A1GM]
+Name="Bonus Attack Speed - 16"
+[A1GN]
+Name="Bonus Attack Speed - 32"
+[A1GO]
+Name="Bonus Attack Speed - 64"
+[A1GP]
+Name="Bonus Attack Speed - 8"
+[A1GQ]
+Name="Bonus Attack Speed - 256"
+[A1GW]
+Name=Item Life Regeneration
+[A1GX]
+Name=Item Attack Speed Bonus
+[A1GY]
+Name="Item Damage Bonus (+10)"
+[A1H2]
+Name=Item Hero Stat Bonus
+[A1H3]
+Name=Item Hero Stat Bonus
+[A1H4]
+Name=Item Hero Stat Bonus
+[A1H6]
+Name=Item Hero Stat Bonus
+[A1H7]
+Name=Item Hero Stat Bonus
+[A1H8]
+Name=Item Hero Stat Bonus
+[A1H9]
+Name=Item Hero Stat Bonus
+[A1HA]
+Name=Item Hero Stat Bonus
+[A1HB]
+Name="Item Damage Bonus (+12)"
+[A1HC]
+Name="Item Damage Bonus (+46)"
+[A1HD]
+[A1HE]
+Name=Item Attack Speed Bonus
+[A1HF]
+Name=Item Hero Stat Bonus
+[A1HG]
+Name="Item Damage Bonus (+26)"
+[A1HI]
+Name="Item Damage Bonus (+45)"
+[A1HJ]
+Name="Item Strength Bonus"
+[A1HK]
+Name="Item Strength Bonus"
+[A1HZ]
+Name="Ice Vortex 1"
+[A1I0]
+Name="Ice Vortex - Spell 3"
+[A1I1]
+Name="Ice Vortex - Spell 2"
+[A1I2]
+Name="Ice Vortex - Spell 1"
+[A1I3]
+Name="Ice Vortex 3"
+[A1I4]
+Name="Ice Vortex 2"
+[A1I5]
+Name="Ice Vortex - Spell 4"
+[A1I6]
+Name="Ice Vortex 4"
+[A1I7]
+Name="Nightcrawler FX"
+[A1IE]
+Name="Nightcrawler Container - 1"
+[A1IF]
+Name="Nightcrawler Container - 2"
+[A1IG]
+Name="Nightcrawler Container - 3"
+[A1IR]
+Name="Jinada Damage"
+[A1IS]
+Name="Jinada FX"
+[A1IU]
+Name="Jinada Container - 4"
+[A1IW]
+Name="Jinada Maim"
+[A1IY]
+Name="PhantasmStrike Helper"
+[A1J3]
+Name="Jinada Container - 2"
+[A1J4]
+Name="Jinada Container - 1"
+[A1J5]
+Name="Jinada Container - 3"
+[A1J6]
+Name="Pounce FX"
+[A1JC]
+Name="IceShell - 1,4"
+[A1JD]
+Name="IceShell - 1,5"
+[A1JE]
+Name="IceShell - 1,6"
+[A1JF]
+Name="IceShell - 2,1"
+[A1JG]
+Name="IceShell - 2,2"
+[A1JH]
+Name="IceShell - 2,3"
+[A1JI]
+Name="IceShell - 2,4"
+[A1JJ]
+Name="IceShell - 3,1"
+[A1JK]
+Name="IceShell - 2,6"
+[A1JL]
+Name="IceShell - 3,2"
+[A1JM]
+Name="IceShell - 3,3"
+[A1JN]
+Name="IceShell - 3,4"
+[A1JO]
+Name="IceShell - 3,5"
+[A1JP]
+Name="IceShell - 3,6"
+[A1JQ]
+Name="IceShell - 4,1"
+[A1JR]
+Name="IceShell - 4,2"
+[A1JS]
+Name="IceShell - 4,6"
+[A1JT]
+Name="IceShell - 1,1"
+[A1JU]
+Name="IceShell - 1,2"
+[A1JV]
+Name="IceShell - 1,3"
+[A1JW]
+Name="IceShell - 2,5"
+[A1JX]
+Name="IceShell - 4,3"
+[A1JY]
+Name="IceShell - 4,4"
+[A1JZ]
+Name="IceShell - 4,5"
+[A1K1]
+Name="IceShell Book - 2,1"
+[A1KP]
+Name="IceShell Book - 1,4"
+[A1KQ]
+Name="IceShell Book - 1,3"
+[A1KR]
+Name="IceShell Book - 1,1"
+[A1KS]
+Name="IceShell Book - 1,2"
+[A1KT]
+Name="IceShell Book - 2,6"
+[A1KU]
+Name="IceShell Book - 1,5"
+[A1KV]
+Name="IceShell Book - 1,6"
+[A1KW]
+Name="IceShell Book - 2,2"
+[A1KX]
+Name="IceShell Book - 2,3"
+[A1KY]
+Name="IceShell Book - 2,4"
+[A1KZ]
+Name="IceShell Book - 2,5"
+[A1L0]
+Name="IceShell Book - 3,5"
+[A1L1]
+Name="IceShell Book - 3,4"
+[A1L2]
+Name="IceShell Book - 3,3"
+[A1L3]
+Name="IceShell Book - 3,2"
+[A1L4]
+Name="IceShell Book - 3,1"
+[A1L5]
+Name="IceShell Book - 3,6"
+[A1L6]
+Name="IceShell Book - 4,6"
+[A1L7]
+Name="IceShell Book - 4,2"
+[A1L8]
+Name="IceShell Book - 4,1"
+[A1L9]
+Name="IceShell Book - 4,3"
+[A1LA]
+Name="IceShell Book - 4,5"
+[A1LB]
+Name="IceShell Book - 4,4"
+[A1LD]
+Name="Gust Container"
+[A1LE]
+Name="Ice Blast FX"
+[A1LG]
+Name="IceShell - 4,7"
+[A1LH]
+Name="IceShell Book - 4,7"
+[A1LI]
+Name="IceShellEnemy - Armor 1"
+[A1LJ]
+Name="IceShellEnemy - Armor 2"
+[A1LK]
+Name="IceShellEnemy - Armor 3"
+[A1LL]
+Name="IceShellEnemy - Armor 6"
+[A1LM]
+Name="IceShellEnemy - Armor 8"
+[A1LN]
+Name="IceShellEnemy - Armor 10"
+[A1LO]
+Name="IceShellEnemy - Armor 4"
+[A1LP]
+Name="IceShellEnemy - Armor 5"
+[A1LQ]
+Name="IceShellEnemy - Armor 9"
+[A1LR]
+Name="IceShellEnemy - Armor 7"
+[A1LS]
+Name="IceShellEnemy - Armor 1"
+[A1M3]
+Name="IceShellEnemy Book - 1"
+[A1M4]
+Name="IceShellEnemy Book - 2"
+[A1M5]
+Name="IceShellEnemy Book - 8"
+[A1M6]
+Name="IceShellEnemy Book - 10"
+[A1M7]
+Name="IceShellEnemy Book - 4"
+[A1M8]
+Name="IceShellEnemy Book - 5"
+[A1M9]
+Name="IceShellEnemy Book - 6"
+[A1MA]
+Name="IceShellEnemy Book - 7"
+[A1MB]
+Name="IceShellEnemy Book - 9"
+[A1MC]
+Name="IceShellEnemy Book - 3"
+[A1LT]
+Name="IceShellEnemy - Magic 1"
+[A1LU]
+Name="IceShellEnemy - Magic 2"
+[A1LV]
+Name="IceShellEnemy - Magic 3"
+[A1LW]
+Name="IceShellEnemy - Magic 5"
+[A1LX]
+Name="IceShellEnemy - Magic 6"
+[A1LY]
+Name="IceShellEnemy - Magic 9"
+[A1LZ]
+Name="IceShellEnemy - Magic 8"
+[A1M0]
+Name="IceShellEnemy - Magic 7"
+[A1M1]
+Name="IceShellEnemy - Magic 4"
+[A1M2]
+Name="IceShellEnemy - Magic 10"
+[A1ML]
+Name="Wand of Illusion"
+[A1MM]
+Name="Staff of Healing"
+[A1MT]
+Name="Aghanim's Scepter (Axe)"
+[A1MU]
+Name="Aghanim's Scepter (Nevermore)"
+[A1MX]
+Name="Aghanim's Scepter (Batrider)"
+[A1N0]
+Name="Aghanim's Scepter (Earthshaker)"
+[A1N3]
+Name="Overpower"
+[A1N5]
+Name="Overpower FX"
+[A1N6]
+Name="Overpower Container"
+[A1NJ]
+Name="Soul Assumption FX Level Final"
+[A1NP]
+Name="Spirit Echo"
+Ubertip="text.","text.","text.","text."
+Researchhotkey="I"
+Researchtip="Learn Sp|cffffcc00i|rrit Echo - [|cffffcc00Level %d|r]"
+Researchubertip="text. |n|n|cffffcc00Level 1|r - text. |n|cffffcc00Level 2|r - text. |n|cffffcc00Level 3|r - text. |n|cffffcc00Level 4|r - text. "
+Tip="Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 1|r]","Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 2|r]","Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 3|r]","Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 4|r]"
+[A1IP]
+Name="Chilling Touch"
+[A1J8]
+Name="Spell Damage Reduction Greater 50%"
+[A1NQ]
+Name="Scepter (Luna)"
+[A1NR]
+Name="Scepter (Vengeful Spirit)"
+[A1NS]
+Name="Scepter (Huskar)"
+[A1NV]
+Name="Spell Damage Reduction FULL"
+[A1NW]
+Name="Scepter (Leshrac)"
+[A1NX]
+Name="Scepter (Sandking)"
+[A1N9]
+Name="Soul Assumption"
+Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1NY]
+Name="Soul Assumption"
+Ubertip="Charges: 4","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1NZ]
+Name="Soul Assumption"
+Ubertip="Charges: 2","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1O0]
+Name="Soul Assumption"
+Ubertip="Charges: 5","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1O1]
+Name="Soul Assumption"
+Ubertip="Charges: 0","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1O2]
+Name="Soul Assumption"
+Ubertip="Charges: 1","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1O3]
+Name="Soul Assumption"
+Ubertip="Charges: 6","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1O6]
+Name="Soul Assumption"
+Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1O7]
+Name="Soul Assumption"
+Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1O8]
+Name="Soul Assumption"
+Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Soul Assumption","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A1O9]
+Name="Spell Damage Reduction almost FULL"
+[A1OC]
+Name="Scepter (Earthshaker)"
+[A1OL]
+Name="Scorched Earth Container - 1"
+[A1OM]
+Name="Scorched Earth Container - 4"
+[A1ON]
+Name="Scorched Earth Container - 2"
+[A1OO]
+Name="Scorched Earth Container - 3"
+[A1P7]
+Name="Frost Attack (Lucy)"
+[A1PA]
+Name="Frost Attack"
+Ubertip="Induces a freezing effect to the Ghost's attacks.  Each attack slows the enemy's movement and attack rates. "
+Tip="Frost Attack"
+[A1PV]
+Name="Capture Point - Ability HP 3a"
+[A1PB]
+Name="Capture Point - Ability HP 3a - Creeps"
+[A1PD]
+Name="Capture Point - Ability HP 3b"
+[A1PW]
+Name="Capture Point - Ability HP 3b - Creeps"
+[A1Q0]
+Name="Empower Cleave Container 1"
+[A1Q1]
+Name="Empower Cleave Container 2"
+[A1Q2]
+Name="Empower Cleave Container 3"
+[A1Q3]
+Name="Empower Cleave Container 4"
+[A1Q6]
+Name="Skewer Maim"
+[A1QA]
+Name="Ethereal Blade Stats"
+[A1QC]
+Name="Etherblast Container"
+[A1QE]
+Name="HP Bonus System - 1"
+[A1QF]
+Name="HP Bonus System - 2"
+[A1QG]
+Name="HP Bonus System - 512"
+[A1QH]
+Name="HP Bonus System - 32"
+[A1QI]
+Name="HP Bonus System - 4"
+[A1QJ]
+Name="HP Bonus System - 16"
+[A1QK]
+Name="HP Bonus System - 8"
+[A1QM]
+Name="HP Bonus System - 256"
+[A1QN]
+Name="HP Bonus System - 128"
+[A1QO]
+Name="HP Bonus System - 64"
+[A1QQ]
+Name="HP Bonus System - 1024"
+[A1QL]
+Name="Scepter (Jugg)"
+[A1QS]
+Name="Aghanim's Scepter (Puck)"
+[A1QT]
+Name="Jinada Container - Main"
+[A1QZ]
+Name="Swarm - Armor Reduction"
+[A1R1]
+Name="Scepter (VS)"
+[A1R2]
+Name="Scepter (Invoker)"
+[A1R3]
+Name="Scepter (Void)"
+[A1R6]
+Name="Windrunner"
+[A1R7]
+Name="Goblin Techies"
+[A1R8]
+Name="Bane Elemental"
+[A1R9]
+Name="Necrolyte"
+[A1RG]
+Name="Puck Effect"
+[A1RH]
+Name="Puck Effect"
+[A1RL]
+Name="Phoenix Cyclone"
+Tip=|cffffcc00C|ryclone
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Hotkey=C
+[A1RV]
+Name="Phoenix Smash 4"
+[A1RW]
+Name="Phoenix Smash 2"
+[A1RX]
+Name="Phoenix Smash 1"
+[A1RY]
+Name="Phoenix Smash 3"
+[A1S5]
+Name="Disruption Illusion"
+[A1SD]
+Name="Burst 1"
+[A1SL]
+Name="Snowball 3"
+[A1SS]
+Name="CallDown Container 1"
+[A1T4]
+Name="CallDown Container 2"
+[A1T6]
+Name="Eclipse Time Of Day"
+[A1TC]
+Name="Overcharge Bonus Damage - 1"
+[A1TD]
+Name="Overcharge Bonus Damage - 4"
+[A1TE]
+Name="Overcharge Bonus Damage - 3"
+[A1TF]
+Name="Overcharge Bonus Damage - 2"
+[A1TG]
+Name="Tether Container - Level 3"
+[A1TH]
+Name="Tether Container - Level 1"
+[A1TI]
+Name="Tether Container - Level 2"
+[A1TJ]
+Name="Tether Container - Level 4"
+[A1TP]
+Name="Overcharge Container - 4"
+[A1TQ]
+Name="Overcharge FX"
+[A1TR]
+Name="Overcharge Container - 2"
+[A1TS]
+Name="Overcharge Container - 1"
+[A1TT]
+Name="Overcharge Container - 3"
+[A1U9]
+Name="Frost Sword FX"
+[A1UA]
+Name="Freeze Sword Container 2"
+[A1UB]
+Name="Freeze Sword Container 1"
+[A1UC]
+Name="Freeze Sword Container 3"
+[A1UD]
+Name="Freeze Sword Bash - 3"
+[A1UE]
+Name="Freeze Sword Bash - 2"
+[A1UF]
+Name="Freeze Sword Bash - 1"
+[A1UH]
+Name="Walrus Punch Container - 1"
+[A1UI]
+Name="Walrus Punch Container - 2"
+[A1UJ]
+Name="Walrus Punch Container - 3"
+[A1UR]
+Name="Item Life bonus (+275)"
+[A1UT]
+Name="Aghanim's Scepter (Warlock)"
+[A1UU]
+Name="Aghanim's Scepter (Razor)"
+[A1UX]
+Name="Scepter (Razor)"
+[A1UY]
+Name="Scepter (Warlock)"
+[A1V1]
+Name="Aghanim's Scepter (Viper)"
+[A1V2]
+Name="Item Damage Bonus (+81)"
+[A1V3]
+Name="Scepter (VS)"
+[A1V4]
+Name="Blink (Test Version)"
+[A1V5]
+Name="Scepter (Witch Doctor)"
+[A1VJ]
+Name="Aghanim's Scepter (Tiny)"
+[A1VK]
+Name="Overcharge Attack Speed - 4"
+[A1VL]
+Name="Overcharge Attack Speed - 3"
+[A1VM]
+Name="Overcharge Attack Speed - 1"
+[A1VN]
+Name="Overcharge Attack Speed - 2"
+[A1VP]
+Name="Item Attack Speed 35%"
+[A1VQ]
+Name="Item Mana Bonus +250"
+[A1VR]
+Name="Arcane Boots Speed Bonus"
+[A1VS]
+Name="Hellfire Blast Container 1"
+[A1VY]
+Name="Aghanim's Scepter (Obsidian Destroyer)"
+[A1VZ]
+Name="Scepter (Destroyer)"
+[A1W1]
+Name="Warclub Cleave Container"
+[A1W3]
+Name="Battle Hunger Container 1"
+[A1W6]
+Name="Poison Nova FX"
+[A1W7]
+Name="Poison Nova Container"
+[A1WA]
+Name="Sapphire Water Temp"
+[A1WD]
+Name="Aghanim's Scepter (Enchantress)"
+[A1WJ]
+Name=Item Hero Stat Bonus
+[A1WK]
+Name=Item Hero Stat Bonus
+[A1WL]
+Name=Item Hero Stat Bonus
+[A1WM]
+Name=Item Hero Stat Bonus
+[A1WN]
+Name=Item Hero Stat Bonus
+[A1WO]
+Name="Ring of Basilius Container"
+[A1WP]
+Name="Captain CoCo's Rum Container"
+[A1WW]
+Name="Spirit Bear Spell Damage Reduction - 1"
+[A1WX]
+Name="Spirit Bear Spell Damage Reduction - 4"
+[A1WY]
+Name="Spirit Bear Spell Damage Reduction - 2"
+[A1WZ]
+Name="Spirit Bear Spell Damage Reduction - 3"
+[A1X1]
+Name="Scepter (Enchantress 1)"
+[A1X2]
+Name="Scepter (Enchantress 2)"
+[A1X3]
+Name="Item Damage Bonus (+88)"
+[A1YB]
+Name="Item Int Bonus"
+[A1YC]
+Name="Item Int Bonus"
+[A1YD]
+Name="Item Int Bonus"
+[A1YE]
+Name="Item Int Bonus"
+[A1YG]
+Name="Item Phoenix Bonus"
+[A1YJ]
+Name="Item Hero Stat Bonus Phoenix"
+[A1YK]
+Name="Crit 75%"
+[A1YL]
+Name="Bash Phoenix"
+[A1Z0]
+Name="Walrus Punch Container - 4"
+[A1Z4]
+Name="Sun Ray Maim - 1"
+[A1Z9]
+Name="Sun Ray Maim - 4"
+[A1ZA]
+Name="Sun Ray Maim - 2"
+[A1ZB]
+Name="Sun Ray Maim - 3"
+[A1ZH]
+Name="Medallion of Courage Container"
+[A1ZJ]
+Name=Item Armor Bonus
+[A1ZK]
+Name=Item Armor Bonus
+[A1ZQ]
+Name=Item Hero Stat Bonus
+[A1ZR]
+Name=Item Hero Stat Bonus
+[A1ZU]
+Name="Item Hero Stat Bonus +9 all"
+[A1ZV]
+Name="Item Damage Bonus (+9)"
+[A1ZW]
+Name="Ancient Jangoo"
+[A1ZX]
+Name="Ancient Jangoo Container"
+[A1ZZ]
+Name="Ancient Jangoo FX"
+[A204]
+Name="Walrus Punch"
+[A206]
+Name="Smoke of Deceit"
+[A207]
+Name="Crit 20%"
+[A20D]
+Name="Snowball 4"
+[A20E]
+Name="Snowball 2"
+[A20F]
+Name="Snowball 1"
+[A20H]
+Name="Snowstorm Container 1"
+[A20I]
+Name="Snowstorm Container 3"
+[A20J]
+Name="Snowstorm Container 2"
+[A20K]
+Name="Snowstorm Container 4"
+[A20P]
+Name="Smoke of Deceit Container"
+[A20S]
+Name="Smoke of Deceit Container"
+[A20V]
+Name="Scepter (Chen)"
+[A210]
+Name="Thirst Book 1"
+[A211]
+Name="Thirst Book 2"
+[A212]
+Name="Thirst Book 3"
+[A213]
+Name="Thirst Book 4"
+[A214]
+Name="Thirst FX"
+[A219]
+Name="Blur Container 3"
+[A21A]
+Name="Blur Container 4"
+[A21B]
+Name="Blur Container 2"
+[A21C]
+Name="Blur Container 1"
+[A21S]
+Name="Aghanim's Scepter (Dark Seer)"
+[A21T]
+Name="Sunray Spell Amp"
+[A21Z]
+Name="Scepter (Dark Seer)"
+[A220]
+Name="Scepter (Clockwerk)"
+[A221]
+Name="Enfeeble Damage 1"
+[A222]
+Name="Enfeeble Damage 4"
+[A223]
+Name="Enfeeble Damage 2"
+[A224]
+Name="Enfeeble Damage 3"
+[A228]
+Name="Anchor Smash Container"
+[A22M]
+Name="Icy Path Slow Book 7"
+[A22N]
+Name="Icy Path Slow Book 6"
+[A22O]
+Name="Icy Path Slow Book 4"
+[A22P]
+Name="Icy Path Slow Book 3"
+[A22Q]
+Name="Icy Path Slow Book 2"
+[A22R]
+Name="Icy Path Slow Book 1"
+[A22S]
+Name="Icy Path Slow Book 5"
+[A237]
+Name="Aghanim's Scepter (Gyrocopter)"
+[A23E]
+Name="Scepter (Gyrocopter)"
+[A23F]
+Name="Split Shot Spell Book - Level 2"
+[A23H]
+Name="Wither Armor - 1"
+[A23I]
+Name="Wither Armor - 16"
+[A23J]
+Name="Wither Armor - 8"
+[A23K]
+Name="Wither Armor - 2"
+[A23L]
+Name="Wither Armor - 4"
+[A23M]
+Name="Wither Armor - 32"
+[A23O]
+Name="Nature's Guise Spell Book"
+[A23T]
+Name="Corrosive Skin FX"
+[A23U]
+Name="Corrosive Skin Container - Level 2"
+[A23V]
+Name="Corrosive Skin Container - Level 3"
+[A23W]
+Name="Corrosive Skin Container - Level 1"
+[A23X]
+Name="Corrosive Skin Container - Level 4"
+[A23Z]
+Name="Water Spray FX"
+[A240]
+Name="Water Spray Armor - 1"
+[A241]
+Name="Water Spray Armor - 2"
+[A242]
+Name="Water Spray Armor - 3"
+[A243]
+Name="Water Spray Armor - 4"
+[A244]
+Name="Water Spray - Level 1"
+[A245]
+Name="Water Spray - Level 2"
+[A246]
+Name="Water Spray - Level 3"
+[A247]
+Name="Water Spray - Level 4"
+[A249]
+Name="Spiritbash Helper"
+[A24F]
+Name="Fortify Spell Damage Reduction"
+[A24H]
+Name="Spiritbash Container"
+[A24K]
+Name="Reflection Image"
+Researchhotkey="C"
+Hotkey=C
+Researchtip="Learn |cffffcc00C|ronjure Image - [|cffffcc00Level %d|r]"
+Researchubertip="Creates a copy of Terrorblade which deals damage.  Lasts 30 seconds.  |n|n|cffffcc00Level 1|r - Images deal 25% damage. |n|cffffcc00Level 2|r - Images deal 35% damage. |n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
+Tip="|cffffcc00C|ronjure Image - [|cffffcc00Level 1|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 2|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 3|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 4|r]"
+Ubertip="Creates a copy of Terrorblade which deals 25% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage.  The images take 300% damage.|nLasts 30 seconds."
+[A24P]
+Name="Sentinel Container"
+[A24X]
+Name="Demonic Clutch Container 3"
+[A24Y]
+Name="Demonic Clutch Container 5"
+[A24Z]
+Name="Demonic Clutch Container 1"
+[A250]
+Name="Demonic Clutch Container 2"
+[A251]
+Name="Demonic Clutch Container 4"
+[A257]
+Name="Corpse Collector - Regen 5"
+[A258]
+Name="Corpse Collector - Regen 4"
+[A259]
+Name="Corpse Collector - Regen 7"
+[A25A]
+Name="Corpse Collector - Regen 3"
+[A25B]
+Name="Corpse Collector - Regen 10"
+[A25C]
+Name="Corpse Collector - Regen 9"
+[A25D]
+Name="Corpse Collector - Regen 2"
+[A25E]
+Name="Corpse Collector - Regen 1"
+[A25F]
+Name="Corpse Collector - Regen 6"
+[A25G]
+Name="Corpse Collector - Regen 8"
+[A25H]
+Name="Corpse Collector - Armor 7"
+[A25I]
+Name="Corpse Collector - Armor 2"
+[A25J]
+Name="Corpse Collector - Armor 3"
+[A25K]
+Name="Corpse Collector - Armor 8"
+[A25L]
+Name="Corpse Collector - Armor 10"
+[A25M]
+Name="Corpse Collector - Armor 1"
+[A25N]
+Name="Corpse Collector - Armor 9"
+[A25O]
+Name="Corpse Collector - Armor 4"
+[A25P]
+Name="Corpse Collector - Armor 6"
+[A25Q]
+Name="Corpse Collector - Armor 5"
+[A25R]
+Name="Corpse Collector Container 8"
+[A25S]
+Name="Corpse Collector Container 7"
+[A25T]
+Name="Corpse Collector Container 4"
+[A25U]
+Name="Corpse Collector Container 6"
+[A25V]
+Name="Corpse Collector Container 5"
+[A25W]
+Name="Corpse Collector Container 9"
+[A25X]
+Name="Corpse Collector Container 1"
+[A25Y]
+Name="Corpse Collector Container 2"
+[A25Z]
+Name="Corpse Collector Container 3"
+[A260]
+Name="Corpse Collector Container 10"
+[A265]
+Name="Sange and Yasha Slow Container"
+[A266]
+Name="Sange Slow Container"
+[A26A]
+Name="Gem Visual Real"
+[A26B]
+Name="Gem Visual Fake"
+[A26C]
+Name="Sange Visual Effect"
+[A26U]
+Name="Soul Steal FX"
+[A26V]
+Name="Soulsteal Container - Level 2"
+[A26W]
+Name="Soulsteal Container - Level 4"
+[A26X]
+Name="Soulsteal Container - Level 1"
+[A26Y]
+Name="Soulsteal Container - Level 3"
+[A270]
+Name="Crippling Wave Container"
+[A273]
+Name="Leech Seed Container"
+[A276]
+Name="Zeal Regen - 1"
+[A277]
+Name="Zeal Regen - 3"
+[A278]
+Name="Zeal Regen - 4"
+[A279]
+Name="Zeal Regen - 2"
+[A27E]
+Name="Aghanim's Scepter (Meepo)"
+[A27Q]
+Name="Null Field Spellbook - 2"
+[A27R]
+Name="Null Field Spellbook - 3"
+[A27S]
+Name="Null Field Spellbook - 1"
+[A27T]
+Name="Null Field Spellbook - 4"
+[A27W]
+Name="Fade Bolt Damage - 1 "
+[A285]
+Name="Fade Bolt Damage - 3 "
+[A286]
+Name="Fade Bolt Damage - 2 "
+[A287]
+Name="Fade Bolt Damage - 4"
+[A28B]
+Name="Aghanim's Scepter (Beastmaster)"
+[A28C]
+Name=Item Hero Stat Bonus
+[A28F]
+Name="Veil of Discord Spellbook"
+[A28H]
+Name="Veil of Discord FX"
+[A28U]
+Name="Overcharge Damage - 1"
+[A28V]
+Name="Overcharge Damage - 2"
+[A28W]
+Name="Overcharge Damage - 3"
+[A28X]
+Name="Overcharge Damage - 4"
+[A28Z]
+Name="Fade Bolt Damage Creeps - 2"
+[A290]
+Name="Fade Bolt Damage Creeps - 4"
+[A291]
+Name="Fade Bolt Damage Creeps - 1 "
+[A292]
+Name="Fade Bolt Damage Creeps - 3"
+[A293]
+Name="Living Armor FX"
+[A298]
+Name="Timewalk Container - 4"
+[A299]
+Name="Timewalk Container - 2"
+[A29A]
+Name="Timewalk Container - 1"
+[A29B]
+Name="Timewalk Container - 3"
+[A29E]
+Name="Beastmaster Aghanim Effect"
+[A29F]
+Name="Vladmir Spell Book"
+[A29J]
+Name="Requiem of Souls"
+Researchhotkey="R"
+Hotkey=R
+Researchtip="|cffffcc00R|requiem of Souls - [|cffffcc00Level %d|r]"
+Researchubertip="Summons evil spirits around you dealing damage to units in the area. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. |n|n|cff99ccffCooldown: |r 120/110/100 seconds. "
+Tip="|cffffcc00R|requiem of Souls - [|cffffcc00Level 1|r]","|cffffcc00R|requiem of Souls - [|cffffcc00Level 2|r]","|cffffcc00R|requiem of Souls - [|cffffcc00Level 3|r]"
+Ubertip="Summons evil spirits around you dealing 80 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 120 seconds.","Summons evil spirits around you dealing 120 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 110 seconds. ","Summons evil spirits around you dealing 160 damage each. Number of spirits is related to the number of souls stored. Lowers movement speed and damage of nearby units. The closer the units are the greater the damage. 1 second casting time.|n|n|cff99ccffCooldown: |r 100 seconds."
+[A29N]
+Name="Courier Reincarnation Container"
+[A29T]
+Name="Leap Smash Container Main"
+[A29U]
+Name="Leap Smash Container Secondary"
+[A29X]
+Name="Spell Shield Retaliation"
+[A29Z]
+Name="Rend Passive - 2"
+[A2A0]
+Name="Rend Passive - 1"
+[A2A1]
+Name="Rend Passive - 3"
+[A2A2]
+Name="Rend Active - 1"
+[A2A3]
+Name="Rend Active - 2"
+[A2A4]
+Name="Rend Active - 3"
+[A2A5]
+Name="Rend Lifesteal"
+[A2AC]
+Name="Rend Passive FX"
+[A2AD]
+Name="Rend Active FX"
+[A2AP]
+Name="Battle Hunger MS Boost Container - 6"
+[A2AQ]
+Name="Battle Hunger MS Boost Container - 5"
+[A2AR]
+Name="Battle Hunger MS Boost Container - 1"
+[A2AS]
+Name="Battle Hunger MS Boost Container - 2"
+[A2AT]
+Name="Battle Hunger MS Boost Container - 4"
+[A2AU]
+Name="Battle Hunger MS Boost Container - 3"
+[A2B0]
+Name="Wraith Magic Container 2"
+[A2B1]
+Name="Wraith Magic Container 3"
+[A2B2]
+Name="Wraith Magic Container 4"
+[A2B3]
+Name="Wraith Magic Container 1"
+[A2B7]
+Name="Miasma Reveal"
+[A2BN]
+Name="Amp Damage Container - 2"
+[A2BO]
+Name="Amp Damage Container - 3"
+[A2BP]
+Name="Amp Damage Container - 4"
+[A2BQ]
+Name="Amp Damage Container - 6"
+[A2BR]
+Name="Amp Damage Container - 1"
+[A2BS]
+Name="Amp Damage Container - 5"
+[A2BY]
+Name="Gallop Container - Speed 3"
+[A2BZ]
+Name="Gallop Container - Slow"
+[A2C2]
+Name="Brotherhood Bonus Damage - 2"
+[A2C3]
+Name="Brotherhood Bonus Damage - 1"
+[A2C4]
+Name="Brotherhood Bonus Damage - 8"
+[A2C5]
+Name="Brotherhood Bonus Damage - 16"
+[A2C6]
+Name="Brotherhood Bonus Damage - 128"
+[A2C7]
+Name="Brotherhood Bonus Damage - 4"
+[A2C8]
+Name="Brotherhood Bonus Damage - 32"
+[A2C9]
+Name="Brotherhood Bonus Damage - 64"
+[A2CA]
+Name="Brotherhood Bonus Attack Speed - 8"
+[A2CB]
+Name="Brotherhood Bonus Attack Speed - 4"
+[A2CC]
+Name="Brotherhood Bonus Attack Speed - 64"
+[A2CD]
+Name="Brotherhood Bonus Attack Speed - 2"
+[A2CE]
+Name="Brotherhood Bonus Attack Speed - 1"
+[A2CF]
+Name="Brotherhood Bonus Attack Speed - 16"
+[A2CG]
+Name="Brotherhood Bonus Attack Speed - 32"
+[A2CH]
+Name="Brotherhood Bonus Attack Speed - 128"
+[A2CJ]
+Name="Reactive Armor Bonus - 15"
+[A2CK]
+Name="Reactive Armor Bonus - 13"
+[A2CL]
+Name="Reactive Armor Bonus - 7"
+[A2CM]
+Name="Reactive Armor Bonus - 12"
+[A2CN]
+Name="Reactive Armor Bonus - 14"
+[A2CO]
+Name="Reactive Armor Bonus - 11"
+[A2CP]
+Name="Reactive Armor Bonus - 10"
+[A2CQ]
+Name="Reactive Armor Bonus - 5"
+[A2CR]
+Name="Reactive Armor Bonus - 6"
+[A2CS]
+Name="Reactive Armor Bonus - 8"
+[A2CT]
+Name="Reactive Armor Bonus - 16"
+[A2CU]
+Name="Reactive Armor Bonus - 9"
+[A2CV]
+Name="Reactive Armor Bonus - 3"
+[A2CW]
+Name="Reactive Armor Bonus - 1"
+[A2CX]
+Name="Reactive Armor Bonus - 2"
+[A2CY]
+Name="Reactive Armor Bonus - 4"
+[A2CZ]
+Name="Reactive Regeneration Bonus - 6"
+[A2D0]
+Name="Reactive Regeneration Bonus - 4"
+[A2D1]
+Name="Reactive Regeneration Bonus - 3"
+[A2D2]
+Name="Reactive Regeneration Bonus - 13"
+[A2D3]
+Name="Reactive Regeneration Bonus - 5"
+[A2D4]
+Name="Reactive Regeneration Bonus - 10"
+[A2D5]
+Name="Reactive Regeneration Bonus - 15"
+[A2D6]
+Name="Reactive Regeneration Bonus - 16"
+[A2D7]
+Name="Reactive Regeneration Bonus - 9"
+[A2D8]
+Name="Reactive Regeneration Bonus - 2"
+[A2D9]
+Name="Reactive Regeneration Bonus - 8"
+[A2DA]
+Name="Reactive Regeneration Bonus - 12"
+[A2DB]
+Name="Reactive Regeneration Bonus - 11"
+[A2DC]
+Name="Reactive Regeneration Bonus - 1"
+[A2DD]
+Name="Reactive Regeneration Bonus - 7"
+[A2DE]
+Name="Reactive Regeneration Bonus - 14"
+[A2DF]
+Name="Reactive Armor Container - 2"
+[A2DG]
+Name="Reactive Armor Container - 1"
+[A2DH]
+Name="Reactive Armor Container - 9"
+[A2DI]
+Name="Reactive Armor Container - 6"
+[A2DJ]
+Name="Reactive Armor Container - 5"
+[A2DK]
+Name="Reactive Armor Container - 16"
+[A2DL]
+Name="Reactive Armor Container - 3"
+[A2DM]
+Name="Reactive Armor Container - 4"
+[A2DN]
+Name="Reactive Armor Container - 7"
+[A2DO]
+Name="Reactive Armor Container - 8"
+[A2DP]
+Name="Reactive Armor Container - 11"
+[A2DQ]
+Name="Reactive Armor Container - 12"
+[A2DR]
+Name="Reactive Armor Container - 13"
+[A2DS]
+Name="Reactive Armor Container - 14"
+[A2DT]
+Name="Reactive Armor Container - 15"
+[A2DU]
+Name="Reactive Armor Container - 10"
+[A2E7]
+Name="Blade of the Reaper "
+Researchhotkey="C"
+Hotkey=C
+Tip="","|cffffcc00C|ronjure Image - [|cffffcc00Level 2|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 3|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 4|r]"
+Ubertip="","Creates a copy of Terrorblade which deals 35% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage.  The images take 300% damage.|nLasts 30 seconds."
+[A2E8]
+Name="Iron Boots Container"
+[A2E9]
+Name="Item Damage Bonus (+100)"
+[A2EC]
+Name="Crippling Staff Container"
+[A2ED]
+Name="Crippling Staff FX"
+[A2EJ]
+Name="Breeze Container 3"
+[A2EK]
+Name="Breeze Container 2"
+[A2EL]
+Name="Breeze Container 1"
+[A2EM]
+Name="Breeze Container 4"
+[A2EQ]
+Name="Frost Skin Mana Regen 3"
+[A2ER]
+Name="Frost Skin Mana Regen 2"
+[A2ES]
+Name="Frost Skin Mana Regen 1"
+[A2ET]
+Name="Frost Skin Mana Regen 4"
+[A2F2]
+Name="Wind Barrier Container"
+[A2F3]
+Name="Wind Blast Armor Reduction"
+[A2FC]
+Name="Prevailing Winds Container Slow 2"
+[A2FD]
+Name="Prevailing Winds Container Slow 1"
+[A2FE]
+Name="Prevailing Winds Container Slow 3"
+[A2FF]
+Name="Prevailing Winds Container Haste 2"
+[A2FG]
+Name="Prevailing Winds Container Haste 1"
+[A2FH]
+Name="Prevailing Winds Container Haste 3"
+[A2FI]
+Name="Prevailing Winds Cyclone"
+Tip=|cffffcc00C|ryclone
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <AIcy,Dur1> seconds."
+Hotkey=C
+[A2FJ]
+Name="Item Attack Speed 120%"
+[A2FN]
+Name="Focus Container"
+[A2FO]
+Name="Focus FX"
+[A2FP]
+Name="Focus Bonus Damage"
+[A2FY]
+Name="New Brotherhood Damage - 1"
+[A2FZ]
+Name="New Brotherhood Damage - 4"
+[A2G0]
+Name="New Brotherhood Damage - 2"
+[A2G1]
+Name="New Brotherhood Damage - 3"
+[A2G4]
+Name="Reactive Armor FX"
+[A2GC]
+Name="Moment of Courage Container - 4"
+[A2GD]
+Name="Moment of Courage Container - 1"
+[A2GE]
+Name="Moment of Courage Container - 2"
+[A2GF]
+Name="Moment of Courage Container - 3"
+[A2GG]
+Name="Moment of Courage FX"
+[A2GH]
+Name="Duel Damage Bonus System - 8"
+[A2GI]
+Name="Duel Damage Bonus System - 4"
+[A2GJ]
+Name="Duel Damage Bonus System - 2"
+[A2GK]
+Name="Duel Damage Bonus System - 1"
+[A2GL]
+Name="Duel Damage Bonus System - 128"
+[A2GM]
+Name="Duel Damage Bonus System - 64"
+[A2GN]
+Name="Duel Damage Bonus System - 16"
+[A2GO]
+Name="Duel Damage Bonus System - 32"
+[A2GP]
+Name="Duel Damage Bonus System - 256"
+[A2GW]
+Name="Slight of Fist Container - 4"
+[A2GX]
+Name="Slight of Fist Container - 1"
+[A2GY]
+Name="Slight of Fist Container - 2"
+[A2GZ]
+Name="Slight of Fist Container - 3"
+[A2H7]
+Name="Fire Barrier Container"
+[A2H9]
+Name="Slight of Fist Container - AS"
+[A2HP]
+Name="Item Attack Speed 180%"
+[A2HR]
+Name="Tranquil Boots Speed Bonus"
+[A2HX]
+Name="Arcane Silence Container - 1"
+[A2HY]
+Name="Arcane Silence Container - 3"
+[A2HZ]
+Name="Arcane Silence Container - 4"
+[A2I0]
+Name="Arcane Silence Container - 2"
+[A2I5]
+Name="Amp SLOW Container - 2"
+[A2I6]
+Name="Amp SLOW Container - 1"
+[A2I7]
+Name="Amp SLOW Container - 3"
+[A2I8]
+Name="Amp SLOW Container - 4"
+[A2I9]
+Name="Tranquil Boots Speed Bonus Broken"
+[A2IA]
+Name="Smiting Bolt FX"
+[A2IC]
+Name="Culling Blade Container"
+[A2IL]
+Name="Gallop Container - Speed 1"
+[A2IM]
+Name="Gallop Container - Speed 2"
+[A2IN]
+Name="Gallop Container - Speed 4"
+[A2IO]
+Name="Brotherhood FX"
+[A2IP]
+Name="Item Attack Speed 130%"
+[A2IV]
+Name="Fire Barrier - Damage 3"
+[A2IW]
+Name="Fire Barrier - Damage 2"
+[A2IX]
+Name="Fire Barrier - Damage 1"
+[A2IY]
+Name="Fire Barrier - Damage 4"
+[A2J3]
+Name="Press The Attack - Speed 3"
+[A2J4]
+Name="Press The Attack - Speed 1"
+[A2J5]
+Name="Press The Attack - Speed 2"
+[A2J6]
+Name="Press The Attack - Speed 4"
+[A2J7]
+Name="Press The Attack Container - 4"
+[A2J8]
+Name="Press The Attack Container - 3"
+[A2J9]
+Name="Press The Attack Container - 1"
+[A2JA]
+Name="Press The Attack Container - 2"
+[A2JG]
+Name="Slight of Fist Hero Damage Bonus - 2"
+[A2JH]
+Name="Slight of Fist Hero Damage Bonus - 1"
+[A2JI]
+Name="Slight of Fist Hero Damage Bonus - 4"
+[A2JJ]
+Name="Slight of Fist Hero Damage Bonus - 3"
+[A2JN]
+Name="Conjure Image"
+Researchhotkey="C"
+Hotkey=C
+Researchtip="Learn |cffffcc00C|ronjure Image - [|cffffcc00Level %d|r]"
+Researchubertip="Creates a copy of Terrorblade which deals damage.  Lasts 30 seconds.  |n|n|cffffcc00Level 1|r - Images deal 25% damage. |n|cffffcc00Level 2|r - Images deal 35% damage. |n|cffffcc00Level 3|r - Images deal 45% damage.|n|cffffcc00Level 4|r - Images deal 55% damage."
+Tip="|cffffcc00C|ronjure Image - [|cffffcc00Level 1|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 2|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 3|r]","|cffffcc00C|ronjure Image - [|cffffcc00Level 4|r]"
+Ubertip="Creates a copy of Terrorblade which deals 25% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 35% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 45% damage.  The images take 300% damage.|nLasts 30 seconds.","Creates a copy of Terrorblade which deals 55% damage.  The images take 300% damage.|nLasts 30 seconds."
+[A2JW]
+Name="Fire Barrier FX"
+[A2JX]
+Name="Fire Barrier Container - 4"
+[A2JY]
+Name="Fire Barrier Container - 1"
+[A2JZ]
+Name="Fire Barrier Container - 3"
+[A2K0]
+Name="Fire Barrier Container - 2"
+[A2K1]
+Name="Tranquil Boots"
+[A2K6]
+Name="Prudence Evasion"
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[A2K8]
+Name="Item Strength Bonus"
+[A2K9]
+Name="Linken Sphere Stat Bonus Container"
+[A2KD]
+Name="Culling Blade Haste FX"
+[A2KE]
+Name="Ring of Aquila Container"
+[A2KF]
+Name="Aquila Stat Bonus"
+[A2KH]
+Name="Refresher Container"
+[A2KI]
+Name="Item Int Bonus"
+[A2KJ]
+Name="Santa Hat FIXED for heroes"
+[A2KK]
+Name="Tiny Aghanim Container"
+[A2KL]
+Name=Item Life Regeneration
+[A2KT]
+Name="Aghanim's Scepter (Ogre Magi)"
+[A2KV]
+Name="Eye of Skadi Container"
+[A2KW]
+Name="Eye of Skadi Bonus Damage + 25"
+[A2L2]
+Name="Treant Spell Damage Reduction"
+[A2L7]
+Name="Overheat Attack Speed - Level 1"
+[A2L8]
+Name="Overheat Container - Level 3"
+[A2LD]
+Name="Frostwyrm Shield Armor"
+[A2LE]
+Name="Trap Container 1"
+[A2LN]
+Name="Magnetic Field Container 3"
+[A2LP]
+Name="Nural Shock Slow Container 5"
+[A2LV]
+Name="Nural Shock Slow Container 4"
+[A2LW]
+Name="Nural Shock Slow Container 1"
+[A2LX]
+Name="Nural Shock Slow Container 3"
+[A2LY]
+Name="Nural Shock Slow Container 2"
+[A2M4]
+Name="Magnetic Field Attack Speed 1"
+[A2M5]
+Name="Magnetic Field Attack Speed 2"
+[A2M6]
+Name="Magnetic Field Attack Speed 3"
+[A2M7]
+Name="Magnetic Field Attack Speed 4"
+[A2M8]
+Name="Magnetic Field Container 4"
+[A2M9]
+Name="Magnetic Field Container 1"
+[A2MA]
+Name="Magnetic Field Container 2"
+[A2ME]
+Name="Ether Essence FX"
+[A2MF]
+Name="Warcry Armor - 1"
+[A2MG]
+Name="Warcry Armor - 3"
+[A2MH]
+Name="Warcry Armor - 2"
+[A2MI]
+Name="Warcry Armor - 4"
+[A2MK]
+Name="Frost Wyrm Split - Slow Container"
+[A2MQ]
+Name="Living Armor Regen 1"
+[A2MR]
+Name="Living Armor Regen 2"
+[A2MS]
+Name="Living Armor Regen 4"
+[A2MT]
+Name="Living Armor Regen 3"
+[A2MU]
+Name="Living Armor Target FX"
+[A2MV]
+Name="Living Armor Container - 4"
+[A2MW]
+Name="Living Armor Container - 3"
+[A2MX]
+Name="Living Armor Container - 1"
+[A2MY]
+Name="Living Armor Container - 2"
+[A2N0]
+Name="Item Attack Speed 20%"
+[A2N2]
+Name="Frostwyrm Touch FX"
+[A2N6]
+Name="Arctic Siege Slow Container 2"
+[A2NB]
+Name="Arctic Siege Slow Container 1"
+[A2NC]
+Name="Arctic Siege Slow Container 3"
+[A2ND]
+Name="Arctic Siege Slow Container 4"
+[A2NH]
+Name="Item Life bonus (+325)"
+[A2NK]
+Name="Frost Wyrm Split FX"
+[A2NL]
+Name="Magnetic Field Attack Speed 2 - Nonhero"
+[A2NM]
+Name="Magnetic Field Attack Speed 1 - Nonhero"
+[A2NN]
+Name="Magnetic Field Attack Speed 3 - Nonhero"
+[A2NO]
+Name="Magnetic Field Attack Speed 4 - Nonhero"
+[A2NP]
+Name="Magnetic Field Container 1 - Nonhero"
+[A2NQ]
+Name="Magnetic Field Container 4 - Nonhero"
+[A2NR]
+Name="Magnetic Field Container 3 - Nonhero"
+[A2NS]
+Name="Magnetic Field Container 2 - Nonhero"
+[A2NU]
+Name="Last Word Container"
+[A2O0]
+Name="Item Agility Bonus"
+[A2O5]
+Name="Stampede MS Container"
+[A2OA]
+Name="Enfeeble Container - 2"
+[A2OF]
+Name="Enfeeble Container - 3"
+[A2OG]
+Name="Enfeeble Container - 1"
+[A2OH]
+Name="Enfeeble Container - 4"
+[A2OJ]
+Name="Enfeeble FX"
+[A2OK]
+Name="Stampede Slow Container"
+[A2OM]
+Name="Santa Hat FIXED for heroes FEEDER"
+[A2OO]
+Name="Reactive Armor Bonus - 19"
+[A2OP]
+Name="Reactive Armor Bonus - 18"
+[A2OQ]
+Name="Reactive Armor Bonus - 17"
+[A2OR]
+Name="Reactive Armor Bonus - 20"
+[A2OS]
+Name="Reactive Armor Container - 18"
+[A2OT]
+Name="Reactive Armor Container - 17"
+[A2OU]
+Name="Reactive Armor Container - 19"
+[A2OV]
+Name="Reactive Armor Container - 20"
+[A2PH]
+Name="Berserker's Blood Magic Container - 13"
+[A2PI]
+Name="Berserker's Blood Magic Container - 8"
+[A2PJ]
+Name="Berserker's Blood Magic Container - 6"
+[A2PK]
+Name="Berserker's Blood Magic Container - 20"
+[A2PL]
+Name="Berserker's Blood Magic Container - 9"
+[A2PM]
+Name="Berserker's Blood Magic Container - 1"
+[A2PN]
+Name="Berserker's Blood Magic Container - 2"
+[A2PO]
+Name="Berserker's Blood Magic Container - 3"
+[A2PP]
+Name="Berserker's Blood Magic Container - 4"
+[A2PQ]
+Name="Berserker's Blood Magic Container - 5"
+[A2PR]
+Name="Berserker's Blood Magic Container - 7"
+[A2PS]
+Name="Berserker's Blood Magic Container - 21"
+[A2PT]
+Name="Berserker's Blood Magic Container - 10"
+[A2PU]
+Name="Berserker's Blood Magic Container - 12"
+[A2PV]
+Name="Berserker's Blood Magic Container - 14"
+[A2PW]
+Name="Berserker's Blood Magic Container - 15"
+[A2PX]
+Name="Berserker's Blood Magic Container - 16"
+[A2PY]
+Name="Berserker's Blood Magic Container - 17"
+[A2PZ]
+Name="Berserker's Blood Magic Container - 18"
+[A2Q0]
+Name="Berserker's Blood Magic Container - 19"
+[A2Q1]
+Name="Berserker's Blood Magic Container - 11"
+[A2Q2]
+Name="Reactive Regeneration Bonus - 18"
+[A2Q3]
+Name="Reactive Regeneration Bonus - 17"
+[A2Q4]
+Name="Reactive Regeneration Bonus - 19"
+[A2Q5]
+Name="Reactive Regeneration Bonus - 20"
+[A2Q7]
+Name="Nature's Guise Spell Book Icon"
+[A2QA]
+Name="Meepo Spell Resistance Spell Book"
+[A2QD]
+Name=Item Life Regeneration
+[A2QL]
+Name="Rolling Boulder MS Container"
+[A2QO]
+Name="Boulder Smash Container"
+[A2QP]
+Name="Bloodstone"
+[A2R3]
+Name="Glimmer Cape"
+[A2RG]
+Name="Entropy MS Slow Container - 9"
+[A2RH]
+Name="Entropy MS Slow Container - 8"
+[A2RI]
+Name="Entropy MS Slow Container - 2"
+[A2RJ]
+Name="Entropy MS Slow Container - 4"
+[A2RK]
+Name="Entropy MS Slow Container - 12"
+[A2RL]
+Name="Entropy MS Slow Container - 10"
+[A2RM]
+Name="Entropy MS Slow Container - 7"
+[A2RN]
+Name="Entropy MS Slow Container - 6"
+[A2RO]
+Name="Entropy MS Slow Container - 3"
+[A2RP]
+Name="Entropy MS Slow Container - 1"
+[A2RQ]
+Name="Entropy MS Slow Container - 11"
+[A2RR]
+Name="Entropy MS Slow Container - 5"
+[A2RS]
+Name="Entropy Attack Speed"
+[A2RT]
+Name="Soul Fragment Illusion"
+[A2RZ]
+Name="Skeleton King Critical Strike Container"
+[A2S1]
+Name="Magic Immunity Container"
+[A2SA]
+Name="Stone Rock"
+Ubertip="Charges: 2","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A2SB]
+Name="Stone Rock"
+Ubertip="Charges: 1","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A2SC]
+Name="Stone Rock"
+Ubertip="Charges: 4","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A2SD]
+Name="Stone Rock"
+Ubertip="Charges: 3","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A2SE]
+Name="Stone Rock"
+Ubertip="Charges: 5","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A2SF]
+Name="Stone Rock"
+Ubertip="Charges: 0","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A2SK]
+Name="Thirst Armor - 4"
+[A2SL]
+Name="Thirst Armor - 3"
+[A2SM]
+Name="Thirst Armor - 2"
+[A2SN]
+Name="Thirst Armor - 1"
+[A2T3]
+Name="Magic Immunity Container"
+[A2TA]
+Name="Berserker's Blood Magic Container - 22"
+[A2TB]
+Name="Berserker's Blood Magic Container - 23"
+[A2TC]
+Name="Berserker's Blood Magic Container - 24"
+[A2TE]
+Name="Stone Rock"
+Ubertip="Charges: 6","Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.","Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE."
+Researchhotkey="T"
+Researchtip="Learn Soul Assump|cffffcc00t|rion - [|cffffcc00Level %d|r]"
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip="Stone Remnant","Soul Assumption - [|cffffcc00Level 2|r]","Soul Assumption - [|cffffcc00Level 3|r]","Soul Assumption - [|cffffcc00Level 4|r]"
+[A2TN]
+Name="Purge - Bloodrage"
+[A2TO]
+Name="Lycan Wolves Spell Damage Reduction"
+[A2TQ]
+Name="Tether Slow Container"
+[A2TS]
+Name="Visage Spell Resistance Spell Book"
+[A2TW]
+Name="Aghanim's Scepter (Skywrath)"
+[A2TZ]
+Name="Aghanim's Scepter (Enigma)"
+[A2U0]
+Name="Frost Armor - Armor"
+[A2U4]
+Name="Frost Armor Slow FX"
+[A2UQ]
+Name="Vampiric Aura"
+[A2UZ]
+Name="Amplify Damage Armor"
+[A2V2]
+Name="Evasion container"
+[A2V3]
+Name=Evasion
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[A2VC]
+Name="Aghanim's Scepter (Thrall)"
+[A2VD]
+Name="Aghanim's Scepter (Rubick)"
+[A2VH]
+Name="Vampiric Aura 1"
+[A2VI]
+Name="Vampiric Aura 2"
+[A2VJ]
+Name="Vampiric Aura 3"
+[A2VK]
+Name="Vampiric Aura 4"
+[A2VM]
+Name="Veil of Discord Stat Bonus"
+[A2VN]
+Name="Veil of Discord Container"
+[A2VP]
+Name="Armlet Strength System"
+[A2VQ]
+Name="Armlet Strength System"
+[A2VR]
+Name="Armlet Strength System"
+[A2VS]
+Name="Armlet Strength System"
+[A2VT]
+Name="Armlet Strength System"
+[A2VW]
+Name="Thirst Reveal"
+[A2VZ]
+Name="Genuine MKB Spell Book"
+[A2W0]
+Name="Roshan's Item Damage Bonus (+10000)"
+[A2W1]
+Name="Monkey King Bar"
+[A2W2]
+Name="Item Life bonus (+350)"
+[A2W3]
+Name=Item Life Regeneration
+[A2W4]
+Name="Overheat Attack Speed - Level 3"
+[A2W5]
+Name="Overheat Attack Speed - Level 2"
+[A2W6]
+Name="Overheat Attack Speed - Level 4"
+[A2W7]
+Name="Overheat Container - Level 1"
+[A2W8]
+Name="Overheat Container - Level 4"
+[A2W9]
+Name="Overheat Container - Level 2"
+[A2WD]
+Name="Aghanim's Scepter (Tinker)"
+[A2WJ]
+Name="Split Shot Spell Book - Level 4"
+[A2WK]
+Name="Split Shot Spell Book - Level 3"
+[A2WL]
+Name="Split Shot Spell Book - Level 1"
+[A2WV]
+Name="Command Aura Negative Container - 1"
+[A2WW]
+Name="Command Aura Negative Container - 3"
+[A2WX]
+Name="Command Aura Negative Container - 4"
+[A2WY]
+Name="Command Aura Negative Container - 2"
+[A2X0]
+Name="Lightning Storm Slow Container"
+[A2X1]
+Name="Pipe Regen Aura"
+[A2X7]
+Name="Phantasm"
+[A2XG]
+Name="Aghanim's Scepter (Shadow Demon)"
+[A2XM]
+Name="Courier Reincarnation Container"
+[A2XN]
+Name="Illusions"
+[A2XO]
+Name=Lesser Clarity Potion
+[A2XS]
+Name="Drunken Brawler Container - 1"
+[A2XU]
+Name="Drunken Brawler FX"
+[B01E]
+Bufftip=Insatiable Hunger
+Buffubertip=This unit is driven by its insatiable hunger; it has a vampiric attack and bonus damage.
+EditorName=Insatiable Hunger
+[B02Z]
+Bufftip=Healing Salve
+Buffubertip=This unit's life is regenerating.
+[B03A]
+Bufftip=Doppelwalk Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+EditorName=Doppelwalk Illusion
+[B04F]
+Bufftip=Headdress of regen
+Buffubertip=This unit is being healed.
+EditorName=Headdress of regen
+[B04H]
+Bufftip=Unstable Power
+Buffubertip=This unit is affected by unstable power; it will deal increased damage, but lose life over time.
+EditorName=Unstable Power
+[B06B]
+Bufftip=Mekansm Armor
+Buffubertip=This unit is affected by Mekansm ; its armor is temporarily increased.
+[B06G]
+Bufftip=Summoned Unit
+Buffubertip="Summoned units take additional damage from dispels."
+EditorName=Necronomicon
+[B06L]
+Bufftip=Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+EditorName=Haunt Illusion
+[B030]
+Bufftip=Replicate
+Buffubertip=This unit is an Replicate.
+[B04A]
+Bufftip=Bottle 
+Buffubertip=This unit's life and mana is regenerating.
+EditorName=Bottle 
+[B07K]
+Bufftip=Unholy Rage
+Buffubertip=This unit has a vampiric attack and bonus damage.
+[B07Z]
+Bufftip=Wall Replica
+Buffubertip=This unit is a Wall Replica; it takes 200% extra damage from enemies and deals 35% damage.
+[B098]
+Bufftip=Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+EditorName=Spirit Lance Illusion
+[B0AS]
+Bufftip=Totem
+Buffubertip=
+[B0CB]
+Bufftip=Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+EditorName=Phantasm Illusion
+[B0CG]
+Bufftip=Urn of Shadows
+Buffubertip=This unit's life is regenerating.
+[B0DA]
+Bufftip=Disruption Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+EditorName=Disruption Illusion
+[B0EB]
+Bufftip=Spiritbash Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+[B0EI]
+Bufftip=Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+EditorName=conjue
+[B0EN]
+Bufftip=Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+EditorName=conjue
+[B0FK]
+Bufftip=Moment of Courage
+Buffubertip=Swiftly strike back.
+EditorName=Moment of Courage
+[B0FX]
+Bufftip=Fire Barrier
+Buffubertip=text
+EditorName=Fire Barrier
+[B0GI]
+Bufftip=Empty Bottle Slow
+Buffubertip=This courier is moving slower.
+EditorName=Empty Bottle Slow
+[B0GO]
+Bufftip=Soul Fragment
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+EditorName=Soul Fragment
